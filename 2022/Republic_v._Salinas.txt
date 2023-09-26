@@ -25,7 +25,6 @@ Republic ﬁled a motion for reconsideration (MR), but was denied in an Order
 7 dated July 27, 2015, which it received on August 4, 2015. It, thus, had until
 August 19, 2015 to file an appeal. 8
 
-
 However, the RTC received a Notice of Appeal 9 via registered mail,
 contained in an envelope rubber stamped with the date "October 5, 2015,"
 10 which it found to be imprinted by the postmaster. Thus, in an Order 11
@@ -43,12 +42,7 @@ Postmaster of the Ermita Post Oﬃce, stating that the registered letters with
 numbers 3495 and 3496 from the OSG were posted on August 18, 2015. Just
 the same, the MR was denied by the RTC in an Order 19 dated December 22,
 2015. 20
-The Republic challenged the RTC Orders disallowing its Notice of
-
-
-
-
-Appeal through certiorari proceedings before the CA. In its Decision 21 dated
+The Republic challenged the RTC Orders disallowing its Notice ofAppeal through certiorari proceedings before the CA. In its Decision 21 dated
 October 24, 2017, the CA found no grave abuse of discretion on the part of
 the RTC in denying the Notice of Appeal for being ﬁled beyond the 15-day
 reglementary period. The CA considered the OSG Inner Registered Sack Bill
@@ -84,7 +78,6 @@ issued by the postmaster, who enjoys the presumption of regularity in the
 performance of oﬃcial duties, should prevail and take the place of such
 affidavit. 36
 
-
 Issue
 Whether the CA erred in ﬁnding no grave abuse of discretion on the
 part of the RTC when it denied the Republic's Notice of Appeal for being ﬁled
@@ -96,12 +89,7 @@ of the parties and the CA in Section 12, now Section 16, Rule 13 of the Rules,
 which states:
 Section 16.
 Proof of ﬁling. — The ﬁling of a pleading or any
-other court submission shall be proved by its existence in the
-
-
-
-
-record of the case.
+other court submission shall be proved by its existence in therecord of the case.
 (a)
 If the pleading or any other court
 submission is not in the record, but is claimed to have
@@ -136,11 +124,7 @@ Submitting personally the original thereof, plainly
 indicated as such, to the court;
 (b)
 
-Sending them by registered mail;
-
-
-
-xxx xxx xxx
+Sending them by registered mail;\n\nxxx xxx xxx
 In the ﬁrst case, the clerk of court shall endorse on the pleading
 the date and hour of ﬁling. In the second x x x [case,] the date of
 the mailing of motions, pleadings, and other court
@@ -158,12 +142,7 @@ Notice of Appeal, which was October 5, 2015, as the date of the pleading's
 filing.
 Contrary to the CA's ruling, the photocopy of the OSG Inner Registered
 Sack Bill cannot be equated to a registry receipt nor given probative value.
-Unlike a registry receipt, the OSG's Inner Registered Sack Bill was not issued
-
-
-
-
-or signed by the postmaster or any authorized receiving personnel of the
+Unlike a registry receipt, the OSG's Inner Registered Sack Bill was not issuedor signed by the postmaster or any authorized receiving personnel of the
 concerned post oﬃce; hence, unveriﬁed to be authentic. It was merely a list
 of mail matters supposedly sent out by the OSG with corresponding entry
 and registry numbers, addressees, and posting dates, stamped with "ERMITA
@@ -185,7 +164,6 @@ This is to certify that according to the record of this oﬃce, Registered
 Letter Nos. 3495 and 3496 sent by the Oﬃce of the Solicitor General
 was posted hereat on August 18, 2015 addressed to RTC Branch 48,
 Manila and Atty. Pacianito B. Cabaron, Manila, respectively.
-
 
 This certiﬁcation is being issued this 6th day of January 2016 upon
 request of Paolo V. Quetulio, State Solicitor II, for whatever purpose it
@@ -212,12 +190,7 @@ genuineness of the date appearing on the envelope since it did not attach
 the Notice of Appeal with the aﬃdavit of service, if any, and the subject
 envelope. Not even the pertinent RTC Orders were attached in this petition
 for our reference and evaluation. Hence, we are constrained to uphold the
-factual ﬁndings of the RTC, which was able to actually see the questioned
-
-
-
-
-document/s. Besides, this Court is not a trier of facts, and generally, factual
+factual ﬁndings of the RTC, which was able to actually see the questioneddocument/s. Besides, this Court is not a trier of facts, and generally, factual
 issues cannot be entertained in a Rule 45 petition. 48
 Furthermore, the Republic could have conveniently presented the
 registry receipt corresponding to its Notice of Appeal, which would have
@@ -241,7 +214,6 @@ Decision dated October 24, 2017 and the Resolution dated March 21, 2018 of
 the Court of Appeals in CA-G.R. SP No. 144681 are AFFIRMED insofar as it
 upheld the denial of the Notice of Appeal.
 
-
 SO ORDERED.
 
 Leonen, Lazaro-Javier, J.Y. Lopez and Kho, Jr., JJ., concur.
@@ -261,12 +233,7 @@ registry receipt, shall be considered as the date of their filing,
 payment, or deposit in court. The envelope shall be attached to the
 record of the case. x x x (Emphasis supplied)
 2. Rollo, pp. 10-20.
-3. Id. at 27-32. Penned by Associate Justice Nina G. Antonio-Valenzuela, with the
-
-
-
-
-concurrence of Associate Justices Rosmari D. Carandang (retired member of
+3. Id. at 27-32. Penned by Associate Justice Nina G. Antonio-Valenzuela, with theconcurrence of Associate Justices Rosmari D. Carandang (retired member of
 this Court) and Stephen C. Cruz.
 4. Id. at 34-35.
 5. Not attached to the rollo.
@@ -301,12 +268,7 @@ place of depositing the mail in the post office in a sealed envelope addressed
 to the court, with postage fully prepaid, and with instructions to the
 postmaster to return the mail to the sender after ten (10) days if not
 delivered.
-28. Rollo, pp. 30-32.
-
-
-
-
-29. Id. at 32.
+28. Rollo, pp. 30-32.29. Id. at 32.
 30. Id. at 34-35.
 31. Id. at 10-20.
 32. Id. at 16-18.
@@ -337,8 +299,3 @@ Division].
 50. See id.
 51. Binga Hydroelectric Plant, Inc. v. Commission on Audit , 836 Phil. 46, 54 (2018)
 [Per J. Jardeleza, En Banc].
-
-
-
-
-

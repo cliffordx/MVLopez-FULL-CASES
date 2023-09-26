@@ -41,12 +41,7 @@ On September 25, 2014, the CTA Division denied Filminera Resources'
 petitions on the ground of insuﬃciency of evidence. 12 The CTA Division held
 that Filminera Resources failed to prove that its sales to PGPRC during the
 third and fourth quarters of FY 2010 qualify as export sales subject to the
-zero percent (0%) rate under Section 106 (A) (2) (a) (5) 13 of the 1997
-
-
-
-
-National Internal Revenue Code, 14 as amended by Republic Act No. 9337
+zero percent (0%) rate under Section 106 (A) (2) (a) (5) 13 of the 1997National Internal Revenue Code, 14 as amended by Republic Act No. 9337
 (1997 NIRC), and Section 4.106-5 (a) (5) 15 of Revenue Regulations (RR) No.
 16-2005. 16
 Filminera Resources sought reconsideration and submitted a certiﬁed
@@ -99,12 +94,7 @@ WHEREFORE, premises considered, the [CIR]'s Motion for
 Reconsideration is hereby DENIED for lack of merit.
 SO ORDERED. 24 (Emphasis in the original.)
 
-Hence, the CIR filed the instant petition before this Court.
-
-
-
-
-The CIR maintains that the BOI Certiﬁcation dated January 27, 2010
+Hence, the CIR filed the instant petition before this Court.The CIR maintains that the BOI Certiﬁcation dated January 27, 2010
 does not satisfy the conditions imposed by law and the rules for the sales
 made to PGPRC be considered as zero-rated sales. The certiﬁcation merely
 provides that the period covered is from January 1 to December 31, 2009,
@@ -148,12 +138,7 @@ Nonetheless, the BOI Certiﬁcation was reproduced in the Dissenting
 Opinion 33 of Presiding Justice Del Rosario to the Decision dated March 29,
 2017. The CIR attached to the petition duplicate original of the dissenting
 opinion. 34
-I n Cusi-Hernandez v. Sps. Diaz, 35 we held that "[t]he fact that no
-
-
-
-
-certiﬁed true copy of the Contract to Sell was attached to the Petition before
+I n Cusi-Hernandez v. Sps. Diaz, 35 we held that "[t]he fact that nocertiﬁed true copy of the Contract to Sell was attached to the Petition before
 the CA did not weaken the petitioner's case." 36 Based on Cadayona v. Court
 of Appeals, 37 not all of the supporting papers accompanying the petition
 should be certiﬁed true copies. In that case, the documents attached by the
@@ -200,12 +185,7 @@ not apply to subsequent sales not identified in the certification.
 Essentially, the issue is whether the sales made to PGPRC for the third
 and fourth quarters of the FY ending June 30, 2010 are zero-rated export
 sales based on the certiﬁcation issued by the BOI on January 27, 2010. This
-is a question of law which does not burden the Court to examine the
-
-
-
-
-probative value of the BOI Certiﬁcation presented. The petition mainly
+is a question of law which does not burden the Court to examine theprobative value of the BOI Certiﬁcation presented. The petition mainly
 requires us to determine the scope of the BOI Certiﬁcation and the period
 when PGPRC exported 100% of its products. These are questions well within
 the bounds of a Rule 45 Petition.
@@ -259,12 +239,7 @@ must be free of VAT; while, those destined for use or consumption within the
 Philippines shall be imposed with VAT. Plainly, sales of export products to
 another producer or to an export trader are subject to zero percent rate
 provided the export products are actually exported and consumed in a
-foreign country.
-
-
-
-
-In Revenue Memorandum Circular No. 74-99, 45 the Bureau of Internal
+foreign country.In Revenue Memorandum Circular No. 74-99, 45 the Bureau of Internal
 Revenue (BIR) clariﬁed that sales made to PEZA-registered enterprises
 qualify for zero-rating pursuant to the cross-border doctrine. The ECOZONE
 46 is treated as a separate customs territory such that the buyer is treated
@@ -314,12 +289,7 @@ Sales of goods, properties or services made by a
 VAT-registered supplier to a BOI-registered exporter shall be
 accorded automatic zero-rating, i.e., without necessity of applying for
 and securing approval of the application for zero-rating as provided in
-Revenue Regulations No. 7-95, subject to the following conditions:
-
-
-
-
-(1)
+Revenue Regulations No. 7-95, subject to the following conditions:(1)
 
 The supplier must be VAT-registered;
 
@@ -395,12 +365,7 @@ manufacturer/producer whose products are 100% exported
 are considered export sales. A certiﬁcation to this eﬀect must
 be issued by the Board of Investment (BOI) which shall be
 good for one year unless subsequently re-issued by the BOI.
-(Emphasis supplied.)
-
-
-
-
-Accordingly, sales made to a BOI-registered buyer are export sales
+(Emphasis supplied.)Accordingly, sales made to a BOI-registered buyer are export sales
 subject to the zero percent rate if the following conditions are met: (1) the
 buyer is a BOI-registered manufacturer/producer; (2) the buyer's products
 are 100% exported; and (3) the BOI certiﬁed that the buyer exported 100%
@@ -462,12 +427,7 @@ CY January 01 to December
 * subject to post audit in case of computational discrepancy
 
 It is understood that based on the aﬃdavit executed by Phil.
-Processing & Reﬁning Corp., attached as Annex "A[,"] all information
-
-
-
-
-provided therein are true and correct, and any misrepresentation
+Processing & Reﬁning Corp., attached as Annex "A[,"] all informationprovided therein are true and correct, and any misrepresentation
 shall be a ground for cancellation of BOI registration without prejudice
 to the institution of criminal and civil actions that may be warranted
 under the premises.
@@ -515,12 +475,7 @@ fourth quarters of FY 2010, or from January 1 to June 30, 2010. Without
 the certiﬁcation from the BOI that the products sold to PGPRC during the
 third and fourth quarters of FY 2010 were actually exported and
 consumed in a foreign country, the sales cannot be considered export
-sales.
-
-
-
-
-Second . The validity period of the BOI certiﬁcation should not be
+sales.Second . The validity period of the BOI certiﬁcation should not be
 confused with the period identiﬁed in the certiﬁcation when the buyer
 actually exported 100% of its products. It must be remembered that
 taxpayers with zero-rated sales may claim a refund or tax credit for the VAT
@@ -566,12 +521,7 @@ principle that goods are taxed only in the country where these are consumed
 and that no VAT shall form part of the cost of products which are destined
 for consumption outside of the territorial border of the Philippines.
 
-Third. The validity period of the certiﬁcation is intended to accord zerorating status to sales made during the extended period, but not as proof that
-
-
-
-
-PGPRC exported its entire products during the same period. This is logical
+Third. The validity period of the certiﬁcation is intended to accord zerorating status to sales made during the extended period, but not as proof thatPGPRC exported its entire products during the same period. This is logical
 since the BOI can attest to the actual exportation only after the end of the
 taxable year. As in this case, the certiﬁcation issued by the BOI on January
 27, 2010 is not relevant for purposes of treating the sales made to PGPRC
@@ -619,12 +569,7 @@ accordance with Bangko Sentral ng Pilipinas rules and regulations. 63
 The ﬁrst and third requisites have been established before the CTA.
 Filminera Resources is a VAT-registered taxpayer that ﬁled administrative
 and judicial claims for refund within the period prescribed by law. 64
-Meanwhile, the fifth requisite is not applicable. 65
-
-
-
-
-As for the second requisite, Filminera Resources failed to prove that its
+Meanwhile, the fifth requisite is not applicable. 65As for the second requisite, Filminera Resources failed to prove that its
 sales to PGPRC for the third and fourth quarters of FY 2010 are export sales.
 We reiterate that without the certiﬁcation from the BOI attesting actual
 exportation by PGPRC of its entire products from January 1 to June 30, 2010,
@@ -663,12 +608,7 @@ Cotangco-Manalastas.
 11. Id. at 118.
 12. Id. at 97-125. The dispositive portion of the Decision reads:
 WHEREFORE, premises considered, the instant Petition for Review is hereby
-DENIED for insufficiency of evidence.
-
-
-
-
-SO ORDERED. Id. at 124. (Emphasis in the original.)
+DENIED for insufficiency of evidence.SO ORDERED. Id. at 124. (Emphasis in the original.)
 13. SECTION 106. Value-Added Tax on Sale of Goods or Properties. —
 (A) Rate and Base of Tax. — x x x
 xxx xxx xxx
@@ -706,12 +646,7 @@ good for one year unless subsequently re-issued by the BOI.
 17. Rollo , pp. 128 and 131.
 18. Supra note 4.
 19. Rollo , pp. 136-137.
-20. Id. at 50.
-
-
-
-
-21. Supra note 2. The dispositive portion of the Decision reads:
+20. Id. at 50.21. Supra note 2. The dispositive portion of the Decision reads:
 WHEREFORE, premises considered, the instant Petition for Review is hereby
 DISMISSED for lack of merit.
 SO ORDERED. Rollo , p. 80. (Emphasis in the original.)
@@ -751,12 +686,7 @@ objective of securing a just, speedy and inexpensive disposition of every
 action and proceeding." In line with this guideline, we do not construe the
 above-quoted section as imposing the requirement that all
 supporting papers accompanying the petition should be certified
-true copies. A comparison of this provision with the counterpart provision in
-
-
-
-
-Rule 42 (governing petitions for review from the RTC to the CA) would show
+true copies. A comparison of this provision with the counterpart provision inRule 42 (governing petitions for review from the RTC to the CA) would show
 that under the latter, only the judgments or final orders of the lower courts
 need be certified true copies or duplicate originals. Also under Rule 45 of the
 Rules of Court (governing Appeals by Certiorari to the Supreme Court), only
@@ -802,12 +732,7 @@ ECOZONE, October 15, 1999.
 46. The ECOZONES are selected areas with highly developed or which have the
 potential to be developed into agro-industrial, industrial tourist/recreational,
 commercial, banking, investment and financial centers. See Sec. 4 (a), RA
-No. 7916.
-
-
-
-
-47. Tax Treatment of Sales of Goods, Properties and Services Made by VATregistered Suppliers to BOI-registered Manufacturers-Exporters with 100%
+No. 7916.47. Tax Treatment of Sales of Goods, Properties and Services Made by VATregistered Suppliers to BOI-registered Manufacturers-Exporters with 100%
 Export Sales, February 2, 2000.
 48. Id.
 49. Rollo , pp. 83-84.
@@ -845,12 +770,7 @@ xxx xxx xxx
 (B) Information contained in VAT invoice or VAT official receipt. — The
 following information shall be indicated in VAT invoice or VAT official receipt:
 (1) A statement that the seller is a VAT-registered person, followed by his
-TIN;
-
-
-
-
-(2) The total amount which the purchaser pays or is obligated to pay to the
+TIN;(2) The total amount which the purchaser pays or is obligated to pay to the
 seller with the indication that such amount includes the VAT; Provided, That:
 xxx xxx xxx
 (c) If the sale is subject to zero percent (0%) VAT, the term "zerorated sale" shall be written or printed prominently on the invoice or
@@ -891,12 +811,7 @@ however, That in the case of zero-rated sales under Section 106 (A) (2) (a)
 (1), (2) and (B) and Section 108 (B) (1) and (2), the acceptable foreign
 currency exchange proceeds thereof had been duly accounted for in
 accordance with the rules and regulations of the Bangko Sentral ng Pilipinas
-(BSP): Provided, further, That where the taxpayer is engaged in zero-rated or
-
-
-
-
-effectively zero-rated sale and also in taxable or exempt sale of goods or
+(BSP): Provided, further, That where the taxpayer is engaged in zero-rated oreffectively zero-rated sale and also in taxable or exempt sale of goods or
 properties or services, and the amount of creditable input tax due or paid
 cannot be directly and entirely attributed to any one of the transactions, it
 shall be allocated proportionately on the basis of the volume of sales.
@@ -935,12 +850,7 @@ following the date such goods were consigned; and
 taxable goods existing as of such retirement or cessation.
 62. SEC. 108. Value-added Tax on Sale of Services and Use or Lease of Properties.
 —
-xxx xxx xxx
-
-
-
-
-(B) Transactions Subject to Zero Percent (0%) Rate. — x x x
+xxx xxx xxx(B) Transactions Subject to Zero Percent (0%) Rate. — x x x
 (1) Processing, manufacturing or repacking goods for other persons doing
 business outside the Philippines which goods are subsequently exported,
 where the services are paid for in acceptable foreign currency and accounted
@@ -956,8 +866,3 @@ Revenue, 640 Phil. 613, 617 (2010), citing Intel Technology Philippines, Inc.
 v. Commissioner of Internal Revenue , 550 Phil. 751 (2007).
 64. See rollo, pp. 74-75.
 65. See supra notes 60, 61 and 62.
-
-
-
-
-

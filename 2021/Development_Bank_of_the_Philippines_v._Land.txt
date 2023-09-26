@@ -45,12 +45,7 @@ Reform (DAR) Provincial Agrarian Reform Oﬃce (PARO) of Bulacan a request
 to determine the value of the property for the payment of just compensation.
 8 As can be gleaned from the Claims Valuation and Processing Form No. 03CA-98-0066, 9 LBP recommended the payment of P11,922.32 to DBP as just
 compensation. DBP rejected the oﬀered amount. The matter was then
-forwarded to the Provincial Agrarian Reform Adjudicator (PARAD). In the
-
-
-
-
-summary proceeding before the PARAD, DBP argued that the property does
+forwarded to the Provincial Agrarian Reform Adjudicator (PARAD). In thesummary proceeding before the PARAD, DBP argued that the property does
 not fall under the coverage of RA No. 6657 because some portions are
 residential and not devoted to agriculture; nor is it a tenanted agricultural
 land. 10 In a Decision 11 dated December 29, 2003, the PARAD assumed
@@ -59,7 +54,6 @@ reconsideration (MR), but was denied in PARAD Resolution dated January 24,
 2005. 12 Dissatisﬁed, DBP appealed to the DAR Adjudication Board (DARAB).
 In a Decision 13 dated December 10, 2007, the DARAB aﬃrmed the PARAD
 ruling.
-
 
 DBP then ﬁled a Petition 14 for Determination of Just Compensation
 before the RTC of Malolos. DBP posited that the DARAB-aﬃrmed LBP
@@ -97,12 +91,7 @@ conversion factor of 50 kg is equal to one cavan; Industry Data from the
 Bureau of Agricultural Statistics were used to apply to the SP factor in the
 formula, i.e., 8.33/kg; and the assumed net income rate of 20% pursuant to
 DAR AO No. 5-98 or P29,988.00/hectare. 23 Thus:
-CNI = (AGP x SP) – CO/12%
-
-
-
-
-CNI = (4,500 x 8.33) – 29,988.00/0.12
+CNI = (AGP x SP) – CO/12%CNI = (4,500 x 8.33) – 29,988.00/0.12
 CNI = P62,475.00 24
 In computing the MV, LBP used the following factors: (1) the Base Unit
 Market Value of Riceland-unirrigated secured from the provincial assessors
@@ -143,22 +132,13 @@ LBP's valuation on the ground that it was arrived at using the guidelines and
 formula under DAR AO No. 5-98. The RTC ratiocinated that while the
 determination of just compensation is essentially a judicial function, courts
 are not at liberty to disregard DAR AO No. 5-98; unless the AO is declared
-invalid, courts have no option but to apply it, otherwise, they will be guilty of
-
-
-
-
-grave abuse of discretion. The RTC disposed, thus:
+invalid, courts have no option but to apply it, otherwise, they will be guilty ofgrave abuse of discretion. The RTC disposed, thus:
 WHEREFORE,
 rendered:
 
 premises
 
-considered,
-
-
-
-judgment
+considered,\n\njudgment
 
 is
 
@@ -217,9 +197,7 @@ Branch 81, in Civil Case No. 368-M-2008, is AFFIRMED WITH THE
 FOLLOWING MODIFICATIONS:
 1.
 
-
 The subject realty should be valued at P29,544.01 instead
-
 
 of P11,922.32.
 2.
@@ -276,7 +254,6 @@ factors enumerated under Section 17 of RA No. 6657, as amended, cannot
 be unjustifiably disregarded, viz.:
 SEC.
 
-
 17.
 
 Determination
@@ -290,7 +267,6 @@ Compensation.
 —
 
 In
-
 
 determining just compensation, the cost of acquisition of the land, the
 current value of like properties, its nature, actual use and income, the
@@ -340,12 +316,7 @@ also based on data supposedly issued by the NSO. However, no competent
 evidence was adduced to support such sourced data and amounts used by
 LBP in its computation as it did not present in evidence any certiﬁcation from
 the concerned government agencies showing the relevant industry data
-used and cited by the LBP in its Field Investigation Report and the Claims
-
-
-
-
-Valuation and Processing Form. 49
+used and cited by the LBP in its Field Investigation Report and the ClaimsValuation and Processing Form. 49
 It is true that DAR AO No. 5-98 sanctions the use of industry data from
 appertaining government agencies to complete the necessary ﬁgures in the
 formula, 50 and that LBP is given the initial responsibility of determining the
@@ -391,17 +362,11 @@ imposition of interest. 58
 At this juncture, we note that the determination of the veracity of the
 ﬁgures used and the applicability or inapplicability of the factors under
 Section 17 of RA No. 6657 in computing the just compensation, necessitates
-reception of further evidence for the court to have its own judicious
-
-
-
-
-determination of the just compensation and for the proper imposition of
+reception of further evidence for the court to have its own judiciousdetermination of the just compensation and for the proper imposition of
 interest, if at all. Since these are purely factual matters and this Court is not
 a trier of facts, a remand of this case to the RTC as a SAC is in order. To this
 end, the RTC is directed to observe the following guidelines in its judicial
 determination of just compensation:
-
 
 1.
 
@@ -450,12 +415,7 @@ Perlas-Bernabe, Lazaro-Javier, Rosario and J.Y. Lopez, JJ., concur.
 Footnotes
 1. Rollo (G.R. No. 229274), pp. 3-22; and rollo (G.R. No. 229289), pp. 14-32.
 2. Rollo (G.R. No. 229274), pp. 38-50; and rollo (G.R. No. 229289), pp. 38-51;
-Penned by Associate Justice Japar B. Dimaampao, with the concurrence of
-
-
-
-
-Associate Justices Franchito N. Diamante and Zenaida T. Galapate-Laguilles.
+Penned by Associate Justice Japar B. Dimaampao, with the concurrence ofAssociate Justices Franchito N. Diamante and Zenaida T. Galapate-Laguilles.
 3. Rollo (G.R. No. 229274), pp. 39-50; and rollo (G.R. No. 229289), pp. 66-77;
 Penned by Associate Justice Japar B. Dimaampao, with the concurrence of
 Associate Justices Franchito N. Diamante and Carmelita SalandananManahan.
@@ -491,12 +451,7 @@ x 0.1).
 Where: LV = Land Value
 CNI = Capitalized Net Income
 CS = Comparable Sales
-MV = Market Value Per Tax Declaration
-
-
-
-
-22. DAR AO No. 5-98 (1998), Section II, A.2. When the CNI factor is not present, and
+MV = Market Value Per Tax Declaration22. DAR AO No. 5-98 (1998), Section II, A.2. When the CNI factor is not present, and
 CS and MV are applicable, the formula shall be: LV = (CS x 0.9) + (MV x 0.1).
 23. Rollo (G.R. No. 229274), pp. 89-90.
 24. Id. at 90.
@@ -530,12 +485,7 @@ Phil. 901, 911 (2017).
 166, citing Alfonso v. LBP , 801 Phil. 217 (2016).
 45. See Land Bank of the Philippines v. Briones-Blanco, supra note 43.
 46. Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc., supra
-note 43.
-
-
-
-
-47. Land Bank of the Philippines v. Heirs of Maximo Puyat and Gloria Puyat, 689
+note 43.47. Land Bank of the Philippines v. Heirs of Maximo Puyat and Gloria Puyat, 689
 Phil. 505, 522 (2012).
 48. Rollo (G.R. No. 229274), p. 108.
 49. See Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc., supra
@@ -575,12 +525,7 @@ xxx xxx xxx (Emphasis supplied)
 53. See Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc., supra
 note 43, citing Alfonso v. LBP , 801 Phil. 217 (2016).
 54. Id.
-55. Id.
-
-
-
-
-56. Land Bank of the Philippines v. Heirs of the Estate of Mariano Angela Vda. De
+55. Id.56. Land Bank of the Philippines v. Heirs of the Estate of Mariano Angela Vda. De
 Veneracion, G.R. No. 233401, June 17, 2019.
 57. See id.
 58. See Land Bank of the Philippines v. Heirs of Barrameda, G.R. No. 221216, July
@@ -603,8 +548,3 @@ note 43; and Department of Agrarian Reform v. Beriña, supra note 51.
 64. See Nacar v. Gallery Frames, 716 Phil. 267 (2013); and BSP-MB Circular No.
 799, Rate of interest in the absence of stipulation, dated July 1, 2013.
 65. Id.
-
-
-
-
-

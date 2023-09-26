@@ -22,7 +22,6 @@ aside Decision No. 2015-281 2 dated November 23, 2015 and Resolution 3
 dated November 26, 2018 of the COA Proper, which aﬃrmed Legal Retainer
 Review (LRR) No. 2012-091 4 dated July 26, 2012.
 
-
 ANTECEDENTS
 In 2009, PNOC-EC purchased steam coal from Wilson International
 Trading Private Limited (Wilson). A dispute later on arose between the
@@ -46,18 +45,12 @@ On February 15, 2010, the Oﬃce of the Government Corporate Counsel
 representation in the arbitration proceedings, subject to its review of the
 terms and conditions of the agreement, and its exercise of control and
 supervision over the case. On February 23, 2010, PNOC-EC informed the
-OGCC that among those law ﬁrms which responded to the invitation, it chose
-
-
-
-
-Baker Botts LLP (Baker Botts) to represent it before the ICC International
+OGCC that among those law ﬁrms which responded to the invitation, it choseBaker Botts LLP (Baker Botts) to represent it before the ICC International
 Court of Arbitration (ICA) as it passed the required competence and oﬀered
 the lowest fee for its services. On March 12, 2010, the OGCC approved,
 ratiﬁed, and conﬁrmed Baker Botts' engagement. The arbitration then
 proceeded, and thereafter, resulted in an Award dated October 4, 2011 in
 favor of PNOC-EC. 7
-
 
 Meanwhile, the COA auditor found that PNOC-EC failed to secure the
 COA's written concurrence in the engagement of Baker Botts' legal services
@@ -98,14 +91,7 @@ charges are provided therein which is contrary to Section 88(1) of
 contracts. Likewise, the proposed time-based payment scheme
 (hourly rate of US$450 for the two private lawyers) is also against the
 policy of this Commission requiring retainer fees to be in ﬁxed
-monetary amount.
-
-
-
-
-
-
-In view of the foregoing, the instant request of PNOC-EC for
+monetary amount.In view of the foregoing, the instant request of PNOC-EC for
 written concurrence of COA in the hiring of Baker Botts LLP cannot be
 granted. 17 (Citation omitted and emphasis supplied.)
 
@@ -151,19 +137,13 @@ Counsel to be the principal law oﬃcer of all GOCCs. 24 The prohibition was
 primarily aimed to curtail unnecessary expenditures of public funds on legal
 services of private practitioners, which may readily be provided by
 statutorily-mandated agencies like the OGCC. 25 The rule, however, is not
-ironclad. The government has recognized exceptional situations, which
-
-
-
-
-unavoidably demand consultations from and representations by private
+ironclad. The government has recognized exceptional situations, whichunavoidably demand consultations from and representations by private
 counsels. Thus, over the years, the government has allowed GOCCs to hire
 private lawyers subject to certain conditions. For one, pursuant to its
 constitutional mandate to be the guardian of public funds, 26 the COA issued
 Circular No. 86-255 27 dated April 2, 1986 to regulate the hiring of private
 counsels. This was, later on, amended by Circular No. 95-011 dated
 December 4, 1995 as follows:
-
 
 x x x [W]here a government agency is provided by law with a legal
 oﬃcer or oﬃce who or which can handle its legal requirements or
@@ -211,16 +191,10 @@ concurrence of the Commission on Audit shall ﬁrst be secured
 before the hiring or employment of a private lawyer or law
 firm. (Emphasis supplied.)
 
-
 Thus far, the following indispensable conditions must then be fulﬁlled
 before a GOCC can hire a private lawyer: (1) hiring is only in exceptional
 cases; (2) the written conformity and acquiescence of the OGCC must ﬁrst
-be secured; and (3) the prior written concurrence of the COA must also be
-
-
-
-
-secured. 29 This Court has consistently sustained the application of these
+be secured; and (3) the prior written concurrence of the COA must also besecured. 29 This Court has consistently sustained the application of these
 regulations, 30 and notably, an action directly attacking 31 the validity or
 constitutionality of these administrative and executive issuances in the
 proper forum is yet to be ﬁled. Basic is the rule that administrative issuances
@@ -263,12 +237,7 @@ Contract of Service or Job Order Contract
 arrangement, not to exceed one (1) year, renewable
 at the option of the head of the national government
 agency or GOCC, but in no case to exceed the term
-of the head;
-
-
-
-
-b)
+of the head;b)
 
 The engagement shall have the written approval of
 the OSG, in the case of national government
@@ -285,7 +254,6 @@ lawyer positions in the plantilla;
 d)
 
 The government agency or GOCC does not have any
-
 
 plantilla positions or does not have suﬃcient plantilla
 positions to support its current requirement for legal
@@ -343,12 +311,7 @@ engagement (full time or part time), and for a term
 no to exceed one (1) year, renewable at the option of
 the head of the government agency or GOCC if the
 activity/project/program has not yet been completed,
-but in no case to exceed the term of the head;
-
-
-
-
-b)
+but in no case to exceed the term of the head;b)
 
 The engagement shall have written approval of the
 OSG, in the case of national government agencies, or
@@ -373,7 +336,6 @@ The lawyer is not employed or engaged as a contract
 of service or job order contract by any other
 government agency or GOCC, although the lawyer
 may be engaged as a part-time consultant in up to
-
 
 two (2) government agencies or GOCCs; and
 f)
@@ -405,7 +367,6 @@ Notice of Disallowances issued on the ground of lack of COA's written
 concurrence shall be granted after a ﬁnding by this Commission
 of the existence of the abovementioned conditions. 39
 
-
 Clearly, it is not for the Court to make such determinations. In this
 certiorari proceedings, we are merely tasked to review if the COA's actions
 are tainted with grave abuse of discretion. As we have consistently held, the
@@ -427,12 +388,7 @@ unjustly enriched if its request for concurrence remains denied, and
 consequently, the suspension of the legal fees paid to Baker Botts ripens into
 a disallowance. PNOC-EC's fear that its oﬃcers will be held liable to return
 the entire amount of legal fees paid to Baker Botts is more apparent than
-real. As can be gleaned from the assailed COA Proper Decision, the denial of
-
-
-
-
-the request for the COA's written concurrence was not made the sole basis
+real. As can be gleaned from the assailed COA Proper Decision, the denial ofthe request for the COA's written concurrence was not made the sole basis
 of the civil liability in the disallowance that was supposedly underway.
 Consistent with prevailing jurisprudence, 42 despite the COA Proper's
 aﬃrmance of the denial of the request for concurrence, COA Chairperson
@@ -474,7 +430,6 @@ quantum meruit, 50 the good faith and diligence of the approving and
 certifying oﬃcers, 51 and the solidary nature of the oﬃcers' liability in a
 disallowance. 52
 
-
 ACCORDINGLY, the petition is DISMISSED without prejudice to the
 Commission on Audit's determination of the propriety of exempting PNOCExploration Corporation from the written concurrence requirement in the
 engagement of Baker Botts LLP and the conduct of a post-audit in
@@ -484,12 +439,7 @@ SO ORDERED.
 Gesmundo, C.J., Perlas-Bernabe, Caguioa, Hernando, Carandang,
 Lazaro-Javier, Inting, Zalameda, Gaerlan, Rosario, J.Y. Lopez and
 Dimaampao, JJ., concur.
-Leonen, J., see concurring opinion.
-
-
-
-
-Separate Opinions
+Leonen, J., see concurring opinion.Separate Opinions
 LEONEN, J., concurring:
 This case involves a Petition for Certiorari under Rule 64 which raised
 the issue of whether or not the Commission on Audit committed grave abuse
@@ -506,11 +456,7 @@ Further, it argued that Wilson's claim is "barred by a settlement agreement
 entered into by the Parties in or around October 2009, whereby the Parties
 agreed to cancel and/or terminate the Pagbilao contract and enter into a
 new contract for the re-sale of the cargo" 4 at a lower price.
-In the Petition for Certiorari, PNOC-EC summarized Wilson's claim:
-
-
-
-Wilson claimed for recovery of alleged demurrage charges amounting
+In the Petition for Certiorari, PNOC-EC summarized Wilson's claim:\n\nWilson claimed for recovery of alleged demurrage charges amounting
 to One Million Three Hundred Ninety Two Thousand Sixty Four and
 53/100 US Dollars (USD1,392,064.53) and alleged losses for selling its
 coal to PNOC-EC at a lower price of Seven Hundred Nineteen
@@ -528,11 +474,7 @@ and PNOC-EC embodies the arbitration clause:
 XIV
 
 ARBITRATION
-a.
-
-
-
-The parties agree that in the event that there is any
+a.\n\nThe parties agree that in the event that there is any
 dispute, controversy, claim, or diﬀerence between them
 arising out of or relating to this Agreement, or the breach
 thereof, or in the interpretation of any of the provisions
@@ -545,7 +487,6 @@ or their representatives are unable to resolve the dispute or
 diﬀerence within fourteen (14) days from their initial
 meeting, any and all such disputes, claims and
 controversies shall be settled by arbitration in accordance
-
 
 with the Rules of Conciliation and Arbitration of the
 International Chamber of Commerce (ICC Rules).
@@ -577,7 +518,6 @@ of this Agreement. 6
 When the Request for Arbitration was ﬁled in 2010 by Wilson, the
 prevailing International Chamber of Commerce (ICC) Arbitration Rules was
 the 1998 ICC Rules. Article 5 of the 1998 ICC Arbitration Rules provides:
-
 
 Article 5 — Answer to the Request; Counterclaims
 1.
@@ -630,12 +570,7 @@ On June 2, 2011, while arbitration was ongoing, PNOC-EC received
 Notice of Suspension (NS) No. PNOC-EC 2011-011. 9 The Notice states under
 the column "Particulars and/or Requirements" that PNOC-EC should "submit
 COA's written concurrence as prescribed in COA Circular 86-255, amended
-by COA Circular 95-011." 10
-
-
-
-
-Commission on Audit Circular No. 86-255, dated April 2, 1986, as
+by COA Circular 95-011." 10Commission on Audit Circular No. 86-255, dated April 2, 1986, as
 amended by Commission on Audit Circular No. 95-011, states:
 Accordingly and pursuant to this Commission's exclusive
 authority to promulgate accounting and auditing rules and
@@ -665,7 +600,6 @@ considering the exigent circumstances present in PNOC-EC's situation." 11
 Attached to the request for concurrence was a certiﬁcate of availability of
 funds "for the settlement of legal fees of the arbitration case[.]" 12
 
-
 In its Request for Concurrence, 13 PNOC-EC stated:
 At the onset, and by the very nature of arbitration proceedings,
 it was clear that PNOC EC needed to immediately secure the services
@@ -691,12 +625,7 @@ prepare and ﬁle an Answer or an Extension (with comments on the
 choice of arbitrator) with the ICC.
 xxx xxx xxx
 As can be gleaned from the approval of the OGCC, the latter
-took into consideration the not so ordinary nature of arbitration
-
-
-
-
-proceedings, and the diﬀerent kind of knowledge and experience
+took into consideration the not so ordinary nature of arbitrationproceedings, and the diﬀerent kind of knowledge and experience
 required of a legal counsel to represent PNOC EC. By the OGCC's
 approval of the engagement of Baker Botts, it is therefore humbly
 submitted that PNOC EC's statutory counsel acknowledged and
@@ -711,7 +640,6 @@ not securing this Honorable Commission's concurrence to the OGCC's
 approval. However, and upon learning of this misstep, the Company
 immediately sought to rectify its error by writing this letter to the
 Honorable Commission. 14
-
 
 On October 4, 2011, the arbitral tribunal rendered an Award 15
 dismissing Wilson's claim for damages and favoring PNOC-EC. However, the
@@ -759,18 +687,12 @@ Reconsideration explaining why it inadvertently failed to obtain the
 Commission's concurrence "before engaging the services of Baker Botts LLP
 as private counsel." 20
 On February 6, 2019, the Commission on Audit En Banc issued Notice
-No. 2019-018 denying PNOC-EC's second Motion for Reconsideration. A copy
-
-
-
-
-of the Notice was received by PNOC-EC on February 19, 2019 21 prompting it
+No. 2019-018 denying PNOC-EC's second Motion for Reconsideration. A copyof the Notice was received by PNOC-EC on February 19, 2019 21 prompting it
 to file a Petition for Certiorari under Rule 64 before this Court.
 PNOC-EC's belated request for the Commission on Audit's written
 concurrence may have been a misstep but the circumstances of this case
 left PNOC-EC with no other choice but to act quickly to protect its interests
 and that of the government.
-
 
 I
 Through a February 10, 2010 letter, PNOC-EC informed the Oﬃce of
@@ -810,12 +732,7 @@ The labor cases petitioner handled were not of a complicated or
 peculiar nature that could justify the hiring of a known expert in the
 ﬁeld. On the contrary, these appear to be standard labor cases of
 illegal dismissal and collective bargaining agreement negotiations,
-which Clark Development Corporation's lawyers or the Oﬃce of the
-
-
-
-
-Government Corporate Counsel could have handled.
+which Clark Development Corporation's lawyers or the Oﬃce of theGovernment Corporate Counsel could have handled.
 xxx xxx xxx
 The cases that the private counsel was asked to manage are
 not beyond the range of reasonable competence expected from the
@@ -827,7 +744,6 @@ petitioner nor was there a clear showing that there was unreasonable
 delay in any action of the approving authorities. Rather, it appears
 that the procurement of the proper authorizations was mere
 afterthought. 29 (Citations omitted)
-
 
 On the other hand, the arbitration clause between Wilson and PNOC-EC
 itself indicates the extraordinary circumstance that justiﬁes the engagement
@@ -862,14 +778,8 @@ Terminal 3. In Fraport AG Frankfurt Airport Services Worldwide v. The
 Republic of the Philippines , 32 the country employed the assistance of the
 law firm of Siguion Reyna, Montecillo & Ongsiako, former Justice Florentino P.
 Feliciano, and the Washington, D.C. ﬁrm of White & Case in the original
-proceedings, while the ﬁrm of Sycip Salazar Hernandez & Gatmaitan, former
-
-
-
-
-Justice Florentino P. Feliciano, and the Washington, D.C. ﬁrm of White & Case
+proceedings, while the ﬁrm of Sycip Salazar Hernandez & Gatmaitan, formerJustice Florentino P. Feliciano, and the Washington, D.C. ﬁrm of White & Case
 assisted in the annulment proceedings. 33
-
 
 In The Republic of the Philippines v. The People's Republic of China , 34
 the country hired Paul S. Reichler and Lawrence H. Martin of Foley Hoag LLP
@@ -910,16 +820,10 @@ rule otherwise would lead to an absurd situation where government oﬃcials
 are held liable for doing the best they can to protect the government's
 interests.
 
-
 V
 The issuance of Commission on Audit Circular No. 2021-003 shows that
 the Commission has recognized the existence of situations where time is not
-on the side of the government.
-
-
-
-
-This is embodied in the circular's purpose "to avoid unnecessary delay
+on the side of the government.This is embodied in the circular's purpose "to avoid unnecessary delay
 in the hiring of a private lawyer or legal retainer to address the urgent need
 for legal services in national government agencies and GOCCs under
 extraordinary or exceptional circumstances, and improve eﬃciency in
@@ -962,12 +866,7 @@ Heidi L. Mendoza and Jose A. Fabia.
 6. Id. at 9.
 7. Id. at 106-201.
 8. Entitled "INHIBITION AGAINST EMPLOYMENT BY GOVERNMENT AGENCIES AND
-INSTRUMENTALITIES, INCLUDING GOVERNMENT-OWNED OR CONTROLLED
-
-
-
-
-CORPORATIONS, OF PRIVATE LAWYERS TO HANDLE THEIR LEGAL CASES"
+INSTRUMENTALITIES, INCLUDING GOVERNMENT-OWNED OR CONTROLLEDCORPORATIONS, OF PRIVATE LAWYERS TO HANDLE THEIR LEGAL CASES"
 dated April 2, 1986.
 9. Entitled "PROHIBITION AGAINST EMPLOYMENT BY GOVERNMENT AGENCIES AND
 INSTRUMENTALITIES, INCLUDING GOVERNMENT-OWNED OR CONTROLLED
@@ -1007,12 +906,7 @@ CODE OF THE PHILIPPINES," approved on June 11, 1978.
 22. Id. at 16.
 23. See Comment; id. at 521-550.
 24. See Republic Act No. 3838, entitled "AN ACT TO AMEND CERTAIN SECTIONS OF
-REPUBLIC ACT NUMBERED TWO THOUSAND THREE HUNDRED TWENTYSEVEN, ENTITLED "AN ACT TO DECLARE THE POSITION OF GOVERNMENT
-
-
-
-
-CORPORATE COUNSEL DISTINCT AND SEPARATE FROM THAT OF THE
+REPUBLIC ACT NUMBERED TWO THOUSAND THREE HUNDRED TWENTYSEVEN, ENTITLED "AN ACT TO DECLARE THE POSITION OF GOVERNMENTCORPORATE COUNSEL DISTINCT AND SEPARATE FROM THAT OF THE
 SOLICITOR GENERAL, PROVIDE FOR HIS APPOINTMENT AND SALARY AND
 APPROPRIATE THE NECESSARY FUNDS THEREFOR, AND FOR OTHER
 PURPOSES," approved on June 22, 1963, SEC. 1. x x x "SEC. 1. x x x He shall
@@ -1058,12 +952,7 @@ SERVICE OR JOB ORDER CONTRACTS; AND (2) LEGAL CONSULTANTS,
 SUBJECT TO SPECIFIC CONDITIONS," dated July 16, 2021; Item 8.0 thereof
 states that the "Circular shall take effect after 15 days from publication in a
 newspaper of general circulation." A copy of the Circular was published July
-28, 2021 in "The Philippine Star," hence, Circular No. 2021-003 became
-
-
-
-
-effective on August 12, 2021.
+28, 2021 in "The Philippine Star," hence, Circular No. 2021-003 becameeffective on August 12, 2021.
 34. Circular No. 2021-003, Item 1.0, Par. 4.
 35. Circular No. 2021-003, Item 1.0, Par. 6.
 36. Circular No. 2021-003, Item 2.0.
@@ -1101,12 +990,7 @@ Audit, supra note 41.
 note 41.
 52. Id.
 LEONEN, J., concurring:
-1. Petition, p. 121, ICC Arbitral Award.
-
-
-
-
-2. Id. at 130.
+1. Petition, p. 121, ICC Arbitral Award.2. Id. at 130.
 3. Id. at 112.
 4. Id.
 5. Id. at 6.
@@ -1138,12 +1022,7 @@ of Arbitration (Singapore).
 28. 750 Phil. 258 (2015) [Per J. Leonen, En Banc].
 29. Id. at 280-281.
 30. Sovereignty over Pulau Ligitan and Pulau Sipadan (Indonesia/Malaysia),
-Application, for Permission to Intervene, 2001 I.C.J. 575 (October 23, 2001).
-
-
-
-
-31. SGS Société Générale de Surveillance S.A. v. Republic of the Philippines, ICSID
+Application, for Permission to Intervene, 2001 I.C.J. 575 (October 23, 2001).31. SGS Société Générale de Surveillance S.A. v. Republic of the Philippines, ICSID
 Case No. ARB/02/6 (December 17, 2007).
 32. Fraport AG Frankfurt Airport Services Worldwide v. The Republic of the
 Philippines, ICSID Case No. ARB/03/25 (August 16, 2007).
@@ -1156,8 +1035,3 @@ September 28, 2021).
 35. Commission on Audit Circular No. 2021-003, dated July 16, 2021.
 36. Commission on Audit Circular No. 2021-003, dated July 16, 2021, Sec. 1.0.
 37. Ponencia, p. 9.
-
-
-
-
-

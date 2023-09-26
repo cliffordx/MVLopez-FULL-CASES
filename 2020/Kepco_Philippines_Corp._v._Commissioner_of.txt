@@ -40,19 +40,13 @@ and cancelled the deficiency FWT assessment and the compromise penalties.
 Kepco and the CIR ﬁled motions for reconsideration but were denied for lack
 of merit. 12
 
-
 Not satisﬁed, on May 5, 2014, Kepco elevated the case to the CTA En
 Banc; 13 while the CIR ﬁled his Petition for Review on May 22, 2014. 14 After
 consolidation and the ﬁling by the parties of their comments and
 memorandum, 15 the CTA En Banc rendered its Decision on November 26,
 2015, dismissing Kepco's petition in CTA Case No. 8112 for being ﬁled out of
 time, and granting the CIR's petition. The dispositive portion of the Decision
-reads:
-
-
-
-
-WHEREFORE, foregoing premises considered:
+reads:WHEREFORE, foregoing premises considered:
 1)
 
 The Petition for Review ﬁled by Kepco Philippines
@@ -100,7 +94,6 @@ In compliance with this Court's Resolution 24 dated February 14, 2018,
 the OSG ﬁled its Comment 25 on July 20, 2018 opposing Kepco's
 manifestation and motion.
 
-
 The OSG avers that the compromise agreement is not valid because
 first, it failed to allege and prove any of the grounds for a valid compromise
 under Section 3 26 of Revenue Regulations (RR) No. 30-2002; 27 second, the
@@ -111,12 +104,7 @@ compromise amount upon ﬁling of the application in violation of Section 2 30
 of RR No. 9-2013. 31 The OSG posits that the CIR improperly arrogated unto
 himself the power of the NEB to decide on the oﬀer of compromise when the
 CIR accepted Kepco's additional payment of P16,661,759.20 before the NEB
-could approve or reject Kepco's original application.
-
-
-
-
-Further, the OSG manifests that it is entitled to collect 5% success fee
+could approve or reject Kepco's original application.Further, the OSG manifests that it is entitled to collect 5% success fee
 in case of government approved compromise agreements, pursuant to
 Section 11 (i) 32 of Republic Act (RA) No. 9417, otherwise known as "An Act
 to Strengthen the Oﬃce of the Solicitor General by Expanding and
@@ -158,17 +146,11 @@ terminated. However, the OSG opposed the motion and questioned the
 validity of the compromise alleging irregularity in the procedure that led to
 its approval.
 
-
 We grant the motion and rule in favor of the compromise.
 The power of the CIR to enter into compromise agreements for
 deﬁciency taxes is explicit in Section 204 (A) 37 of the 1997 National Internal
 Revenue Code, 38 as amended (1997 NIRC). The CIR may compromise an
-assessment when a reasonable doubt as to the validity of the claim against
-
-
-
-
-the taxpayer exists, or the ﬁnancial position of the taxpayer demonstrates a
+assessment when a reasonable doubt as to the validity of the claim againstthe taxpayer exists, or the ﬁnancial position of the taxpayer demonstrates a
 clear inability to pay the tax.
 In this regard, the BIR issued RR No. 30-2002, as amended by RR No.
 08-2004, which enumerates the bases for acceptance of the compromise
@@ -204,7 +186,6 @@ receipt of ﬁnal assessment notice and there is reason to
 believe that the assessment is lacking in legal and/or
 factual basis; or
 
-
 (e)
 The taxpayer failed to elevate to the Court of
 Tax Appeals (CTA) an adverse decision of the
@@ -229,12 +210,7 @@ prescriptive period for assessment as extended by the
 taxpayer's execution of Waiver of the Statute of
 Limitations the validity or authenticity of which is being
 questioned or at issue and there is strong reason to
-believe and evidence to prove that it is not authentic; or
-
-
-
-
-(i)
+believe and evidence to prove that it is not authentic; or(i)
 The assessment is based on an issue where a
 court of competent jurisdiction made an adverse decision
 against the Bureau, but for which the Supreme Court has
@@ -272,7 +248,6 @@ abuse of discretion exists. Kepco complied with the procedures prescribed
 under the BIR rules on the application and approval of compromise
 settlement on the ground of doubtful validity.
 
-
 Contrary to the OSG's claim that Kepco did not pay the full amount
 oﬀered for compromise upon ﬁling of its application, records show that
 Kepco paid P143,891,831.90 46 representing 40% of the basic tax assessed
@@ -284,12 +259,7 @@ January 19, 2017. Notably, the minimum compromise amount under Section
 204 (A) 50 of the 1997 NIRC and Section 4 51 of RR No. 30-2002 is 40% of the
 basic tax assessed. Kepco complied with the requirement of payment of the
 compromise offer as a pre-condition for the processing of the application.
-Further, the TWG evaluated Kepco's application and on October 19,
-
-
-
-
-2017, recommended to the NEB its approval on the basis of doubtful validity.
+Further, the TWG evaluated Kepco's application and on October 19,2017, recommended to the NEB its approval on the basis of doubtful validity.
 52 The application was approved by a majority 53 of all the members of the
 NEB composed of Deputy Commissioners Jesus Clint O. Aranas (Legal
 Group), Lanee Cui-David (Information Systems Group), and Celia C. King
@@ -330,7 +300,6 @@ compromise agreement, such party is estopped from questioning its
 terms and asking for the reopening of the case on the ground of
 mistake. As explained in McCarthy v. Barber Steamship Lines : 61
 
-
 Hence it is general rule in this country, that
 compromises are to be favored, without regard to the
 nature of the controversy compromised, and that they
@@ -338,12 +307,7 @@ cannot be set aside because the event shows all the gain
 to have been on one side, and all the sacriﬁce on the
 other, if the parties have acted in good faith, and with a
 belief of the actual existence of the rights which they
-have respectively waived or abandoned; and if a
-
-
-
-
-settlement be made in regard to such subject, free from
+have respectively waived or abandoned; and if asettlement be made in regard to such subject, free from
 fraud or mistake, whereby there is a surrender or
 satisfaction, in whole or in part, of a claim upon one side
 in exchange for or in consideration of a surrender or
@@ -394,16 +358,7 @@ of documents. Article 2038 of the Civil Code provides:
 Art. 2038.
 A compromise in which there is
 mistake, fraud, violence, intimidation, undue inﬂuence, or
-falsity of documents, is subject to the provisions of Article
-
-
-
-
-1330 of this Code.
-
-
-
-xxx xxx xxx (Emphasis supplied)
+falsity of documents, is subject to the provisions of Article1330 of this Code.\n\nxxx xxx xxx (Emphasis supplied)
 Article 1330 of the Civil Code makes compromises tainted with
 such circumstances voidable. In the present case, there is no mistake
 because PNOC's delinquent account clearly falls within the coverage
@@ -436,7 +391,6 @@ liabilities of Kepco but only for TY 2006. 67 The deﬁciency tax liabilities of
 Kepco for TYs 2007 and 2009 are not the subject matter of the present
 petition.
 
-
 FOR THESE REASONS, the petition for review is DISMISSED; the
 Manifestation and Motion to Render Judgment on the Case Based on the
 Parties' Compromise Settlement under Section 204 (A) of the National
@@ -449,12 +403,7 @@ SO ORDERED.
 
 Peralta, C.J., Caguioa, J.C. Reyes, Jr. and Lazaro-Javier, JJ., concur.
 Footnotes
-1. Rollo , pp. 3-55.
-
-
-
-
-2. Id. at 59-70; penned by Presiding Justice Roman G. Del Rosario, with the
+1. Rollo , pp. 3-55.2. Id. at 59-70; penned by Presiding Justice Roman G. Del Rosario, with the
 concurrence of Associate Justices Juanito C. Castañeda, Jr., Lovell R. Bautista,
 Erlinda P. Uy, Caesar A. Casanova, Esperanza R. Fabon-Victorino, Cielito N.
 Mindaro-Grulla, Amelia R. Cotangco-Manalastas, and Ma. Belen M. RingpisLiban.
@@ -506,12 +455,7 @@ P124,286,821.11
 9. Id. at 63.
 10. Id. at 64.
 11. Id. at 84-128.
-12. Id. at 59-60.
-
-
-
-
-13. Id. at 64; docketed as CTA EB No. 1161.
+12. Id. at 59-60.13. Id. at 64; docketed as CTA EB No. 1161.
 14. Id. at 64; docketed as CTA EB No. 1166.
 15. The CIR filed a Manifestation seeking to adopt its Petition for Review filed on
 May 22, 2014 and Comment filed on May 22, 2014 as its Memorandum; id. at
@@ -550,12 +494,7 @@ believe that the assessment is lacking in legal and/or factual basis; or
 (e) The taxpayer failed to elevate to the Court of Tax Appeals (CTA) an
 adverse decision of the Commissioner, or his authorized representative, in
 some cases, within 30 days from receipt thereof and there is reason to
-believe that the assessment is lacking in legal and/or factual basis; or
-
-
-
-
-(f) The assessments were issued on or after January 1, 1998, where the
+believe that the assessment is lacking in legal and/or factual basis; or(f) The assessments were issued on or after January 1, 1998, where the
 demand notice allegedly failed to comply with the formalities prescribed
 under Sec. 228 of the National Internal Revenue Code of 1997; or
 (g) Assessments made based on the "Best Evidence Obtainable Rule" and
@@ -598,12 +537,7 @@ xxx xxx xxx
 27. Revenue Regulations Implementing Sections 7 (c), 204 (A) and 290 of the
 National Internal Revenue Code of 1997 on Compromise Settlement of
 Internal Revenue Tax Liabilities Superseding Revenue Regulations Nos. 62000 and 7-2001, December 16, 2002.
-28. SECTION 2. Basis for Acceptance of Compromise Settlement. — Sec. 3 of
-
-
-
-
-Revenue Regulations No. 30-2002 is hereby amended to read as follows:
+28. SECTION 2. Basis for Acceptance of Compromise Settlement. — Sec. 3 ofRevenue Regulations No. 30-2002 is hereby amended to read as follows:
 "SEC. 3. BASIS FOR ACCEPTANCE OF COMPROMISE SETTLEMENT. — The
 Commissioner may compromise the payment of any internal revenue tax on
 the following grounds:
@@ -641,12 +575,7 @@ xxx xxx xxx"
 31. Amending Certain Provisions of Revenue Regulations No. 30-2002, May 10,
 2013.
 32. SECTION 11. Funding. — The funds required for the implementation of this Act,
-including those for health care services, insurance premiums, professional,
-
-
-
-
-educational, registration fees, contracted transportation benefits, the other
+including those for health care services, insurance premiums, professional,educational, registration fees, contracted transportation benefits, the other
 benefits above, shall be taken from:
 (i) five percent (5%) of monetary awards given by the Courts to client
 departments, agencies and instrumentalities of the Government, including
@@ -684,12 +613,7 @@ Divisions shall exercise:
 following:
 xxx xxx xxx
 (2) Inaction by the Commissioner of Internal Revenue in cases involving
-disputes assessments, x x x where the National Internal Revenue Code or
-
-
-
-
-other applicable law provides a specific period for action: Provided, that in
+disputes assessments, x x x where the National Internal Revenue Code orother applicable law provides a specific period for action: Provided, that in
 case of disputed assessments, the inaction of the Commissioner of Internal
 Revenue within the one hundred eighty day-period under Section 228 of the
 National Internal Revenue Code shall be deemed a denial for purposes of
@@ -734,12 +658,7 @@ the Commissioner of Internal Revenue on the disputed assessments beyond
 the one hundred eighty day-period abovementioned, the taxpayer may
 appeal such final decision to the Court under Section 3 (a), Rule 8 of these
 Rules; and Provided, still further, that in the case of claims for refund of taxes
-erroneously or illegally collected, the taxpayer must file a petition for review
-
-
-
-
-with the Court prior to the expiration of the two-year period under Section
+erroneously or illegally collected, the taxpayer must file a petition for reviewwith the Court prior to the expiration of the two-year period under Section
 229 of the National Internal Revenue Code;
 45. See PNOC v. Court of Appeals, 496 Phil. 506, 572 (2005).
 46. Rollo , p. 517.
@@ -773,18 +692,13 @@ compliance with a judicial compromise.
 58. See Art. 2038, Civil Code. A compromise in which there is mistake, fraud,
 violence, intimidation, undue influence, or falsity of documents, is subject to
 the provisions of article 1330 of this Code.
-59. Rollo , pp. 430-441.
-
-
-
-VAT
+59. Rollo , pp. 430-441.\n\nVAT
 
 P40,963,870.63
 
 VAT
 
 P61,445,805.95
-
 
 FWT
 
@@ -812,8 +726,3 @@ Purposes."
 (2016).
 
 n Note from the Publisher: Written as "[180]-period" in the official document.
-
-
-
-
-

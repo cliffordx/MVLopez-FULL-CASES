@@ -41,12 +41,7 @@ plaintiﬀs P170,260.50 representing [the] total amount of the checks
 issued by defendant(s) to plaintiﬀs that were dishonored by the
 drawee banks.
 Defendants are further ordered to pay jointly and severally
-plaintiﬀs P20,000.00 attorney's fees and litigation expenses, and, the
-
-
-
-
-costs of this suit.
+plaintiﬀs P20,000.00 attorney's fees and litigation expenses, and, thecosts of this suit.
 The counterclaim and all other claims in connection herewith
 are ordered dismissed.
 SO ORDERED. 13 (Emphases in the original.)
@@ -91,12 +86,7 @@ evidenced by a formal written agreement. Further, Nida issued three checks
 to settle certain purchases. The checks issued, however, did not convert
 their agreement into a written contract. In Manuel v. Rodriguez, et al. , 19 the
 Court held that to be a written contract, all its terms must be in writing, and,
-a contract partly in writing and partly oral is, in legal eﬀect, an oral contract.
-
-
-
-
-20 Also, the three checks are not the kind of "writing" or "written agreement"
+a contract partly in writing and partly oral is, in legal eﬀect, an oral contract.20 Also, the three checks are not the kind of "writing" or "written agreement"
 
 contemplated by law for the 10-year limitation to apply. We quote with
 approval the disquisition of the CA, viz.:
@@ -150,12 +140,7 @@ following:
 Of the 69 duly acknowledged delivery receipts, ﬁve
 contain no prices nor term of the transaction. They merely
 specify the name and address of the person to whom
-delivery was made, the date of such delivery, and the
-
-
-
-
-quantity and kind of lumber delivered. The only words
+delivery was made, the date of such delivery, and thequantity and kind of lumber delivered. The only words
 that would indicate to some degree the nature of the
 transaction are the following, printed at the bottom of the
 document:
@@ -203,12 +188,7 @@ A cause of action exists if the following elements are present, namely:
 law it arises or is created; (2) an obligation on the part of the named
 defendant to respect or not to violate such right; and (3) an act or omission
 on the part of such defendant violative of the right of the plaintiﬀ or
-constituting a breach of the obligation of the defendant to the plaintiﬀ for
-
-
-
-
-which the latter may maintain an action for recovery of damages. 28 It is only
+constituting a breach of the obligation of the defendant to the plaintiﬀ forwhich the latter may maintain an action for recovery of damages. 28 It is only
 when the last element occurs that a cause of action arises.
 In this case, the check issued to settle the obligation for the July 26,
 2000 purchases was dishonored by the drawee bank on August 25, 2000, 29
@@ -255,12 +235,7 @@ interrupt the running of the period of the prescription. 33
 
 The evidence attached to the records shows that the last receipt issued
 to Nida for payment of purchases on credit was dated November 21, 2006
-for P2,000.00. 34 As such, Regina may bring an action to collect any
-
-
-
-
-outstanding liability from Nida only until November 21, 2012.
+for P2,000.00. 34 As such, Regina may bring an action to collect anyoutstanding liability from Nida only until November 21, 2012.
 In all, we ﬁnd no reason to depart from the ﬁndings and conclusion of
 the appellate court.
 FOR THESE REASONS, the Petition for Review on Certiorari is
@@ -333,13 +308,7 @@ Maybank
 P44,092.00
 
 November 12,
-2002*
-
-
-
-
-
-Maybank
+2002*Maybank
 
 0001386598
 
@@ -380,12 +349,7 @@ special provision which ordains otherwise, shall be counted from the day
 they may be brought.
 26. Multi-Realty Development Corp. v. The Makati Tuscany Condominium Corp.,
 524 Phil. 318, 337-338 (2006); Khe Hong Cheng v. Court of Appeals, 407 Phil.
-1058, 1067 (2001); Tolentino v. Court of Appeals , 245 Phil. 40, 46 (1988);
-
-
-
-
-and Español v. The Chairman & Members of the Board of Administrators PVA,
+1058, 1067 (2001); Tolentino v. Court of Appeals , 245 Phil. 40, 46 (1988);and Español v. The Chairman & Members of the Board of Administrators PVA,
 221 Phil. 667, 669-670 (1985).
 27. RULES OF COURT, Rule 2, Sec. 2.
 28. Pilipinas Shell Petroleum Corp. v. John Bordman Ltd. of Iloilo, Inc., 509 Phil. 728,
@@ -402,8 +366,3 @@ debtor. See also Ampeloquio, Sr. v. Napiza , 536 Phil. 1102, 1114 (2006).
 32. 133 Phil. 66 (1968).
 33. Id. at 68-69.
 34. Rollo , p. 72.
-
-
-
-
-

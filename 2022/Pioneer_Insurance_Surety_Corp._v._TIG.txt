@@ -42,12 +42,7 @@ Liabilities Agreement executed by the parties. The agreement between the
 parties has undergone several amendments from 1975 to 1982.
 Nevertheless, the arbitration clause in the SK100 agreement remained, 10
 thus:
-As a condition precedent to any right of action hereunder, any
-
-
-
-
-dispute arising out of SK-100 shall be submitted to the decision of a
+As a condition precedent to any right of action hereunder, anydispute arising out of SK-100 shall be submitted to the decision of a
 board of arbitration composed of two arbitrators and an umpire,
 meeting in New York, New York, unless otherwise agreed. 11
 
@@ -110,12 +105,7 @@ requirement under the Constitution that decisions must clearly and distinctly
 state the facts and the law in which they are based. Pioneer further alleged
 that Clearwater's cause of action had prescribed because it was ﬁled beyond
 the 6-year prescription period provided under the New York Civil Practice
-Law and Rules. Pioneer also invoked the lack of jurisdiction of the Philippine
-
-
-
-
-courts to conﬁrm the award since the SK100 agreement required Clearwater
+Law and Rules. Pioneer also invoked the lack of jurisdiction of the Philippinecourts to conﬁrm the award since the SK100 agreement required Clearwater
 to go to the US District Court. Lastly, Pioneer claimed that the Petition was
 not suﬃcient in form for Clearwater's failure to attach a Secretary's
 Certiﬁcate or Board Resolution proving the authority of its legal counsel to
@@ -162,12 +152,7 @@ participate in the proceedings. 23 For these reasons, the CA disposed of the
 appeal in this wise:
 GIVEN ALL OF THESE , premises considered, the instant
 appeal is DENIED. The Decision dated September 21, 2016 and
-Order dated December 16, 2016 of Branch 141, Regional Trial Court
-
-
-
-
-of Makati City (RTC) are AFFIRMED.
+Order dated December 16, 2016 of Branch 141, Regional Trial Courtof Makati City (RTC) are AFFIRMED.
 SO ORDERED. 24 (Emphases in the original)
 
 Undeterred, Pioneer ﬁled a Motion for Reconsideration. Finding the
@@ -210,16 +195,11 @@ reasons. Particularly, the Special ADR Rules provide the following speciﬁc
 grounds:
 Rule 19.36.
 Appeals:
-a.
-
-
-
-Review discretionary . — x x x, when the Court of
+a.\n\nReview discretionary . — x x x, when the Court of
 Failed to apply the applicable standard or test for judicial
 review prescribed in these Special ADR Rules in arriving at
 its decision resulting in substantial prejudice to the
 aggrieved party;
-
 
 b.
 
@@ -280,12 +260,7 @@ Against Forum Shopping is one made under oath made by the
 petitioner or movant: (a) that he has not theretofore commenced any
 action or ﬁled any claim involving the same issues in any court,
 tribunal or quasi-judicial agency and, to the best of his knowledge, no
-such other action or claim is pending therein; (b) if there is such other
-
-
-
-
-pending action or claim, a complete statement of the present status
+such other action or claim is pending therein; (b) if there is such otherpending action or claim, a complete statement of the present status
 thereof; and (c) if he should thereafter learn that the same or similar
 action or claim has been ﬁled or is pending, he shall report that fact
 within ﬁve (5) days therefrom to the court wherein his
@@ -334,12 +309,7 @@ Rule 13.4 (b) (ii) 40 of the Special ADR Rules provides that the
 Philippine court may refuse the recognition and enforcement of a foreign
 arbitral award when it ﬁnds that its recognition and enforcement would be
 contrary to public policy. In Mabuhay Holdings Corporation v. Sembcorp
-Logistics Limited , 41 the Court adopted the narrow approach in determining
-
-
-
-
-whether the enforcement of an arbitral award is contrary to public policy.
+Logistics Limited , 41 the Court adopted the narrow approach in determiningwhether the enforcement of an arbitral award is contrary to public policy.
 The Court emphasized that not all violations of law may be deemed contrary
 to public policy. The Philippine court may only refuse to recognize or enforce
 a foreign arbitral award when its enforcement would be against the
@@ -389,12 +359,7 @@ its evidence falls short in proving the illegality or immorality of the award. I
 fails to establish that Clearwater's claims have already prescribed.
 Pioneer narrates that it repeatedly requested supporting documents
 from Clearwater after the latter's initial demand in 1995, and it was only in
-2012 when Clearwater provided them with various documents. 44 Surely,
-
-
-
-
-Pioneer did not reject Clearwater's demand for payment in 1995. Following
+2012 when Clearwater provided them with various documents. 44 Surely,Pioneer did not reject Clearwater's demand for payment in 1995. Following
 Pioneer's argument, the prescriptive period should not start from
 Clearwater's initial demand in 1995 because it did not reject Clearwater's
 claims outright. Instead, it requested a breakdown and supporting
@@ -431,12 +396,7 @@ Mamauag, Jr.
 11. Id. at 71.
 12. Id. at 44.
 13. Id. at 489-491.
-14. Id. at 490-491.
-
-
-
-
-15. Id. at 315.
+14. Id. at 490-491.15. Id. at 315.
 16. Id.
 17. Id. at 315-316.
 18. Id. at 318.
@@ -470,12 +430,7 @@ A pleading is verified by an affidavit of an affiant duly authorized to sign sai
 verification. The authorization of the affiant to act on behalf of a party,
 whether in the form of a secretary's certificate or a special power of attorney,
 should be attached to the pleading, and shall allege the following
-attestations:
-
-
-
-
-xxx xxx xxx
+attestations:xxx xxx xxx
 A pleading required to be verified that contains a verification based on
 "information and belief," or upon "knowledge, information and belief," or
 lacks a proper verification, shall be treated as an unsigned pleading.
@@ -518,12 +473,7 @@ SEC. 2. Declaration of Policy. — [I]t is hereby declared the policy of the Sta
 to actively promote party autonomy in the resolution of disputes or the
 freedom of the party to make their own arrangements to resolve their
 disputes. Towards this end, the State shall encourage and actively promote
-the use of Alternative Dispute Resolution (ADR) as an important means to
-
-
-
-
-achieve speedy and impartial justice and declog court dockets. As such, the
+the use of Alternative Dispute Resolution (ADR) as an important means toachieve speedy and impartial justice and declog court dockets. As such, the
 State shall provide means for the use of ADR as an efficient tool and an
 alternative procedure for the resolution of appropriate cases. Likewise, the
 State shall enlist active private sector participation in the settlement of
@@ -548,8 +498,3 @@ policy.
 42. Id. at 845.
 43. Id. at 843-844.
 44. Rollo, pp. 6-7.
-
-
-
-
-

@@ -44,12 +44,7 @@ the Claimant Information Sheet Nos. 62442 and 22002, the letters dated May
 4, 2012, containing a list of documents to support its claims. 11
 Thereafter, Philex Mining ﬁled two (2) separate petitions for review
 before the CTA Division on October 9, 2012 (docketed as CTA Case No.
-8553) and on October 25, 2012 (docketed as CTA Case No. 8562). 12 The
-
-
-
-
-Court granted the motions to consolidate the two (2) cases and to
+8553) and on October 25, 2012 (docketed as CTA Case No. 8562). 12 TheCourt granted the motions to consolidate the two (2) cases and to
 commission an Independent Certiﬁed Public Accountant (ICPA) on February
 14, 2013. 13 Thereafter, trial ensued.
 
@@ -98,12 +93,7 @@ WHEREFORE, the Petition for Review ﬁled by [the]
 Commissioner of Internal Revenue on August 5, 2015, is hereby
 DENIED, for lack of merit. Accordingly, the assailed Decision and
 Resolution dated March 31, 2015 and June 24, 2015, respectively
-promulgated by [the] Court in Division in CTA Case Nos. 8553 &
-
-
-
-
-8562, are hereby AFFIRMED.
+promulgated by [the] Court in Division in CTA Case Nos. 8553 &8562, are hereby AFFIRMED.
 SO ORDERED. 19 (Emphases in the original.)
 
 Failing at reconsideration, 20 the CIR, through the Oﬃce of the Solicitor
@@ -149,12 +139,7 @@ It is elementary rule in statutory construction that when the words of a
 statute are clear, plain, and free from ambiguity, it must be given its literal
 meaning and applied without attempted interpretation. 32 The plain-meaning
 rule or verba legis, expressed in the maxim index animi sermo, or speech is
-the index of intention, rests on the valid presumption that the words
-
-
-
-
-employed by the legislature in a statute correctly express its intention or
+the index of intention, rests on the valid presumption that the wordsemployed by the legislature in a statute correctly express its intention or
 will, and preclude the court from construing it diﬀerently. 33 Verba legis non
 est recedendum. From the words of a statute there should be no departure.
 Furthermore, every part of the statute must be interpreted with reference to
@@ -209,12 +194,7 @@ Only VAT-registered persons are required to print their TIN
 followed by the word "VAT" in their invoice or oﬃcial receipts. Said
 documents shall be considered as a "VAT Invoice" or VAT oﬃcial
 receipt. All purchases covered by invoices/receipts other than VAT
-Invoice/VAT Official Receipt shall not give rise to any input tax.
-
-
-
-
-xxx xxx xxx
+Invoice/VAT Official Receipt shall not give rise to any input tax.xxx xxx xxx
 (B)
 Information contained in VAT invoice or VAT
 oﬃcial receipt . — The following information shall be indicated in
@@ -267,12 +247,7 @@ The reason for strict compliance with invoicing requirements is only a
 "VAT invoice/oﬃcial receipt" can give rise to any input tax from domestic
 purchase of goods or service. 42 Without input tax, there is nothing to
 refund. On the other hand, the particulars recorded in the subsidiary journals
-do not aﬀect the character of an invoice or receipt as a "VAT invoice/oﬃcial
-
-
-
-
-receipt." A taxpayer's books of accounts include the journal and the ledger
+do not aﬀect the character of an invoice or receipt as a "VAT invoice/oﬃcialreceipt." A taxpayer's books of accounts include the journal and the ledger
 and their subsidiaries, or their equivalents. 43 The general journal is a book
 of original entry in which the transactions aﬀecting the taxpayer's business
 are recorded consecutively day by day as they occur. 44 It is a chronological,
@@ -325,12 +300,7 @@ invoicing
 and
 accounting
 requirements mandated by the NIRC, as well as by revenue
-regulations implementing them.
-
-
-
-
-xxx xxx xxx
+regulations implementing them.xxx xxx xxx
 In fact, this Court has consistently held as fatal the failure to
 print the word "zero-rated" on the VAT invoices or oﬃcial receipts in
 claims for a refund or credit of input VAT on zero-rated sales, even if
@@ -379,12 +349,7 @@ the NIRC, as well as by revenue regulations implementing
 them. The NIRC requires that the creditable input VAT should
 be evidenced by a VAT invoice or oﬃcial receipt, which may
 only be considered as such when the TIN-VAT is printed
-thereon, as required by Section 4.108-1 of RR 7-95.
-
-
-
-
-xxx xxx xxx
+thereon, as required by Section 4.108-1 of RR 7-95.xxx xxx xxx
 In the same vein, considering that the subject invoice/oﬃcial
 receipts are not imprinted with the taxpayer's TIN followed by the
 word VAT, these would not be considered as VAT invoices/oﬃcial
@@ -436,12 +401,7 @@ evenly on a monthly basis by dividing the input tax by the
 actual number of months comprising the estimated useful
 life of a capital good. The claim for input tax credit shall
 commence in the month that the capital goods were
-acquired.
-
-
-
-
-Where the aggregate acquisition cost (exclusive of
+acquired.Where the aggregate acquisition cost (exclusive of
 VAT) of the existing or ﬁnished depreciable capital goods
 purchased or imported during any calendar month does
 not exceed one million pesos (P1,000,000.00), the total
@@ -493,12 +453,7 @@ Second, even assuming that the importations were duly
 proven to be capital goods, Taganito's claim still would not
 prosper because it failed to present evidence to show that it
 properly amortized the related input VAT over the estimated
-useful life of the capital goods in its subsidiary ledger, as
-
-
-
-
-required by [Sections 4.110-3 and 4.113-3]. This is made
+useful life of the capital goods in its subsidiary ledger, asrequired by [Sections 4.110-3 and 4.113-3]. This is made
 apparent by the fact that Taganito's claim for refund is for the
 full amount of the input VAT on the importation, rather than
 for an amortized amount, and by its failure to present its
@@ -544,12 +499,7 @@ very clear; no construction or interpretation is needed. The Court may not
 construe a statute that is free from doubt; neither can we impose conditions
 or limitations when none is provided for. 62 While tax refunds are in the
 nature of tax exemptions and are construed strictissimi juris against the
-taxpayer, tax statutes shall be construed strictly against the taxing authority
-
-
-
-
-and liberally in favor of the taxpayer, for taxes, being burdens, are not to be
+taxpayer, tax statutes shall be construed strictly against the taxing authorityand liberally in favor of the taxpayer, for taxes, being burdens, are not to be
 presumed beyond what the statute expressly and clearly declares. 63 Verily,
 the CTA did not err in ruling that the absence of subsidiary sales journal,
 subsidiary purchase journal, and monthly VAT declarations is not sufficient to
@@ -592,12 +542,7 @@ Casanova, Cielito N. Mindaro-Grulla, Ma. Belen M. Ringpis-Liban, and
 Catherine T. Manahan.
 5. Id. at 50-79; penned by Associate Justice Amelia R. Cotangco-Manalastas, with
 the concurrence of Associate Justices Juanito C. Castañeda, Jr. and Caesar A.
-Casanova.
-
-
-
-
-6. Id. at 81-84.
+Casanova.6. Id. at 81-84.
 7. Id. at 50-51, and 55.
 8. Id. at 51.
 9. Id. at 67.
@@ -632,12 +577,7 @@ which may influence or determine the transfer of ownership of the goods so
 exported and paid for in acceptable foreign currency or its equivalent in
 goods or services, and accounted for in accordance with the rules and
 regulations of the Bangko Sentral ng Pilipinas (BSP);
-xxx xxx xxx
-
-
-
-
-23. Rollo , pp. 62-64, 73.
+xxx xxx xxx23. Rollo , pp. 62-64, 73.
 24. SEC. 112. Refunds or Tax Credits of Input Tax. —
 (A) Zero-Rated or Effectively Zero-Rated Sales. — Any VAT-registered person,
 whose sales are zero-rated or effectively zero-rated may, within two (2) years
@@ -678,12 +618,7 @@ return to arrive at the net VAT payable or excess input tax/over-payment as
 of the end of a quarter.
 xxx xxx xxx
 The monthly VAT Declarations (BIR Form 2550M) of taxpayers whether large
-or non-large shall be filed and the taxes paid not later than the 20th day
-
-
-
-
-following the end of each month.
+or non-large shall be filed and the taxes paid not later than the 20th dayfollowing the end of each month.
 31. Rollo , p. 24.
 32. Philippine Amusement and Gaming Corp. (PAGCOR) v. Philippine Gaming
 Jurisdiction, Inc. (PEJI), 604 Phil. 547, 553 (2009).
@@ -719,12 +654,7 @@ xxx xxx xxx
 (3) The date of transaction, quantity, unit cost and description of the goods or
 properties or nature of the service; x x x.
 xxx xxx xxx
-38. SEC. 237. Issuance of Receipts or Sales or Commercial Invoices. — All persons
-
-
-
-
-subject to an internal revenue tax shall, for each sale or transfer of
+38. SEC. 237. Issuance of Receipts or Sales or Commercial Invoices. — All personssubject to an internal revenue tax shall, for each sale or transfer of
 merchandise or for services rendered valued at Twenty-five pesos (P25.00)
 or more, issue duly registered receipts or sale or commercial invoices,
 prepared at least in duplicate, showing the date of transaction, quantity, unit
@@ -762,12 +692,7 @@ dated March 17, 1947.
 55. Villanueva, Jr. v. CA, 429 Phil. 194, 202 (2002); Delta Motors Corp. v. CA , G.R.
 No. 121075, July 24, 1997, 342 Phil. 173, 186 (1997).
 56. 748 Phil. 774 (2014).
-57. Id. at 787-789.
-
-
-
-
-58. Rollo , p. 73.
+57. Id. at 787-789.58. Rollo , p. 73.
 59. Id. at 73-78.
 60. SEC. 114. Return and Payment of Value-Added Tax. —
 (A) In General. — Every person liable to pay the value-added tax imposed
@@ -793,8 +718,3 @@ Phil. 586, 608 (2005).
 63. Republic of the Phils. v. Intermediate Appellate Court, 273 Phil. 573, 579
 (1991).
 64. Supra note 46.
-
-
-
-
-

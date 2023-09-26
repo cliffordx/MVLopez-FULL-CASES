@@ -16,7 +16,6 @@ Insurance Corporation (PDIC) to Westmont Bank and Keppel Monte Savings Bank (KMS
 amounting to P1,656,830,000.00 and P325,000,000.00; and 2) ordered the issuance of notices of
 disallowance (ND) therefor.
 
-
 ANTECEDENTS
 The controversy involving Westmont Bank (formerly, Associated Bank; now, United Overseas
 Bank of the Philippines) spawned from the 1st Indorsement 4 dated August 24, 2000 issued by the
@@ -81,12 +80,7 @@ The Supervising Auditor, through a Memorandum dated January 26, 2004, as well as
 Corporate Government Sector (CGS) Director, through a 1st Indorsement dated June 8, 2004,
 concurred in the Corporate Auditor's ﬁndings and conclusions. Thus, in a Memorandum dated June
 30, 2004, the CGS Assistant Commissioner forwarded the case to the Director of the COA Legal
-Adjudication Office-Corporate (LAO-C). 12
-
-
-
-
-On the other hand, the KMSB (formerly Monte de Piedad Savings Bank and Keppel Monte
+Adjudication Office-Corporate (LAO-C). 12On the other hand, the KMSB (formerly Monte de Piedad Savings Bank and Keppel Monte
 Bank) case is rooted from the Corporate Auditor's issuance of Notice of Suspension (NS) No. 98-10
 (97) dated September 17, 1998, suspending in audit the amount of P325,000,000.00 that was
 charged to PDIC's Expense-Cost for the Rehabilitation of then distressed KMSB. The amount was a
@@ -145,12 +139,7 @@ decision. 24 On the substantive issues, the OSG reiterates the Corporate Auditor
 in the 1st Indorsement dated August 24, 2000 that treating the ﬁnancial assistance given to
 Westmont Bank and KMSB as outright expenses is prejudicial to PDIC's interest because it deprived
 PDIC of expected receivables from such aid, in contravention of Republic Act (RA) No. 3591 25 (PDIC
-Charter), as amended. Echoing the Corporate Auditor's report, the OSG underscores that the PDIC
-
-
-
-
-Charter does not authorize treatment of a ﬁnancial assistance as an expense item. Instead, every
+Charter), as amended. Echoing the Corporate Auditor's report, the OSG underscores that the PDICCharter does not authorize treatment of a ﬁnancial assistance as an expense item. Instead, every
 ﬁnancial aid authorized under the PDIC Charter, i.e., loan grants, purchase of an asset, deposit
 and/or assumption of liability, has a corresponding receivable — in case of a loan, payment thereof
 is expected; the asset purchased from a distressed bank becomes PDIC's asset; in case of a deposit,
@@ -228,9 +217,7 @@ also in quasi-judicial and administrative cases. Section 16, Article III of the 
 provides:
 Section 16.
 
-
 All persons shall have the right to a speedy disposition of their cases
-
 
 before all judicial, quasi-judicial or administrative bodies.
 
@@ -259,7 +246,6 @@ courts must still engage in a difficult and sensitive balancing process. 37 (Cit
 In the case of Cagang v. Sandiganbayan (Cagang), 38 the Court laid down deﬁnitive guidelines
 in determining the existence of inordinate delay which violates the rights to speedy trial and speedy
 disposition, viz.:
-
 
 To summarize, inordinate delay in the resolution and termination of a preliminary
 investigation violates the accused's right to due process and the speedy disposition of cases,
@@ -297,12 +283,7 @@ release claims and settled liability. Then ﬁnally, the COA Proper reversed the
 ruling, and denied to recommend the condonation granted to Westmont Bank and KMSB,
 maintaining its duty to recommend or deny condonations of government claims. Thus, the
 intricacies faced by the COA which protracted its post-audit process is undeniable, to which the
-alleged delay is owed.
-
-
-
-
-Moreover, the period taken for the auditing process wherein the COA was gathering and
+alleged delay is owed.Moreover, the period taken for the auditing process wherein the COA was gathering and
 assessing pertinent information regarding the transactions, akin to the fact-ﬁnding stages or
 preliminary investigations in criminal cases, should not be included in the determination of whether
 there has been inordinate delay. 40 At this stage, it cannot be said that the party under investigation
@@ -366,12 +347,7 @@ however, show that PDIC was already apprised of the COA's observations through t
 questioned entries in its books; hence, the issuance of the NDs. If it was a simple accounting matter
 as PDIC claims it to be, it could have corrected it back then upon notice, and prevented the ripening
 of the case into a disallowance.
-In sum, we find no inordinate delay on the part of the COA to warrant the dismissal of case.
-
-
-
-
-III.
+In sum, we find no inordinate delay on the part of the COA to warrant the dismissal of case.III.
 The COA is authorized and dutybound to issue a recommendation on
 the condonations and release of
 claims.
@@ -452,12 +428,7 @@ Executive in proper cases. This amendment is an apparent indication of the legis
 to uphold: (1) the power of control that the President, as Chief Executive, exercises over GOCCs; 48
 and (2) the COA's constitutional mandate to examine, audit, and settle all accounts of the
 government, its subdivisions, agencies and instrumentalities, including GOCCs. 49
-Verily, the revision was reﬂected in the amendment of Section 8 of the PDIC Charter under
-
-
-
-
-Sections 14 and 15 of RA No. 10846, 50 viz.:
+Verily, the revision was reﬂected in the amendment of Section 8 of the PDIC Charter underSections 14 and 15 of RA No. 10846, 50 viz.:
 Section 14.
 
 Section 8 of the same Act is accordingly renumbered as Section 9.
@@ -525,12 +496,7 @@ before it is implemented. This procedure would enable the [COA] to inquire into 
 propriety of the condonation and to determine whether the same will not prejudice
 the government's interest, consistent with COA's constitutional mandate to
 examine, audit and settle all accounts of the government, its subdivisions, agencies
-and instrumentalities, including [GOCCs]. 54 (Emphases supplied)
-
-
-
-
-IV.
+and instrumentalities, including [GOCCs]. 54 (Emphases supplied)IV.
 The COA's, factual findings must be
 respected absent grave abuse of
 discretion.
@@ -546,7 +512,6 @@ only respect, but also finality, to these factual findings, viz.:
 In decisions of this Commission, approval of condonation is limited to interests and
 penalties where the principal loan is paid, considering that this will not result to a loss on the
 part of the government.
-
 
 In the herein case, this Commission concurs in views that the condonation by the PDIC
 of [P]1,656,830,000.00 [ﬁnancial assistance] granted to [Westmont Bank] was not proper,
@@ -595,12 +560,7 @@ both dated July 10, 2015, are AFFIRMED.
 SO ORDERED.
 
 Gesmundo, C.J., Perlas-Bernabe, Leonen, Caguioa, Hernando, Lazaro-Javier, Inting, Zalameda,
-Gaerlan, Rosario, J.Y. Lopez, Dimaampao, Marquez and Kho, Jr., JJ., concur.
-
-
-
-
-Footnotes
+Gaerlan, Rosario, J.Y. Lopez, Dimaampao, Marquez and Kho, Jr., JJ., concur.Footnotes
 1. Rollo, pp. 7-37.
 2. Id. at 38-46.
 3. Id. at 47.
@@ -644,12 +604,7 @@ POWERS AND DUTIES AND FOR OTHER PURPOSES," approved on June 22, 1963.
 26. Id. at 539-540.
 27. Id. at 541-542.
 28. Id. at 543-544.
-29. Id. at 526-530.
-
-
-
-
-30. Approved on September 15, 2009.
+29. Id. at 526-530.30. Approved on September 15, 2009.
 31. COA Resolution No. 2011-006, Resolution Modifying Sections 9 and 10, Rule X of the 2009 Revised
 Rules of Procedure of the Commission on Audit dated August 17, 2011.
 32. 2009 Revised Rules of Procedure of the Commission on Audit, Rule XII, Section 1. Petition for Certiorari.
@@ -700,19 +655,9 @@ May 23, 2016.
 51. 836 Phil. 46 (2018).
 52. Id. at 56-59.
 53. Philippine Deposit Insurance Corporation v. Commission on Audit, 570 Phil. 79 (2008).
-54. Id. at 87-88.
-
-
-
-
-55. See Rules IV and V of the 2009 Revised Rules of Procedure of the Commission on Audit.
+54. Id. at 87-88.55. See Rules IV and V of the 2009 Revised Rules of Procedure of the Commission on Audit.
 56. Ablong v. Commission on Audit , G.R. No. 233308, August 18, 2020.
 57. Rollo, p. 45.
 58. 622 Phil. 431 (2009).
 59. G.R. No. 244128, September 8, 2020, 951 SCRA 221, 263.
 60. Ancheta v. Commission on Audit , G.R. No. 236725, February 2, 2021.
-
-
-
-
-

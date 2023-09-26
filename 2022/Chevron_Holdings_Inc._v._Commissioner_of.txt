@@ -104,7 +104,6 @@ The input taxes were allocated proportionately, as follows:
 VAT-able
 sales
 
-
 1st Quarter
 
 2nd Quarter
@@ -120,7 +119,6 @@ sales
 28,405,325.59
 
 41,180,817.13
-
 
 Zero-rated
 sales
@@ -182,7 +180,6 @@ because of the substantial amounts of input taxes carried forward from the previ
 Chevron Holdings declared in its Amended Quarterly VAT Return for the fourth quarter of 2005 the
 amount of P55,784,357.71 as excess input tax. 7
 
-
 On March 28, 2008, Chevron Holdings ﬁled an administrative claim for refund or issuance of a
 tax credit certiﬁcate on the unutilized input VAT attributable to the sale of services to its foreign
 aﬃliates. The Commissioner of Internal Revenue (CIR) failed to act on the claim; hence, on April 24,
@@ -220,12 +217,7 @@ clients under Section 108 (B) (2) 22 of the 1997 National Internal Revenue Code,
 Code). 23 The CTA En Banc held that to be considered as a non-resident foreign corporation doing
 business outside the Philippines, each entity must be supported by both SEC Certiﬁcate of NonRegistration and Certiﬁcate or Article of foreign incorporation/association or printed screenshots of
 the United States (US) SEC website showing the state/province/country where the entity was
-organized. The CTA En Banc observed that some of the foreign aﬃliate clients were not adequately
-
-
-
-
-supported by these two documents. The CTA En Banc added that VAT oﬃcial receipts issued to
+organized. The CTA En Banc observed that some of the foreign aﬃliate clients were not adequatelysupported by these two documents. The CTA En Banc added that VAT oﬃcial receipts issued to
 foreign aﬃliates must have the corresponding foreign currency inward remittances. Sales in the
 amount of P10,025,869.35 did not have the required inward remittances.
 The CTA En Banc ruled that only P9,081,815.00 24 was valid input VAT. It disallowed the
@@ -309,7 +301,6 @@ Quarterly VAT Return for the ﬁrst quarter cannot be validly applied against th
 year 2006 because Chevron Holdings failed to present VAT invoices or receipts to prove its
 existence.
 
-
 The CTA En Banc disposed:
 WHEREFORE, in view of the foregoing, the instant Petition for Review is hereby
 PARTIALLY GRANTED . The Decision dated June 6, 2012 and Resolution dated September 7,
@@ -329,12 +320,7 @@ the Certiﬁcate of Inward Remittance issued by JP Morgan did not reﬂect the p
 P10,025,869.35; hence, it should be disallowed as a zero-rated sale. The CTA En Banc reconsidered
 some input taxes that were previously disallowed and disposed of:
 WHEREFORE, petitioner's Motion for Partial Reconsideration is hereby PARTIALLY
-GRANTED. The Decision dated May 6, 2014[,] is hereby AMENDED to reﬂect the additional
-
-
-
-
-amount allowed for refund or issuance of a tax credit certiﬁcate in the amount of Forty[-]Seven
+GRANTED. The Decision dated May 6, 2014[,] is hereby AMENDED to reﬂect the additionalamount allowed for refund or issuance of a tax credit certiﬁcate in the amount of Forty[-]Seven
 Thousand Four Hundred Nine and Twenty Four Centavos ([P]47,409.24), representing the
 unutilized excess input VAT for the ﬁrst quarter of 2006 which is attributable to its zero-rated
 sales for the same period.
@@ -381,7 +367,6 @@ entitled to a refund. Chevron Holdings avers that the Tax Code allows the taxpay
 unutilized input taxes attributable to zero-rated rates and not apply them against its output tax
 liabilities.
 
-
 Finally, Chevron Holdings posits that the CTA En Banc should have allowed the amount of
 P24,598,395.58 as input VAT because there was no intrinsic evil in not indicating the VAT as a
 separate item. The CIR previously mandated in Revenue Regulations (RR) No. 8-99 33 that the
@@ -393,12 +378,7 @@ ISSUES
 Essentially, the issues may be summarized as follows: (1) whether the sales rendered to
 Chevron Holdings' non-resident foreign affiliates qualify for VAT zero-rating under Section 108 (B) (2)
 of the Tax Code; (2) whether Chevron Holdings is required to substantiate its excess input tax
-carried-over from the previous quarters in the amount of P55,784,357.71 to be entitled to refund or
-
-
-
-
-credit of unutilized input taxes arising from zero-rated sales from January 1 to December 31, 2006;
+carried-over from the previous quarters in the amount of P55,784,357.71 to be entitled to refund orcredit of unutilized input taxes arising from zero-rated sales from January 1 to December 31, 2006;
 and (3) whether the CTA En Banc properly charged against Chevron Holdings' output tax liabilities
 the validated input taxes and only when there existed excess input taxes that it allows the refund.
 RULING
@@ -461,14 +441,8 @@ these components: showing not only that the clients are foreign corporations, bu
 business in the Philippines."
 Therefore, the taxpayer-claimant must present, at the very least, both the SEC Certiﬁcates of
 Non-Registration — to prove that the aﬃliate is foreign; and the Articles or Certiﬁcates of Foreign
-Incorporation, printed screenshots of US SEC website showing the state/province/country where the
-
-
-
-
-entity was organized, or any similar document — to prove the fact of not engaging in trade or
+Incorporation, printed screenshots of US SEC website showing the state/province/country where theentity was organized, or any similar document — to prove the fact of not engaging in trade or
 business in the Philippines at the time the sales are rendered. 43
-
 
 Here, the CTA En Banc observed that only the following foreign clients were supported by both
 the SEC Certiﬁcates of Non-Registration and the Certiﬁcates or Articles of Association or
@@ -576,12 +550,7 @@ refund or tax credit. 51 The reason for this is simple — only a VAT invoice or
 rise to input tax; without input tax, there is nothing to refund. 52 Therefore, considering that input
 taxes in the amount of P24,598,395.58 were not shown as a separate item in the invoice or oﬃcial
 receipts, these cannot be considered valid input taxes that may be refunded or credited in favor of
-Chevron Holdings.
-
-
-
-
-Requirements for entitlement to a refund
+Chevron Holdings.Requirements for entitlement to a refund
 or the issuance of tax credit certificate of
 unutilized input VAT from zero-rated
 sales.
@@ -615,7 +584,6 @@ and (5) in case the taxpayer is engaged in mixed transactions, i.e., VAT-able, e
 transactions, only the input taxes proportionately allocated to zero-rated sales based on sales
 volume may be refunded or issued a tax credit certificate. 53
 
-
 The ﬁrst, second, third, and ﬁfth requisites have been established. Only the amount of
 P9,081,815.00 54 is valid and substantiated creditable input tax, the amount is related to Chevron
 Holdings' regular and zero-rated sales from January 1 to December 31, 2006, and the input taxes are
@@ -646,12 +614,7 @@ consistent with the nature of VAT as a tax levied only on the value-added and to
 "tax on tax" or a cascading eﬀect. Simply put, no tax is imposed on goods or services previously
 taxed in the chain. The Court explained in Commissioner of Internal Revenue v. San Roque Power
 Corp., 59 to wit:
-As its name implies, the Value-Added Tax system is a tax on the value added by the
-
-
-
-
-taxpayer in the chain of transactions. For simplicity and eﬃciency in tax collection, the VAT is
+As its name implies, the Value-Added Tax system is a tax on the value added by thetaxpayer in the chain of transactions. For simplicity and eﬃciency in tax collection, the VAT is
 imposed not just on the value added by the taxpayer, but on the entire selling price of his
 goods, properties[,] or services. However, the taxpayer is allowed a refund or credit on the
 VAT previously paid by those who sold him the inputs for his goods, properties, or services.
@@ -669,7 +632,6 @@ Code. 63 And, even if the "excess" input tax is in fact "excessively" collected,
 the judicial claim for refund is the person legally liable to pay the input tax, not the person to whom
 the tax was passed on as part of the purchase price. 64 The taxpayer will be entitled to the refund or
 tax credit of the "excess" and unused input tax only when its VAT registration is cancelled. 65
-
 
 This rule, however, is not absolute. Sections 110 (B) and 112 (A) of the Tax Code read in part
 below:
@@ -723,12 +685,7 @@ be (a) applied directly against output VAT due on other transactions, or (b) cla
 as tax refund/credit. The second option, is the only one available for taxpayers whose
 transactions are 100% zero-rated as it will not have any output VAT against which it may apply
 its input VAT. It may also be the more favorable option for taxpayers with mixed transactions
-as the refunded amount will be cash on hand, while the TCC issued may be applied to all
-
-
-
-
-national internal revenue taxes (not just limited to output VAT). When the taxpayer avails
+as the refunded amount will be cash on hand, while the TCC issued may be applied to allnational internal revenue taxes (not just limited to output VAT). When the taxpayer avails
 itself of the second option, it must prove that it has not previously availed itself of
 the ﬁrst option. The necessary implication of all this is that input VAT attributable to zerorated sales is still creditable input VAT, and having the second option available to the taxpayer
 does not change its nature. (Emphases supplied.)
@@ -754,7 +711,6 @@ Determination of Creditable Input Tax. — The sum of the excess input tax
 carried over from the preceding month or quarter and the input tax creditable to a VATregistered person during the taxable month or quarter shall be reduced by the amount of
 claim for refund or tax credit for value-added tax and other adjustments, such as
 purchase returns or allowances and input tax attributable to exempt sale.
-
 
 xxx xxx xxx (Emphases supplied.)
 [Section 4.110-5, RR No. 16-2005]
@@ -804,12 +760,7 @@ exceeding
 
 (xxx)
 
-1 million deferred for the succeeding period
-
-
-
-
-Input tax on sale to government closed to
+1 million deferred for the succeeding periodInput tax on sale to government closed to
 expense
 
 (xxx)
@@ -875,16 +826,10 @@ xxx xxx xxx
 THE CHAIRMAN.
 But supposing the input tax exceeds the output tax. That will be a problem.
 MR. FRIANEZA.
-In the ordinary transactions, not exporters or zero[-]rated transactions. When
-
-
-
-
-the input tax exceeds that output tax as when you, for example, bought a big equipment
+In the ordinary transactions, not exporters or zero[-]rated transactions. Whenthe input tax exceeds that output tax as when you, for example, bought a big equipment
 and therefore your VAT paid at Customs is quite big and it is more than what your output
 tax is for the period, then that excess of input tax can be carried over to the next taxable
 period, monthly period or quarter.
-
 
 xxx xxx xxx
 THE CHAIRMAN.
@@ -941,12 +886,7 @@ CHAIRMAN RECTO.
 If I can explain [to] Congressman Villafuerte, how this will operate, as far as Senate is
 concerned, is this: Total gross sales of an airline company, if 80% of the gross
 sales was [sic] used for international, then the 80% is immediately refundable.
-If 20% of his gross sales, which is domestic, by way of cargo or passengers,
-
-
-
-
-then the 20% is subject now to creditable VAT on a quarterly basis. So, it's
+If 20% of his gross sales, which is domestic, by way of cargo or passengers,then the 20% is subject now to creditable VAT on a quarterly basis. So, it's
 ratably. Now, it's easier for the BIR as well to collect. For example, in this case, as far as
 the zero-rating for exclusively an international transport, let's say, those service providers
 of Lufthansa, Cathay Paciﬁc, I think who provide service with them, let's say, Macro Asia,
@@ -969,7 +909,6 @@ CHAIRMAN RECTO.
 Yes, but there is another provision Congressman Villafuerte that says here that transport
 of passengers and cargo by air or sea to foreign countries is zero-rated. There is another
 provision that will apply to that.
-
 
 REP. VILLAFUERTE.
 Zero-rated. But what I'm trying to say is that you are not applying the word "exclusively"
@@ -1004,12 +943,7 @@ input tax attributable to zero-rated sales as there is no related output tax fro
 may be charged against. For context, in zero-rated transactions, the tax rate is set at zero percent.
 77 Consequently, the seller charges zero output tax. However, the seller may have incurred input
 taxes from its purchases of goods and/or services related to its sales. 78 The input taxes previously
-charged by suppliers remain unutilized or unused until charged against the output tax from
-
-
-
-
-the non-zero-rated sale transactions in the same quarter that the input taxes were incurred 79
+charged by suppliers remain unutilized or unused until charged against the output tax fromthe non-zero-rated sale transactions in the same quarter that the input taxes were incurred 79
 or applied for a refund or the issuance of tax credit certiﬁcate within two (2) years from the close of
 the taxable quarter when the related sales were made. 80
 The Court is not unaware that in Commissioner of Internal Revenue v. Seagate Technology
@@ -1053,7 +987,6 @@ Million Eight Hundred Two Thousand Nine Hundred Fifty-Six and 72/100 Pesos
 
 As in ordinary civil cases, a claim for refund or tax credit necessitates only the preponderanceof-evidence threshold. 89 Chevron Holdings proved its entitlement by preponderant evidence.
 
-
 Fourth, that the taxpayer failed to prove that it had suﬃcient creditable input taxes90 to cover
 or "pay" its output tax liability in a given period, hence, there is no refundable "excess" input tax,
 which is an issue distinct, separate, and independent from a claim for refund or issuance of tax
@@ -1071,12 +1004,7 @@ It is true, in several cases, 92 the Court has ruled that it will not grant a re
 has pending tax liability to the government because "[t]o award the refund despite the existence of
 deﬁciency assessment is an absurdity and a polarity in conceptual eﬀects" 93 and that "to grant the
 refund without determination of the proper assessment and the tax due would inevitably result in a
-multiplicity of proceedings or suits." 94 We explained in Commissioner of Internal Revenue v. Court
-
-
-
-
-of Appeals, to wit: 95
+multiplicity of proceedings or suits." 94 We explained in Commissioner of Internal Revenue v. Courtof Appeals, to wit: 95
 x x x If the deﬁciency assessment should subsequently be upheld, the Government will be
 forced to institute anew a proceeding for the recovery of erroneously refunded taxes which
 recourse must be ﬁled within the prescriptive period of ten years after [the] discovery of the
@@ -1108,7 +1036,6 @@ burden the taxpayer-claimant with additional requirements which have no statutor
 jurisprudential basis. 99 In the present case, Chevron Holdings sufficiently proved compliance with all
 the requisites for entitlement to a refund or credit of unutilized input tax allocable to zero-rated
 sales under Section 112 (A) of the Tax Code.
-
 
 Computation of refundable input tax
 attributable to zero-rated sales when the
@@ -1150,9 +1077,7 @@ The following input taxes were passed on by its VAT suppliers:
 
 Input tax on taxable goods 12%
 
-
 P5,000.00
-
 
 Input tax on zero-rated sales
 
@@ -1269,12 +1194,7 @@ Third Quarter
 Fourth
 Quarter
 
-Valid zerorated sales
-
-
-
-
-5,762,011.70
+Valid zerorated sales5,762,011.70
 
 4,669,743.23
 
@@ -1337,7 +1257,6 @@ Revenue is ordered to refund, or in the alternative, issue a tax credit certiﬁ
 Holdings, Inc. in the total amount of One Million One Hundred Forty Thousand Three Hundred EightyOne Pesos and 22/100 (P1,140,381.22), representing unutilized input tax attributable to zero-rated
 sales for the period of January 1 to December 31, 2006.
 
-
 SO ORDERED.
 
 Gesmundo, C.J., Leonen, Hernando, Inting, Zalameda, Gaerlan, Rosario, J.Y. Lopez,
@@ -1366,12 +1285,7 @@ the basic principles of a sound tax system.
 I.
 
 Sections 110 and 112 of the National
-Internal Revenue Code of 1997, 4 as
-
-
-
-
-amended (1997 NIRC), requires that
+Internal Revenue Code of 1997, 4 asamended (1997 NIRC), requires that
 only the "excess" input tax
 attributable to zero-rated sales is
 refundable to the taxpayer
@@ -1414,7 +1328,6 @@ tax for the succeeding quarters, has the additional options of either: (1) claim
 crediting it against other internal revenue taxes. These additional options may be exercised subject
 to the requirements of Section 112.
 
-
 In simple terms, Section 112 is foremost circumscribed by how a taxpayer's VAT liability is
 determined or computed under Section 110 (B). Stated diﬀerently, the requisites for claiming for
 refund of input tax attributable to zero-rated sales are not conﬁned to the provisions of Section 112
@@ -1438,12 +1351,7 @@ issue that is inextricably linked to the resolution of the claimed refund. Again
 the input tax, the excess shall be paid by the VAT-registered person."
 Relevantly, this reading of Section 110 (B) in relation to Section 112, has already been
 established by the Court as far back as 2005 in the case of Commissioner of Internal Revenue v.
-Seagate Technology (Phils.) 7 (Seagate). Contrary to the characterization made by the ponencia, the
-
-
-
-
-Court's pronouncement in Seagate that only the "excess" input tax over output tax shall be
+Seagate Technology (Phils.) 7 (Seagate). Contrary to the characterization made by the ponencia, theCourt's pronouncement in Seagate that only the "excess" input tax over output tax shall be
 refunded to the taxpayer is not obiter dictum. 8 To be sure, Seagate involves a claim for refund or
 credit of input tax attributable to zero-rated sales. And in determining Seagate's entitlement
 thereto, the Court discussed the VAT system and applied Section 110 (B) and the requirements for
@@ -1499,7 +1407,6 @@ to the input taxes that he paid and passed on by the suppliers, then no payment 
 Second, when the output taxes exceed the input taxes, the person shall be liable for the
 excess, which has to be paid to the Bureau of Internal Revenue (BIR); and
 
-
 Third, if the input taxes exceed the output taxes, the excess shall be carried
 over to the succeeding quarter or quarters. Should the input taxes result from zerorated or eﬀectively zero-rated transactions, any excess over the output taxes shall
 instead be refunded to the taxpayer or credited against other internal revenue
@@ -1508,12 +1415,7 @@ taxes, at the taxpayer's option. 12
 Indeed, the issue discussed in the ponencia has long been settled by jurisprudence; and to
 revisit and reverse the same is completely unwarranted as it is contrary to the plain letter of the
 law.
-To reiterate, Section 112 should be read in conjunction with Section 110 (B). Based on these
-
-
-
-
-provisions, before a taxpayer can be granted a refund of input tax from zero-rated sales, it must first
+To reiterate, Section 112 should be read in conjunction with Section 110 (B). Based on theseprovisions, before a taxpayer can be granted a refund of input tax from zero-rated sales, it must first
 be established that it has no output tax liability but, in fact, has excess input tax for the period or
 periods covered by the claim. As such, charging/oﬀsetting the validated input tax against the
 taxpayer's output tax liability in the quarter subject of the claim is necessary and required by law to
@@ -1572,17 +1474,11 @@ succeeding quarters. On the other hand, what Section 110 (B) requires is that th
 that it has no output tax liability in the given quarter before it can be granted a refund or credit of
 the excess input tax.
 
-
 Substantiation of accumulated input
 tax carry-over is mandatory in input
 tax refund
 I also cannot agree with the ponencia's ruling that, in cases of refund of input tax attributable
-to zero-rated sales, the taxpayer is not required to substantiate its creditable input tax, including
-
-
-
-
-those carried over from the previous quarter. 17
+to zero-rated sales, the taxpayer is not required to substantiate its creditable input tax, includingthose carried over from the previous quarter. 17
 As earlier emphasized, the entitlement of a taxpayer to a refund or credit of input tax
 attributable to zero-rated sales depends on whether it has excess input or excess output tax. To
 determine this, input tax is deducted or credited against the output tax. In the quarterly VAT return,
@@ -1643,13 +1539,7 @@ The canons of a sound tax system are the following:
 (a)
 
 Fiscal adequacy — the sources of revenues must be adequate to meet government
-expenditures and their variations; 29
-
-
-
-
-
-(b)
+expenditures and their variations; 29(b)
 
 Ability-to-pay — the tax burden must be in proportion to the taxpayer's ability to pay;30
 and
@@ -1670,7 +1560,6 @@ taxpayers should be allowed to rely on the location reﬂected in their certiﬁ
 otherwise would subject taxpayers to the vagaries of boundary disputes, to their prejudice and
 inconvenience and to the detriment of proper tax administration. Such scenario is contrary to the
 canons of a sound tax system." 37
-
 
 The formula for computing the refundable amount of input VAT attributable to zero-rated sales,
 as deduced by the ponencia from its interpretation of Sections 110 and 112, contravenes the
@@ -1717,12 +1606,7 @@ encourages ineﬃciency and suppresses administrative feasibility . In ﬁne, th
 submits that a taxpayer can refund its unutilized input tax as long as it is attributable to its zerorated transactions, regardless if the taxpayer still has excess output tax. As discussed above, excess
 output tax results in a VAT liability which must be paid by the taxpayer to the government.
 Verily, instead of interpreting Sections 110 and 112 in such a way that the taxpayer is required
-to ﬁrst charge the amount it wants to refund from the government against the amount it has to pay
-
-
-
-
-to the government, thereby promoting administrative feasibility, the ponencia suggests a multistep
+to ﬁrst charge the amount it wants to refund from the government against the amount it has to payto the government, thereby promoting administrative feasibility, the ponencia suggests a multistep
 approach that unnecessarily exhausts the government's time and resources and causes
 inconvenience to the taxpayer. It would be more complicated and circuitous if the government were
 to grant ﬁrst the refund claim and then later collect from the taxpayer the outstanding output tax
@@ -1735,7 +1619,6 @@ interpretation that mainly guarantees tax refund which, as mentioned, is in the 
 exemption. This clearly is not the intent of Congress as it is not in consonance with the objective of
 the government to collect taxes and revenues suﬃcient enough to meet the government's
 disbursements and expenses.
-
 
 Just a ﬁnal observation at this juncture. It seems to me that the majority of the Court fails to
 recognize that by granting the input tax refund without charging against the taxpayer's output tax
@@ -1784,12 +1667,7 @@ I dissent.
 Claims for Value-Added Tax (VAT) Refund under Section 112, National Internal Revenue Code
 (NIRC), 1 as amended, on "excess or unutilized input taxes" require: (1) the taxpayer to prove
 that output taxes (if any) for the period has been charged against input taxes; and (2) the input
-taxes (including excess from previous quarters) be substantiated.
-
-
-
-
-"Excess or Unutilized input
+taxes (including excess from previous quarters) be substantiated."Excess or Unutilized input
 taxes" is the result of charging
 Input Taxes against Output
 Taxes
@@ -1803,7 +1681,6 @@ xxx xxx xxx
 The term "input tax" means the value-added tax due from or paid by a VAT-registered person
 in the course of his trade or business on importation of goods or local purchase of goods or
 services, including lease or use of property, from a VAT-registered person.
-
 
 It shall also include the transitional input tax determined in accordance with Section 111 of
 this Code. The term "output tax" means the value-added tax due on the sale or lease of
@@ -1861,12 +1738,7 @@ The term "input tax" means the value-added tax due from or paid
 by a VAT-registered person in the course of his trade or business on
 importation of goods or local purchase of goods or services,
 including lease or use of property, from a VAT-registered person. It
-shall also include the transitional input tax determined in
-
-
-
-
-accordance with Section 111 of this Code.
+shall also include the transitional input tax determined inaccordance with Section 111 of this Code.
 
 "Excess or Unutilized input tax," as basis for claim for refund should therefore undergo this
 formula. There can be no unutilized or excess input tax if the output tax (if any) has not
@@ -1911,7 +1783,6 @@ unutilized input tax" for the period or periods covered by the claim. Clearly, c
 validated input tax against the taxpayer's output tax in a given quarter is a necessary step in
 determining the amount of input tax, if any, which may be refunded to the taxpayer.
 
-
 In Coca-Cola Bottlers Philippines, Inc. v. CIR, 6 the Court interpreted Section 110 (B) in relation
 to Section 112, NIRC, as amended:
 A plain and simple reading of the aforequoted provisions [Section 110(B) and Section 112,
@@ -1932,12 +1803,7 @@ his "excess" input VAT against his future output VAT. If such "excess" input VAT
 "excess" input VAT whether or not he has output VAT. The VAT System does not allow such
 refund or credit. Such "excess" input VAT is not an "excessively" collected tax under Section
 229. The "excess" input VAT is a correctly and properly collected tax. However, such
-"excess" input VAT can be applied against the output VAT because the VAT is a tax
-
-
-
-
-imposed only on the value added by the taxpayer. If the input VAT is in fact
+"excess" input VAT can be applied against the output VAT because the VAT is a taximposed only on the value added by the taxpayer. If the input VAT is in fact
 "excessively" collected under Section 229, then it is the person legally liable to pay the input
 VAT, not the person to whom the tax was passed on as part of the purchase price and claiming
 credit for the input VAT under the VAT System, who can ﬁle the judicial claim under Section
@@ -1984,7 +1850,6 @@ accordance with Section 113 (A) of the NIRC, 9 as amended. Also, jurisprudence h
 taxpayer fails to present VAT invoices or oﬃcial receipts to substantiate his input tax, the amount
 cannot be credited against his output tax.
 
-
 Thus, mere declaration in the VAT return of the amount of excess input tax carried over from
 prior quarters, without supporting invoices or oﬃcial receipts, is insuﬃcient. The taxpayer must
 present valid invoices or receipts to prove the same.
@@ -1997,12 +1862,7 @@ As stated in our introduction, the burden of a claimant who seeks a refund of hi
 excess or unutilized creditable input VAT pursuant to Section 112 of the NIRC is two-fold:
 ( 1 ) prove payment of input VAT to suppliers; and (2) prove zero-rated sales to
 purchasers. Additionally, the taxpayer-claimant has to show that the VAT payment made,
-called input VAT, is attributable to his zero-rated sales. 11
-
-
-
-
-Input taxes, whether for the present taxable period, or is an "excess or utilized input tax" from
+called input VAT, is attributable to his zero-rated sales. 11Input taxes, whether for the present taxable period, or is an "excess or utilized input tax" from
 preceding period, is not only a part of the computation of VAT, it needs to be validated and
 substantiated as well. Here, since the taxpayers where not able to substantiate their respective
 "excess or utilized input tax from preceding period, it cannot be used as part of the computation
@@ -2070,13 +1930,7 @@ Output Tax
 
 Section 106. VAT on Sale of Goods or
 Properties
-Section 107. VAT on Importation of Goods
-
-
-
-
-
-Section 108. VAT on Sale of Services and Use
+Section 107. VAT on Importation of GoodsSection 108. VAT on Sale of Services and Use
 or Lease of Properties
 Exempt from Output Tax
 
@@ -2097,7 +1951,6 @@ refund or tax credit for value-added tax and other adjustments, such as purchase
 allowances and input tax attributable to exempt sale ." This clearly negates the Majority's
 interpretation that the option of refund is a separate provision since refund is a factor in excess
 input taxes.
-
 
 In the Bicameral Conference Committee which led to the passage of Republic Act No. 9337,16
 Sen. Ralph G. Recto explained that zero-rated is " immediately refundable." But we all know that this
@@ -2132,12 +1985,7 @@ Esperanza R. Fabon-Victorino. Associate Justice Erlinda P. Uy wrote her Separate
 WHEREFORE, the instant Petition for Review docketed as CTA Case No. 7776 and Petition for Review
 docketed as CTA Case No. 7813 are hereby DENIED for having been prematurely filed and are
 DISMISSED for lack of cause of action. The other issues raised become moot and academic.
-SO ORDERED. Id. at 290. (Emphases in the original.)
-
-
-
-
-17. Id. at 337-342; Associate Justice Erlinda P. Uy was on Official Business. The dispositive portion of the
+SO ORDERED. Id. at 290. (Emphases in the original.)17. Id. at 337-342; Associate Justice Erlinda P. Uy was on Official Business. The dispositive portion of the
 Resolution dated September 7, 2012 reads:
 WHEREFORE, premises considered, [Chevron Holdings'] "Motion for Reconsideration" is hereby
 DENIED for lack of merit.
@@ -2190,11 +2038,7 @@ acceptable foreign currency and accounted for in accordance with the rules and r
 Bangko Sentral ng Pilipinas (BSP). x x x
 23. Republic Act No. 8424, December 11, 1997, as amended by the Value-Added Tax (VAT) Reform Act,
 Republic Act No. 9337, May 24, 2005.
-24. Id. at 12, out of the P40,152,123.09 input tax reported. The P9,081,815.00 is broken down as follows:
-
-
-
-First Quarter
+24. Id. at 12, out of the P40,152,123.09 input tax reported. The P9,081,815.00 is broken down as follows:\n\nFirst Quarter
 
 P1,276,656.14
 
@@ -2212,11 +2056,7 @@ Fourth Quarter
 
 Total
 
-P9,081,815.00
-
-
-
-25. Id. at 93.
+P9,081,815.00\n\n25. Id. at 93.
 26. The sum of P3,645,615.75 (Input Tax Carried Over from Previous Quarter), P52,138,741.96 (Transitional
 Input Tax) and P779,739.06 (Others), see id. at 93.
 27. Id. at 94-95.
@@ -2265,12 +2105,7 @@ Inc., 541 Phil. 119, 135-136 (2007).
 Storage Technologies Phil. Corp. v. Commissioner of Internal Revenue, 648 Phil. 425, 432 (2010).
 46. 550 Phil. 751, 780 (2007).
 47. Rollo , p. 29.
-48. See id. at 88.
-
-
-
-
-49. CONSOLIDATED VALUE-ADDED TAX REGULATIONS OF 2005, September 1, 2005.
+48. See id. at 88.49. CONSOLIDATED VALUE-ADDED TAX REGULATIONS OF 2005, September 1, 2005.
 50. SEC. 113. Invoicing and Accounting Requirements for VAT-registered Persons. — x x x
 (B) Information Contained in the VAT Invoice or VAT Official Receipt. — The following information shall
 be indicated in the VAT invoice or VAT official receipt: x x x
@@ -2318,12 +2153,7 @@ December 13, 2006.
 68. G.R. Nos. 219630-31 & 219635-36, December 7, 2021.
 69. See Lines 20 to 24, BIR Form No. 2550-Q, Quarterly Value-Added Tax Return, February 2007 (ENCS).
 70. Under Republic Act No. 9337, entitled "VALUE-ADDED TAX (VAT) REFORM ACT," the total input tax that
-may be credited in every quarter shall not exceed seventy percent (70%) of the output VAT. N.B. The
-
-
-
-
-70% cap was removed in Republic Act No. 9361, entitled "AMENDMENT TO SECTION 110 (B) OF NIRC
+may be credited in every quarter shall not exceed seventy percent (70%) of the output VAT. N.B. The70% cap was removed in Republic Act No. 9361, entitled "AMENDMENT TO SECTION 110 (B) OF NIRC
 OF 1997."
 71. Entitled "EXPANDED VALUE-ADDED TAX (VAT) LAW," approved on May 5, 1994 and published in
 "Malaya" and the "Philippine Times Journal " on May 12, 1994 and in "Manila Bulletin" on June 5, 1994
@@ -2371,12 +2201,7 @@ of Internal Revenue, 626 Phil. 566, 578 (2010).
 96. Id. at 527.
 97. Commissioner of Internal Revenue v. Philippine National Bank, G.R. No. 212699, March 13, 2019.
 98. Winebrenner & Iñigo Insurance Brokers, Inc. v. Commissioner of Internal Revenue, 752 Phil. 375, 395
-(2015).
-
-
-
-
-99. Commissioner of Internal Revenue v. Philippine National Bank, G.R. No. 212699, March 13, 2019.
+(2015).99. Commissioner of Internal Revenue v. Philippine National Bank, G.R. No. 212699, March 13, 2019.
 100. AMENDING CERTAIN PROVISIONS OF REVENUE REGULATIONS NO. 16-2005, AS AMENDED, OTHERWISE
 KNOWN AS THE CONSOLIDATED VALUE-ADDED TAX REGULATIONS OF 2005, February 7, 2007.
 101. Rollo , pp. 88-90.
@@ -2422,12 +2247,7 @@ Section 113 hereof on the following transactions shall be creditable against the
 SECTION 113. Invoicing and Accounting Requirements for VAT-Registered Persons. —
 (A) Invoicing Requirements. — A VAT-registered person shall, for every sale, issue an invoice or
 receipt. In addition to the information required under Section 237, the following information shall be
-indicated in the invoice or receipt:
-
-
-
-
-(1) A statement that the seller is a VAT-registered person, followed by his taxpayer's identification
+indicated in the invoice or receipt:(1) A statement that the seller is a VAT-registered person, followed by his taxpayer's identification
 number (TIN); and
 (2) The total amount which the purchaser pays or is obligated to pay to the seller with the indication
 that such amount includes the value-added tax.
@@ -2474,12 +2294,7 @@ but it the same as deduction because you reduce. In this case, Output Tax is red
 Traditionally, deduction or deducted is used as term for computing tax base not taxes.
 6. 826 Phil. 329-348 (2018).
 7. Id. at 343-344.
-8. REPUBLIC ACT NO. 8424, AN ACT AMENDING THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED,
-
-
-
-
-AND FOR OTHER PURPOSES, DECEMBER 11, 1997; REPUBLIC ACT NO. 9337, AN ACT AMENDING
+8. REPUBLIC ACT NO. 8424, AN ACT AMENDING THE NATIONAL INTERNAL REVENUE CODE, AS AMENDED,AND FOR OTHER PURPOSES, DECEMBER 11, 1997; REPUBLIC ACT NO. 9337, AN ACT AMENDING
 SECTIONS 27, 28, 34, 106, 107, 108, 109, 110, 111, 112, 113, 114, 116, 117, 119, 121, 148, 151,
 236, 237, AND 288 OF THE NATIONAL INTERNAL REVENUE CODE OF 1997, AS AMENDED, AND FOR
 OTHER PURPOSES, JULY 1, 2005.
@@ -2501,8 +2316,3 @@ OTHER PURPOSES, JULY 1, 2005.
 16. REPUBLIC ACT NO. 9337, AN ACT AMENDING SECTIONS 27, 28, 34, 106, 107, 108, 109, 110, 111, 112,
 113, 114, 116, 117, 119, 121, 148, 151, 236, 237, AND 288 OF THE NATIONAL INTERNAL REVENUE
 CODE OF 1997, AS AMENDED, AND FOR OTHER PURPOSES, JULY 1, 2005.
-
-
-
-
-

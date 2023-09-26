@@ -46,12 +46,7 @@ from the ﬁling of the complaint on June 21, 2011, up to the ﬁling of the mot
 Yet, the Ombudsman has not decided what cases to ﬁle against Rene as shown by the
 motion to amend informations. 13 On October 11, 2017, the Sandiganbayan denied the
 motion to quash. The Sandiganbayan explained that the delay is reasonable and part of
-the ordinary process of justice. Moreover, Rene failed to raise the speedy disposition of
-
-
-
-
-his cases before the Ombudsman, 14 thus:
+the ordinary process of justice. Moreover, Rene failed to raise the speedy disposition ofhis cases before the Ombudsman, 14 thus:
 Accused Figueroa asserts that [the] Court has been ousted of its jurisdiction
 over his person predicated on the alleged violation of his right to speedy
 disposition of cases and due process by the Office of the Ombudsman.
@@ -105,12 +100,7 @@ quash. There was no inordinate delay amounting to a violation of the right to sp
 disposition of cases. Further, the Sandiganbayan maintained a delicate balance between
 Rene's right to speedy disposition of cases and the right of the State to prosecute
 crimes.
-RULING
-
-
-
-
-The petition is meritorious.
+RULINGThe petition is meritorious.
 Article III, Section 16 of the 1987 Constitution guarantees the right of persons to a
 speedy disposition of cases before all judicial, quasi-judicial, or administrative bodies. In
 Cagang v. Sandiganbayan, 19 the Court clariﬁed the mode of analysis in situations
@@ -165,12 +155,7 @@ In all cases of dismissals due to inordinate delay, the causes of the delays
 must be properly laid out and discussed by the relevant court.
 Fifth, the right to speedy disposition of cases or the right to speedy trial
 must be timely raised. The respondent or the accused must ﬁle the
-appropriate motion upon the lapse of the statutory or procedural
-
-
-
-
-periods. Otherwise, they are deemed to have waived their right to
+appropriate motion upon the lapse of the statutory or proceduralperiods. Otherwise, they are deemed to have waived their right to
 speedy disposition of cases.
 
 We now apply these precepts vis-à-vis the material dates in Rene's case, to wit:
@@ -255,12 +240,7 @@ amount of public funds involved.
 (b)
 Any delay incurred in the proceedings, whenever attributable to the
 respondent, shall suspend the running of the period for purposes of completing
-the preliminary investigation.
-
-
-
-
-(c)
+the preliminary investigation.(c)
 The period herein prescribed may be extended by written authority
 of the Ombudsman, or the Overall Deputy Ombudsman/Special Prosecutor/Deputy
 Ombudsman concerned for justiﬁable reasons, which extension shall not
@@ -319,12 +299,7 @@ intelligently made. The waiver must be performed with suﬃcient awareness of th
 relevant circumstances and likely consequences. There must be persuasive evidence of
 an actual intention to relinquish the right. Mere silence of the holder of the right should
 not be easily construed as surrender thereof. The courts must indulge every reasonable
-presumption against the existence and validity of such waiver. 26
-
-
-
-
-In Javier v. Sandiganbayan, 27 the Ombudsman found probable cause to indict the
+presumption against the existence and validity of such waiver. 26In Javier v. Sandiganbayan, 27 the Ombudsman found probable cause to indict the
 petitioners for violation of Section 3 (e) of RA No. 3019 ﬁve (5) years after the ﬁling of
 the complaint against them. A month later, information was ﬁled against the petitioners.
 The Sandiganbayan scheduled the arraignment. However, the petitioners manifested
@@ -376,12 +351,7 @@ FOR THESE REASONS, the petition is GRANTED. The Sandiganbayan's
 Resolution dated October 11, 2017 in SB16-CRM-0326 and SB16-CRM-0327 is SET
 ASIDE. The criminal cases against Rene C. Figueroa are DISMISSED for violation of his
 constitutional right to the speedy disposition of cases.
-SO ORDERED.
-
-
-
-
-Gesmundo, C.J., Caguioa, Lazaro-Javier and J.Y. Lopez, JJ., concur.
+SO ORDERED.Gesmundo, C.J., Caguioa, Lazaro-Javier and J.Y. Lopez, JJ., concur.
 Footnotes
 1. Baker v. Wingo, 407 U.S. 514 (1972). See also Coscolluela v. Sandiganbayan, 714 Phil. 55,
 64 (2013).
@@ -417,8 +387,3 @@ Associate Justices Sarah Jane T. Fernandez and Bernelito R. Fernandez.
 
 n Note from the Publisher: Copied verbatim from official document. "twenty-four months (24)
 months" should be "twenty-four (24) months".
-
-
-
-
-

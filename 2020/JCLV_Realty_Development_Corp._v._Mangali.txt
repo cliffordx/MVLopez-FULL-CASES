@@ -40,12 +40,7 @@ the CA through a special civil action for certiorari docketed as CA-G.R. SP No.
 152450. JCLV Realty argued that the RTC erred in granting the demurrer
 because Mangali had admitted the taking of meter facilities. Moreover, the
 pre-trial order which contained admission on the identity of the perpetrator
-is valid even if not signed by the parties. Lastly, JCLV Realty claimed denial
-
-
-
-
-of due process and grave abuse of discretion on the part of RTC when it
+is valid even if not signed by the parties. Lastly, JCLV Realty claimed denialof due process and grave abuse of discretion on the part of RTC when it
 dismissed the criminal case on a ground not invoked by the accused. 7
 On September 22, 2017, the CA dismissed the petition and ruled that
 JCLV Realty has no personality to question the dismissal of the criminal case.
@@ -95,12 +90,7 @@ The rationale behind this rule is that in a criminal case, the party
 aﬀected by the dismissal of the criminal action is the State and not the
 private complainant. The interest of the private oﬀended party is restricted
 only to the civil liability. In the prosecution of the oﬀense, the complainant's
-role is limited to that of a witness for the prosecution such that when a
-
-
-
-
-criminal case is dismissed by the trial court or if there is an acquittal, an
+role is limited to that of a witness for the prosecution such that when acriminal case is dismissed by the trial court or if there is an acquittal, an
 appeal on the criminal aspect may be undertaken only by the State through
 the OSG. The private oﬀended party may not take such appeal, but may only
 do so as to the civil aspect of the case. 14 Diﬀerently stated, the private
@@ -149,12 +139,7 @@ evidence. Thus, the petitioners' acquittal was valid, entitling them to
 invoke their right against double jeopardy. 17 (Emphasis supplied;
 citation omitted.)
 
-Likewise, in Jimenez v. Sorongon 18 the petitioner has no standing to
-
-
-
-
-question the dismissal of the criminal case since his main argument is about
+Likewise, in Jimenez v. Sorongon 18 the petitioner has no standing toquestion the dismissal of the criminal case since his main argument is about
 the existence of probable cause. This dispute involves the right to prosecute
 which pertains exclusively to the People, as represented by the OSG. A
 similar ruling was applied in Anlud Metal Recycling Corp. v. Ang, 19 to wit:
@@ -203,12 +188,7 @@ holds that Anlud Metal Recycling Corporation lacks the
 requisite legal standing to appeal the discharge of
 respondent Ang from the Information for estafa . On this ground
 alone, the petition already fails. 20 (Emphasis supplied; citations
-omitted.)
-
-
-
-
-I n Yokohama Tire Philippines, Inc. v. Reyes , 21 the petitioner ﬁled a
+omitted.)I n Yokohama Tire Philippines, Inc. v. Reyes , 21 the petitioner ﬁled a
 special civil action for certiorari before the RTC seeking to annul the MTC's
 decision acquitting the respondents. In that case, the petitioner has no
 authority in ﬁling the petition because it assails the admissibility of evidence
@@ -256,12 +236,7 @@ the victim can avail certiorari to question the validity of acquittal.
 In Dela Rosa v. CA, 24 we sustained the private oﬀended party's right to
 ﬁle a special civil action for certiorari in assailing the dismissal of a criminal
 case and ruled that the OSG's intervention is not necessary. In that case, the
-trial court's dismissal of the case on the ground that the accused is entitled
-
-
-
-
-to a speedy trial is capricious and unwarranted. In People v. Court of
+trial court's dismissal of the case on the ground that the accused is entitledto a speedy trial is capricious and unwarranted. In People v. Court of
 Appeals, 25 the victim ﬁled a petition for certiorari to assail the decision of
 the appellate court acquitting the accused from the crime of rape. This Court
 reversed the judgment of acquittal because the appellate court merely relied
@@ -307,12 +282,7 @@ Finally, double jeopardy has set in. It attaches when the following
 elements concur: (1) the accused is charged under a complaint or
 information suﬃcient in form and substance to sustain their conviction; (2)
 the court has jurisdiction; (3) the accused has been arraigned and has
-pleaded; and (4) the accused is convicted or acquitted, or the case is
-
-
-
-
-dismissed without his/her consent. 33 Here, all the elements are present. A
+pleaded; and (4) the accused is convicted or acquitted, or the case isdismissed without his/her consent. 33 Here, all the elements are present. A
 valid Information for the crime of robbery was ﬁled against Mangali before
 the RTC. Also, Mangali had pleaded not guilty to the charge, and after the
 prosecution rested, the criminal case was dismissed upon a demurrer to
@@ -357,12 +327,7 @@ petition on the grounds of abuse of discretion amounting to lack or excess of
 jurisdiction, or a denial of due process rendering the judgment void. In this
 case, the ponencia finds that JCLV Realty was not denied due process since it
 was able to participate in the proceedings and present evidence. Finally,
-double jeopardy had set in as all the elements of double jeopardy are
-
-
-
-
-present in this case. Thus, there is no reason for the Court to reinstate the
+double jeopardy had set in as all the elements of double jeopardy arepresent in this case. Thus, there is no reason for the Court to reinstate the
 criminal case against Mangali. 1
 I concur with the ponencia that the petition should be denied. The
 acquittal by the trial court of Mangali for the crime charged may not be
@@ -410,12 +375,7 @@ party or complainant may not undertake such appeal. 4
 The rationale behind this rule is that in criminal cases, it is the State
 that is the oﬀended party. 5 It is the party aﬀected by the dismissal of the
 criminal action, and not the private complainant. 6 Thus, in the prosecution
-of the oﬀense, the complainant's role is limited to that of a witness for the
-
-
-
-
-prosecution. 7
+of the oﬀense, the complainant's role is limited to that of a witness for theprosecution. 7
 Since the petition ﬁled by JCLV Realty before the CA essentially
 assailed the criminal aspect of the case, it should have been ﬁled by the
 State through the OSG. Thus, the CA was correct when it dismissed the
@@ -463,12 +423,7 @@ order sustaining a demurrer, but a ﬁnal judgment disposing
 of the case on the merits; so that were we to reverse the
 judgment and direct the court below to proceed with the trial,
 the accused would be entitled to have the information
-dismissed on the plea of double jeopardy. 9
-
-
-
-
-The right against double jeopardy is a constitutional right deeply
+dismissed on the plea of double jeopardy. 9The right against double jeopardy is a constitutional right deeply
 rooted in jurisprudence. The doctrine has several avowed purposes.
 Primarily, it prevents the State from using its criminal processes as an
 instrument of harassment to wear out the accused by a multitude of cases
@@ -516,12 +471,7 @@ denied due process of law with a partial court and biased
 Tanodbayan under the constant and pervasive monitoring and
 pressure exerted by the authoritarian president to assure the
 carrying out of his instructions. A dictated, coerced and
-scripted verdict of acquittal, such as that in the case at bar,
-
-
-
-
-is a void judgment. In legal contemplation, it is no judgment
+scripted verdict of acquittal, such as that in the case at bar,is a void judgment. In legal contemplation, it is no judgment
 at all. It neither binds nor bars anyone. Such a judgment is 'a
 lawless thing which can be treated as an outlaw.' It is a terrible
 and unspeakable aﬀront to the society and the people. 'To
@@ -571,12 +521,7 @@ jeopardy. The unique facts surrounding Galman — and other similar
 scenarios where the denial of due process on the part of the prosecution was
 so gross and palpable — is the very limited area where an acquittal may be
 revisited through a petition for certiorari.
-Thus, in People v. Tria-Tirona, 15 the Court held:
-
-
-
-
-x x x In general, the rule is that a remand to a trial court
+Thus, in People v. Tria-Tirona, 15 the Court held:x x x In general, the rule is that a remand to a trial court
 of a judgment of acquittal brought before the Supreme Court
 o n certiorari cannot be had unless there is a ﬁnding of
 mistrial, as in Galman v. Sandiganbayan . Only when there is a
@@ -632,12 +577,7 @@ scope and inﬂexible in character, whose purpose is to keep an inferior court
 within the bounds of its jurisdiction, or to prevent an inferior court from
 committing such grave abuse of discretion amounting to excess of
 jurisdiction, or to relieve parties from arbitrary acts of courts (i.e., acts that
-courts have no power or authority in law to perform) — is not a general
-
-
-
-
-utility tool in the legal workshop, and cannot be issued to correct every error
+courts have no power or authority in law to perform) — is not a generalutility tool in the legal workshop, and cannot be issued to correct every error
 committed by a lower court. 19 Certiorari will issue only to correct errors of
 jurisdiction, not errors of procedure or mistakes in the ﬁndings or
 conclusions of the lower court. As long as a court acts within its jurisdiction,
@@ -674,12 +614,7 @@ Inting.
 10. Id. at 39-48.
 11. Id. at 56.
 12. Id. at 12-27.
-13. See Cu v. Ventura, G.R. No. 224567, September 26, 2018, 881 SCRA 118.
-
-
-
-
-14. Chiok v. People, et al., 774 Phil. 230, 264 (2015).
+13. See Cu v. Ventura, G.R. No. 224567, September 26, 2018, 881 SCRA 118.14. Chiok v. People, et al., 774 Phil. 230, 264 (2015).
 15. Cu v. Ventura, supra note 13, citing Villareal v. Aliga , 724 Phil. 47, 57 (2014)
 and Ong v. Genio , 623 Phil. 835 (2009).
 16. 675 Phil. 656 (2011).
@@ -713,12 +648,7 @@ CAGUIOA, J., concurring:
 521, 535.
 3. Id.
 4. Id. at 534-537.
-5. Cu v. Ventura, G.R. No. 224567, September 26, 2018, 881 SCRA 118, 128.
-
-
-
-
-6. Chiok v. People , G.R. No. 179814, December 7, 2015, 776 SCRA 120, 135.
+5. Cu v. Ventura, G.R. No. 224567, September 26, 2018, 881 SCRA 118, 128.6. Chiok v. People , G.R. No. 179814, December 7, 2015, 776 SCRA 120, 135.
 7. People v. Santiago , 255 Phil 851, 861-862 (1989).
 8. 32 Phil. 619 (1915).
 9. Id. at 622-623. Emphasis and underscoring supplied.
@@ -733,8 +663,3 @@ CAGUIOA, J., concurring:
 18. Id. at 579-580. Emphasis and underscoring supplied.
 19. Delos Santos v. Metropolitan Bank and Trust Company, G.R. No. 153852,
 October 24, 2012, 684 SCRA 410, 420.
-
-
-
-
-

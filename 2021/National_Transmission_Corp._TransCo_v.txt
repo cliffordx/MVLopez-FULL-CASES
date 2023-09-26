@@ -43,18 +43,12 @@ following common provisions:
 The computation of the Separation Pay for covered personnel
 shall be guided by the following formula:
 
-
 Separation Pay = Basic Salary x Length of Service x 1.5
 Where:
 a.
 Basic Salary shall include 13th month pay (equivalent to 1
 1/2 of Monthly Basic Salary [Sec. 3 of Rule 33 of the EPIRA
-IRR])
-
-
-
-
-b.
+IRR])b.
 
 Length of Service — multiplier is deﬁned as number of
 years of government service. A fraction of one [1] year,
@@ -153,13 +147,7 @@ P182,287.50
 
 P182,287.50
 
--
-
-
-
-
-
-12-008 (10)
+-12-008 (10)
 
 P202,602.78
 
@@ -218,7 +206,6 @@ In all these NDs, the individual recipients, as well as the approving and
 certifying oﬃcers 17 except the members of the TransCo Board of Directors
 (BOD), were held liable to settle the disallowed amounts. 18
 
-
 The dissolution of the NDs was sought through several appeals, which
 were consolidated before the COA Corporate Government Sector (CGS) —
 Cluster 3 Director. TransCo advanced the following arguments to support its
@@ -248,12 +235,7 @@ payees may no longer be required to refund the amount disallowed.
 COA Proper Ruling
 Upon automatic review, the COA Proper, in Decision No. 2018-32925
 dated July 9, 2018, aﬃrmed the COA CGS-Cluster 3 Director's Decision with
-modiﬁcation. The COA Proper sustained all the disallowances, as well as the
-
-
-
-
-exoneration of all the payees from the liability to return the disallowed
+modiﬁcation. The COA Proper sustained all the disallowances, as well as theexoneration of all the payees from the liability to return the disallowed
 beneﬁts that they received on the ground of good faith. The liability of the
 members of the BOD and the approving and certifying oﬃcers as held by the
 COA CGS-Cluster 3 Director was, however, modiﬁed in light of the Court's
@@ -273,7 +255,6 @@ with MODIFICATION, thus:
 All the payees who received the separation pay in good
 faith need not refund the total disallowed amount of
 [P]51,989,990.91;
-
 
 2.
 
@@ -309,12 +290,7 @@ RA No. 9511 to grant additional beneﬁts aside from those granted under
 Section 63 31 of the EPIRA; 32 (2) in the cases of Genuino Ice Company, Inc.
 v. Lava 33 and Shimizu Phils. Contractors, Inc. v. Callanta, 34 the Court
 considered the fraction of at least six months as one whole year of service in
-computing the separation pay awarded; 35 and (3) Article 287, 36 now Article
-
-
-
-
-302, 37 of the Labor Code 38 considers a fraction of at least six months as
+computing the separation pay awarded; 35 and (3) Article 287, 36 now Article302, 37 of the Labor Code 38 considers a fraction of at least six months as
 one whole year in the computation of separation pay. As for the oﬃcers'
 solidary liability, TransCo faults the COA Proper in holding the approving and
 certifying oﬃcers liable for the return of the excess payment of separation
@@ -349,7 +325,6 @@ the excess amounts of separation pay were properly disallowed for not being
 in accord with the EPIRA and its Implementing Rules and Regulations (IRR),
 RA 9511, and the applicable jurisprudence.
 
-
 The issue on the impropriety of rounding-oﬀ the length of service is
 actually not novel. In the recent cases of National Transmission Corporation
 v. Commission on Audit 41 (August 2018 TransCo Case) and National
@@ -373,12 +348,7 @@ On the other hand, Sec. 63 of [RA] No. 9136 or the EPIRA, in
 turn, states:
 SEC. 63.
 Separation Beneﬁts of Oﬃcials and
-Employees of Aﬀected Agencies . — National government
-
-
-
-
-employees displaced or separated from the service as a
+Employees of Aﬀected Agencies . — National governmentemployees displaced or separated from the service as a
 result of the restructuring of the electricity industry and
 privatization of NPC assets pursuant to this Act, shall be
 entitled to either a separation pay and other beneﬁts
@@ -388,7 +358,6 @@ provided under a separation plan which shall be
 one and one-half month salary for every year of
 service in the government : x x x. ([E]mphasis and
 underscoring supplied.)
-
 
 The issue raised in this petition is whether the rounding-oﬀ of
 the length of service of six (6) months or more to one (1) whole year
@@ -436,12 +405,7 @@ employees. Absent the President's approval, it cannot be sustained.
 As the COA correctly held, the power of the [TransCo] Board to grant
 additional beneﬁts under Sec. 13 of [RA] No. 9511 is subject to the
 limitation under Sec. 64 of [RA] No. 9136 requiring the President's
-imprimatur for increases in emoluments and beneﬁts of [TransCo]
-
-
-
-
-personnel.
+imprimatur for increases in emoluments and beneﬁts of [TransCo]personnel.
 Here, [TransCo] presents the same arguments. It failed to
 provide any novel or additional grounds to justify the grant of the
 rounding-oﬀ scheme to its separated employees. Glaringly,
@@ -472,7 +436,6 @@ equivalent to at least one-half (1/2) month salary for every
 year of service, a fraction of at least six (6) months being
 considered as one (1) whole year.
 
-
 xxx xxx xxx
 
 Foremost, it can readily be seen that the provision speciﬁcally pertains
@@ -496,12 +459,7 @@ the case may be without loss of seniority and shall be entitled to full
 pay for the period of separation. Unless also separated for cause, all
 oﬃcers and employees, including casuals and temporary employees,
 who have been separated pursuant to reorganization shall, if entitled
-thereto, be paid the appropriate separation pay and retirement and
-
-
-
-
-other beneﬁts under existing laws within ninety (90) days from the
+thereto, be paid the appropriate separation pay and retirement andother beneﬁts under existing laws within ninety (90) days from the
 date of the eﬀectivity of their separation or from the date of the
 receipt of the resolution of their appeals as the case may be:
 Provided, That application for clearance has been ﬁled and no action
@@ -551,13 +509,7 @@ disallowed for lack of legal basis.
 II.
 
 Liability to Refund.
-We note that in Decision No. 2018-329, the COA Proper absolved the
-
-
-
-
-
-passive recipients from liability on the ground of good faith. Since TransCo
+We note that in Decision No. 2018-329, the COA Proper absolved thepassive recipients from liability on the ground of good faith. Since TransCo
 no longer raised the matter as an issue in this petition, the COA Proper's
 decision is deemed ﬁnal and immutable insofar as this disposition is
 concerned. 55 As well, the members of the TransCo BOD were not originally
@@ -565,7 +517,6 @@ included in all the NDs, and the COA Proper held that their liability on the
 disallowed amount of P1,488,278.00 is still subject to veriﬁcation. Thus, our
 determination shall be limited to the liability of the approving and certifying
 officers named in the NDs.
-
 
 The civil liability of the approving and certifying oﬃcers, and the
 treatment of such liability as solidary, are grounded upon manifest bad faith,
@@ -606,12 +557,7 @@ which was an understandably diﬃcult question of law as the Labor Code and
 some case laws sanction the application of such method albeit, in private
 employment. It was only in the August 2018 TransCo Case 67 that the Court
 ﬁnally declared the illegality of using the rounding-oﬀ method in computing
-the separation pay of displaced or separated TransCo employees.
-
-
-
-
-FOR THESE REASONS, the Petition is PARTLY GRANTED . Decision
+the separation pay of displaced or separated TransCo employees.FOR THESE REASONS, the Petition is PARTLY GRANTED . Decision
 No. 2018-329 dated July 9, 2018 of the Commission on Audit is AFFIRMED
 with MODIFICATION in that, with regard to the aggregate disallowed
 amount of P1,488,278.00 representing the undue increase of separation pay
@@ -654,12 +600,7 @@ awarded, the concessionaire shall have a contract period of twenty-five (25)
 years, subject to review and renewal for a maximum period of another
 twenty-five (25) years.
 xxx xxx xxx
-6. Rollo , pp. 27-28.
-
-
-
-
-7. AN ACT GRANTING THE NATIONAL GRID CORPORATION OF THE PHILIPPINES A
+6. Rollo , pp. 27-28.7. AN ACT GRANTING THE NATIONAL GRID CORPORATION OF THE PHILIPPINES A
 FRANCHISE TO ENGAGE IN THE BUSINESS OF CONVEYING OR TRANSMITTING
 ELECTRICITY THROUGH HIGH VOLTAGE BACKBONE SYSTEM OF
 INTERCONNECTED TRANSMISSION LINES, SUBSTATIONS AND RELATED
@@ -698,12 +639,7 @@ government all benefits provided under Section 63 of Republic Act No. 9136
 without prejudice to such other additional benefits as the Board of
 Directors of TRANSCO may determine. (Emphasis supplied.)
 20. 501 Phil. 115 (2005).
-21. 356 Phil. 678 (1998).
-
-
-
-
-22. Rollo , p. 30.
+21. 356 Phil. 678 (1998).22. Rollo , p. 30.
 23. Id. at 31.
 24. Id.
 25. Id. at 27-37.
@@ -742,12 +678,7 @@ whole year.
 xxx xxx xxx
 38. Presidential Decree (PD) No. 442, amended and renumbered Department
 Advisory No. 01, July 21, 2015 of the Department of Labor and Employment.
-39. PD No. 1445, otherwise known as the "Government Auditing Code of the
-
-
-
-
-Philippines," approved on June 11, 1978, Section. 4 (1).
+39. PD No. 1445, otherwise known as the "Government Auditing Code of thePhilippines," approved on June 11, 1978, Section. 4 (1).
 40. COA Circular No. 85-55-A, AMENDED RULES AND REGULATIONS ON THE
 PREVENTION OF IRREGULAR, UNNECESSARY, EXCESSIVE OR EXTRAVAGANT
 EXPENDITURES OR USES OF FUNDS AND PROPERTY, dated September 8,
@@ -786,12 +717,7 @@ xxx xxx xxx
 (3) A head of a department or a superior officer shall not be civilly liable for
 the wrongful acts, omissions of duty, negligence, or misfeasance of his
 subordinates, unless he has actually authorized by written order the specific
-act or misconduct complained of.
-
-
-
-
-57. SEC. 39. Liability of Subordinate Officers. — No subordinate officer or employee
+act or misconduct complained of.57. SEC. 39. Liability of Subordinate Officers. — No subordinate officer or employee
 shall be civilly liable for acts done by him in good faith in the performance of
 his duties. However, he shall be liable for willful or negligent acts done by
 him which are contrary to law, morals, public policy and good customs even if
@@ -836,17 +762,7 @@ utilization/disbursement of funds approved in the TransCo Budget for CY
 66. RA No. 9136, SEC. 16. Powers of the President of TRANSCO. — x x x.
 (a) To execute and administer the policies and measures approved by the
 Board, and take responsibility for the efficient discharge of management
-functions;
-
-
-
-
-xxx xxx xxx
+functions;xxx xxx xxx
 (g) To exercise such other powers and duties as may be vested in him by the
 Board from time to time.
 67. National Transmission Corporation v. Commission on Audit , supra note 41.
-
-
-
-
-

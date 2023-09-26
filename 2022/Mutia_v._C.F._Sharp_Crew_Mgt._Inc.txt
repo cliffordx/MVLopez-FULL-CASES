@@ -21,7 +21,6 @@ Lines (NCL). 5 Mutia's duties include preparing meals for passengers and crew of
 The employment contract is covered by a Collective Bargaining Agreement (CBA), which grants employees
 a maximum benefit of US$100,000.00 in case of disability resulting in loss of profession. 7
 
-
 Before boarding the vessel, Mutia underwent a pre-employment medical examination (PEME). When
 asked whether he had a previous medical condition, including ear trouble and deafness, Mutia ticked the
 box "No." 8 However, his audiometry results showed that Mutia has"mild hearing loss, bilateral," 9 as
@@ -56,18 +55,12 @@ prompted the attending physician to request Shiphealth, Inc. for a "Thoracic MRI
 underwent an MRI, but the results were not released. 28 Then, respondents C.F. Sharp and NCL stopped
 paying for Mutia's treatment. 29
 
-
 On April 2, 2014, the attending physician issued a medical certiﬁcate to enable Mutia to claim
 disability beneﬁts with the Overseas Workers Welfare Administration (OWWA). The certiﬁcate stated that
 Mutia has the following medical conditions: "a) Disc degeneration, L5-S1; b) Neuromyelitis optica; c) To
 consider Behçet's disease; and d) s/b Lumbar tap." 30
 On April 8, 2014, the OWWA's government physician conﬁrmed that Mutia has "Neuromyelitis optica"
-and certiﬁed his claim for permanent total disability beneﬁts for loss of function of both eyes. 31 On April
-
-
-
-
-24, 2014, Mutia sought the medical opinion of another physician who found that he was unﬁt for duty as a
+and certiﬁed his claim for permanent total disability beneﬁts for loss of function of both eyes. 31 On April24, 2014, Mutia sought the medical opinion of another physician who found that he was unﬁt for duty as a
 seafarer in whatever capacity due to herniated disc at L5-S1. 32
 On July 9, 2014, Mutia ﬁled a complaint for permanent total disability beneﬁts, moral and exemplary
 damages, and attorney's fees. He claimed that he was incapacitated to perform his duties for more than
@@ -93,7 +86,6 @@ In its Decision dated January 29, 2016, the National Labor Relations Commission 
 LA. 41 It held that Section 20 (E) of the 2010 POEA-SEC applies to all pre-existing illnesses or conditions
 with no exception. Thus, it is immaterial whether the concealed illness directly correlates with the
 disability suffered by the seafarer. 42
-
 
 COURT OF APPEALS
 In his petition for certiorari, Mutia echoed the LA's reasoning that the absence of a causal
@@ -127,13 +119,7 @@ In their Comment, 53 respondents maintain that a causal connection between the c
 and the present medical condition is unnecessary. The PEME is not exploratory and cannot justify Mutia's
 concealment of his prior ear illness.
 
-
-ISSUES
-
-
-
-
-The core issue is whether Section 20 (E) of the 2010 POEA-SEC is applicable, Mutia's claim for
+ISSUESThe core issue is whether Section 20 (E) of the 2010 POEA-SEC is applicable, Mutia's claim for
 permanent total disability benefits. This issue may be resolved by addressing the following sub-issues:
 (1)
 
@@ -181,7 +167,6 @@ If a doctor appointed by the seafarer disagrees with the assessment, a third doc
 agreed jointly between the Employer and the seafarer. The third doctor's decision shall be ﬁnal
 and binding upon both parties.
 
-
 4.
 
 Those illnesses not listed in Section 32 of this Contract are disputably presumed as
@@ -218,17 +203,11 @@ beneﬁts because the company-designated physicians failed to issue a valid medi
 prescribed periods. The law already considers the seafarer's disability as total and permanent absent a
 valid medical assessment. 61
 Here, the respondents stopped paying for Mutia's treatment without issuing a ﬁnal medical
-assessment. More than 120 days lapsed from November 4, 2013, the day Mutia was repatriated, 62 but no
-
-
-
-
-ﬁnal medical assessment was issued. Following Elburg Shipmanagement Phils., Mutia's disability, or the
+assessment. More than 120 days lapsed from November 4, 2013, the day Mutia was repatriated, 62 but noﬁnal medical assessment was issued. Following Elburg Shipmanagement Phils., Mutia's disability, or the
 inability to work resulting in the impairment of earning capacity, 63 is deemed permanent and total when
 the complaint for permanent total disability benefits was filed.
 Nonetheless, the respondents argue that Mutia's claim for disability beneﬁts is barred by Section 20
 (E) of the 2010 POEA-SEC, which provides:
-
 
 E.
 A seafarer who knowingly conceals a pre-existing illness or condition in the PreEmployment Medical Examination (PEME) shall be liable for misrepresentation and shall be
@@ -268,7 +247,6 @@ automatically attributed to Mutia's prior ear illness, absent any evaluation or 
 cannot simply presume the connection between the acute otitis media and the "mild hearing loss,
 bilateral" because the affidavit mentioned "recovery."
 
-
 Assuming that the "mild hearing loss, bilateral" should be attributed to Mutia's acute otitis media,
 Item 11 (b) of the 2010 POEA-SEC is also not applicable. The phrase "and such cannot be diagnosed during
 the PEME" excluded Mutia's acute otitis media as a pre-existing illness. It is undisputed that the
@@ -294,12 +272,7 @@ hypertension and observed that the seafarer "did not acquire hypertension during
 therefore not work-related."
 In Vetyard Terminals & Shipping Services, Inc. v. Suarez , 68 which the CA relied upon, the concealed
 illness and the present illness are causal. The Court found that the seafarer concealed his eye cataract
-operation and that his present ailment was caused by the cataract extraction and not the paint droppings
-
-
-
-
-on the ship.
+operation and that his present ailment was caused by the cataract extraction and not the paint droppingson the ship.
 I n Status Maritime Corporation v. Delalamon, 69 the concealed illness contributed to the seafarer's
 illness. The seafarer concealed that he had diabetes. The Court observed the following points:
 Also, Margarito's [cardiovascular accident] was actually the resulting complication of his
@@ -310,7 +283,6 @@ diabetes from which he has been suffering for 6 years prior to his employment wi
 Thus, it cannot be said that his risk of contracting renal insuﬃciency or CVA was increased by
 his working conditions because irrespective thereof, his complications would have set in because of
 his diabetic condition.
-
 
 I n Manansala v. Marlow Navigations Phils., Inc., 70 the Court held that the seafarer's fraudulent
 misrepresentation of his prior illness bars the claim for disability beneﬁts. Again, the concealed illness is
@@ -342,7 +314,6 @@ seafarers should be "protected from the ﬁnancial consequences of sickness, inj
 connection with their employment." More importantly, the contemplated exclusion from liability arising
 from the seafarer's illness or injury is limited to those intentionally concealed:
 
-
 TITLE 4.
 PROTECTION
 
@@ -370,12 +341,7 @@ or injury. This interpretation is consistent with the constitutional policy guar
 labor 76 and that the POEA-SEC is imbued with public interest. 77 Thus, the POEA-SEC provisions must be
 construed fairly, reasonably, and liberally in favor of the seafarer. 78
 In sum, Section 20 (E) of the 2010 POEA-SEC is applicable if the following conditions are met: (1) the
-seafarer is suﬀering from a pre-existing illness or injury as deﬁned under Item 11 (b) of the 2010 POEASEC, (2) the seafarer intentionally concealed the illness or injury, (3) the concealed pre-existing illness or
-
-
-
-
-injury has a causal or reasonable connection with the illness or injury suﬀered during the seafarer's
+seafarer is suﬀering from a pre-existing illness or injury as deﬁned under Item 11 (b) of the 2010 POEASEC, (2) the seafarer intentionally concealed the illness or injury, (3) the concealed pre-existing illness orinjury has a causal or reasonable connection with the illness or injury suﬀered during the seafarer's
 contract. 79 Under the last condition, it is enough that the concealed illness or injury contributed to the
 seafarer's disability. 80 In the absence of these conditions, the employers remain liable for work-related
 injury or illness consistent with their duties to provide a seaworthy ship and to take precautions to avoid
@@ -390,7 +356,6 @@ Cruise Lines to pay petitioner Loue Mutia his total and permanent disability ben
 under the Collective Bargaining Agreement or its peso equivalent at the time of payment, plus 10%
 attorney's fees is REINSTATED with MODIFICATION that a legal interest of 6% is imposed on the
 monetary awards upon finality of this Decision until fully paid.
-
 
 SO ORDERED.
 
@@ -425,12 +390,7 @@ Jr. (later appointed as Supreme Court Associate Justice) and Pedro B. Corales.
 25. Id.
 26. Id.
 27. Id.
-28. Id.
-
-
-
-
-29. Id.
+28. Id.29. Id.
 30. Id.
 31. Id. at 103-104.
 32. Id. at 104.
@@ -476,12 +436,7 @@ Services, Inc., 761 Phil. 270 (2015).
 61. Id.
 62. See Pastrana v. Bahia Shipping Services, G.R. No. 227419, June 10, 2020. The Court held that the counting of
 the 120 days upon which the company-designated physician should issue a valid medical assessment should
-be reckoned on the date of the seafarers' repatriation for medical treatment.
-
-
-
-
-63. See Iloreta v. Philippine Transmarine Carriers, Inc., 622 Phil. 832 (2009). The Court explained that the notion of
+be reckoned on the date of the seafarers' repatriation for medical treatment.63. See Iloreta v. Philippine Transmarine Carriers, Inc., 622 Phil. 832 (2009). The Court explained that the notion of
 disability is related to the worker's capacity to earn. The seafarer is compensated for his or her inability to
 work resulting in the impairment of earning capacity.
 64. Deocariza v. Fleet Management Services Philippines, Inc., 836 Phil. 1087 (2018).
@@ -517,8 +472,3 @@ Services, Inc. v. Suarez, 728 Phil. 527-534 (2014).
 81. See POEA MEMORANDUM CIRCULAR NO. 10, SERIES OF 2010 dated October 26, 2010 (2010 POEA-SEC),
 Sections 1 and 20A.
 82. 716 Phil. 267 (2013).
-
-
-
-
-

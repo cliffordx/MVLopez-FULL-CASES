@@ -40,12 +40,7 @@ and billed BENECO using 5,196.31 as the multiplier. 11 NPC granted BENECO
 a Prompt Payment Discount (PPD) every month as long as BENECO's account
 was fully paid and updated. 12
 In February 2004, BENECO's employee, Engineer Lawrence Umaming
-(Umaming), studied BENECO's operations and discovered its low systems
-
-
-
-
-losses. Because of this, Engineer Umaming called the attention of the
+(Umaming), studied BENECO's operations and discovered its low systemslosses. Because of this, Engineer Umaming called the attention of the
 National Transmission Corporation (TRANSCO), the company which took over
 NPC's transmission functions in 2004. TRANSCO conducted tests on
 BENECO's billing meter and noticed that the CTR was set at 75/5 instead of
@@ -90,12 +85,7 @@ Electric) 24 and Ridjo Tape & Chemical Corp. v. Court of Appeals (Ridjo Tape) ,
 25 the RTC held that BENECO cannot be faulted for the wrong multiplier.
 NPC's failure to determine the error is a case of negligence, and as such, it
 must bear the consequential losses. 26 Concerning BENECO's entitlement to
-a PPD, the RTC agreed with BENECO that the underbilling is separate from
-
-
-
-
-the current monthly billings. Since BENECO has been paying its current
+a PPD, the RTC agreed with BENECO that the underbilling is separate fromthe current monthly billings. Since BENECO has been paying its current
 monthly bills promptly, it is entitled to a PPD. 27 The decretal portion of the
 Decision reads:
 WHEREFORE, judgment is hereby rendered in this case in favor
@@ -150,12 +140,7 @@ SO ORDERED. 32 (Emphases in the original.)
 
 NPC ﬁled a motion for reconsideration. However, the CA denied the
 motion in a Resolution 33 dated May 22, 2015.
-Hence, this recourse.
-
-
-
-
-NPC insists that BENECO is liable for the underbilling because it
+Hence, this recourse.NPC insists that BENECO is liable for the underbilling because it
 consumed the electricity from NPC but only paid half of the actual price.
 Otherwise, BENECO will be unjustly enriched. 34 Further, Panay Electric , 35
 Ridjo Tape , 36 and Manila Electric Company (MERALCO) v. Spouses Chua
@@ -200,12 +185,7 @@ Moreover, to substantiate a claim for unjust enrichment, the
 claimant must unequivocally prove that another party
 knowingly received something of value to which he was not
 entitled and that the state of aﬀairs are such that it would be
-unjust for the person to keep the benefit. x x x.
-
-
-
-
-xxx xxx xxx
+unjust for the person to keep the benefit. x x x.xxx xxx xxx
 In order that accion in rem verso may prosper, the essential
 elements must be present: (1) that the defendant has been enriched,
 (2) that the plaintiﬀ has suﬀered a loss, (3) that the enrichment of
@@ -254,12 +234,7 @@ obligations in the supply of electric power and energy. Therefore, any action
 that one may bring against the other shall be based on the provisions of
 their contract. The principle of unjust enrichment will not apply.
 
-BENECO is liable for underbilled power
-
-
-
-
-charges due to the use of a wrong
+BENECO is liable for underbilled powercharges due to the use of a wrong
 multiplier corrected within 90 days from
 receipt of the erroneous billings.
 Section 25 of the Transition Contract deﬁnes BENECO's right to retain a
@@ -307,12 +282,7 @@ was an omission because it failed to use the
 correct meter device, that is, one with a multiplier
 of 5,250, notwithstanding its admission in the Meter Test
 Report that it used the said multiplier. When Transco and
-Genco computed the billings for respondent MORESCO I
-
-
-
-
-for the months following the installation of the new meter
+Genco computed the billings for respondent MORESCO Ifor the months following the installation of the new meter
 device, they belatedly discovered that the new device
 had a multiplier of 3,500 instead of 5,250. This explained
 the under-billings. We note that when Transco installed
@@ -361,12 +331,7 @@ the amount of underbilling every month. With this, the Court cannot
 determine BENECO's liability. It must be emphasized that mathematical
 computations are factual questions, and the Court is not a trier of facts. 59
 Hence, the case must be remanded to the RTC for proper determination of
-the amount of the underbilling.
-
-
-
-
-Panay Electric, Ridjo Tape, and Meralco
+the amount of the underbilling.Panay Electric, Ridjo Tape, and Meralco
 do not apply.
 Panay Electric , 60 Ridjo Tape , 61 and Meralco 62 diﬀer in some factual
 circumstances and applicable laws from the case at bar. In Panay Electric
@@ -414,12 +379,7 @@ utmost care and diligence. NPC cannot avoid its responsibility by imputing
 participatory negligence on BENECO. On this point, the CA elucidated:
 NAPOCOR, in an eﬀort to veer away from responsibility,
 desperately impute participatory negligence on the part of BENECO
-by accusing it of not doing anything to investigate its unusually low
-
-
-
-
-systems losses during the covered period x x x as it showed more
+by accusing it of not doing anything to investigate its unusually lowsystems losses during the covered period x x x as it showed more
 electricity being sold by BENECO to its consumer than what it was
 paying. NAPOCOR argue that this, alone, was enough to arouse a
 suspicion on the part of BENECO on the CTR setting in its Irisan
@@ -469,12 +429,7 @@ system. Were it not for BENECO's honest intention to raise and correct the
 possible irregularities in the NPC's billing system, NPC would not have
 discovered the wrong CTR setting and multiplier. NPC's attempt to pass the
 blame to BENECO for allegedly waiting for four years to report the matter to
-it is unjustiﬁed because NPC has the sole obligation to determine the correct
-
-
-
-
-CTR setting and maintain its billing meter system in the ﬁrst place. BENECO
+it is unjustiﬁed because NPC has the sole obligation to determine the correctCTR setting and maintain its billing meter system in the ﬁrst place. BENECO
 does not even have access to NPC's billing meter system. Regardless of who
 discovered the irregularities, it is undeniable that NPC failed to discharge its
 functions with utmost care and diligence. Therefore, it must bear the
@@ -522,12 +477,7 @@ unimaginable how NPC overlooked the wrong CTR setting for four years
 when its personnel conducts monthly readings to compute BENECO's power
 bills. BENECO's discovery of the possible irregularity, level of familiarity, and
 technical knowledge does not, in any way, reduce, negate, or even out NPC's
-egregious mistake and gross negligence, which caused a signiﬁcant loss on
-
-
-
-
-the part of the government, and ultimately of the people.
+egregious mistake and gross negligence, which caused a signiﬁcant loss onthe part of the government, and ultimately of the people.
 ACCORDINGLY, the petition is PARTLY GRANTED . The Decision
 dated August 29, 2014 and Resolution dated May 22, 2015 of the Court of
 Appeals in CA-G.R. CV No. 96352 are MODIFIED in that Benguet Electric
@@ -562,12 +512,7 @@ Maria Elisa Sempio Diy.
 16. See id. at 89.
 17. Id. at 181.
 18. Id. at 67-78.
-19. Id.
-
-
-
-
-20. Id. at 70-72.
+19. Id.20. Id. at 70-72.
 21. Id. at 95-96.
 22. Id. at 182.
 23. Id. at 180-187.
@@ -599,12 +544,7 @@ citing 1 J. VITUG, CIVIL LAW 30 (2003).
 46. 482 Phil. 693 (2004).
 47. Id. at 709-711.
 48. Supra note 45, at 384.
-49. 648 Phil. 342 (2010).
-
-
-
-
-50. Id. at 352.
+49. 648 Phil. 342 (2010).50. Id. at 352.
 51. 793 Phil. 704 (2016).
 52. Id. at 714.
 53. Rollo , p. 90.
@@ -636,15 +576,5 @@ discount period, and provided further that customer has no unpaid account
 including any restructured account with NPC.
 69. Supra note 51.
 70. Supra, at 709.
-71. Supra, at 69.
-
-
-
-
-72. Rollo , p. 71.
+71. Supra, at 69.72. Rollo , p. 71.
 73. Id. at 58.
-
-
-
-
-

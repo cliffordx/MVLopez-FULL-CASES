@@ -19,7 +19,6 @@ Decision 6 of the Regional Trial Court (RTC)-Branch 47 of the City of San
 Fernando, Pampanga and ruled that National Power Corporation (NPC) is
 liable for franchise tax relative to its missionary electrification function.
 
-
 ANTECEDENTS
 NPC is a government-owned and controlled corporation created by
 virtue of Republic Act (RA) No. 6395, as amended. 7 On June 26, 2009, NPC
@@ -46,13 +45,7 @@ b.
 For newly started business the tax shall be one-twentieth
 (1/20) of one percent (1%) of the capital investment. In the
 succeeding calendar year, regardless of when the business started to
-operate, the tax shall be based on the gross receipts for the
-
-
-
-
-preceding calendar year, or any fraction thereof, as provided herein.
-
+operate, the tax shall be based on the gross receipts for thepreceding calendar year, or any fraction thereof, as provided herein.
 
 c.
 Administrative regulatory fee in the conduct of business
@@ -91,7 +84,6 @@ a franchise. Thus, NPC can no longer be regarded as a business subject to a
 franchise tax under Section 137 10 of the Local Government Code of 1991
 (LGC). 11
 
-
 The Provincial Treasurer failed to act on the protest; hence, NPC
 appealed to the RTC. NPC invoked its exemption under the EPIRA Law and
 pointed out in its Reply that the Assessment Letter failed to comply with the
@@ -107,12 +99,7 @@ end users is not exempt from securing a franchise. The RTC found that NPC,
 a generation company, is selling electricity in the Province of Pampanga
 through Power Sector Assets and Liabilities Management Corporation
 (PSALM). Thus, NPC is liable to pay a franchise tax.
-Aggrieved, NPC ﬁled a petition for review with the CTA praying that the
-
-
-
-
-assessment be nulliﬁed and that NPC be declared exempt from franchise
+Aggrieved, NPC ﬁled a petition for review with the CTA praying that theassessment be nulliﬁed and that NPC be declared exempt from franchise
 tax. 14
 In its August 1, 2014 Decision, 15 the CTA Second Division held that
 NPC's liability for local franchise tax is not novel. The Supreme Court has
@@ -129,7 +116,6 @@ to National Transmission Corporation (TransCo) and PSALM, under Section
 7 0 18 of the EPIRA Law, NPC retained its missionary electriﬁcation function
 through the Small Power Utilities Group (SPUG). Therefore, NPC may still be
 liable for the local franchise tax relating to this function.
-
 
 However, the CTA observed that the Provincial Treasurer did not
 indicate in the Assessment Letter the amount of the franchise tax
@@ -160,14 +146,8 @@ the amount of local franchise tax involved. Thus, it agreed with the CTA
 Second Division to remand the case to the court a quo for further
 proceedings.
 
-
 Presiding Justice Roman G. Del Rosario and Associate Justice Lovell R.
-Bautista dissented, stating that the Assessment Letter lacked details
-
-
-
-
-required by Section 195 22 of the LGC, such as the amount of the deﬁciency
+Bautista dissented, stating that the Assessment Letter lacked detailsrequired by Section 195 22 of the LGC, such as the amount of the deﬁciency
 tax. The assessment violates NPC's right to due process of law and must be
 cancelled for being void.
 On October 12, 2016, NPC moved to reconsider the September 9, 2016
@@ -194,7 +174,6 @@ defeat the benevolent purpose of missionary electriﬁcation and obstruct the
 SPUG from providing power generation and delivery to missionary areas and
 local government units.
 
-
 In response, the Province of Pampanga argues that NPC's petition
 should not have been ﬁled with the Supreme Court but to the Court of
 Appeals under Rule 43 of the Rules of Court. In any case, the petition did not
@@ -213,12 +192,7 @@ Appeals under Rule 43 of the Rules of Court and not directly with the
 Supreme Court.
 This is incorrect.
 Under RA No. 9282, 25 approved on March 30, 2004, the CTA was
-elevated to the same level and equal rank as the Court of Appeals. Upon its
-
-
-
-
-eﬀectivity on April 23, 2004, 26 decisions or rulings of the CTA En Banc are
+elevated to the same level and equal rank as the Court of Appeals. Upon itseﬀectivity on April 23, 2004, 26 decisions or rulings of the CTA En Banc are
 now appealable to the Supreme Court via a petition for review on certiorari
 under Rule 45 of the Rules of Court. 27 Furthermore, Section 1, Rule 16 of
 the Revised Rules of the Court of Tax Appeals 28 (RRCTA) provides that a
@@ -241,7 +215,6 @@ deeding the case, the CTA may not limit itself to the issues stipulated by the
 parties but may also rule upon related issues necessary to achieve an
 orderly disposition of the case. This was correctly observed by the Dissenting
 Opinion 30 of the March 17, 2017 Resolution that:
-
 
 [NPC's] present argument/objection [denial of due process] is
 necessarily subsumed to the issue of "Whether or not NPC is liable for
@@ -269,18 +242,12 @@ Code of 1992 of Pampanga. If the assessment is void, NPC is not liable for
 the franchise tax.
 
 The Province of Pampanga failed to
-observe the due process requirements in
-
-
-
-
-issuing a deficiency local tax assessment;
+observe the due process requirements inissuing a deficiency local tax assessment;
 hence, the assessment is void.
 NPC insists that it was deprived of its right to due process of law
 because the Assessment Letter 31 dated June 24, 2009, issued by the
 Provincial Treasurer of the Province of Pampanga, lacked details required
 under Section 195 of the LGC, which reads:
-
 
 SECTION 195.
 Protest of Assessment. — When the local treasurer
@@ -328,14 +295,7 @@ government units to impose local taxes is exercised through the
 appropriate ordinance enacted by the sanggunian, and not by the
 Local Government Code alone. What determines tax liability is the tax
 ordinance, the Local Government Code being the enabling law for the
-local legislative body. (Boldfacing supplied.)
-
-
-
-
-
-
-Verily, taxpayers must be informed of the nature of the deﬁciency tax,
+local legislative body. (Boldfacing supplied.)Verily, taxpayers must be informed of the nature of the deﬁciency tax,
 fee, or charge, as well as the amount of deﬁciency, surcharge, interest, and
 penalty. Failure of the taxing authority to suﬃciently inform the taxpayer of
 the facts and law used as bases for the assessment will render the
@@ -373,7 +333,6 @@ principle in administrative investigations "that taxpayers should be
 able to present their case and adduce supporting evidence."
 (Emphasis supplied; citations omitted.)
 
-
 Without doubt, the mandate of providing the taxpayer with notice of
 the facts and laws used as bases for the assessment is not to be
 mechanically applied. 37 The purpose of this requirement is to adequately
@@ -385,12 +344,7 @@ assessment, which enabled him to file an effective protest. 39
 Here, the Assessment Letter hardly complies with the requirements of
 Section 195 of the LGC and implementing rules that will enable NPC to file an
 eﬀective protest. The letter quoted provisions of the Tax Ordinance of the
-Province of Pampanga imposing franchise tax and penalties for non-payment
-
-
-
-
-or late payment. Glaringly absent, however, are the amount of the alleged
+Province of Pampanga imposing franchise tax and penalties for non-paymentor late payment. Glaringly absent, however, are the amount of the alleged
 deﬁciency tax, surcharges, interest, and penalties. The period covered by
 the assessment was not also indicated. Although Section 195 of the LGC
 does not expressly require the taxable period to be stated in the notice of
@@ -416,7 +370,6 @@ taxes. 41 The Province, therefore, had all the means and authority to gather
 suﬃcient information to determine the correct amount of taxes due from the
 taxpayer.
 
-
 Moreover, it cannot escape our attention that the Provincial Treasurer
 was given opportunity to furnish NPC with the computation of the deﬁciency
 franchise tax when NPC raised the issue of non-compliance with the formal
@@ -438,19 +391,13 @@ scales between the power of the State to tax and its inherent right to
 prosecute perceived transgressors of the law of one side and the
 constitutional rights of a citizen to due process of law and the equal
 protection of the laws on the other, the scales must tilt in favor of the
-individual, for a citizen's right is amply protected by the Bill of Rights under
-
-
-
-
-the Constitution. 44 Thus, this Court need not belabor on the other issues
+individual, for a citizen's right is amply protected by the Bill of Rights underthe Constitution. 44 Thus, this Court need not belabor on the other issues
 raised, for it is well-settled that a void assessment bears no valid fruit. 45
 A ﬁnal word. We remind the local taxing authority that in as much as
 the power of taxation is sometimes called the power to destroy, it should
 exercise its power to levy taxes, fees, and charges with caution to minimize
 injury to the proprietary rights of the taxpayer. 46 As this Court ruled in
 Commissioner of Internal Revenue v. Fitness by Design, Inc.: 47
-
 
 Taxes are the lifeblood of government and should be collected
 without hindrance. However, the collection of taxes should be
@@ -469,7 +416,6 @@ March 17, 2017 of Court of Tax Appeals En Banc in CTA EB No. 1233 are
 REVERSED. The Assessment Letter dated June 24, 2009 issued by the
 Provincial Treasurer of the Province of Pampanga is declared NULL and
 VOID and is CANCELLED.
-
 
 SO ORDERED.
 
@@ -492,12 +438,7 @@ Cotangco-Manalastas.
 5. Id. at 252-253; penned by Associate Justice Caesar A. Casanova, with the
 concurrence of Associate Justices Juanito C. Castañeda, Jr. and Amelia R.
 Cotangco-Manalastas.
-6. Id. at 164-172; penned by Presiding Judge Edgar Y. Chua.
-
-
-
-
-7. REVISED CHARTER OF THE NATIONAL POWER CORPORATION, approved on
+6. Id. at 164-172; penned by Presiding Judge Edgar Y. Chua.7. REVISED CHARTER OF THE NATIONAL POWER CORPORATION, approved on
 September 10, 1971.
 8. Rollo , p. 76.
 9. Approved on June 8, 2001.
@@ -535,12 +476,7 @@ the universal change to be collected from all electricity end-users as
 determined by the ERC.
 19. Rollo , p. 236.
 20. Id. at 252-253.
-21. Id. at 46-58. The dispositive portion of the decision states:
-
-
-
-
-WHEREFORE, in light of the foregoing considerations, the Petition for
+21. Id. at 46-58. The dispositive portion of the decision states:WHEREFORE, in light of the foregoing considerations, the Petition for
 Review is DENIED for lack of merit. Accordingly, the Decision dated August
 1, 2014 and Resolution dated September 24, 2014 of the Court in Division in
 CTA AC No. 113, are AFFIRMED.
@@ -584,12 +520,7 @@ Appeals, 302 Phil. 347-356 (1994).
 authorized representative finds that correct taxes, fees, or charges have not
 been paid, he shall issue a notice of assessment stating the nature of the tax,
 fee, or charge the amount of deficiency, the surcharges, interests, and
-penalties. Within sixty (60) days from receipt of the notice of assessment, the
-
-
-
-
-taxpayer may file a written protest with the local treasurer contesting the
+penalties. Within sixty (60) days from receipt of the notice of assessment, thetaxpayer may file a written protest with the local treasurer contesting the
 assessment; otherwise, the assessment shall become final and executory.
 The local treasurer shall decide the protest within sixty (60) days from the
 time of its filing. If the local treasurer finds the protest to be wholly or partly
@@ -632,12 +563,7 @@ deputy of the local treasurer, the written authority of the deputy concerned
 shall specifically state the name, address, and business of the taxpayer
 whose books, accounts, and pertinent records are to be examined, the date
 and place of such examination and the procedure to be followed in
-conducting the same.
-
-
-
-
-For this purpose, the records of the revenue district office of the Bureau of
+conducting the same.For this purpose, the records of the revenue district office of the Bureau of
 Internal Revenue shall be made available to the local treasurer, his deputy or
 duly authorized representative.
 42. See City Treasurer of Manila v. Philippine Beverage Partners, Inc., G.R. No.
@@ -650,8 +576,3 @@ Nos. 201398-99 & 201413-19, October 3, 2018.
 46. Commissioner of Internal Revenue v. Yumex Philippines Corp., G.R. No. 222476,
 May 5, 2021.
 47. 799 Phil. 391-420 (2016).
-
-
-
-
-

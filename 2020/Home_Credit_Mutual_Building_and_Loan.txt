@@ -31,7 +31,6 @@ However, Home Credit required Rollete to pay for additional equity in excess
 of the maximum limit of P660,000.00. In 2008, Rollete again purchased the
 vehicle at its depreciated value.
 
-
 In 2009, Rollette applied for a third service vehicle. This time, Home
 Credit informed Rollette that she must pay the equity more than
 P550,000.00. Home Credit likewise adopted a cost sharing scheme where
@@ -43,12 +42,7 @@ that Home Credit's new 60%-40% cost sharing scheme on the acquisition of
 service vehicle did not constitute diminution of beneﬁt. 2 The LA explained
 that what ripened into a company practice is the employer's act of granting
 transportation facility to its employees. However, as to the speciﬁc details of
-the grant, i.e., the covered employees, period of depreciation, car model,
-
-
-
-
-company share or participation, may vary as these call for the exercise of
+the grant, i.e., the covered employees, period of depreciation, car model,company share or participation, may vary as these call for the exercise of
 management prerogative. 3 In its Decision dated August 5, 2010, the NLRC
 affirmed the LA's findings, thus:
 WHEREFORE, absent grave abuse of discretion or serious error
@@ -97,16 +91,7 @@ given may vary and is subject to management prerogative. On the other
 hand, the CA ruled that Rollette is entitled to a service vehicle at full
 company cost as this beneﬁt was part of her hiring package. Also, Home
 Credit may not diminish this beneﬁt which it had practiced for a long period
-of time. The question now is whether the CA committed reversible error in
-
-
-
-
-finding that Home Credit violated the rule against diminution of benefits.
-
-
-
-Generally, employees have a vested right over existing beneﬁts that
+of time. The question now is whether the CA committed reversible error infinding that Home Credit violated the rule against diminution of benefits.\n\nGenerally, employees have a vested right over existing beneﬁts that
 the employer voluntarily granted them. 10 These benefits cannot be reduced,
 diminished, discontinued or eliminated 11 consistent with the constitutional
 mandate to protect the rights of workers and promote their welfare. 12
@@ -153,12 +138,7 @@ were voluntarily given by the employer, and which have ripened into
 company practice, are considered as rights and are subject to the nondiminution rule. 17 To be considered a company practice, the beneﬁt must
 be consistently and deliberately granted by the employer over a long period
 of time. It requires an indubitable showing that the employer agreed to
-continue giving the beneﬁt knowing fully well that the employee is not
-
-
-
-
-covered by any provision of law or agreement for its payment. 18 The burden
+continue giving the beneﬁt knowing fully well that the employee is notcovered by any provision of law or agreement for its payment. 18 The burden
 to establish that the beneﬁt has ripened into a company practice rests with
 the employee. 19
 Here, the labor tribunals correctly held that Home Credit's act of giving
@@ -198,12 +178,7 @@ Court) and Antonio L. Villamor.
 4. Id. at 128.
 5. Id. at 66-67.
 6. Id. at 51-68.
-7. Supra note 5.
-
-
-
-
-8. Rollo , pp. 70-71.
+7. Supra note 5.8. Rollo , pp. 70-71.
 9. Id. at 8-45.
 10. University of the East v. University of the East Employees' Association, 673 Phil.
 273, 286 (2011).
@@ -224,8 +199,3 @@ Section 3.
 20. Barroga v. Data Center College of the Philippines, et al., 667 Phil. 808, 820
 (2011).
 21. Aguanza v. Asian Terminal, Inc., et al., 612 Phil. 1009, 1018 (2009).
-
-
-
-
-
