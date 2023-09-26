@@ -12,6 +12,7 @@ function to instruct the bench and the bar, the Court once again embarks on
 the arduous task to harmonize the case law and formulate guidelines on the
 private oﬀended parties' legal personality to question judgments and orders
 in criminal proceedings.
+
 ANTECEDENTS
 In 2006, the Regional Trial Court (RTC) convicted Mamerto Austria
 (Mamerto), a school teacher, of ﬁve counts of acts of lasciviousness
@@ -19,6 +20,7 @@ committed against private complainants, both 11-year-old female students. 1
 Mamerto moved for reconsideration. 2 Meantime, the trial judge handling the
 criminal cases was promoted. On August 15, 2008, the new presiding judge
 resolved the motion and rendered Joint Orders 3 acquitting Mamerto, thus:
+
 [Criminal Case Nos. 1216, 1221 & 1222]
 AT BAR is the Motion for Reconsideration dated June 5, 2007 of
 the Decisions of [the] Court dated October 17, 2006 (for Crim Case
@@ -44,15 +46,7 @@ many students in the said school at the days and time alleged by the
 complainants; that [the] Court failed to give credence and weight to
 the defense's witnesses consisting of various students of his class
 who were around when the alleged incidents occurred, or the school
-
-oﬃcials
-who
-testiﬁed
-that
-the
-accused
-was
-attending
+oﬃcials who testiﬁed that the accused was attending
 conferences/meetings of teachers/oﬃcers; that [the] Court also failed
 to consider the investigation conducted by the Department of
 Education, which found that the charges were bereft of truth, the
@@ -106,7 +100,6 @@ weaken her case (TSN, pages 7-8); that her reason of not telling other
 people, more so of her mother, about the alleged incidents being
 complained of is that they may not believe her (TSN, 1/13/99, p. 14);
 that the conﬂicting statements she has given at the questions
-
 propounded to her during cross-examination conducted on January
 13 and March 11, 1999, greatly gave a cloud on her credibility (TSN,
 12/15/2008, pages 16 & 18 and TSN, 3/11/99, pages 7 &14); that the
@@ -148,6 +141,7 @@ from all forms of abuse, such intent, while to be upheld, should not be
 used by the private complainant, whimsically and capriciously, by
 false fabricating [sic] charges to the extent that the accused may be
 imprisoned.
+
 The accused reiterated his prayers that the instant complaint
 against him be dismissed for failure of the prosecution to prove his
 guilt beyond reasonable doubt and further prayed for such other
@@ -159,8 +153,8 @@ reasonable doubt and therefore the DECISION dated October
 20, 2006 is hereby reconsidered and set aside and a new one
 is rendered DISMISSING the informations ﬁled against herein
 accused and consequently ACQUITTING him of the crimes
-
 charged. 4 (Emphasis supplied; italics in the original)
+
 [Criminal Case Nos. 1342 and 1343]
 AT BAR is the Motion for Reconsideration dated June 5, 2007 of
 the Decisions of this Court dated October 17, 2006 (for Crim Case
@@ -186,14 +180,7 @@ many students in the said school at the days and time alleged by the
 complainants; that [the] Court failed to give credence and weight to
 the defense's witnesses consisting of various students of his class
 who were around when the alleged incidents occurred, or the school
-oﬃcials
-who
-testiﬁed
-that
-the
-accused
-was
-attending
+oﬃcials who testiﬁed that the accused was attending
 conferences/meetings of teachers/oﬃcers; that this Court also failed
 to consider the investigation conducted by the Department of
 Education which found that the charges were bereft of truth, the
@@ -219,13 +206,13 @@ School Teacher, the Decision of [the] Court has far reaching
 implications upon him. Thus, the accused prayed that the assailed
 Decision be reconsidered and the charges against the accused be
 dismissed. The accused further prayed for such other reliefs and
-
 remedies which are just and equitable under the premises.
 
 As there was no Reply/Comment on the part of the Prosecutor
 to the accused's Memorandum despite the time given by the Court,
 the instant Motion for Reconsideration was deemed submitted for
 resolution.
+
 On his Memorandum, the accused through counsel, argued,
 among others, as follows: that while the administrative investigation
 conducted by [Department of Education] which resulted to the
@@ -254,7 +241,8 @@ a fever while she was lying on the table due to dizziness and such
 incident happened in the presence of other students [TSN, 2-6-01];
 that such fact was testified to by the accused and corroborated by the
 testimony of two (2) students which are classmates of the private
-complainant, one of whom is also her friend [TSN 7-25-01 and TSN 912-01]; that when she was cross-examined on March 4, 1999 her
+complainant, one of whom is also her friend [TSN 7-25-01 and TSN 912-01]; 
+that when she was cross-examined on March 4, 1999 her
 natural reaction regarding the circumstances surrounding the alleged
 incident is contrary to the natural reaction of someone who is
 supposed to have been subjected to acts of lasciviousness; that a
@@ -272,13 +260,13 @@ complainant did not occur; that in as much as the accused is being
 charged of criminal oﬀense with imprisonment as penalty if found
 guilty, hence, every statement made by the private complainant
 should be regarded with such caution so as not to override his
-
 constitutional and statutory presumption of innocence; that the
 reputation of the accused has been tainted and damaged due to the
 malicious accusations of the private complainant as he was teaching
 for almost twenty (29) [sic] years without any case ﬁled against him
 by any student thus, he has a clean record during his entire
 profession.
+
 The accused reiterated his prayers that the instant complaint
 against him be dismissed for failure of the prosecution to prove his
 guilt beyond reasonable doubt and further prayed for such other
@@ -293,7 +281,8 @@ herein accused and consequently ACQUITTING him of the
 crimes charged. 5 (Emphasis supplied; italics in the original)
 
 Unsuccessful at a reconsideration, 6 private complainants ﬁled a
-special civil action for certiorari to the Court of Appeals (CA) docketed as CAG.R. SP No. 114771. 7 They alleged that the new presiding judge committed
+special civil action for certiorari to the Court of Appeals (CA) docketed as CAG.R. SP No. 114771. 7 
+They alleged that the new presiding judge committed
 grave abuse of discretion in rendering the Joint Orders of acquittal which
 merely recited the contents of the accused's motion for reconsideration
 without stating any factual and legal basis. 8 Mamerto opposed the petition
@@ -310,6 +299,7 @@ We have painstakingly reviewed the assailed Orders and
 found them seriously lacking and violative of the
 constitutional mandate that decisions must fully explain the
 facts and the law upon which it is based.
+
 xxx xxx xxx
 A scrutiny of the foregoing Orders show [sic] that they
 merely repeated verbatim the Motion for Reconsideration
@@ -322,7 +312,6 @@ Mayor proceeded right away to his judgment without a
 thorough, nay, even a single discussion or explanation on why
 he believed the allegations to be true. It is evident that public
 respondent Judge De Joya Mayor merely "perused" the facts,
-
 and to him[,] it was suﬃcient to overturn the verdict of guilt.
 Without a thorough explanation or statement of the law, facts
 and the evidence, the assailed Orders violate the due process
@@ -333,7 +322,6 @@ discretion amounting to lack or excess of jurisdiction. Decisions or
 orders issued in careless disregard of the constitutional mandate are
 a patent nullity and must be struck down as void. Thus, in this regard,
 We agree with petitioners that the said Orders are void judgments.
-
 
 xxx xxx xxx
 All told, We ﬁnd in this instant case that respondent judge, in
@@ -355,6 +343,7 @@ Mamerto invokes his right against double jeopardy and reiterates that the
 Joint Orders of acquittal are already ﬁnal and not subject to review. Mamerto
 maintains that private complainants have no legal personality to question his
 acquittal.
+
 On August 3, 2021, the Court required the OSG to ﬁle a comment on
 the private complainant's legal standing in a criminal case. 13 In its
 Comment, 14 the OSG avers that the prosecution and punishment of crimes
@@ -374,7 +363,6 @@ intervention of the OSG is perforce dismissible. 15
 Also, the OSG points out that the public prosecutor represents the
 State in a criminal case before the trial court, and that it is not furnished with
 copies of records during the trial stage. The OSG only becomes aware of the
-
 outcome of the trial when the Oﬃce of the Prosecutor General (OPG) or the
 private complainant endorses the case. Consequently, the OSG is left with
 limited time to study the case before the lapse of the period to assail the
@@ -394,6 +382,7 @@ private interests. Lastly, the OSG gives its conformity to the petition for
 certiorari that private complainants ﬁled before the CA. The OSG argues that
 the trial court's Joint Orders are void for failure to state clearly the factual
 and legal bases of Mamerto's acquittal. 16
+
 RULING
 
 The private complainant's interest is
@@ -405,6 +394,7 @@ aspect of the case or the right to
 prosecute in proceedings before the
 Supreme Court and the Court of
 Appeals.
+
 In any criminal case or proceeding, only the OSG may bring or defend
 actions on behalf of the Republic of the Philippines, or represent the People
 or State before the Supreme Court (SC) and the CA. This is explicitly provided
@@ -424,6 +414,7 @@ law oﬃce of the Government and, as such, shall discharge duties
 requiring the service of a lawyer. It shall have the following speciﬁc
 power and functions:
 (1)
+
 Represent the Government in the Supreme Court and
 the Court of Appeals in all criminal proceedings; represent the
 Government and its oﬃcers in the Supreme Court, the Court of
@@ -478,17 +469,7 @@ action against the respondents. This involves the right to prosecute
 which pertains exclusively to the People, as represented by the OSG.
 21 (Emphasis supplied; citations omitted)
 
-
-Similarly,
-
-
-in Anlud Metal Recycling Corp. v. Ang,
-
-22
-
-the private
-
-
+Similarly, in Anlud Metal Recycling Corp. v. Ang, 22 the private
 complainant has no personality to appeal, without participation of the OSG,
 the dismissal of the criminal case for estafa since it questioned the trial
 court's finding as to want of probable cause to indict the accused, thus:
@@ -498,10 +479,12 @@ against private respondent Ang." Petitioner goes on to enumerate
 circumstances that collectively amount to a ﬁnding that based on
 probable cause, respondent conspired with the accused in defrauding
 Anlud Metal Recycling Corporation.
+
 Clearly, petitioner mainly disputes the RTC's ﬁnding of
 want of probable cause to indict Ang as an accused for
 estafa . This dispute refers, though, to the criminal, and not
 the civil, aspect of the case.
+
 xxx xxx xxx
 Given that nowhere in the pleadings did petitioner even brieﬂy
 discuss the civil liability of respondent, [the] Court holds that Anlud
@@ -516,7 +499,7 @@ petitioner has failed to demonstrate that the petition falls
 under any of these exceptions. 23 (Emphases supplied; citation
 omitted)
 
-I n People v. Piccio (Piccio), 24 therein private complainant lacks
+In People v. Piccio (Piccio), 24 therein private complainant lacks
 standing to ﬁle a notice of appeal, without consent of the OSG, assailing the
 dismissal of the criminal case for libel for the failure of the information to
 allege where the article was printed and first published, to wit:
@@ -526,14 +509,18 @@ private complainants, lacked the legal personality to appeal
 the dismissal of Criminal Case No. 06-875 (resulting from the
 quashal of the information therein on the ground of lack of
 jurisdiction).
+
 To expound, it is well-settled that the authority to represent the
 State in appeals of criminal cases before the Court and the CA is
 vested solely in the OSG which is the law oﬃce of the Government
 whose speciﬁc powers and functions include that of representing the
 Republic and/or the people before any court in any action which
-aﬀects the welfare of the people as the ends of justice may require. x
+aﬀects the welfare of the people as the ends of justice may require. 
+
+x
 xx
 xxx xxx xxx
+
 Accordingly, jurisprudence holds that if there is a dismissal of a
 criminal case by the trial court or if there is an acquittal of the
 accused, it is only the OSG that may bring an appeal on the criminal
@@ -580,6 +567,7 @@ petitioners. Because bigamy is a criminal oﬀense, only the
 OSG is authorized to prosecute the case on appeal. Thus,
 Sally Go did not have the requisite legal standing to appeal
 the acquittal of the petitioners.
+
 xxx xxx xxx
 In this case, however, neither the Solicitor General nor
 the City Prosecutor of Caloocan City joined the cause of Sally
@@ -592,8 +580,8 @@ of discretion on its part. Even if the trial court had incorrectly
 overlooked the evidence against the petitioners, it only committed an
 error of judgment, and not one of jurisdiction, which could not be
 rectiﬁed by a petition for certiorari because double jeopardy had
-
 already set in.
+
 As regards Sally Go's assertion that she had been denied due
 process, an evaluation of the records of the case proves that nothing
 can be further from the truth. Jurisprudence dictates that in order for
@@ -636,6 +624,7 @@ At the outset, the Court notes that petitioner lacked authority in
 ﬁling a special civil action for certiorari with the RTC to seek the
 annulment of the decision of the MTC which acquitted herein
 respondents from the crime of attempted theft.
+
 xxx xxx xxx
 Thus, the Court has deﬁnitively ruled that in a criminal case in
 which the oﬀended party is the State, the interest of the private
@@ -669,15 +658,14 @@ The above cases raised issues that necessarily require a
 review of the criminal aspect of the proceedings. In the same
 manner, JCLV Realty are praying for reliefs which pertain to
 the criminal aspect of the case. Foremost, the arguments in
-the
-petition
-for certiorari are centered on Mangali's
+the petition for certiorari are centered on Mangali's
 identiﬁcation as the perpetrator of the crime. Secondly, JCLV
 Realty prayed that the March 30, 2017 Order be " annulled, reversed
 and set aside and that a new one [will] be rendered denying the
 [accused'] Demurrer to Evidence." Lastly, nowhere in the petition did
 JCLV Realty discuss Mangali's civil liability. In contrast, it is ultimately
 seeking the reinstatement of the criminal case against Mangali.
+
 xxx xxx xxx
 In this case, we ﬁnd that JCLV Realty was not deprived
 of due process. Notably, JCLV Realty participated in the proceedings
@@ -709,11 +697,13 @@ reinstatement of the criminal action or meddle with the prosecution of the
 offense. Moreover, the assailed judgments or orders were not tainted with
 grave abuse of discretion or rendered in violation of the parties' right to due
 process.
+
 There are divergent rulings allowing
 the private complainant to question
 judgments and orders in criminal
 proceedings without the OSG's
 intervention.
+
 As discussed earlier, the private complainant's interest is limited only
 to the civil aspect of the case. Only the OSG may question before the SC and
 the CA matters involving the criminal aspect of the case. Yet, there are
@@ -721,6 +711,7 @@ instances where the Court allowed the private complainant to ﬁle an appeal
 or a petition for certiorari, without the OSG's participation, questioning the
 acquittal of the accused, the dismissal of the criminal case, and interlocutory
 orders rendered in the criminal proceedings.
+
 Foremost, the Court recognized that private complainants have legal
 standing to question the acquittal of the accused or dismissal of the criminal
 case equivalent to an acquittal only through a petition for certiorari under
@@ -740,6 +731,7 @@ due process. The prosecution was not given the opportunity to
 present its evidence or even to rebut the representations of the
 accused. The prosecution is as much entitled to due process as the
 accused in a criminal case.
+
 xxx xxx xxx
 In this case, the prosecution was deprived of an opportunity to
 prosecute and prove its case. The decision that was rendered in
@@ -748,11 +740,12 @@ a court of competent jurisdiction when it precipitately rendered a
 decision of acquittal after a pre-trial. A trial should follow a pre-trial.
 That is the mandate of the rules. Obviously, double jeopardy has not
 set in in this case.
+
 The question as to whether or not U.P., as the private oﬀended
 party, can ﬁle this special civil action for certiorari questioning the
-
 validity of said decision of the trial court should be answered in the
 affirmative.
+
 It is well-settled that in criminal cases where the
 oﬀended party is the State, the interest of the private
 complainant or the private oﬀended party is limited to the
@@ -766,6 +759,7 @@ the People of the Philippines on appeal. The private oﬀended
 party or complainant may not take such appeal. However, the
 said oﬀended party or complainant may appeal the civil aspect
 despite the acquittal of the accused.
+
 In a special civil action for certiorari ﬁled under Section 1, Rule
 65 of the Rules of Court wherein it is alleged that the trial court
 committed a grave abuse of discretion amounting to lack of
@@ -787,6 +781,7 @@ dismissal of a criminal case for violation of Batas Pambansa (B.P.) Blg. 22 or
 the Anti-Bouncing Checks Law. In that case, the trial court's dismissal of the
 cases on the supposed violation of the accused's right to a speedy trial was
 capricious and unwarranted, viz.:
+
 x x x. The postponement of this trial date would not in any way have
 prejudiced the accused considering that accused himself as stated
 earlier is guilty of delay. The more prudent thing would have been for
@@ -795,13 +790,13 @@ prosecution another opportunity to present its case. The trial
 court's dismissal of the case on the ground that the petitioner
 is entitled to a speedy trial is capricious and unwarranted
 under the circumstances obtaining in this case.
+
 xxx xxx xxx
 In the case of People vs. Santiago , [the] Court said:
 xxx xxx xxx
 x x x The complainant has an interest in the civil
 aspect of the case so he may ﬁle such special civil
 action questioning the decision or action of the
-
 respondent court on jurisdictional grounds. x x x
 
 In the instant case, the recourse of the complainant to
@@ -833,6 +828,7 @@ the merits of the case. Also, citing Dela Rosa , We ruled that therein private
 complainant has the personality to move for consideration and subsequently
 ﬁle a petition for certiorari to question the dismissal of the criminal charges,
 thus:
+
 First. Judge Masadao acted with grave abuse of
 discretion in granting the prosecutor's motion to dismiss the
 criminal charges against the petitioner on the basis solely of
@@ -856,6 +852,7 @@ amounting to lack or excess of jurisdiction.
 
 In the case of Dela Rosa v. Court of Appeals , we
 held that:
+
 "In a special civil action for certiorari ﬁled under
 Section 1, Rule 65 of the Rules of Court wherein it is
 alleged that the trial court committed grave abuse of
@@ -872,7 +869,6 @@ should not bring the action in the name of the People of
 the Philippines. The action may be prosecuted in (the)
 name of the said complainant."
 
-
 Thus, while it is only the Solicitor General that may bring or
 defend actions on behalf of the Republic of the Philippines, or
 represent the People or State in criminal proceedings pending in the
@@ -880,6 +876,7 @@ Supreme Court and the Court of Appeals, the private oﬀended
 party retains the right to bring a special civil action for
 certiorari in his own name in criminal proceedings before the
 courts of law.
+
 xxx xxx xxx
 It follows, therefore, that if the private respondent in
 this case may file a special civil action for certiorari, then with
@@ -907,8 +904,8 @@ province or city where the oﬀended party actually resides at the time
 of the commission of the oﬀense is allowed. It goes without saying
 that the dismissal of the case on [the] wrong ground, indeed,
 deprived the prosecution, as well as the respondent as complainant,
-
 of their day in court.
+
 xxx xxx xxx
 x x x There is no question that, generally, the prosecution cannot
 appeal or bring error proceedings from a judgment rendered in favor
@@ -917,6 +914,7 @@ nature of a judgment of acquittal and the constitutional prohibition
 against double jeopardy. Despite acquittal, however, the
 oﬀended party or the accused may appeal, but only with
 respect to the civil aspect of the decision.
+
 xxx xxx xxx
 Moreover, there have been occasions when [the] Court has
 allowed the oﬀended party to pursue the criminal action on his/her
@@ -926,6 +924,7 @@ order of the trial court which deprives them of due process
 has always been recognized, the only limitation being that
 they cannot appeal any adverse ruling if to do so would place
 the accused in double jeopardy.
+
 xxx xxx xxx
 In ﬁne, the dismissal of the cases below was patently
 erroneous and as such, invalid for lack of fundamental
@@ -943,7 +942,6 @@ The Court, citing Perez, sustained the personality of the victim to ﬁle the
 petition and reinstated the criminal case because the trial court committed
 grave abuse of discretion, thus:
 
-
 Anent the issue whether or not the petitioner has the
 personality or the right to ﬁle herein petition for certiorari — We rule
 in the aﬃrmative. A perusal of the petition ﬁled in this case shows
@@ -955,11 +953,11 @@ questioning the dismissal of the criminal case against
 respondent Navarro. For obvious reasons, the public prosecutors
 who ﬁled the motion to dismiss which was granted by the trial court
 would not initiate the action.
+
 xxx xxx xxx
 More recently, in Perez vs. Hagonoy Rural Bank, Inc. , we held
 that the private respondent therein, as private complainant, has legal
 personality to assail the dismissal of the criminal case against the
-
 petitioner on the ground that the order of dismissal was issued with
 grave abuse of discretion amounting to lack or excess of jurisdiction.
 This is so because a special civil action for certiorari may be ﬁled by
@@ -968,6 +966,7 @@ the private oﬀended party or complainant. Having an interest in
 the civil aspect of the case, the complainant may ﬁle such
 action, in his name, questioning the decision or action of the
 respondent court on jurisdictional grounds.
+
 xxx xxx xxx
 The Court cannot fathom how the trial court concluded that
 respondent Navarro was not one of those identiﬁed by petitioner as
@@ -976,6 +975,7 @@ petitioner, as well as her response to the clariﬁcatory questions of the
 Fiscal, not only narrated the facts and circumstances surrounding her
 ordeal, but also explicitly and categorically identiﬁed respondent
 Navarro and his other co-accused as her alleged rapists.
+
 xxx xxx xxx
 In this case, the Information suﬃciently alleged that
 respondent Emmanuel Navarro, by means of force, had sexual
@@ -983,12 +983,7 @@ intercourse with petitioner against her will. It contained all she
 essential elements of rape as defined by law. The allegations describe
 the oﬀense with suﬃcient particularity such that respondent Navarro
 will fully understand what he is being charged with. The Information
-also
-suﬃciently
-alleged
-respondent
-Navarro's
-criminal
+also suﬃciently alleged respondent Navarro's criminal
 culpability/liability for the crime, to wit: "accused EMMANUEL
 NAVARRO has (sic) sexual intercourse with one Joan Flores, against
 the latters (sic) will." This is based on petitioner's own account of the
@@ -1023,6 +1018,7 @@ defendant in a criminal case. This is because a judgment of acquittal
 is immediately ﬁnal and executory, and the prosecution is barred
 from appealing lest the constitutional prohibition against double
 jeopardy be violated.
+
 Thus, it may be argued that since the instant petition is one for
 review on certiorari under Rule 45 of the Rules of Court, not under
 Rule 65, and was not ﬁled by the OSG representing the interest of the
@@ -1031,7 +1027,9 @@ special circumstances attendant in the instant petition,
 however, justify an adjudication by the Court on the merits
 and not solely on technical grounds.
 First of all, the Court stresses that the appellate court's
-dismissal of the case is not an acquittal of respondent. x x x
+dismissal of the case is not an acquittal of respondent. 
+
+x x x
 xxx xxx xxx
 Thus, when the appellate court herein dismissed the instant
 case on the ground that the MeTC lacked jurisdiction over the oﬀense
@@ -1045,6 +1043,7 @@ guilt beyond reasonable doubt. Clearly, therefore, such dismissal did
 not operate as an acquittal, which, as previously discussed, may be
 repudiated only by a petition for certiorari under Rule 65 of the Rules
 of Court showing a grave abuse or discretion.
+
 Thus, petitioner's resort to Rule 45 of the Rules of Court cannot
 be struck down as improper. In a petition for review on certiorari
 under Rule 45, the parties raise only questions of law because the
@@ -1052,21 +1051,25 @@ Court, in its exercise of its power of review, is not a trier of facts.
 There is a question of law when the doubt or diﬀerence arises as to
 what the law is on certain state of facts and which does not call for an
 existence of the probative value of the evidence presented by the
-parties-litigants. x x x
+parties-litigants.
+
+x x x
 xxx xxx xxx
 More importantly, moreover, since the dismissal of the instant
 case cannot be considered as an acquittal of respondent herein, he
 cannot likewise claim that his constitutional right to protection
 against double jeopardy will be violated.
+
 xxx xxx xxx
 As to the issue of petitioner's legal standing to ﬁle the instant
 petition in the absence of the OSG's participation, the circumstances
-herein warrant the Court's consideration. x x x
+herein warrant the Court's consideration.
+
+x x x
 xxx xxx xxx
 x x x the Court ﬁnds that in the interest of substantial justice, it must
 give due course to the instant petition and consequently rule on the
 merits of the same. The circumstances surrounding this case
-
 left petitioner with no other suitable recourse but to appeal
 the case herself. Not only was there an absence of support
 from the OSG, said government oﬃce also took a position in
@@ -1081,7 +1084,6 @@ now, to apply procedural rules in their strict and literal sense by
 similarly dismissing, as the CA had, petitioner's action poses serious
 consequences tantamount to a miscarriage of justice. x x x 46
 (Emphases supplied; citations omitted)
-
 
 Moreover, there are instances where the Court recognized the
 personality of the private complainant to question interlocutory orders in
@@ -1104,11 +1106,13 @@ party alleging grave abuse of discretion amounting to excess or lack
 of jurisdiction on the part of the trial court. In a long line of cases,
 [the] Court construed the term "aggrieved parties" to include the
 State and the private offended party or complainant.
+
 xxx xxx xxx
 It was further held in De la Rosa that the complainant
 has such an interest in the civil aspect of the case that he
 may ﬁle a special civil action questioning the decision or
 action of the respondent court on jurisdictional grounds.
+
 xxx xxx xxx
 The Court has nonetheless recognized that if the criminal case
 is dismissed by the trial court or if there is an acquittal, the appeal on
@@ -1118,10 +1122,10 @@ complainant to question such dismissal or acquittal is limited only to
 the civil aspect of the case. x x x However, it should be
 remembered that the order which herein petitioner seeks to
 assail is not one dismissing the case or acquitting
-
 respondents. Hence, there is no limitation to the capacity of
 the private complainant to seek judicial review of the assailed
 order.
+
 xxx xxx xxx
 In this case, there is no doubt that petitioner maintains
 an interest in the litigation of the civil aspect of the case
@@ -1168,10 +1172,10 @@ to private respondent's appeal and subsequently allowing
 him to post bail. We do not, however, perceive the same
 as a procedural misstep thus divesting the petitioner the
 personality to file the instant Petition.
+
 xxx xxx xxx
 We aﬃrm the CA's holding on the respondent's legal standing
 to institute the special civil action for certiorari in order to annul the
-
 questioned orders of the RTC. For sure, her interest in the criminal
 case did not end upon the granting of her Motion for Execution
 because the questioned orders opened the possibility of defeating the
@@ -1204,11 +1208,13 @@ the Motion by the accused and the Order granting bail, a
 lapse of time that could not be deemed suﬃcient for the trial
 court to receive and evaluate any evidence. We agree with
 the CA.
+
 xxx xxx xxx
 Petitioner attacks respondent's legal standing to file the Petition
 for Certiorari before the appellate court, maintaining that only the
 public prosecutor or the solicitor general may challenge the assailed
 Order.
+
 xxx xxx xxx
 The ends of substantial justice indeed require the aﬃrmation of
 the appellate court's ruling on this point. Clearly, the assailed
@@ -1217,6 +1223,7 @@ discretion amounting to lack of jurisdiction. A void order is no
 order at all. It cannot confer any right or be the source of any
 relief. [The] Court is not merely a court of law; it is likewise a
 court of justice.
+
 To rule otherwise would leave the private respondent without
 any recourse to rectify the public injustice brought about by the trial
 court's Order, leaving her with only the standing to ﬁle administrative
@@ -1229,6 +1236,7 @@ the private complainant a blanket
 authority to question judgments and
 orders in criminal proceedings
 without the OSG's intervention.
+
 On this point, the Court clariﬁes that the pronouncements in Santiago,
 Dela Rosa, Perez, David, Flores, Morillo, Rodriguez, Salvador , and Narciso
 cannot be construed as a blanket grant of legal personality to private
@@ -1238,6 +1246,7 @@ did not abandon the well-established distinction in our legal system that the
 People, through the OSG, has legal interest over the criminal aspect of the
 proceedings, whereas the private complainant has legal interest over the
 civil aspect of the case.
+
 The decisions in Santiago, Dela Rosa and Perez explicitly noted that the
 private complainant "has an interest in the civil aspect of the case so he may
 ﬁle such special civil action questioning the decision or action of the
@@ -1273,7 +1282,6 @@ stretched to the degree of violating the mandate of the Administrative Code
 as to the nature and extent of the OSG's power and authority. 55 The
 pertinent provision of the substantive law is clear that the OSG shall "
 [r]epresent the Government in the Supreme Court and the Court of Appeals
-
 in all criminal proceedings; x x x" As such, the OSG must be given the
 opportunity to be heard on how the remedies that private complainants
 sought before the SC and the CA might aﬀect the interest of the People in
@@ -1301,13 +1309,16 @@ violation. x x x. In any event, the OSG joins petitioner's cause in its
 Comment, thereby fulﬁlling the requirement that all criminal actions
 shall be prosecuted under the direction and control of the public
 prosecutor.
+
 xxx xxx xxx
 The Court ﬁnds that the petitioner has suﬃciently discharged
 the burden of proving that the respondent appellate court committed
 grave abuse of discretion in acquitting private respondents.
 It appears that in reaching its judgment, the CA merely
 relied on the evidence presented by the defense and utterly
-disregarded that of the prosecution. x x x
+disregarded that of the prosecution. 
+
+x x x
 xxx xxx xxx
 x x x. Thus, the CA's blatant disregard of material prosecution
 evidence and outward bias in favor of that of the defense
@@ -1322,7 +1333,6 @@ was dismissed. The mother of the victim elevated the case to the Court
 ascribing reversible error on the part of the CA in refusing to nullify the trial
 court's order granting the demurrer. At the oral argument, the OSG joined
 the petitioner's cause to prevent a miscarriage of justice. This mooted the
-
 issue of the legal standing of the victim's mother to question a judgment of
 acquittal. Yet, the Court En Banc declared that the mother of the victim has
 an interest in the maintenance of the criminal prosecution. Also, the accused
@@ -1346,9 +1356,12 @@ appeal an order of the trial court which deprives them of due
 process has always been recognized, the only limitation being
 that they cannot appeal any adverse ruling if to do so would
 place the accused in double jeopardy.
+
 xxx xxx xxx
 It is clear from the foregoing that the public prosecutor
-was guilty of serious nonfeasance. x x x
+was guilty of serious nonfeasance. 
+
+x x x
 xxx xxx xxx
 In the case at bar, the public prosecutor knew that he had not
 presented suﬃcient evidence to convict the accused. Yet, despite
@@ -1365,6 +1378,7 @@ the said prosecutor. All they could do was helplessly watch as the
 public prosecutor, who was under legal obligation to pursue the action
 on their behalf, renege on that obligation and refuse to perform his
 sworn duty.
+
 x x x Moreover, the public prosecutor violated his bounden
 duty to protect the interest of the oﬀended party, at least
 insofar as the criminal aspect is concerned. x x x
@@ -1380,6 +1394,7 @@ Given this circumstance, the trial court, motu proprio, should have
 called additional witnesses for the purpose of questioning them
 himself in order to satisfy his mind with reference to particular facts
 or issues involved in the case.
+
 Based on the foregoing, it is evident that petitioner was
 deprived of her day in court. Indeed, it is not only the State, but
 more so the oﬀended party, that is entitled to due process in criminal
@@ -1387,6 +1402,7 @@ cases. Inasmuch as the acquittal of the accused by the court a
 quo was done without regard to due process of law, the same
 is null and void. It is as if there was no acquittal at all, and
 the same cannot constitute a claim for double jeopardy.
+
 xxx xxx xxx
 Otherwise put, the dismissal of the case below was invalid for
 lack of a fundamental prerequisite, that is, due process. In rendering
@@ -1395,6 +1411,7 @@ in excess of jurisdiction, for a judgment which is void for lack of due
 process is equivalent to excess or lack of jurisdiction. Indeed,
 "jurisdiction" is the right to hear and determine, not to determine
 without hearing.
+
 Lack of jurisdiction is one of the grounds for the
 annulment by the Court of Appeals of judgments or ﬁnal
 orders and resolutions of Regional Trial Courts. Hence, the
@@ -1427,7 +1444,6 @@ summarily dismissed the case for having been ﬁled merely by private
 counsel for the oﬀended parties, though with the conformity of the
 provincial prosecutor, and not by the Solicitor General. While it is the
 public prosecutor who represents the People in criminal cases before
-
 the trial courts, it is only the Solicitor General that is authorized to
 bring or defend actions in behalf of the People or Republic of the
 Philippines once the case is brought up before this Court or the Court
@@ -1470,6 +1486,7 @@ violation of Section 14, Article VIII
 of the Constitution. Consequently,
 Mamerto cannot claim a violation of
 his right against double jeopardy.
+
 Private complainants suﬃciently established that the Joint Orders
 acquitting Mamerto were rendered with grave abuse of discretion that is
 arbitrary, capricious, whimsical, or despotic exercise of judgment as when
@@ -1478,7 +1495,6 @@ the disputed act of the trial court goes beyond the limits of discretion thus
 eﬀecting an injustice. 66 Section 14, Article VIII of the Constitution expressly
 provides that "[n]o decision shall be rendered by any court without
 expressing therein clearly and distinctly the facts and the law on which it is
-
 based. No petition for review or motion for reconsideration of a decision of
 the court shall be refused due course or denied without stating the basis
 therefor." In Yao v. Court of Appeals (Yao), 67 we emphasized that the parties
@@ -1532,7 +1548,6 @@ prosecution miserably failed to overcome the legal presumption of innocence
 of the accused beyond cavil of reasonable doubt." The Joint Orders are mere
 recital of facts with a dispositive portion. They contained neither an analysis
 of the evidence nor a reference to any legal basis for the conclusion. Thus,
-
 the Joint Orders are void for failure to meet the standard set forth in Section
 14, Article VIII of the Constitution. 70 It is settled that a void judgment of
 acquittal has no legal eﬀect and does not terminate the case. 71 In People v.
@@ -1585,8 +1600,8 @@ its exclusive rule-making authority.
 
 To guide the bench and the bar, these rules should be observed with
 respect to the legal standing of private complainants in assailing judgments
-or orders in criminal proceedings before the SC and the CA, to wit:
-(1)
+or orders in criminal proceedings before the SC and the CA, to wit:(1)
+
 The private complainant has the legal personality to
 appeal the civil liability of the accused or file a petition for certiorari to
 preserve his or her interest in the civil aspect of the criminal case.
@@ -1608,8 +1623,8 @@ among other things). The comment of the OSG must state whether it
 conforms or concurs with the remedy of the private oﬀended party.
 The judgment or order of the reviewing court granting the private
 complainant's relief may be set aside if rendered without aﬀording
-the People, through the OSG, the opportunity to file a comment.
-(2)
+the People, through the OSG, the opportunity to file a comment.(2)
+
 The private complainant has no legal personality to
 appeal or ﬁle a petition for certiorari to question the judgments or
 orders involving the criminal aspect of the case or the right to
@@ -1624,15 +1639,14 @@ the reglementary period. Otherwise, the private complainant must
 allege in the appeal or petition for certiorari the fact of pendency of
 the request. If the OSG denied the request for conformity, the Court
 shall dismiss the appeal or petition for certiorari for lack of legal
-personality of the private complainant.
-(3)
+personality of the private complainant.(3)
+
 The reviewing court shall require the OSG to ﬁle
 comment within a non-extendible period of thirty (30) days from
 notice on the private complainant's petition for certiorari questioning
 the acquittal of the accused, the dismissal of the criminal case, and
 the interlocutory orders in criminal proceedings on the ground of
-grave abuse of discretion or denial of due process.
-(4)
+grave abuse of discretion or denial of due process.(4)
 
 These guidelines shall be prospective in application.
 
@@ -1668,7 +1682,8 @@ issuing the Joint Order dated August 15, 2008 (Joint Order) acquitting
 Mamerto of all charges.
 At the center of the controversy is the Joint Order of the RTC. The Joint
 Order merely contained a summary of Mamerto's motion for reconsideration,
-3 his subsequent memorandum, 4 and resolved the motion with a singleparagraph disposition of acquittal, which reads in full:
+3 his subsequent memorandum, 4 and resolved the motion with a single
+paragraph disposition of acquittal, which reads in full:
 A perusal of the foregoing facts shows that the prosecution
 miserably failed to overcome the legal presumption of innocence of
 the accused beyond cavil of reasonable doubt and therefore, the
@@ -1691,13 +1706,14 @@ Finding no reversible error in the CA's Decision, the ponencia denies
 Mamerto's petition for review on certiorari, and affirms the assailed Decision.
 
 The RTC indeed committed
-
 grave abuse of discretion
 when it rendered the Joint
 Orders
+
 I express my full agreement with the ponencia that the Joint Order is
 indeed violative of Section 14, Article VIII of the Constitution. As such, I also
 submit that the Joint Order is void.
+
 Section 14, Article VIII is in the Constitution as an additional guarantee
 of due process, which demands that the parties to a litigation be informed of
 how the case was decided, with an explanation of the factual and legal
@@ -1708,6 +1724,7 @@ is, thus, a safeguard against the impetuosity of the judge. 8
 In jurisprudence, the Court has declared void a number of decisions
 and ﬁnal orders because of non-compliance with Section 14, Article VIII of
 the Constitution:
+
 1.
 
 I n People v. Lizada , 9 the trial court merely summarized the
@@ -1774,6 +1791,7 @@ inoperative by any tribunal in which effect is sought to be given to it." 17
 It is for this reason that I concur with the ponencia. As the Joint Order is
 void, Mamerto's motion for reconsideration is, legally speaking, still pending
 as it has not been validly granted or denied.
+
 The Court could validly order the remand of the case, and this would
 not be oﬀensive to Mamerto's right against double jeopardy. To recall,
 jeopardy is "[t]he risk of conviction and punishment that a criminal
@@ -1782,12 +1800,14 @@ a person is charged with an oﬀense, and the case is terminated either by
 acquittal, conviction, or any other manner without the consent of the
 accused, he or she cannot be charged again with the same or identical
 offense. 19
+
 Jurisprudence has provided that for the right against double jeopardy to
 attach, the following requisites must be present: (1) a valid indictment, (2) a
 court of competent jurisdiction, (3) the arraignment of the accused, (4) a
 valid plea entered by him or her, and (5) the acquittal or conviction of the
 accused, or the dismissal or termination of the case against him or her
 without his or her express consent. 20
+
 Hence, it is only after a defendant is deemed to have been put in
 former jeopardy that any subsequent prosecution of the defendant brings
 the guarantee against double jeopardy into play. 21 This presumes that a
@@ -1813,12 +1833,14 @@ The ponencia's guidelines
 on the legal personality of
 private complainants to file
 appeals in criminal cases
+
 Due to the fact that the petition for certiorari ﬁled in the CA in this case
 was ﬁled by the private complainants AAA and BBB, the ponencia uses the
 present case as a vehicle to streamline, for the guidance of the bench and
 the bar, the jurisprudence on the personality of private complainants to
 appeals or petitions for certiorari in criminal cases. The ponencia proposes
 the following guidelines:
+
 To guide the bench and the bar, these rules should be observed
 with respect to the legal standing of the private complainant in
 assailing judgments or orders in criminal proceedings before the
@@ -1835,7 +1857,8 @@ interest of the private oﬀended party. The failure to
 comply with this requirement may result in the denial or
 dismissal of the remedy.
 The reviewing court shall require the Oﬃce of the
-Solicitor General (OSG) to ﬁle a comment within a nonextendible period of 30 days from notice if it appears that
+Solicitor General (OSG) to ﬁle a comment within a non-
+extendible period of 30 days from notice if it appears that
 the resolution of the private complainant's appeal or
 petition for certiorari will necessarily aﬀect the criminal
 aspect of the case or the right to prosecute (i.e.,
@@ -1852,14 +1875,14 @@ whether it conforms or concurs with the remedy of the
 private oﬀended party. The judgment or order of the
 reviewing court granting the private complainant's relief
 may be set aside if rendered without affording the People,
-through the OSG, the opportunity to file a comment.
+through the OSG, the opportunity to file a comment.(2)
 
-(2)
 The private complainant has no legal
 personality to appeal or ﬁle a petition for certiorari to
 question the judgments or orders involving the criminal
 aspect of the case or the right to prosecute, unless made
 with the OSG's conformity.
+
 The private complainant must request the OSG's
 conformity within the reglementary period to appeal or
 ﬁle a petition for certiorari. The private complainant must
@@ -1869,8 +1892,8 @@ period. Otherwise, the private complainant must allege in
 the appeal or petition for certiorari the fact of pendency of
 the request. If the OSG denied the request for conformity,
 the Court shall dismiss the appeal or petition for certiorari
-for lack of legal personality of the private complainant.
-(3)
+for lack of legal personality of the private complainant.(3)
+
 The reviewing court shall require the OSG to
 ﬁle comment within a non-extendible period of thirty (30)
 days from notice on the private complainant's petition for
@@ -1879,9 +1902,7 @@ dismissal of the criminal case, and the interlocutory
 orders in criminal proceedings on the ground of grave
 abuse of discretion or denial of due process.
 (4)
-These guidelines shall be prospective in
-25
-application.
+These guidelines shall be prospective in25 application.
 
 I fully concur with the above guidelines. The OSG, as representative of
 the People of the Philippines — the real party-in-interest in criminal
@@ -1893,6 +1914,7 @@ appeal or petition for certiorari before the appellate courts when what the
 petition assails refers to or aﬀects strictly the civil aspect of the case, and
 will absolutely not aﬀect the criminal aspect. This is, and should remain to
 be, the rule.
+
 Section 5, Rule 110 of the Rules of Court commands that "[a]ll criminal
 actions commenced by a complaint or information shall be prosecuted
 under the direction and control of the prosecutor. " 26 Granting legal
@@ -1927,6 +1949,7 @@ In sum, I agree with the result in that the case must be eventually
 remanded to the RTC because its ruling on Mamerto's motion for
 reconsideration is void for being oﬀensive to Section 14, Article VIII of the
 Constitution.
+
 Moreover, I agree in the guidelines provided in the ponencia as regards
 the legal personality of private complainants to ﬁle petitions to assail
 decisions, resolutions, or orders in criminal cases, and the procedure to be
@@ -1938,6 +1961,7 @@ consequences, but will, more importantly, be violative of substantive law.
 Based on these premises, I vote to DENY the petition and to REMAND
 the case to the Regional Trial Court for the resolution of Mamerto Austria's
 motion for reconsideration.
+
 LAZARO-JAVIER, J., concurrence:
 I agree with the disposition to remand the case to the trial court for
 resolution of petitioner's motion for reconsideration in accordance with
@@ -1962,6 +1986,7 @@ interest, the People have the inherent prerogative to prosecute the oﬀense.
 This includes the authority to appeal from the accused's acquittal, the
 dismissal of the case, and other interlocutory orders relating to the criminal
 aspect of the case. 5
+
 Under Section 5, Rule 110 6 of the Rules of Court, all criminal actions
 commenced by complaint or Information shall be prosecuted under the
 direction and control of the public prosecutor. The public prosecutor
@@ -2077,6 +2102,7 @@ complainant was clothed with personality even without the OSG's
 intervention in cases where the decision or order smacks of apparent error
 that ultimately resulted in the denial of justice both for the State and the
 private complainant.
+
 I join the ponencia in maintaining these exceptions. Certainly, in
 vesting the private complainant with the requisite legal personality before
 the Court of Appeals, the Court did so after considering the pieces of
@@ -2094,6 +2120,7 @@ she cannot be permitted to adopt a position contrary to that of the Solicitor
 General. To do so would be tantamount to giving the private prosecutor the
 direction and control of the criminal proceeding, contrary to the provisions of
 law. 23
+
 In Anlud Metal Recycling Corp. v. Ang, the Court categorically held that
 enlarging the scope of what a private complainant may raise in a certiorari
 action may result in wanton disregard of the OSG's personality, as well as
@@ -2106,8 +2133,8 @@ accused, it is only the OSG that may bring an appeal on the criminal
 aspect representing the People. The rationale therefor is rooted in the
 principle that the party aﬀected by the dismissal of the criminal
 action is the People and not the petitioners who are mere complaining
-
-witnesses. For this reason, the People are deemed as the real partiesin-interest in the criminal case and, therefore, only the OSG can
+witnesses. For this reason, the People are deemed as the real parties-
+in-interest in the criminal case and, therefore, only the OSG can
 represent them in criminal proceedings pending in the CA or in this
 Court. In view of the corollary principle that every action must be
 prosecuted or defended in the name of the real party-in-interest who
@@ -2125,6 +2152,7 @@ ALL TOLD, I vote in favor of the guidelines governing the participation
 of a private complainant in appellate or certiorari proceedings in criminal
 cases; and the remand of the case to the trial court for resolution of
 petitioner's motions for reconsideration.
+
 Footnotes
 * On official business.
 ** On leave on official time.
@@ -2146,7 +2174,6 @@ Acosta.
 13. Id. at 489-492.
 14. Id. at 529-556.
 15. Id. at 615.
-
 16. Id. at 623-624.
 17. Rodriguez v. Gadiane , 527 Phil. 691, 698 (2006).
 18. Chiok v. People , 774 Phil. 230, 246 (2015).
@@ -2183,7 +2210,6 @@ offense before a court of competent jurisdiction."
 39. 384 Phil. 322 (2000).
 40. Id. at 331-337.
 41. 810 Phil. 187 (2017).
-
 42. Id. at 200-204.
 43. 442 Phil. 576 (2002).
 44. Id. at 583-588.
@@ -2217,7 +2243,6 @@ offense before a court of competent jurisdiction."
 (2016). People v. Sandiganbayan , 482 Phil. 613, 628 (2004). See also Ongson
 v. People, 504 Phil. 214, 224 (2005).
 71. Javier v. Gonzales, 803 Phil. 631, 648 (2017); citing People v. Judge Hernandez ,
-
 531 Phil. 289, 306 (2006).
 72. 303 Phil. 209 (1994).
 73. Id. at 214-218.
@@ -2225,6 +2250,7 @@ v. People, 504 Phil. 214, 224 (2005).
 75. Merciales v. Court of Appeals, supra note 59 at 81.
 76. People v. Alejandro, 823 Phil. 684, 692 (2018).
 77. Galman v. Sandiganbayan, 228 Phil. 42 (1986).
+
 CAGUIOA, J., concurring:
 1. The identity of the victim or any information which could establish or
 compromise his/her identity as well as those of his/her immediate family or
@@ -2258,7 +2284,6 @@ Insular Life Assurance Company, Ltd. v. Young, 424 Phil. 675 (2002).
 8. People v. Bugarin, 339 Phil. 570, 580 (1997).
 9. 444 Phil. 67 (2003).
 10. 428 Phil. 976 (2002).
-
 11. 454 Phil. 431 (2003).
 12. Supra note 8.
 13. 303 Phil. 209 (1994).
@@ -2305,7 +2330,6 @@ February 5, 2020, accessed at
 Supreme Court stated that courts must first establish when jeopardy
 attaches and terminates in a criminal proceeding to determine whether the
 case implicates the purposes and policies of the Double Jeopardy Clause).
-
 23. Concurring Opinion of J. Caguioa in Yokohama Tire Philippines, Inc. v. Reyes ,
 supra note 20.
 24. Separate Opinion of J. Caguioa in Javier v. Gonzales, supra note 19, at 651:
@@ -2328,6 +2352,7 @@ and its officers in the Supreme Court, the Court of Appeals, and all
 other courts or tribunals in all civil actions and special proceedings in which
 the Government or any officer thereof in his official capacity is a party.
 (Emphasis supplied)
+
 LAZARO-JAVIER, J., concurrence:
 1. Article VIII — Judicial Department
 Section 14. No decision shall be rendered by any court without expressing
@@ -2348,7 +2373,6 @@ party in interest. (1997 Rules of Procedure, Rule 3, Sec. 2, as Amended).
 commenced by complaint or information shall be prosecuted under the
 direction and control of a public prosecutor. In case of heavy work schedule
 of the public prosecutor or in the event of lack of public prosecutors, the
-
 private prosecutor may be authorized in writing by the Chief of the
 Prosecution Office or the Regional State Prosecutor to prosecute the case
 subject to the approval of the Court. Once so authorized to prosecute the
