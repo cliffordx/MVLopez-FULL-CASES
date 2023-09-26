@@ -47,9 +47,6 @@ to determine the value of the property for the payment of just compensation.
 compensation. DBP rejected the oﬀered amount. The matter was then
 forwarded to the Provincial Agrarian Reform Adjudicator (PARAD). In the
 
-
-
-
 summary proceeding before the PARAD, DBP argued that the property does
 not fall under the coverage of RA No. 6657 because some portions are
 residential and not devoted to agriculture; nor is it a tenanted agricultural
@@ -99,9 +96,6 @@ formula, i.e., 8.33/kg; and the assumed net income rate of 20% pursuant to
 DAR AO No. 5-98 or P29,988.00/hectare. 23 Thus:
 CNI = (AGP x SP) – CO/12%
 
-
-
-
 CNI = (4,500 x 8.33) – 29,988.00/0.12
 CNI = P62,475.00 24
 In computing the MV, LBP used the following factors: (1) the Base Unit
@@ -145,9 +139,6 @@ determination of just compensation is essentially a judicial function, courts
 are not at liberty to disregard DAR AO No. 5-98; unless the AO is declared
 invalid, courts have no option but to apply it, otherwise, they will be guilty of
 
-
-
-
 grave abuse of discretion. The RTC disposed, thus:
 WHEREFORE,
 rendered:
@@ -155,8 +146,6 @@ rendered:
 premises
 
 considered,
-
-
 
 judgment
 
@@ -342,9 +331,6 @@ LBP in its computation as it did not present in evidence any certiﬁcation from
 the concerned government agencies showing the relevant industry data
 used and cited by the LBP in its Field Investigation Report and the Claims
 
-
-
-
 Valuation and Processing Form. 49
 It is true that DAR AO No. 5-98 sanctions the use of industry data from
 appertaining government agencies to complete the necessary ﬁgures in the
@@ -392,9 +378,6 @@ At this juncture, we note that the determination of the veracity of the
 ﬁgures used and the applicability or inapplicability of the factors under
 Section 17 of RA No. 6657 in computing the just compensation, necessitates
 reception of further evidence for the court to have its own judicious
-
-
-
 
 determination of the just compensation and for the proper imposition of
 interest, if at all. Since these are purely factual matters and this Court is not
@@ -452,9 +435,6 @@ Footnotes
 2. Rollo (G.R. No. 229274), pp. 38-50; and rollo (G.R. No. 229289), pp. 38-51;
 Penned by Associate Justice Japar B. Dimaampao, with the concurrence of
 
-
-
-
 Associate Justices Franchito N. Diamante and Zenaida T. Galapate-Laguilles.
 3. Rollo (G.R. No. 229274), pp. 39-50; and rollo (G.R. No. 229289), pp. 66-77;
 Penned by Associate Justice Japar B. Dimaampao, with the concurrence of
@@ -493,9 +473,6 @@ CNI = Capitalized Net Income
 CS = Comparable Sales
 MV = Market Value Per Tax Declaration
 
-
-
-
 22. DAR AO No. 5-98 (1998), Section II, A.2. When the CNI factor is not present, and
 CS and MV are applicable, the formula shall be: LV = (CS x 0.9) + (MV x 0.1).
 23. Rollo (G.R. No. 229274), pp. 89-90.
@@ -531,9 +508,6 @@ Phil. 901, 911 (2017).
 45. See Land Bank of the Philippines v. Briones-Blanco, supra note 43.
 46. Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc., supra
 note 43.
-
-
-
 
 47. Land Bank of the Philippines v. Heirs of Maximo Puyat and Gloria Puyat, 689
 Phil. 505, 522 (2012).
@@ -576,9 +550,6 @@ xxx xxx xxx (Emphasis supplied)
 note 43, citing Alfonso v. LBP , 801 Phil. 217 (2016).
 54. Id.
 55. Id.
-
-
-
 
 56. Land Bank of the Philippines v. Heirs of the Estate of Mariano Angela Vda. De
 Veneracion, G.R. No. 233401, June 17, 2019.

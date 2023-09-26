@@ -45,9 +45,6 @@ authentication of electronically transmitted election results. 6 Accordingly,
 the COMELEC implemented a paper-based AES technology and utilized
 optical mark reader machines in the 2010, 2013, 2016, and 2019 National
 
-
-
-
 Elections. Speciﬁcally, the COMELEC used the Precinct Count Optical Scan
 (PCOS) machines in 2010, and 2013, and the Vote-Counting Machines (VCM)
 in 2016 and 2019. 7 In these national elections, the members of the electoral
@@ -96,9 +93,6 @@ duty is to "enforce the law." The Commission is not given the
 constitutional competence to amend or modify the law it is sworn to
 uphold. Section 6 (e), (f), and (n) of Republic Act No. 8436, as
 amended, is law. Should there be policy objections to it, the remedy
-
-
-
 
 is to have Congress amend it.
 The Commission on Elections cannot opt to breach the
@@ -228,9 +222,6 @@ rate, the random manual audit under COMELEC Resolution Nos. 10458 25
 and 10525 26 suﬃciently addressed the objective of testing the voting
 machines' accuracy and reliability. Also, the OSG agreed that Section 179 of
 
-
-
-
 the Omnibus Election Code allows poll watchers to take photographs during
 the counting of votes, but not during the casting of votes. Lastly, the Capalla
 ruling already settled the issue on digital signatures. On May 24, 2019,
@@ -276,9 +267,6 @@ result of the complained act. 36
 Here, AES-WATCH, et al., assail the constitutionality of the prohibition
 on poll watchers from taking photographs of the proceedings during the
 elections as well as the COMELEC's compliance with the Bagumbayan ruling.
-
-
-
 
 However, they did not allege any material injury or claim that they are poll
 watchers, registered voters, candidates, members of a political party, or
@@ -328,9 +316,6 @@ circumstances, without willfulness or favor. As applied to public
 functionaries, it means a power or right conferred upon them by law of
 acting oﬃcially in certain circumstances, according to the dictates of their
 own judgment and conscience, uncontrolled by the judgment or conscience
-
-
-
 
 of others. If the law imposes a duty upon a public oﬃcer and gives him a
 right to decide how or when the duty shall be performed, it is discretionary
@@ -383,9 +368,6 @@ Counting Procedure. — The Commission shall
 prescribe the manner and procedure of counting the votes under the
 automated system: Provided, That apart from the electronically
 stored result, thirty (30) copies of the election return are printed.
-
-
-
 
 xxx xxx xxx
 SEC. 37.
@@ -516,9 +498,6 @@ SEC. 29.
 Random Manual Audit. — Where the AES is
 used, there shall be a random manual audit in one precinct per
 
-
-
-
 congressional district randomly chosen by the Commission in
 each province and city. Any diﬀerence between the automated
 and manual count will result in the determination of root cause and
@@ -573,9 +552,6 @@ the RMAT reports a discrepancy between the AES and RMA results
 which exceeds the allowable margin of an aggregate diﬀerence of ten
 (10) votes, the RMA-VT shall:
 xxx xxx xxx
-
-
-
 
 e.
 In the event of a ﬁnding that the discrepancy exists or is not
@@ -773,9 +749,6 @@ electronic document had been altered after the transformation was
 made, and that for purposes of the Rules, a digital signature is
 considered an electronic signature.
 
-
-
-
 An electronic signature is likewise deﬁned as "any distinctive
 mark, characteristic and/or sound in electronic form representing the
 identity of a person and attached to or logically associated with the
@@ -829,9 +802,6 @@ knowledge derived from actual experience in dealing with political
 controversies, is in a peculiarly advantageous position to decide
 complex political questions.
 
-
-
-
 xxx xxx xxx
 There are no ready-made formulas for solving public problems.
 Time and experience are necessary to evolve patterns that will serve
@@ -883,9 +853,6 @@ prevent this, petitioners pray to compel the COMELEC to make
 an inventory of all the MAC and IP addresses of all its
 electronic devices, as well as IMSI and IMEI of all its
 
-
-
-
 communication devices, that would be used in the May 9,
 2016 elections. That way, the recipients of the data, particularly the
 COMELEC, could crosscheck whether the data they received actually
@@ -934,9 +901,6 @@ FUNDS THEREFOR AND FOR OTHER PURPOSES; approved on January 23,
 2007; Republic Act (RA) No. 8436, as amended will be used to refer to the
 amendments introduced by RA No. 9369 for consistency.
 
-
-
-
 4. RA No. 8436, Sec. 5.
 5. RA No. 8436, Sec. 6.
 6. RA No. 8436, Sec. 30.
@@ -980,9 +944,6 @@ the correctness of reported election results;
 xxx xxx xxx
 (n) Provide the voter a system of verification to find out whether or not the
 machine has registered his choice[.]
-
-
-
 
 15. Bagumbayan-VNP Movement, Inc. v. COMELEC, supra note 7, at 1322-1323.
 16. Bagumbayan-VNP Movement, Inc. v. COMELEC , G.R. No. 222731 (Notice),
@@ -1028,9 +989,6 @@ instrumentality of the Government." (CONSTITUTION, Art. VIII, Sec. 1).
 litigant so aggrieved as to have a justiciable case. (Shapiro and Tresolini,
 American Constitutional Law, Sixth Edition, 1983, p. 79).
 
-
-
-
 30. Cruz, Philippine Political Law, 2002 Ed., p. 259. See also Angara v. Electoral
 Commission , 63 Phil. 139, 158 (1936); Board of Optometry v. Hon. Colet, 328
 Phil. 1187, 1196-1197 (1996); Police General Macasiano (Ret.) v. National
@@ -1074,9 +1032,6 @@ omitted.)
 44. See Quizon v. COMELEC, supra.
 45. See Angchangco, Jr. v. Hon. Ombudsman, 335 Phil. 766, 772 (1997).
 
-
-
-
 46. Lamb v. Phipps, 22 Phil. 456, 474 (1912).
 47. See Justice Jose Feria, et al. Civil Procedure Annotated (2001 ed.), p. 488.
 48. See Bagumbayan-VNP Movement, Inc. v. COMELEC, supra note 16.
@@ -1118,9 +1073,6 @@ https://techterms.com/definition/macaddress.
 61. IP or Internet Protocol address is a unique address that enables a network
 device to communicate with and locate other devices within the same
 network. IP Address, the Tech Terms Dictionary. Accessed on August 25,
-
-
-
 
 2020 at https://techterms.com/definition/ip_address.
 62. See Republic Act No. 8436, Section 5.

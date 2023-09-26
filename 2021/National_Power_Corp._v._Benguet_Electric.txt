@@ -42,9 +42,6 @@ was fully paid and updated. 12
 In February 2004, BENECO's employee, Engineer Lawrence Umaming
 (Umaming), studied BENECO's operations and discovered its low systems
 
-
-
-
 losses. Because of this, Engineer Umaming called the attention of the
 National Transmission Corporation (TRANSCO), the company which took over
 NPC's transmission functions in 2004. TRANSCO conducted tests on
@@ -91,9 +88,6 @@ Electric) 24 and Ridjo Tape & Chemical Corp. v. Court of Appeals (Ridjo Tape) ,
 NPC's failure to determine the error is a case of negligence, and as such, it
 must bear the consequential losses. 26 Concerning BENECO's entitlement to
 a PPD, the RTC agreed with BENECO that the underbilling is separate from
-
-
-
 
 the current monthly billings. Since BENECO has been paying its current
 monthly bills promptly, it is entitled to a PPD. 27 The decretal portion of the
@@ -152,9 +146,6 @@ NPC ﬁled a motion for reconsideration. However, the CA denied the
 motion in a Resolution 33 dated May 22, 2015.
 Hence, this recourse.
 
-
-
-
 NPC insists that BENECO is liable for the underbilling because it
 consumed the electricity from NPC but only paid half of the actual price.
 Otherwise, BENECO will be unjustly enriched. 34 Further, Panay Electric , 35
@@ -201,9 +192,6 @@ claimant must unequivocally prove that another party
 knowingly received something of value to which he was not
 entitled and that the state of aﬀairs are such that it would be
 unjust for the person to keep the benefit. x x x.
-
-
-
 
 xxx xxx xxx
 In order that accion in rem verso may prosper, the essential
@@ -256,9 +244,6 @@ their contract. The principle of unjust enrichment will not apply.
 
 BENECO is liable for underbilled power
 
-
-
-
 charges due to the use of a wrong
 multiplier corrected within 90 days from
 receipt of the erroneous billings.
@@ -308,9 +293,6 @@ correct meter device, that is, one with a multiplier
 of 5,250, notwithstanding its admission in the Meter Test
 Report that it used the said multiplier. When Transco and
 Genco computed the billings for respondent MORESCO I
-
-
-
 
 for the months following the installation of the new meter
 device, they belatedly discovered that the new device
@@ -363,9 +345,6 @@ computations are factual questions, and the Court is not a trier of facts. 59
 Hence, the case must be remanded to the RTC for proper determination of
 the amount of the underbilling.
 
-
-
-
 Panay Electric, Ridjo Tape, and Meralco
 do not apply.
 Panay Electric , 60 Ridjo Tape , 61 and Meralco 62 diﬀer in some factual
@@ -415,9 +394,6 @@ participatory negligence on BENECO. On this point, the CA elucidated:
 NAPOCOR, in an eﬀort to veer away from responsibility,
 desperately impute participatory negligence on the part of BENECO
 by accusing it of not doing anything to investigate its unusually low
-
-
-
 
 systems losses during the covered period x x x as it showed more
 electricity being sold by BENECO to its consumer than what it was
@@ -471,9 +447,6 @@ discovered the wrong CTR setting and multiplier. NPC's attempt to pass the
 blame to BENECO for allegedly waiting for four years to report the matter to
 it is unjustiﬁed because NPC has the sole obligation to determine the correct
 
-
-
-
 CTR setting and maintain its billing meter system in the ﬁrst place. BENECO
 does not even have access to NPC's billing meter system. Regardless of who
 discovered the irregularities, it is undeniable that NPC failed to discharge its
@@ -524,9 +497,6 @@ bills. BENECO's discovery of the possible irregularity, level of familiarity, an
 technical knowledge does not, in any way, reduce, negate, or even out NPC's
 egregious mistake and gross negligence, which caused a signiﬁcant loss on
 
-
-
-
 the part of the government, and ultimately of the people.
 ACCORDINGLY, the petition is PARTLY GRANTED . The Decision
 dated August 29, 2014 and Resolution dated May 22, 2015 of the Court of
@@ -564,9 +534,6 @@ Maria Elisa Sempio Diy.
 18. Id. at 67-78.
 19. Id.
 
-
-
-
 20. Id. at 70-72.
 21. Id. at 95-96.
 22. Id. at 182.
@@ -601,9 +568,6 @@ citing 1 J. VITUG, CIVIL LAW 30 (2003).
 48. Supra note 45, at 384.
 49. 648 Phil. 342 (2010).
 
-
-
-
 50. Id. at 352.
 51. 793 Phil. 704 (2016).
 52. Id. at 714.
@@ -637,9 +601,6 @@ including any restructured account with NPC.
 69. Supra note 51.
 70. Supra, at 709.
 71. Supra, at 69.
-
-
-
 
 72. Rollo , p. 71.
 73. Id. at 58.
