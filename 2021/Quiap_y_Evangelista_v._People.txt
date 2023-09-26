@@ -40,7 +40,12 @@ examination. 10 PO2 Garcia and SPO1 Sales delivered the seized item to the
 crime laboratory. SPO2 Macabajon received the item and the request. 11
 Afterward, PSI Grace Bombasi (PSI Bombasi) conducted qualitative
 examination on the specimen which tested positive for methamphetamine
-hydrochloride. 12 Thus, Leonides was charged with violation of Section 11,Article II of Republic Act (RA) No. 9165 before the RTC, docketed as Criminal
+hydrochloride. 12 Thus, Leonides was charged with violation of Section 11,
+
+
+
+
+Article II of Republic Act (RA) No. 9165 before the RTC, docketed as Criminal
 Case No. SC-14520, 13 to wit:
 That on or about March 4, 2011, in the Municipality of Pila,
 Province of Laguna and within the jurisdiction of this Honorable Court,
@@ -90,7 +95,12 @@ absent any objection before his arraignment. At any rate, Leonides was
 validly arrested without a warrant because he was committing a crime when
 the shabu was found in his possession. The CA likewise held that suﬃcient
 probable cause exists to eﬀect a warrantless arrest. Aside from the tipped
-information, Leonides exhibited suspicious behavior when he attempted tothrow the plastic sachet. The CA gave credence to PO2 Garcia's testimony
+information, Leonides exhibited suspicious behavior when he attempted to
+
+
+
+
+throw the plastic sachet. The CA gave credence to PO2 Garcia's testimony
 that Leonides panicked (nataranta) when asked to unwrap object in his hand.
 Also, the shabu was conﬁscated pursuant to a valid search of a moving
 vehicle where the police oﬃcers had to act fast as time is of the essence.
@@ -137,7 +147,12 @@ electrical tape after PO2 Garcia boarded the jeepney. Leonides even
 panicked when asked to unwrap the object which revealed a plastic sachet
 containing the shabu . Having established the validity of warrantless arrest
 and seizure, we now examine Leonides' attack on the identity and credibility
-of the confiscated evidence.In Illegal Possession of Dangerous Drugs, the contraband itself
+of the confiscated evidence.
+
+
+
+
+In Illegal Possession of Dangerous Drugs, the contraband itself
 constitutes the very corpus delicti of the oﬀense, and the fact of its
 existence is vital to a judgment of conviction. 25 Thus, it is essential to
 ensure that the substance recovered from the accused is the same
@@ -190,7 +205,12 @@ invalid such seizures of and custody over said items.
 In earlier cases, this Court ruled that the deviation from the standard
 procedure in Section 21 dismally compromises the evidence, unless (1) such
 non-compliance was under justiﬁable grounds; and (2) the integrity and the
-evidentiary value of the seized items are properly preserved by theapprehending team. 29 Later, we emphasized the importance of the
+evidentiary value of the seized items are properly preserved by the
+
+
+
+
+apprehending team. 29 Later, we emphasized the importance of the
 presence of the three (3) insulating witnesses during the physical inventory
 and the photograph of the seized items. 30 In People v. Lim , 31 it was
 explained that in case the presence of any or all the insulating witnesses
@@ -238,7 +258,12 @@ oﬃcial. Worse, there was no attempt on the part of the buy-bust team to
 comply with the law and its implementing rules. The operatives failed to
 provide any justiﬁcation showing that the integrity of the evidence had all
 along been preserved. Apropos is the testimony of PO2 Garcia which is silent
-about the presence of the insulating witnesses, to wit:PROSECUTOR:
+about the presence of the insulating witnesses, to wit:
+
+
+
+
+PROSECUTOR:
 Q:
 
 You said that you brought [Leonides] to the police station and
@@ -344,7 +369,13 @@ And the fact of confiscation?
 
 A:
 
-Yes, [Ma'am].Q:
+Yes, [Ma'am].
+
+
+
+
+
+Q:
 
 But never the fact of turning it over to the evidence custodian?
 Not that fact, correct?
@@ -395,7 +426,12 @@ Let a copy of this Resolution be furnished to the Director of the Bureau
 of Corrections, Muntinlupa City for immediate implementation. The Director
 is directed to report to this Court the action taken within ﬁve days from
 receipt of this Resolution.
-SO ORDERED.Perlas-Bernabe, Gesmundo, Inting * and Rosario, JJ., concur.
+SO ORDERED.
+
+
+
+
+Perlas-Bernabe, Gesmundo, Inting * and Rosario, JJ., concur.
 Footnotes
 * Designated as additional Member per Raffle dated February 3, 2020.
 1. Rollo , pp. 11-31.
@@ -428,7 +464,12 @@ Phil. 572, 593 (1997); and People v. Nazareno, 329 Phil. 16, 22 (1996).
 23. See People v. Solayao, 330 Phil. 811, 818-819 (1996), citing Posadas v. CA, 266
 Phil. 306, 310 (1990).
 24. People v. Chua, 444 Phil. 757, 768 (2003), citing Malacat v. CA , 347 Phil. 462,
-379-382 (1997).25. People v. Partoza, 605 Phil. 883, 891 (2009). See also People v. Cariño , G.R.
+379-382 (1997).
+
+
+
+
+25. People v. Partoza, 605 Phil. 883, 891 (2009). See also People v. Cariño , G.R.
 No. 233336, January 14, 2019; People v. Crispo, 828 Phil. 416, 436-437
 (2018); See People v. Sanchez, 827 Phil. 457, 472-473 (2018); People v.
 Magsano, 826 Phil. 947, 964-965 (2018); People v. Manansala , 826 Phil. 578,
@@ -471,9 +512,19 @@ the examination; (8) that [Leonides] was not furnished with a copy of the
 result of the examination; (9) that there are other substance which when
 treated with the same reagent will react the same way as if they contain
 illegal drugs although those substance do not contain illegal drugs; and (10)
-that there were no photographs of the specimen attached to the laboratoryexamination.
+that there were no photographs of the specimen attached to the laboratory
+
+
+
+
+examination.
 38. 654 Phil. 461 (2011).
 39. Id. at 466.
 40. People v. Cañete , 433 Phil. 781, 794 (2002); and Mallillin v. People, 576 Phil.
 576, 593 (2008).
 41. People v. Dela Cruz, 589 Phil. 259, 272 (2008).
+
+
+
+
+

@@ -29,6 +29,7 @@ to TCLC as the sole bidder. On December 14, 2004, TCLC was issued a
 certiﬁcate of sale 7 which it recorded with the register of deeds. 8 On January
 31, 2006, a final deed of sale was executed in favor of TCLC. 9
 
+
 Aggrieved, Spouses Villanueva ﬁled an action against TCLC to annul
 the extrajudicial foreclosure sale, certiﬁcate of sale and ﬁnal deed of sale
 before the Regional Trial Court (RTC) docketed as Civil Case No. 7823. 10
@@ -42,7 +43,12 @@ learned the foreclosure only in January 2005. They denied receiving any
 notice of foreclosure and its publication.
 On March 29, 2012, the RTC dismissed the complaint and upheld the
 validity of the extrajudicial foreclosure sale. Also, it ruled that the agreement
-between the parties is not a pactum commissorium absent stipulation onautomatic appropriation of the mortgaged property, 11 thus:
+between the parties is not a pactum commissorium absent stipulation on
+
+
+
+
+automatic appropriation of the mortgaged property, 11 thus:
 WHEREFORE, in view of foregoing, the instant case is ordered
 DISMISSED. The counterclaim for damages is likewise dismissed for
 lack of proof.
@@ -75,6 +81,7 @@ other hand, Spouses Villanueva insisted that TCLC was only granted the
 power to possess the property but not to foreclose the mortgage in case of
 non-payment of the loan. 16
 
+
 RULING
 It is settled that the literal meaning shall govern when the terms of a
 contract are clear and leave no doubt as to the intention of the parties. 17
@@ -90,7 +97,12 @@ doubt as to the authority of TCLC to sell the mortgaged property.
 Speciﬁcally, in extrajudicial foreclosure of real estate mortgage, a
 special power to sell the property is required which must be either inserted
 in or attached to the deed of mortgage. Apropos is Section 1 of Act No. 3135,
-19 as amended by Act No. 4118, 20 thus:Section 1.
+19 as amended by Act No. 4118, 20 thus:
+
+
+
+
+Section 1.
 When a sale is made under a special power inserted
 in or attached to any real estate mortgage hereafter made as
 security for the payment of money or the fulﬁllment of any other
@@ -128,6 +140,7 @@ that TCLC, the mortgagee, is appointed as attorney-in-fact of Spouses
 Villanueva, the mortgagors, to do any legal action as may be necessary to
 satisfy the mortgage debt, 25 thus:
 
+
 3.
 That in case of non-payment or violation of the terms of the
 mortgage or any of the provision of the Republic Act No. 728 as
@@ -142,7 +155,12 @@ if the mortgagor(s) shall well and truly fulﬁll the obligation above
 stated according to the terms thereof then this mortgage shall
 become null and void. (Emphases supplied.)
 
-The provision is pellucid and the CA cannot limit the authority grantedto TCLC. Also, Spouses Villanueva cannot claim, contrary to their plain
+The provision is pellucid and the CA cannot limit the authority granted
+
+
+
+
+to TCLC. Also, Spouses Villanueva cannot claim, contrary to their plain
 agreement, that they granted TCLC merely the power to possess but not to
 sell the mortgaged property. Clearly stipulated in the real estate mortgage
 was the appointment of TCLC as attorney-in-fact, with authority to sell or
@@ -172,6 +190,7 @@ Appeals' Decision dated March 27, 2017 in CA-G.R. CEB-CV No. 04387 is
 REVERSED and SET ASIDE. The Regional Trial Court's Decision dated March
 29, 2012 in Civil Case No. 7823 dismissing the complaint is REINSTATED.
 
+
 SO ORDERED.
 
 Peralta, C.J., Caguioa, J.C. Reyes, Jr. and Lazaro-Javier, JJ., concur.
@@ -186,7 +205,12 @@ name of Voltaire Villanueva.
 4. Id. at 118-120, 135-136. On August 20, 2003, Spouses Villanueva, through their
 representative Jeverlyn C. Villanueva, received a Final Demand dated July 30,
 2002 from TCLC demanding the payment of their amortizations in arrears.
-The spouses failed to heed the demand.5. Id. at 140-141. Application dated July 27, 2004.
+The spouses failed to heed the demand.
+
+
+
+
+5. Id. at 140-141. Application dated July 27, 2004.
 6. Id. at 142. Auction sale was held on December 7, 2004.
 7. Id. at 143-144.
 8. Id. at 144. The Certificate of Sale was registered on January 27, 2005.
@@ -223,7 +247,12 @@ of the mortgaged property." We ruled that based on the text of paragraph
 13, the petitioners agreed only to the holding of the extrajudicial foreclosure
 should they default in their obligations. Their agreement was a mere
 expression of their amenability to extrajudicial foreclosure as the means of
-foreclosing the mortgage, and did not constitute the special power orauthority to sell the mortgaged property to enable the mortgagees to recover
+foreclosing the mortgage, and did not constitute the special power or
+
+
+
+
+authority to sell the mortgaged property to enable the mortgagees to recover
 the unpaid obligations. We declared that what was necessary was the special
 power or authority to sell — whether inserted in the REM itself, or annexed
 thereto — that authorized the respondent spouses to sell in the public
@@ -250,3 +279,8 @@ actual work performed, in addition to his expenses.
 Teresita Villanueva, et al. v. Heirs of Petronila Suquia Mendoza, et al., 810
 Phil. 172 (2017); and Bacsasar v. Civil Service Commission, 596 Phil. 858
 (2009).
+
+
+
+
+

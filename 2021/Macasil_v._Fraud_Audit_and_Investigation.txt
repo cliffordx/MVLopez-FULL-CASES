@@ -46,13 +46,19 @@ P1,972,962.00 were not properly identiﬁed during the ocular inspection;
 while one project was found out not in accordance with DPWH
 highway Design and Standards. 4 (Emphasis supplied.)
 
+
 On the basis of the FAIO's ﬁndings, the Public Assistance and Corruption
 Prevention Oﬃce Fact-Finding Unit ﬁled a Complaint 5 against Materials Engineer
 Joel Nemensio M. Macasil (Macasil) and other oﬃcials for violation of Section 3 (e)
 of Republic Act (RA) No. 3019 or the Anti-Graft and Corrupt Practices Act and
 Falsiﬁcation under Article 171 of the Revised Penal Code (RPC) before the Oﬃce of
 the Deputy Ombudsman Visayas. Allegedly, Macasil certiﬁed that the Statements of
-Work Accomplished (SWA) for 32 infrastructure projects were in accordance withthe approved plans and speciﬁcations, despite the fact that the reported
+Work Accomplished (SWA) for 32 infrastructure projects were in accordance with
+
+
+
+
+the approved plans and speciﬁcations, despite the fact that the reported
 accomplishments were overstated/bloated, and that the projects were overpaid to
 wit:
 
@@ -230,7 +236,13 @@ Signage & Pavement
 
 P490,363.00
 
--do-Markers)
+-do-
+
+
+
+
+
+Markers)
 10.
 Repair/Improvement of
 drainage system along
@@ -409,7 +421,13 @@ Traffic Eng'g Signage
 
 P3,650,922.31
 
--do-Pavement Markers:
+-do-
+
+
+
+
+
+Pavement Markers:
 Description: Guardrails,
 Thermoplastic
 20.
@@ -609,7 +627,13 @@ P3,507,826.60
 
 -do-
 
-Improvement/Wideningof Tigbao Sta. Fe-San
+Improvement/Widening
+
+
+
+
+
+of Tigbao Sta. Fe-San
 Miguel Rd.
 32.
 Rehabilitation of LNHS
@@ -671,6 +695,7 @@ FINDING PROBABLE CAUSE for Violation of Section
 NAME OF PROJECT
 1.
 
+
 Completion of 4 CL Elem.
 School, San Jose Elementary
 
@@ -678,6 +703,7 @@ NAME OF
 RESPONDENTS
 xxx
 Joel [Nemensio]
+
 
 School, Tacloban City
 Completion of Multi-Purpose
@@ -789,7 +815,13 @@ along Daan Maharlika (Km
 
 -do-
 
-2.895+361.97-Km
+2.
+
+
+
+
+
+895+361.97-Km
 910+870.20) w/exception.
 Traffic Eng'g' Signage
 Pavement Markers:
@@ -891,6 +923,13 @@ Public/Official Documents x x x:
 for Falsiﬁcation
 
 of
+
+
+
+
+
+
+
 NAME OF PROJECT
 
 NAME OF
@@ -1009,7 +1048,13 @@ Improvement/Rehab along
 Tacloban-Baybay Rd., (Km
 907+982-Km 916+615), with
 
--do-exceptions. Caibaan Rd.,
+-do-
+
+
+
+
+
+exceptions. Caibaan Rd.,
 Traffic Eng'g Signage
 Pavement Markers
 [14.]
@@ -1116,7 +1161,13 @@ Improvement/Rehab of
 Tigbao Sta. Fe San Miguel Rd.,
 (Km 904+000-Km 908+000)
 
--do-[26.]
+-do-
+
+
+
+
+
+[26.]
 
 Traffic Eng'g Signage Markers
 Completion of MultiPurpose Bldg. at LNHS
@@ -1168,7 +1219,12 @@ any undue injury to any party, including the government, or gave any private par
 unwarranted benefits, advantage or preference in the discharge of his functions. 20
 The ﬁrst element is undisputed, considering that Macasil is a Materials
 Engineer of the Department of Public Works and Highways (DPWH) of Tacloban City
-and is performing governmental functions for the beneﬁt of the public. 21 Thesecond element refers to the diﬀerent modes of committing the oﬀense. 22
+and is performing governmental functions for the beneﬁt of the public. 21 The
+
+
+
+
+second element refers to the diﬀerent modes of committing the oﬀense. 22
 "Manifest partiality" is present when there is a clear, notorious, or plain inclination
 or predilection to favor one side or person rather than another. " Evident bad faith"
 connotes not only bad judgment, but also palpably and patently fraudulent and
@@ -1180,6 +1236,7 @@ slightest care, acting, or omitting to act in a situation where there is a duty 
 not inadvertently, but willfully and intentionally, with conscious indiﬀerence to
 consequences insofar as other persons may be aﬀected. 23 None of these modes
 were established in this case.
+
 
 Foremost, the SWAs attached to the records would reveal that Macasil was not
 the oﬃcer who certiﬁed the percentage of completion of the infrastructure projects
@@ -1221,7 +1278,12 @@ prescribed for the guideline of all concerned.
 1.
 Quality of materials is the primary responsibility of
 Materials Engineers. This includes responsibility over the
-sampling, testing, inspection and the submittal of dataand recommendations on whether the quality of
+sampling, testing, inspection and the submittal of data
+
+
+
+
+and recommendations on whether the quality of
 materials to be used is acceptable or not and, if not
 acceptable, whatever corrective measures may be done
 to improve the quality and make the materials
@@ -1276,9 +1338,15 @@ presumed, unless convincing evidence to the contrary is adduced. The party
 alleging bad faith has the burden of proof. Absent clear evidence of bad faith, the
 presumption of good faith prevails.
 
+
 Similarly, there is no probable cause to charge Macasil with falsiﬁcation under
 paragraph 4, 30 Article 171, of the RPC. The crime has the following elements,
-namely: (1) that the oﬀender makes in a document statements in a narration offacts; (2) that he has a legal obligation to disclose the truth of the facts narrated by
+namely: (1) that the oﬀender makes in a document statements in a narration of
+
+
+
+
+facts; (2) that he has a legal obligation to disclose the truth of the facts narrated by
 him; (3) that the facts narrated by the oﬀender are absolutely false; and (4) that
 the perversion of truth in the narration of facts was made with the wrongful intent
 of injuring a third person. In addition, it must be proven that the public oﬃcer or
@@ -1323,7 +1391,12 @@ Footnotes
 * Also referred to as "Joel Nemesio Macasil" in some parts of the rollo.
 1. De Jesus v. Sandiganbayan, 562 Phil. 377, 389 (2007).
 2. Rollo , pp. 3-96.
-3. Id. at 100-274.4. Id. at 670-673.
+3. Id. at 100-274.
+
+
+
+
+4. Id. at 670-673.
 5. Id. at 460-602.
 6. Id. at 506-509; and 537-564.
 7. Id. at 799.
@@ -1361,7 +1434,12 @@ ENGINEERS AND INSPECTORS; dated August 3, 2018.
 26. Rollo , p. 828.
 27. Id.
 28. Id. at 802.
-29. Id.30. ART. 171. Falsification by public officer, employee, or notary or ecclesiastical minister.
+29. Id.
+
+
+
+
+30. ART. 171. Falsification by public officer, employee, or notary or ecclesiastical minister.
 — The penalty of prision mayor and a fine not to exceed P5,000 pesos shall be
 imposed upon any public officer, employee, or notary who, taking advantage of his
 official position, shall falsify a document by committing any of the following acts:
@@ -1372,3 +1450,8 @@ xxx xxx xxx
 32. Mendoza-Arce v. Office of the Ombudsman (Visayas), 430 Phil. 101, 116 (2002).
 33. Ledesma v. CA, 344 Phil. 207, 226 (1997).
 34. De Jesus v. Sandiganbayan, supra note 1.
+
+
+
+
+

@@ -21,6 +21,7 @@ involving a diﬀerent employee. The totality of the facts and surrounding
 circumstances, distinct in every case, must be assessed in determining
 whether an entity is a legitimate job contractor or a labor-only contractor. 1
 
+
 This resolves the Petition for Review on Certiorari 2 assailing the
 Decision 3 dated October 30, 2019 and the Resolution 4 dated March 6, 2020
 of the Court of Appeals (CA) in CA-G.R. SP No. 158667.
@@ -46,7 +47,12 @@ latest Contract of Services Agreement on September 1, 2016. 7 Invoking the
 service agreement with CBMI, PPI averred that it was CBMI which relayed the
 company rules, regulations, and working terms and conditions upon
 Conjusta's engagement, and which paid Conjusta's salary, Social Security
-System, Pag-IBIG, and PhilHealth contributions. 8For its part, CBMI acknowledged Conjusta as its employee assigned to
+System, Pag-IBIG, and PhilHealth contributions. 8
+
+
+
+
+For its part, CBMI acknowledged Conjusta as its employee assigned to
 PPI. It asserted that it is a legitimate job contractor engaged in the business
 of providing janitorial, kitchen, elevator maintenance, and allied services to
 various entities, including PPI. However, while it recognized Conjusta's
@@ -56,6 +62,7 @@ that Conjusta, along with his other coemployees, was merely placed on
 PPI eﬀective September 1, 2016 due to certain disagreements on ﬁnancial
 matters. Hence, for CBMI, the Complaint ﬁled on October 21, 2016 should be
 dismissed for being prematurely filed. 9
+
 
 In a Decision 10 dated August 31, 2017, the Labor Arbiter (LA) found
 the following evidence suﬃcient to prove that CBMI is a legitimate
@@ -103,10 +110,16 @@ c.)
 13th Month Pay in the amount of Thirty[-]Seven
 Thousand Five Hundred Eighteen Pesos ([PHP]37,518.00); and
 
+
 [d.)]
 Attorney's fees equivalent to 10% of the total
 monetary awards, in the amount of Thirty[-]Eight Thousand Three
-Hundred Ninety[-]Four Pe[s]os and 29/100 ([PHP]38,394.29).The Computation of [Conjusta's] monetary awards is here
+Hundred Ninety[-]Four Pe[s]os and 29/100 ([PHP]38,394.29).
+
+
+
+
+The Computation of [Conjusta's] monetary awards is here
 attached to form an integral part of the Decision.
 The complaint against [CBMI], Jorge L. Araneta[,] and Juan
 Manolo O. Orta[ñ]ez is hereby DISMISSED.
@@ -125,6 +138,7 @@ method, free from the control and supervision of PPI. The contracts of
 services between PPI and CBMI clearly show that CBMI undertook to merely
 supply manpower. The NLRC explained that the registration with the DOLE
 as an independent contractor is not conclusive of such status.
+
 
 Further, Conjusta's job as a messenger is necessary and vital to PPI's
 business as the only franchisee of Pizza Hut, which requires food and kitchen
@@ -161,7 +175,14 @@ See attached computation which forms part of this Decision.
 SO ORDERED. 18 (Emphasis in the original)
 
 PPI's Motion for Reconsideration 19 (MR) was denied by the NLRC in a
-Resolution 20 dated August 31, 2018.O n certiorari, 21 the CA, in a Decision 22 dated October 30, 2019,
+Resolution 20 dated August 31, 2018.
+
+
+
+
+
+
+O n certiorari, 21 the CA, in a Decision 22 dated October 30, 2019,
 reverted to the LA's ruling that CBMI is a legitimate job contractor. Based
 solely on the doctrine of stare decisis, the CA applied the Court's ﬁndings in
 Consolidated Building Maintenance, Inc. v. Asprec, Jr. 23 (Asprec) and
@@ -199,6 +220,7 @@ II.
 Whether the CA erred in ruling that PPI and CBMI should be held
 solidarily liable for the monetary awards.
 
+
 Ruling
 We note that the issues presented before us involve factual matters,
 which are generally beyond the scope of this review. The conﬂicting ﬁndings
@@ -214,7 +236,11 @@ jurisprudence, no grave abuse of discretion exists for the CA to overturn it.
 PPI and CBMI were engaged in the
 proscribed labor-only contracting
 Labor contracting or outsourcing of services is not totally prohibited in
-our jurisdiction. Articles 106 to 109 of the Labor Code and DOLE DO No. 18\n\n02, Series of 2002 33 and DO No. 18-A, Series of 2011, 34 the implementing
+our jurisdiction. Articles 106 to 109 of the Labor Code and DOLE DO No. 18
+
+
+
+02, Series of 2002 33 and DO No. 18-A, Series of 2011, 34 the implementing
 rules in force at the time of Conjusta's employment, provide legal basis for
 service contracting, but also clearly delineate when it is not permitted.
 Section 4 of DO No. 18-A considers contracting or subcontracting legitimate
@@ -246,6 +272,7 @@ rights and benefits under Labor Laws.
 
 On the other hand, Article 106 of the Labor Code deﬁnes the prohibited
 labor-only contracting, viz.:
+
 
 Article 106.
 
@@ -285,9 +312,15 @@ ii)
 the contractor does not exercise the right to control over
 the performance of the work of the contractual employee.
 
+
 xxx xxx xxx
 "Substantial capital or investment" refers to capital stocks and
-subscribed capitalization in the case of corporations, tools,equipment, implements, machineries and work premises, actually
+subscribed capitalization in the case of corporations, tools,
+
+
+
+
+equipment, implements, machineries and work premises, actually
 and directly used by the contractor or subcontractor in the
 performance or completion of the job, work or service contracted out.
 The "right to control" shall refer to the right reserved to the
@@ -322,6 +355,7 @@ the main business of the principal within a deﬁnite predetermined period;
 and (5) the exercise of the right to control the performance of the
 employees' work. 35
 
+
 Considering these speciﬁc conditions or elements, the CA gravely erred
 when it determined CBMI's character as a legitimate job contractor solely on
 the basis of the Court's pronouncements in Asprec and Cayetano. The
@@ -338,7 +372,12 @@ undertaken by the NLRC in this case.
 As correctly observed by the NLRC, the only evidence on record to
 support PPI and CBMI's claim of legitimate job contracting are the certificates
 of registration, ﬁnancial statements, and service agreements. But we have
-consistently ruled that a certiﬁcate of registration as an independentcontractor is not conclusive evidence of such status. Such registration
+consistently ruled that a certiﬁcate of registration as an independent
+
+
+
+
+contractor is not conclusive evidence of such status. Such registration
 merely prevents the legal presumption of being a labor-only contractor from
 arising. 38 The ﬁnancial statements presented to prove that CBMI has
 substantial capital likewise do not suﬃce to classify it as an independent
@@ -352,6 +391,7 @@ principal, contractor, and employee cannot be dictated by mere expedience
 of a unilateral declaration in a contract. 41 Thus, we quote with approval the
 NLRC's assessment on the totality of attendant circumstances vis-à-vis the
 criteria set by the statute:
+
 
 We consider several factors in concluding that CBMI was [a] laboronly contract[or].
 First, there is want of evidence that CBMI carries on an
@@ -379,6 +419,7 @@ At a closer look, AMPCO's actual status and participation
 regarding respondents' employment clearly belie the
 contents of the written service contract."
 
+
 Further, in the Polyfoam-RGC International [Corporation, 687
 Phil. 173 (2012)], the Supreme Court observed, thus:
 "Gramaje did not carry on an independent business
@@ -388,7 +429,12 @@ control and supervision of its principal, Polyfoam, its
 apparent role having been merely to recruit persons to
 work for Polyfoam. It is undisputed that respondent had
 performed his task of packing Polyfoam's foam products
-in Polyfoam's premises. As to the recruitment ofrespondent, petitioners were able to establish only that
+in Polyfoam's premises. As to the recruitment of
+
+
+
+
+respondent, petitioners were able to establish only that
 respondents' application was referred to Gramaje, but
 that is all. Prior to his termination, respondent had been
 performing the same job in Polyfoam's business for
@@ -410,6 +456,7 @@ work is clear and unmistakable. Said right to control refers to the
 right reserved to the person for whom the services of the contractual
 workers are performed, to determine not only the end to be achieved,
 but also the manner, and means to be used in reaching that end.
+
 
 Second, a perusal of the various contract of services executed
 between PPI and CBMI, which spanned for several years from 1999 to
@@ -457,13 +504,19 @@ The CONTRACTOR shall deploy its employees at the
 designated place of operation subject to prior
 consultation and agreement with the CLIENT."
 
+
 "I.
 
 SCOPE OF SERVICES
 
 The INDEPENDENT CONTRACTOR agrees to provide the
 following services to the CLIENT at the CLIENT's places of
-business listed in ANNEX A of the Contract:i.
+business listed in ANNEX A of the Contract:
+
+
+
+
+i.
 
 Kitchen Services
 
@@ -506,6 +559,7 @@ The INDEPENDEDENT CONTRACTOR shall also provide the
 tools and equipment necessary for the rendition of said
 services."
 
+
 Verily, by supplying manpower only, CBMI cannot be
 considered as, an independent contractor. The High Court's
 observation in Coca-Cola Bottlers Phils., Inc. v. Agito [598 Phil. 909
@@ -532,7 +586,14 @@ being a mere labor-only contractor from arising. In
 distinguishing between permissible job contracting and
 prohibited labor-only contracting, the totality of the facts
 and the surrounding circumstances of the case are to be
-considered."Fourth, it is without any doubt that [Conjusta's] job as [a]
+considered."
+
+
+
+
+
+
+Fourth, it is without any doubt that [Conjusta's] job as [a]
 messenger is necessary and vital to PPI's business as the Philippine
 franchisee of Pizza Hut which requires waitering, food and kitchen
 services, sanitation, delivery, warehousing, commissary and related
@@ -552,6 +613,7 @@ in distinguishing prohibited labor-only contracting from permissible job
 contracting. 43 In fact, in Cayetano relied upon by the CA, we accentuated
 the need for an independent consideration of the attending circumstances of
 a case in determining the legality or illegality of a contractor's undertaking.
+
 
 Notably, even the LA, which found CBMI to be a legitimate job
 contractor, ruled that Conjusta is not one of those deployed by CBMI to PPI.
@@ -585,7 +647,12 @@ authority:
 Where there is labor-only contracting; x x x
 xxx xxx xxx
 
-Consequently, PPI and CBMI are solidarily liable for Conjusta's illegaldismissal and monetary claims, 49 consistent with our ruling in San Miguel
+Consequently, PPI and CBMI are solidarily liable for Conjusta's illegal
+
+
+
+
+dismissal and monetary claims, 49 consistent with our ruling in San Miguel
 Corporation v. MAERC Integrated Services, Inc., 50 viz.:
 In legitimate job contracting, the law creates an employer-employee
 relationship for a limited purpose, i.e., to ensure that the employees
@@ -594,6 +661,7 @@ severally liable with the job contractor only for the payment of the
 employees' wages whenever the contractor fails to pay the same.
 Other than that, the principal employer is not responsible for any
 claim made by the employees.
+
 
 On the other hand, in labor-only contracting, the statute
 creates
@@ -625,6 +693,7 @@ Holdings, Inc. is Rico Palic Conjusta's employer. The Decision dated May 31,
 2018 and the Resolution dated August 31, 2018 of the National Labor
 Relations Commission in NLRC LAC No. 01-000394-18 are REINSTATED.
 
+
 SO ORDERED.
 
 Leonen, Lazaro-Javier, J.Y. Lopez and Kho, Jr., JJ., concur.
@@ -638,7 +707,12 @@ Third Division].
 concurrence of Associate Justices Danton Q. Bueser and Ronaldo Roberto B.
 Martin.
 4. Id. at 54-55.
-5. Id. at 71-73.6. Id. at 30-31, 366-368, and 415.
+5. Id. at 71-73.
+
+
+
+
+6. Id. at 30-31, 366-368, and 415.
 7. See Notice of Termination dated August 1, 2016, id. at 262.
 8. Id. at 32-33, 370-371, and 416.
 9. Id. at 32, 369, and 415-416.
@@ -671,7 +745,12 @@ Martin.
 Peralta, Third Division].
 32. Philippine Pizza, Inc. v. Cayetano , 839 Phil. 381, 389 (2018) [Per J. PerlasBernabe, Second Division].
 33. Entitled "RULES IMPLEMENTING ARTICLES 106 TO 109 OF THE LABOR CODE, AS
-AMENDED"; approved on February 21, 2002.34. Entitled "RULES IMPLEMENTING ARTICLES 106 TO 109 OF THE LABOR CODE, AS
+AMENDED"; approved on February 21, 2002.
+
+
+
+
+34. Entitled "RULES IMPLEMENTING ARTICLES 106 TO 109 OF THE LABOR CODE, AS
 AMENDED"; approved on November 14, 2011.
 35. See Baretto v. Amber Golden Pot Restaurant , G.R. Nos. 254596-97, November
 24, 2021, <https://sc.judiciary.gov.ph/27433/> [Per J. Carandang, Third
@@ -711,5 +790,15 @@ Memories Park and Life Plan, Inc. v. NLRC, 681 Phil. 299, 308 (2012) [Per J.
 Mendoza, Third Division]; 7K Corporation v. NLRC, 537 Phil. 664, 679 (2006)
 [Per J. Austria-Martinez, First Division]; and San Miguel Corporation v. MAERC
 Integrated Services, Inc., 453 Phil. 543, 566-567 (2003) [Per J. Bellosillo,
-Second Division].50. 453 Phil. 543 (2003) [Per J. Bellosillo, Second Division].
+Second Division].
+
+
+
+
+50. 453 Phil. 543 (2003) [Per J. Bellosillo, Second Division].
 51. Id. at 566-567.
+
+
+
+
+

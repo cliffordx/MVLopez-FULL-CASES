@@ -43,7 +43,12 @@ election system as it may deem appropriate and practical. 4 The changes
 also provided the minimum system capabilities, 5 and required the
 authentication of electronically transmitted election results. 6 Accordingly,
 the COMELEC implemented a paper-based AES technology and utilized
-optical mark reader machines in the 2010, 2013, 2016, and 2019 NationalElections. Speciﬁcally, the COMELEC used the Precinct Count Optical Scan
+optical mark reader machines in the 2010, 2013, 2016, and 2019 National
+
+
+
+
+Elections. Speciﬁcally, the COMELEC used the Precinct Count Optical Scan
 (PCOS) machines in 2010, and 2013, and the Vote-Counting Machines (VCM)
 in 2016 and 2019. 7 In these national elections, the members of the electoral
 b o a r d 8 are assigned with an iButton security key and a personal
@@ -90,7 +95,12 @@ discretion to administer the elections, but certainly, its constitutional
 duty is to "enforce the law." The Commission is not given the
 constitutional competence to amend or modify the law it is sworn to
 uphold. Section 6 (e), (f), and (n) of Republic Act No. 8436, as
-amended, is law. Should there be policy objections to it, the remedyis to have Congress amend it.
+amended, is law. Should there be policy objections to it, the remedy
+
+
+
+
+is to have Congress amend it.
 The Commission on Elections cannot opt to breach the
 requirements of the law to assuage its fears regarding the
 VVPAT. Vote-buying can be averted by placing proper
@@ -156,8 +166,10 @@ TRAIL
 Each Voter may Verify the Paper
 that rolls out from the counting
 
+
 Audit Trail can be done at
 the close of polls by
+
 
 machine. The voter may not yet
 take any photograph of that paper
@@ -214,7 +226,12 @@ tedious because it amounts to a manual audit of all the votes in all precincts
 by taking a photograph of every VVPAT issued by the voting machine. At any
 rate, the random manual audit under COMELEC Resolution Nos. 10458 25
 and 10525 26 suﬃciently addressed the objective of testing the voting
-machines' accuracy and reliability. Also, the OSG agreed that Section 179 ofthe Omnibus Election Code allows poll watchers to take photographs during
+machines' accuracy and reliability. Also, the OSG agreed that Section 179 of
+
+
+
+
+the Omnibus Election Code allows poll watchers to take photographs during
 the counting of votes, but not during the casting of votes. Lastly, the Capalla
 ruling already settled the issue on digital signatures. On May 24, 2019,
 SMARTMATIC Total Information Management ﬁled a comment which
@@ -258,7 +275,12 @@ unless they sustained or are in imminent danger of sustaining an injury as a
 result of the complained act. 36
 Here, AES-WATCH, et al., assail the constitutionality of the prohibition
 on poll watchers from taking photographs of the proceedings during the
-elections as well as the COMELEC's compliance with the Bagumbayan ruling.However, they did not allege any material injury or claim that they are poll
+elections as well as the COMELEC's compliance with the Bagumbayan ruling.
+
+
+
+
+However, they did not allege any material injury or claim that they are poll
 watchers, registered voters, candidates, members of a political party, or
 members of an accredited citizens group in the 2019 National Elections.
 Nevertheless, we deem it proper to relax the requirement of legal standing
@@ -305,7 +327,12 @@ of justice and one's idea of what is right and proper under the
 circumstances, without willfulness or favor. As applied to public
 functionaries, it means a power or right conferred upon them by law of
 acting oﬃcially in certain circumstances, according to the dictates of their
-own judgment and conscience, uncontrolled by the judgment or conscienceof others. If the law imposes a duty upon a public oﬃcer and gives him a
+own judgment and conscience, uncontrolled by the judgment or conscience
+
+
+
+
+of others. If the law imposes a duty upon a public oﬃcer and gives him a
 right to decide how or when the duty shall be performed, it is discretionary
 and not ministerial. 46
 The following requirements must be present to warrant the issuance of
@@ -355,7 +382,12 @@ SEC. 21.
 Counting Procedure. — The Commission shall
 prescribe the manner and procedure of counting the votes under the
 automated system: Provided, That apart from the electronically
-stored result, thirty (30) copies of the election return are printed.xxx xxx xxx
+stored result, thirty (30) copies of the election return are printed.
+
+
+
+
+xxx xxx xxx
 SEC. 37.
 Rules and Regulations . — The Commission shall
 promulgate rules and regulations for the implementation and
@@ -416,7 +448,13 @@ the third member shall replace the thermal paper;
 
 2.
 
-Fold the VVPAT in such a way that its contentscannot be seen, and then cut the end of the VVPAT
+Fold the VVPAT in such a way that its contents
+
+
+
+
+
+cannot be seen, and then cut the end of the VVPAT
 using non-pointed scissors; and
 3.
 
@@ -480,7 +518,12 @@ suﬃcient to determine whether there are discrepancies between the manual
 count and the automated count, viz.:
 SEC. 29.
 Random Manual Audit. — Where the AES is
-used, there shall be a random manual audit in one precinct percongressional district randomly chosen by the Commission in
+used, there shall be a random manual audit in one precinct per
+
+
+
+
+congressional district randomly chosen by the Commission in
 each province and city. Any diﬀerence between the automated
 and manual count will result in the determination of root cause and
 initiate a manual count for those precincts aﬀected by the computer
@@ -533,7 +576,12 @@ Discrepancy between AES and RMA. — In the event that
 the RMAT reports a discrepancy between the AES and RMA results
 which exceeds the allowable margin of an aggregate diﬀerence of ten
 (10) votes, the RMA-VT shall:
-xxx xxx xxxe.
+xxx xxx xxx
+
+
+
+
+e.
 In the event of a ﬁnding that the discrepancy exists or is not
 due to mere mathematical error, the RMAC shall turn over the ballot
 box to the Technical Evaluation Committee (TEC) for determination
@@ -600,7 +648,13 @@ during casting of votes;
 e.
 
 File a protest against any irregularity or violation of
-law which they believe may have been committed bythe EB or by any person present;
+law which they believe may have been committed by
+
+
+
+
+
+the EB or by any person present;
 f.
 
 Obtain from the EB a certiﬁcate as to the ﬁling of such
@@ -666,8 +720,10 @@ It shall be unlawful for a voter to:
 
 "SEC. 20. Prohibitions on voting.
 
+
 xxx xxx xxx
 (f) Use of capturing devices such as
+
 
 — It shall be unlawful for a voter
 to:
@@ -723,7 +779,12 @@ whether the transformation was created using the private key that
 corresponds to the signer's public key; and (ii) whether the initial
 electronic document had been altered after the transformation was
 made, and that for purposes of the Rules, a digital signature is
-considered an electronic signature.An electronic signature is likewise deﬁned as "any distinctive
+considered an electronic signature.
+
+
+
+
+An electronic signature is likewise deﬁned as "any distinctive
 mark, characteristic and/or sound in electronic form representing the
 identity of a person and attached to or logically associated with the
 electronic data message or electronic document or any methodology
@@ -774,7 +835,12 @@ standpoint of pure theory. The Commission on Elections, because of
 its fact-ﬁnding facilities, its contacts with political strategists, and its
 knowledge derived from actual experience in dealing with political
 controversies, is in a peculiarly advantageous position to decide
-complex political questions.xxx xxx xxx
+complex political questions.
+
+
+
+
+xxx xxx xxx
 There are no ready-made formulas for solving public problems.
 Time and experience are necessary to evolve patterns that will serve
 the ends of good government. In the matter of the administration of
@@ -823,7 +889,12 @@ send the altered data to canvassing centers and COMELEC servers
 without any traces that such data had already been tampered. To
 prevent this, petitioners pray to compel the COMELEC to make
 an inventory of all the MAC and IP addresses of all its
-electronic devices, as well as IMSI and IMEI of all itscommunication devices, that would be used in the May 9,
+electronic devices, as well as IMSI and IMEI of all its
+
+
+
+
+communication devices, that would be used in the May 9,
 2016 elections. That way, the recipients of the data, particularly the
 COMELEC, could crosscheck whether the data they received actually
 came from COMELEC-recognized devices.
@@ -869,7 +940,12 @@ AMENDING FOR THE PURPOSE BATAS PAMBANSA BLG. 881, AS AMENDED,
 REPUBLIC ACT NO. 7166 AND OTHER RELATED ELECTION LAWS, PROVIDING
 FUNDS THEREFOR AND FOR OTHER PURPOSES; approved on January 23,
 2007; Republic Act (RA) No. 8436, as amended will be used to refer to the
-amendments introduced by RA No. 9369 for consistency.4. RA No. 8436, Sec. 5.
+amendments introduced by RA No. 9369 for consistency.
+
+
+
+
+4. RA No. 8436, Sec. 5.
 5. RA No. 8436, Sec. 6.
 6. RA No. 8436, Sec. 30.
 7. Bagumbayan-VNP Movement, Inc. v. COMELEC , 782 Phil. 1306, 1309-1310
@@ -911,7 +987,12 @@ xxx xxx xxx
 the correctness of reported election results;
 xxx xxx xxx
 (n) Provide the voter a system of verification to find out whether or not the
-machine has registered his choice[.]15. Bagumbayan-VNP Movement, Inc. v. COMELEC, supra note 7, at 1322-1323.
+machine has registered his choice[.]
+
+
+
+
+15. Bagumbayan-VNP Movement, Inc. v. COMELEC, supra note 7, at 1322-1323.
 16. Bagumbayan-VNP Movement, Inc. v. COMELEC , G.R. No. 222731 (Notice),
 March 17, 2016.
 17. AMENDING CERTAIN PROVISIONS OF RESOLUTION NO. 10057 DATED
@@ -953,7 +1034,12 @@ amounting to lack or excess of jurisdiction on the part of any branch or
 instrumentality of the Government." (CONSTITUTION, Art. VIII, Sec. 1).
 29. The Court has no self-starting capacity and must await the action of some
 litigant so aggrieved as to have a justiciable case. (Shapiro and Tresolini,
-American Constitutional Law, Sixth Edition, 1983, p. 79).30. Cruz, Philippine Political Law, 2002 Ed., p. 259. See also Angara v. Electoral
+American Constitutional Law, Sixth Edition, 1983, p. 79).
+
+
+
+
+30. Cruz, Philippine Political Law, 2002 Ed., p. 259. See also Angara v. Electoral
 Commission , 63 Phil. 139, 158 (1936); Board of Optometry v. Hon. Colet, 328
 Phil. 1187, 1196-1197 (1996); Police General Macasiano (Ret.) v. National
 Housing Authority, 296 Phil. 56, 63-64 (1993); Santos III v. Northwestern
@@ -994,7 +1080,12 @@ omitted.)
 (2001 ed.), p. 486.
 43. See Ampatuan, Jr. v. Sec. De Lima, 708 Phil. 153, 167 (2013).
 44. See Quizon v. COMELEC, supra.
-45. See Angchangco, Jr. v. Hon. Ombudsman, 335 Phil. 766, 772 (1997).46. Lamb v. Phipps, 22 Phil. 456, 474 (1912).
+45. See Angchangco, Jr. v. Hon. Ombudsman, 335 Phil. 766, 772 (1997).
+
+
+
+
+46. Lamb v. Phipps, 22 Phil. 456, 474 (1912).
 47. See Justice Jose Feria, et al. Civil Procedure Annotated (2001 ed.), p. 488.
 48. See Bagumbayan-VNP Movement, Inc. v. COMELEC, supra note 16.
 49. CONSTITUTION, Art. IX-C, SEC. 1; Batas Pambansa Bilang 881, SEC. 52 (c).
@@ -1034,10 +1125,20 @@ Dictionary. Accessed on August 25, 2020 at
 https://techterms.com/definition/macaddress.
 61. IP or Internet Protocol address is a unique address that enables a network
 device to communicate with and locate other devices within the same
-network. IP Address, the Tech Terms Dictionary. Accessed on August 25,2020 at https://techterms.com/definition/ip_address.
+network. IP Address, the Tech Terms Dictionary. Accessed on August 25,
+
+
+
+
+2020 at https://techterms.com/definition/ip_address.
 62. See Republic Act No. 8436, Section 5.
 63. (Notice), G.R. No. 224027, October 11, 2016.
 64. Id.
 65. See Bagumbayan-VNP Movement, Inc., supra note 7, at 1319; Guingona, Jr. v.
 COMELEC, supra note 37, at 530-511; Center for People Empowerment in
 Governance v. COMELEC, 645 Phil. 293 (2010).
+
+
+
+
+

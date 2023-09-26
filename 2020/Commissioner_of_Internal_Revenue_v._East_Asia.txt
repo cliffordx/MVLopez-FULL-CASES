@@ -40,7 +40,12 @@ disputing the deficiency income tax assessment.
 On September 17, 2010, East Asia Utilities received the Final Decision
 on Disputed Assessment assessing it for deﬁciency income tax in the
 reduced amount of P2,791,894.70, inclusive of increments. The deﬁciency
-arose from the CIR's disallowance of East Asia Utilities' claimed costs andexpenses in the amount of P34,467,835.76 broken down as follows: 8
+arose from the CIR's disallowance of East Asia Utilities' claimed costs and
+
+
+
+
+expenses in the amount of P34,467,835.76 broken down as follows: 8
 
 PARTICULARS
 SSS-employer cost
@@ -133,7 +138,12 @@ On October 15, 2010, East Asia Utilities ﬁled a Petition for Review
 before the CTA Division, praying that the assessment be cancelled.
 
 Ruling of the CTA
-After trial, the CTA Division rendered its Decision 10 ﬁnding East AsiaUtilities liable for deﬁciency income tax in the reduced amount of
+After trial, the CTA Division rendered its Decision 10 ﬁnding East Asia
+
+
+
+
+Utilities liable for deﬁciency income tax in the reduced amount of
 P612,406.94. 11 The CTA Division held that the amendment of Revenue
 Regulations (RR) No. 2-2005 12 by RR No. 11-2005 13 rendered the
 enumeration of allowable deductions from gross income of a PEZAregistered enterprise, such as East Asia Utilities, no longer exclusive. The
@@ -211,7 +221,12 @@ P24,669,324.88
 
 The dispositive portion of the Decision 16 dated May 21, 2014 reads:
 WHEREFORE, the instant Petition for Review is hereby
-PARTIALLY GRANTED . Accordingly, the assessment for deﬁciencyincome tax is UPHELD with modiﬁcations. [East Asia Utilities] is
+PARTIALLY GRANTED . Accordingly, the assessment for deﬁciency
+
+
+
+
+income tax is UPHELD with modiﬁcations. [East Asia Utilities] is
 hereby ORDERED TO PAY [the CIR] for deﬁciency 5% GIT for the
 year 2006 in the amount of P612,406.94, inclusive of the twenty-ﬁve
 percent (25%) surcharge imposed under Section 248(A)(3) of the
@@ -257,7 +272,12 @@ CTA EB No. 1207. The motion for time was docketed as G.R. No. 222824. 28
 The Court granted the motion in its Resolution dated March 7, 2016. 29
 Thereafter, the OSG ﬁled a Manifestation and Motion 30 dated March
 21, 2016, stating that it learned that a motion for reconsideration was ﬁled
-with the CTA En Banc; hence, the OSG deemed it prudent to withdraw themotion for time that it previously filed. East Asia Utilities did not object to the
+with the CTA En Banc; hence, the OSG deemed it prudent to withdraw the
+
+
+
+
+motion for time that it previously filed. East Asia Utilities did not object to the
 OSG's withdrawal of the motion for time. Still, it submitted that the Decision
 dated February 3, 2016 of the CTA En Banc had attained ﬁnality for the CIR's
 failure to perfect his appeal within the allowable period. 31
@@ -308,7 +328,12 @@ P24,669,324.88 as deductible costs because these expenses are not directly
 related to East Asia Utilities' power generation services.
 In its Comment, 39 East Asia Utilities maintains that the petition should
 be dismissed outright because: (a) the CIR failed to perfect an appeal since it
-ﬁled the petition in the wrong case — in G.R. No. 222824, instead of thepresent case with G.R. No. 225266 and as such, the petition is legally
+ﬁled the petition in the wrong case — in G.R. No. 222824, instead of the
+
+
+
+
+present case with G.R. No. 225266 and as such, the petition is legally
 inexistent in so far as G.R. No. 225266 is concerned; (b) the Litigation
 Division had no authority to ﬁle the motion for extension of time to ﬁle the
 petition and the instant petition; (c) the CIR committed willful and deliberate
@@ -354,7 +379,12 @@ of Court, while the motion ﬁled with the CTA En Banc is a reconsideration of
 the Decision dated February 3, 2016. While both motions pertain to the
 same Decision of the CTA En Banc in CTA EB No. 1207, the CIR is asserting
 diﬀerent rights. Moreover, a "judgment" rendered in G.R. No. 222824 will not
-amount to res judicata as the Resolution will be limited to the granting ordenying the motion for time; or the Resolution of the CTA En Banc of the
+amount to res judicata as the Resolution will be limited to the granting or
+
+
+
+
+denying the motion for time; or the Resolution of the CTA En Banc of the
 CIR's motion for reconsideration will not result to a res judicata in G.R. No.
 222824. Besides, the records indicate that the OSG ﬁled its Manifestation
 and Motion 42 dated March 21, 2016, informing the Court of a pending
@@ -405,7 +435,12 @@ criminal proceedings; represent the Government
 and its oﬃcers in the Supreme Court, the Court of
 Appeals, and all other courts or tribunals in all civil
 actions and special proceedings in which the
-Government or any oﬃcer thereof in his oﬃcialcapacity is a party.
+Government or any oﬃcer thereof in his oﬃcial
+
+
+
+
+capacity is a party.
 xxx xxx xxx
 (3)
 Appear in any court in any action
@@ -453,7 +488,12 @@ misplacing and mixing up pleadings and court issuances and not attaching
 them in the expediente of the correct case as what happened in Llantero
 was averted. On this score, we conclude that the petition should not be
 dismissed on this ground alone.
-A relaxation of the CIR's procedural slip-ups notwithstanding, we denythe petition for lack of merit.
+A relaxation of the CIR's procedural slip-ups notwithstanding, we deny
+
+
+
+
+the petition for lack of merit.
 
 The enumeration of direct costs
 deductible from a PEZA-registered
@@ -520,7 +560,12 @@ Rent and utility charges for buildings and capital
 equipment used in undertaking registered activities
 (Emphasis supplied.)
 
-By using the phrase "shall consist only of the following cost or expenseitem," RR No. 2-2005 restricted the allowable deductions from gross income
+By using the phrase "shall consist only of the following cost or expense
+
+
+
+
+item," RR No. 2-2005 restricted the allowable deductions from gross income
 of a PEZA-registered enterprise to the enumerated cost and expenses.
 Later, the BIR issued RR No. 11-2005 56 revoking Section 7 of RR No. 22005 and removing the exclusivity of the enumeration of cost or expense
 that is allowed as a deduction from gross income. Section 3 provides:
@@ -585,7 +630,12 @@ example, if an agreement includes technical or ﬁnancial assistance, there is,
 apart from such assistance, something else already in, and covered or may
 be covered by, the agreement. 61 Similarly, in United Coconut Planters Bank
 v. E. Ganzon, Inc. , 62 we construed the word "including" in Section 9 (3) of
-Batas Pambansa Blg. 129, which enumerated the quasi-judicial agencieswithin the exclusive appellate jurisdiction of the Court of Appeals not
+Batas Pambansa Blg. 129, which enumerated the quasi-judicial agencies
+
+
+
+
+within the exclusive appellate jurisdiction of the Court of Appeals not
 exclusive, viz.:
 A perusal of Section 9(3) of Batas Pambansa Blg. 129, as
 amended, and Section 1, Rule 43 of the 1997 Revised Rules of Civil
@@ -635,7 +685,12 @@ alterius does not apply where other circumstances indicate
 that the enumeration was not intended to be exclusive, or
 where the enumeration is by way of example only. In Conrado
 B. Rodrigo, et al. vs. The Honorable Sandiganbayan (First
-Division), supra, the Court held that the catchall in Section4a(5) was "necessary for it would be impractical, if not
+Division), supra, the Court held that the catchall in Section
+
+
+
+
+4a(5) was "necessary for it would be impractical, if not
 impossible, for Congress to list down each position created or
 will be created pertaining to Grade 27 and above." The same
 rationale applies to the enumeration in Section 4a(1). Clearly,
@@ -680,7 +735,13 @@ FOR THESE REASONS, the Petition for Review on Certiorari is
 DENIED.
 SO ORDERED.
 
-Perlas-Bernabe, Gesmundo, Lazaro-Javier and Rosario, * JJ. , concur.Footnotes
+Perlas-Bernabe, Gesmundo, Lazaro-Javier and Rosario, * JJ. , concur.
+
+
+
+
+
+Footnotes
 * Designated as additional Member per Special Order No. 2797 dated November 5,
 2020.
 1. Rollo , pp. 11-25.
@@ -722,8 +783,10 @@ CERTAIN PROVISIONS OF REVENUE REGULATIONS NO. 2-2005, dated April
 PARTICULARS
 Accident/Life insurance
 
+
 AMOUNT
 P19,825.75
+
 
 Working gears
 
@@ -795,7 +858,12 @@ SO ORDERED. (Emphasis in the original.) Rollo , p. 459.
 22. Id. at 461. Payment Transaction No. 147604980.
 23. Supra note 2.
 24. Rollo , p. 42.
-25. Id. at 567-576. See also supra note 3.26. Id. at 585-620.
+25. Id. at 567-576. See also supra note 3.
+
+
+
+
+26. Id. at 585-620.
 27. Id. at 578-582.
 28. Id. at 583.
 29. Id. at 583-584.
@@ -829,7 +897,12 @@ Spouses Sy, 534 Phil. 246, 264 (2006); Veluz v. CA , 399 Phil. 539, 548-549
 51. Id. at 27.
 52. SECTION 24. Exemption from Taxes under the National Internal Revenue Code.
 — Any provision of existing laws, rules and regulations to the contrary
-notwithstanding, no taxes, local and national, shall be imposed on businessestablishments operating within the ECOZONE. In lieu of paying taxes, five
+notwithstanding, no taxes, local and national, shall be imposed on business
+
+
+
+
+establishments operating within the ECOZONE. In lieu of paying taxes, five
 percent (5%) of the gross income earned by all businesses and enterprises
 within the ECOZONE shall be remitted to the national government. x x x
 xxx xxx xxx
@@ -856,3 +929,8 @@ Selections Corp. v. Laguna Lake Development Authority (LLDA), 662 Phil.
 65. Id. at 439-440.
 66. See Sterling Selections Corp. v. Laguna Lake Development Authority (LLDA) ,
 supra note 59; and Binay v. Sandiganbayan, supra note 64.
+
+
+
+
+

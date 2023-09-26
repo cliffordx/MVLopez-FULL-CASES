@@ -19,6 +19,7 @@ core issue in this petition for review on certiorari assailing the Court of
 Appeals (CA) Decision 1 dated December 8, 2009 in CA-G.R. SP Nos. 91258
 and 94171.
 
+
 ANTECEDENTS
 On February 17, 1995, the Regional Trial Court (RTC) rendered a
 judgment in Civil Case No. Q-89-3580 ordering Traders Royal Bank (Traders
@@ -56,11 +57,20 @@ c)
 Condemning both the defendants to pay to each of the
 plaintiﬀs the sum of Three Hundred Thousand ([P]300,000.00) Pesos
 as exemplary damages and attorney's fees equivalent to twenty-ﬁve
-percent of the total amount recovered; andd)
+percent of the total amount recovered; and
+
+
+
+
+d)
 
 Costs of suit.
 
-SO ORDERED. 3\n\nTraders Royal and Security Bank appealed to the CA docketed as CAG.R. No. CV 54656. The CA absolved Security Bank from any liability and
+SO ORDERED. 3
+
+
+
+Traders Royal and Security Bank appealed to the CA docketed as CAG.R. No. CV 54656. The CA absolved Security Bank from any liability and
 held Traders Royal solely liable to RPN, IBC, and BBC for damages and costs
 of suit. 4 Aggrieved, Traders Royal elevated the case to this Court docketed
 as G.R. No. 138510. Meantime, Traders Royal and Bank of Commerce
@@ -103,7 +113,13 @@ nothing that the RTC could execute against it. Also, Metrobank underscored
 the RTC's lack of jurisdiction to determine RPN, IBC, and BBC's right to
 proceed against the escrow fund. On February 22, 2006, the RTC upheld the
 order of execution and clariﬁed that the escrow account is included only as a
-possible source of funds to satisfy the award. The RTC pointed out its powerto determine all issues of facts and law in aid of enforcing the final judgment.
+possible source of funds to satisfy the award. The RTC pointed out its power
+
+
+
+
+to determine all issues of facts and law in aid of enforcing the final judgment.
+
 
 Dissatisﬁed, BankCom and Metrobank ﬁled petitions for certiorari with
 the CA docketed as CA-G.R. SP Nos. 91258 and 94171. BankCom and
@@ -135,6 +151,7 @@ order of execution in a manner prescribed in the rules. Apropos is Section 9,
 Rule 39 of the Revised Rules of Court, which provides how judgments for
 money shall be enforced, to wit:
 
+
 SEC. 9.
 
 Execution of judgments for money, how enforced. —
@@ -156,6 +173,7 @@ who shall turn over the said amount within the same day
 to the clerk of court of the court that issued the writ.
 If
 
+
 the
 
 judgment
@@ -167,6 +185,7 @@ or
 his
 
 authorized
+
 
 representative is not present to receive payment, the
 judgment obligor shall deliver the aforesaid payment to
@@ -185,6 +204,7 @@ judgment obligor while the lawful fees shall be retained
 by the clerk of court for disposition as provided by law. In
 no case shall the executing sheriﬀ demand that any
 payment by check be made payable to him.
+
 
 (b)
 Satisfaction by levy. — If the judgment
@@ -226,10 +246,16 @@ and other credits, including bank deposits,
 ﬁnancial interests, royalties, commissions, and
 other personal property not capable of manual
 delivery in the possession or control of third
-parties. Levy shall be made by serving notice upon theperson owing such debts or having in his possession or
+parties. Levy shall be made by serving notice upon the
+
+
+
+
+person owing such debts or having in his possession or
 control such credits to which the judgment obligor is
 entitled. The garnishment shall cover only such amount
 as will satisfy the judgment and all lawful fees.
+
 
 The garnishee shall make a written report to
 the court within ﬁve (5) days from service of the
@@ -255,6 +281,7 @@ procedure under paragraph (a) with respect to the
 delivery of payment to the judgment obligee. (Emphases
 supplied)
 
+
 Under the rules, the executing oﬃcer is required to ﬁrst demand from
 the judgment debtors the immediate payment of the full amount stated in
 the writ of execution and all lawful fees. The executing oﬃcer shall demand
@@ -276,7 +303,12 @@ delivery in the possession or under the control of third parties. The levy may
 be done only if the judgment obligor cannot pay all or part of the obligation
 in cash or in such other manner acceptable to the judgment obligee.
 In this case, the RTC deviated from the manner prescribed in the rules
-when it directed the enforcement of the money judgment "against any andall assets of TRB x x x and/or against the Escrow Fund established by TRB
+when it directed the enforcement of the money judgment "against any and
+
+
+
+
+all assets of TRB x x x and/or against the Escrow Fund established by TRB
 and Bank of Commerce with the Metropolitan Bank and Trust Company." 20
 To reiterate, the execution of a money judgment requires the sheriﬀ to ﬁrst
 make a demand on the judgment debtor Traders Royal for the immediate
@@ -300,6 +332,7 @@ in his possession or under his control any credits or other personal
 property belonging to the defendant x x x if such property be
 delivered or transferred x x x to the clerk, sheriﬀ, or other oﬃcer of
 the court in which the action is pending."
+
 
 A self-evident feature of this rule is that the court is not
 required to serve summons on the garnishee, nor is it necessary to
@@ -326,7 +359,12 @@ Metrobank and prematurely inquired into the status of the escrow account.
 The prudent course of action for the RTC is to deny the request for subpoena
 and to issue the order of execution pursuant to Section 9, Rule 39 of the
 Rules of Court. Indeed, the procedure for the garnishment of debts and
-credits will allow the RTC to seasonably ascertain the status of the escrowaccount. The rules require the third person or garnishee to make a written
+credits will allow the RTC to seasonably ascertain the status of the escrow
+
+
+
+
+account. The rules require the third person or garnishee to make a written
 report to the court within ﬁve (5) days from service of the notice of
 garnishment stating whether the judgment debtor has suﬃcient funds to
 satisfy the judgment obligation. 23 The written report serves the same
@@ -341,6 +379,7 @@ Notably, this case was decided with ﬁnality in 2002 but remains unexecuted
 up to this day. The Court cannot allow the judgment award to be reduced to
 a mere empty triumph. The Court now write finis to this long legal battle.
 After all, the execution and satisfaction of the judgment is the life of the law.
+
 
 ACCORDINGLY, the petition is PARTLY GRANTED . The Court of
 Appeals Decision dated December 8, 2009 in CA-G.R. SP Nos. 91258 and
@@ -365,7 +404,12 @@ Justice Pampio A. Abarintos.
 9. Id. at 149-150.
 10. Id. at 165.
 11. Id. at 213-215.
-12. Id. at 66-82. Penned by Associate Justice Francisco P. Acosta, with theconcurrence of Associate Justices Juan Q. Enriquez, Jr., Priscilla BaltazarPadilla (retired member of the Court), and Michael P. Elbinias. Associate
+12. Id. at 66-82. Penned by Associate Justice Francisco P. Acosta, with the
+
+
+
+
+concurrence of Associate Justices Juan Q. Enriquez, Jr., Priscilla BaltazarPadilla (retired member of the Court), and Michael P. Elbinias. Associate
 Justice Pampio A. Abarintos dissented.
 13. Id. at 27; 31-34.
 14. Id. at 342-351.
@@ -381,3 +425,8 @@ Justice Pampio A. Abarintos dissented.
 24. Miramar Fish Co., Inc. v. Jalon , 510 Phil. 499 (2005).
 25. Dizon-Abilla v. Spouses Gobonseng , 597 Phil. 396 (2009).
 26. Bongcac v. Sandiganbayan, 606 Phil. 48 (2009).
+
+
+
+
+

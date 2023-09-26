@@ -39,7 +39,12 @@ Miscellaneous Expenses (EME) to its oﬃcers and employees with
 certiﬁcations issued by the claimant as evidence of disbursement in
 accordance with Section 397 (c) 7 of the Government Accounting and
 Auditing Manual (GAAM) 8 — Volume I and COA Circular No. 89-300 9 dated
-March 21, 1989. 10 In a Letter 11 dated August 28, 2008, however, the COAAudit Team Leader reminded PSALM that COA Circular No. 2006-001 12
+March 21, 1989. 10 In a Letter 11 dated August 28, 2008, however, the COA
+
+
+
+
+Audit Team Leader reminded PSALM that COA Circular No. 2006-001 12
 dated January 3, 2006 no longer allows the use of such certiﬁcation as an
 alternative supporting document for reimbursement claims of EME and other
 similar expenses. Notably, PSALM and all its departments were furnished a
@@ -87,7 +92,12 @@ Indorsement. 24 This prompted PSALM to ﬁle a Motion for Relief from
 Judgment and/or to Defer/Suspend Enforcement of Finality of Decision, 25
 claiming that its failure to ﬁle an MR or a petition for certiorari was due to an
 honest mistake, inadvertence, or excusable negligence. Unconvinced, the
-COA Proper En Banc issued Resolution 26 dated November 20, 2014, denyingPSALM's motion:
+COA Proper En Banc issued Resolution 26 dated November 20, 2014, denying
+
+
+
+
+PSALM's motion:
 "The [COA Proper] dismissed the Urgent Manifestation and
 Motion for having been ﬁled out of time. The Notice of Finality of
 Decision dated March 6, 2014 shall remain in force and effect." 27
@@ -133,7 +143,12 @@ In G.R. No. 213425, PSALM contends that the COA Proper erred in
 upholding the 2009 EME ND. It claims that its oﬃcials and employees' right
 to due process was violated when the 2009 EME ND was issued without ﬁrst
 issuing an Audit Observation Memorandum (AOM). 38 PSALM also argues
-that COA Circular No. 2006-001 is not applicable to it because it derives itsauthority to disburse EME from the General Appropriations Act (GAA). 39 As
+that COA Circular No. 2006-001 is not applicable to it because it derives its
+
+
+
+
+authority to disburse EME from the General Appropriations Act (GAA). 39 As
 such, it disburses EME in accordance with Section 397 (c) 40 of the GAAM, 41
 Volume I, citing Paragraph III (4) 42 of COA Circular No. 89-300, 43 which
 allows national government agencies (NGA) to use certiﬁcations, in lieu of
@@ -201,7 +216,13 @@ the difference in treatment between NGAs and GOCCs?
 D.
 
 Did the COA err in aﬃrming the liability of PSALM's oﬃcers
-and employees to settle the disallowed amounts?Ruling
+and employees to settle the disallowed amounts?
+
+
+
+
+
+Ruling
 We find no merit in both Petitions.
 The COA's audit power is among the constitutional mechanisms
 structured to ensure the check-and-balance system inherent in our form of
@@ -257,7 +278,12 @@ without the mention of an AOM, "for transactions which are
 irregular/unnecessary/excessive and extravagant as deﬁned in COA Circular
 No. 85-55A 59 as well as other COA issuances, and those which are illegal
 and unconscionable." In fact, paragraph 10.3 of the RRSA requires that "[t]he
-ND shall be issued as often as disallowances are made by the Auditor inorder to notify the agency head, the accountant, and the persons liable for
+ND shall be issued as often as disallowances are made by the Auditor in
+
+
+
+
+order to notify the agency head, the accountant, and the persons liable for
 the amount disallowed in audit." Upon receipt of the ND, the affected officers
 and employees can appeal the ND to the COA CGS, 60 then to the COA
 Proper, 61 and even question it before this Court 62 as PSALM did. Thus,
@@ -307,7 +333,12 @@ Rules of Court. 67 It is an equitable relief granted only under exceptional
 circumstances when a judgment or ﬁnal order is rendered against a party,
 who was prevented from taking part in the proceedings or taking an appeal
 due to lack of available or adequate remedy, or on grounds of fraud,
-accident, mistake, or excusable negligence. 68 "Mistake" as a ground forrelief from judgment should be of such nature as to cause substantial
+accident, mistake, or excusable negligence. 68 "Mistake" as a ground for
+
+
+
+
+relief from judgment should be of such nature as to cause substantial
 injustice, or so palpable that it borders on extrinsic fraud. There is extrinsic
 fraud when a party is prevented from fully and fairly presenting his case to
 the Court. 69 On the other hand, "negligence" or inadvertence to be
@@ -355,7 +386,13 @@ propriety of the 2008 EME ND and Decision No. 2013-228 with regard to the
 2009 EME ND.
 III.
 
-Propriety of the 2008 EME ND and 2009 EME NDA.
+Propriety of the 2008 EME ND and 2009 EME ND
+
+
+
+
+
+A.
 COA Circular No. 2006-001
 applies to PSALM
 Pertinent portions of COA Circular No. 2006-001 provide:
@@ -428,7 +465,12 @@ theorizes that the evil sought to be prevented by COA Circular No. 2006-001,
 i.e., the irregular, excessive, extravagant, or unconscionable expenditure of
 public funds through EME disbursements, was already addressed by
 compliance with the ceiling amounts ﬁxed under the GAA. Since PSALM
-disburses EME in accordance with the GAA, it insists that Section 397 (c) ofthe GAAM-Volume I, echoing Paragraph III (4) of COA Circular No. 89-300
+disburses EME in accordance with the GAA, it insists that Section 397 (c) of
+
+
+
+
+the GAAM-Volume I, echoing Paragraph III (4) of COA Circular No. 89-300
 dated March 21, 1989, should instead be applied, thus:
 SEC. 397.
 Guidelines for payment of extraordinary and
@@ -476,7 +518,12 @@ business development expenses, representation expenses and the
 like. The audit guidelines on disbursement for these expenses
 in [NGAs] are prescribed under COA Circular No. 89-300 dated
 March 31, 1989.
-For GOCCs/GFIs, the amount authorized in their corporatecharters shall be the ceiling in the disbursement of funds. Where no
+For GOCCs/GFIs, the amount authorized in their corporate
+
+
+
+
+charters shall be the ceiling in the disbursement of funds. Where no
 such authority is granted in the corporate charter and the
 authority to grant [EME] is derived from the GAA, the
 amounts ﬁxed thereunder shall be the ceiling in the
@@ -533,7 +580,12 @@ incurred at an immoderate quantity and exorbitant price; and those which
 exceed what is usual or proper, as well as expenses which are unreasonably
 high and beyond just measure or amount. 85 Indeed, a disbursement for EME
 may be well within the threshold amount under the GAA, but such amount
-may possibly correspond to an expense obtained at an immoderate quantityand exorbitant price, which makes it an excessive expenditure. These
+may possibly correspond to an expense obtained at an immoderate quantity
+
+
+
+
+and exorbitant price, which makes it an excessive expenditure. These
 factual considerations for auditing purposes can only be ascertained through
 receipts and similar documents, which reﬂect such essential transaction
 details needed for the determination of an expenditure's propriety.
@@ -583,7 +635,12 @@ supplied; citations omitted.)
 
 We further elucidated in TransCo, citing Espinas, that:
 [A] certiﬁcation may or may not constitute an adequate proof of
-disbursement. To be admitted as a suﬃcient evidence ofpayment, the certiﬁcation presented by the GOCC must
+disbursement. To be admitted as a suﬃcient evidence of
+
+
+
+
+payment, the certiﬁcation presented by the GOCC must
 establish "the paying out of an account payable," or a
 disbursement. It must reﬂect the transaction details that are
 typically found in a receipt which is the best evidence of the
@@ -634,7 +691,12 @@ jurisdiction against intentional and arbitrary discrimination, whether
 occasioned by the express terms of a statute or by its improper execution
 through the state's duly constituted authorities." 93
 PSALM claims that there was a violation of the equal protection clause
-when GOCCs, such as the NPC and TransCo, were allegedly still permitted touse certiﬁcations as proof of EME disbursements to claim reimbursements.
+when GOCCs, such as the NPC and TransCo, were allegedly still permitted to
+
+
+
+
+use certiﬁcations as proof of EME disbursements to claim reimbursements.
 We are not persuaded.
 For one, PSALM did not adduce evidence to support the truth and
 veracity of this allegation. On the contrary, in National Power Corporation v.
@@ -682,7 +744,12 @@ does not require that things which are diﬀerent in fact be treated in law as
 though they were the same. 100 The principle recognizes a valid
 classification, 101 that is, a classiﬁcation that has a reasonable foundation or
 rational basis and not arbitrary. 102 Here, the COA rules and regulations with
-regard to EME disbursements appear to be more lenient with NGAs as itallows the use of certiﬁcations in accordance with COA Circular No. 89-300,
+regard to EME disbursements appear to be more lenient with NGAs as it
+
+
+
+
+allows the use of certiﬁcations in accordance with COA Circular No. 89-300,
 while COA Circular No. 2006-001 strictly requires receipts and similar
 documents for GOCCs. The diﬀerence in treatment lies in the statutory
 limitations against NGAs in disbursing EME. Aside from the ceiling amounts,
@@ -730,7 +797,12 @@ upon inquiry; an honest intention to abstain from taking any
 unconscientious advantage of another, even though technicalities of
 law, together with absence of all information, notice, or beneﬁt
 or belief of facts which render transactions unconscientious."
-108 (Emphasis supplied.The determination of good faith or bad faith is, however, not
+108 (Emphasis supplied.
+
+
+
+
+The determination of good faith or bad faith is, however, not
 dependent upon cast-iron rules. Rather, the unique facts obtaining in every
 case should be judiciously evaluated. In this case, recall that PSALM was
 served with a copy of COA Circular No. 2006-001 back in 2006. 109 In 2008,
@@ -776,7 +848,12 @@ and Liabilities Management Corporation, who approved and certiﬁed the
 disbursement of the 2008 and 2009 Extraordinary and Miscellaneous
 Expenses are solidarily liable to refund the disallowed amounts, while all the
 recipients are liable to refund the amounts that they individually received.
-SO ORDERED.Gesmundo, C.J., Perlas-Bernabe, Leonen, Caguioa, Hernando,
+SO ORDERED.
+
+
+
+
+Gesmundo, C.J., Perlas-Bernabe, Leonen, Caguioa, Hernando,
 Carandang, Lazaro-Javier, Inting, Zalameda, Delos Santos, Gaerlan, Rosario
 and J.Y. Lopez, JJ., concur.
 Footnotes
@@ -816,7 +893,12 @@ PURSUANT TO SECTION 19 AND OTHER RELATED SECTIONS OF RA 6688
 11. Rollo (G.R. No. 216606), p. 95.
 12. GUIDELINES ON THE DISBURSEMENT OF EXTRAORDINARY AND
 MISCELLANEOUS EXPENSES AND OTHER SIMILAR EXPENSES IN
-GOVERNMENT-OWNED AND CONTROLLED CORPORATIONS/GOVERNMENTFINANCIAL INSTITUTIONS AND THEIR SUBSIDIARIES; dated January 3, 2006.
+GOVERNMENT-OWNED AND CONTROLLED CORPORATIONS/GOVERNMENT
+
+
+
+
+FINANCIAL INSTITUTIONS AND THEIR SUBSIDIARIES; dated January 3, 2006.
 13. Rollo (G.R. No. 216606), p. 95.
 14. Id. at 104.
 15. Id. at 112-113.
@@ -853,7 +935,12 @@ officers and employees, who received 2009 EME reimbursements, id. at 49.
 32. Id. at 90.
 33. Id. at 92-117.
 34. Id. at 41-46.
-35. Id. at 45.36. Supra note 3.
+35. Id. at 45.
+
+
+
+
+36. Supra note 3.
 37. Id.
 38. Rollo (G.R. No. 213425), pp. 13-18.
 39. Id. at 21-22.
@@ -895,7 +982,12 @@ measures, including temporary or special pre-audit, as are necessary and
 appropriate to correct the deficiencies. It shall keep the general accounts of
 the Government and, for such period as may be provided by law, preserve
 the vouchers and other supporting papers pertaining thereto.
-(2). The Commission shall have exclusive authority, subject to the limitationsin this Article, to define the scope of its audit and examination, establish the
+(2). The Commission shall have exclusive authority, subject to the limitations
+
+
+
+
+in this Article, to define the scope of its audit and examination, establish the
 techniques and methods required therefor, and promulgate accounting and
 auditing rules and regulations, including those for the prevention and
 disallowance of irregular, unnecessary, excessive, extravagant, or
@@ -937,7 +1029,12 @@ v. Civil Service Commission, 665 Phil. 60, 70 (2011).
 64. Approved on September 15, 2009.
 65. RESOLUTION MODIFYING SECTIONS 9 AND 10, RULE X OF THE 2009 REVISED
 RULES OF PROCEDURE OF THE COMMISSION ON AUDIT; dated August 17,
-2011.66. Rollo (G.R. No. 216606), p. 61.
+2011.
+
+
+
+
+66. Rollo (G.R. No. 216606), p. 61.
 67. 2009 REVISED RULES OF PROCEDURE OF THE COA, Rule XV, SEC. 1.
 Supplementary Rules . — In the absence of any applicable provision in these
 rules, the pertinent provisions of the Rules of Court in the Philippines shall be
@@ -974,7 +1071,12 @@ UNCONSCIONABLE EXPENDITURES; dated October 29, 2012.
 Circular No. 2012-003, SEC. 5.1, signed on October 29, 2012.
 86. Emphasis supplied.
 87. 731 Phil. 67 (2014).
-88. Id. at 78-79.89. Supra note 81.
+88. Id. at 78-79.
+
+
+
+
+89. Supra note 81.
 90. Rollo (G.R. No. 213425), p. 20; and rollo (G.R. No. 216606), p. 23.
 91. CONSTITUTION, ART. III, SEC. 1. No person shall be deprived of life, liberty, or
 property without due process of law, nor shall any person be denied the
@@ -1017,7 +1119,12 @@ law; (3) must not be limited to existing conditions only; and (4) must apply
 equally to all members of the same class. (Citations omitted.)
 102. Bureau of Customs Employees Association (BOCEA) v. Secretary Teves, supra
 note 93, at 660, citing ABAKADA Guro Party List v. Purisima , 584 Phil. 246,
-270 (2008).103. Fariñas v. The Executive Secretary, 463 Phil. 179, 197 (2003).
+270 (2008).
+
+
+
+
+103. Fariñas v. The Executive Secretary, 463 Phil. 179, 197 (2003).
 104. Supra note 87, at 81. Emphasis supplied.
 105. Id.
 106. G.R. No. 244128, September 8, 2020.
@@ -1045,3 +1152,8 @@ something at the expense of the latter without just or legal ground, shall
 return the same to him.
 115. See Abellanosa v. Commission on Audit and National Housing Authority , G.R.
 No. 185806, November 17, 2020.
+
+
+
+
+

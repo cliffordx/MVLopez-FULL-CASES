@@ -20,6 +20,7 @@ the Rules of Court assailing the Court of Appeals' (CA) Decision 2 dated
 September 11, 2014 in CA-G.R. SP No. 134114, which aﬃrmed with
 modiﬁcation the ﬁndings of the National Labor Relations Commission (NLRC).
 
+
 ANTECEDENTS
 In 2012, Darwin Dalisay (Darwin) applied for shipboard employment
 with PAL Maritime Corporation (PAL Maritime), which directed him to
@@ -38,7 +39,12 @@ lumbar verbae/increase of liver enzymes." On December 10, 2012, Darwin
 was repatriated to the Philippines, and PAL Maritime's company-designated
 physician diagnosed him with "low back pain secondary to Disc Protusion L4L5 and L5-S1." Darwin underwent physical therapy from December 13, 2012
 to February 28, 2013. 4
-On March 8, 2013, PAL Maritime discovered that Darwin previouslyﬁled a claim for permanent and total disability beneﬁts for his low back pain
+On March 8, 2013, PAL Maritime discovered that Darwin previously
+
+
+
+
+ﬁled a claim for permanent and total disability beneﬁts for his low back pain
 against his former employer Phil Transmarine Carriers, Inc. (Phil
 Transmarine) 5 and was awarded in 2008 the amount of US$60,000.00 or
 P3,127,278.00. 6 As such, PAL Maritime discontinued Darwin's medical
@@ -48,6 +54,7 @@ Dr. Gloria Coronel and Dr. Manuel Fidel Magtira (Dr. Magtira), who both
 declared him unﬁt to work. Incidentally, Dr. Magtira was the same physician
 who diagnosed Darwin as permanently unﬁt to work in the case ﬁled against
 Phil Transmarine.
+
 
 Aggrieved, Darwin ﬁled a complaint against PAL Maritime and Norwest
 Management for permanent and total disability beneﬁts, sickness allowance,
@@ -85,7 +92,12 @@ beneﬁts; $2,180.00 as sickness allowance; and 10% of the total award as
 attorney's fees, to wit:
 WHEREFORE, the appeal is impressed with merit.
 The Decision a quo is REVERSED and SET ASIDE and a new one
-rendered as follows:a)
+rendered as follows:
+
+
+
+
+a)
 Complainant is declared to be entitled to a total and
 permanent disability equivalent to Grade 1 or the sum of
 US$60,000.00 payable by all respondents in solidum in peso
@@ -95,7 +107,11 @@ He is also entitled to his sickness allowance
 equivalent to US$2,180.00 (4 months);
 c)
 
-10% of the awards as attorney's fees.\n\nSO ORDERED. (Emphasis supplied.)
+10% of the awards as attorney's fees.
+
+
+
+SO ORDERED. (Emphasis supplied.)
 
 Dissatisﬁed, PAL Maritime ﬁled a Petition for Certiorari 13 to the CA
 docketed as CA-G.R. SP No. 134114 reiterating that Darwin is guilty of
@@ -137,7 +153,12 @@ condition disqualifies him from claiming disability benefits.
 As can be gleaned from the Decision of Labor Arbiter Guerrero,
 in 2007 while on board CSCL Hamburg vessel, private respondent
 experienced the same sharp and intense pain at the lower back and
-was in fact diagnosed with minimal degenerative changes in the L4L5 vertebral bodies. Notably, Dr. Magtira, the physician whoexamined private respondent in 2007 is the same physician who
+was in fact diagnosed with minimal degenerative changes in the L4L5 vertebral bodies. Notably, Dr. Magtira, the physician who
+
+
+
+
+examined private respondent in 2007 is the same physician who
 examined him in the present case. In both cases, Dr. Magtira found
 that private respondent suﬀered from back pain and advised him that
 if a long term and more permanent result are desired, he should
@@ -164,6 +185,7 @@ be presently taking medication. The PEME is nothing more than a
 summary examination of the seafarer's physiological condition and is
 just enough for the employer to determine his fitness for the nature of
 the work for which he is to be employed.
+
 
 However, we sustain the award for sickness allowance
 and attorney's fees. Despite his misrepresentation and
@@ -195,9 +217,15 @@ show how the CA committed any reversible error. On January 25, 2016,
 Darwin's motion for reconsideration was denied with ﬁnality. 20 Corollarily,
 the only matter submitted for our decision is PAL Maritime's petition
 assailing the CA's award of sickness allowance and attorney's fees. PAL
-Maritime contends that the language of Section 20 (E) of the 2010 POEA-SECdisqualiﬁes a seafarer from claiming "any" compensation and beneﬁts due to
+Maritime contends that the language of Section 20 (E) of the 2010 POEA-SEC
+
+
+
+
+disqualiﬁes a seafarer from claiming "any" compensation and beneﬁts due to
 concealment of a pre-existing illness. Moreover, the award of attorney's fees
 is improper absent bad faith.
+
 
 RULING
 
@@ -256,7 +284,13 @@ which the seafarer shall be entitled to his sickness
 allowance shall not exceed 120 days. Payment of the
 sickness allowance shall be made on a regular basis, but
 not less than once a month.
-The seafarer shall be entitled to reimbursement of the costof medicines prescribed by the company-designated
+The seafarer shall be entitled to reimbursement of the cost
+
+
+
+
+
+of medicines prescribed by the company-designated
 physician. In case treatment of the seafarer is on an outpatient basis as determined by the company-designated
 physician, the company shall approve the appropriate
 mode of transportation and accommodation. The
@@ -289,6 +323,7 @@ shall not be measured or determined by the number of
 days a seafarer is under treatment or the number of days
 in which sickness allowance is paid.
 
+
 7.
 
 It is understood and agreed that the beneﬁts mentioned
@@ -317,7 +352,13 @@ A seafarer who knowingly conceals a pre-existing illness or
 condition in the Pre-Employment Medical Examination (PEME)
 shall be liable for misrepresentation and shall be disqualiﬁed
 from any compensation and beneﬁts. This is likewise a just
-cause for termination of employment and imposition ofappropriate administrative sanctions. (Emphasis supplied.)
+cause for termination of employment and imposition of
+
+
+
+
+
+appropriate administrative sanctions. (Emphasis supplied.)
 
 An illness shall be considered as pre-existing if prior to the processing
 of the POEA contract, any of the following conditions are present: (a) [t]he
@@ -328,6 +369,7 @@ knowledge of such an illness or condition but failed to disclose [it] during
 other hand, the phrase "knowingly conceals" is not deﬁned in the 2010
 POEA-SEC. Yet, this Court had rendered several decisions interpreting the
 phrase. The following cases are instructive.
+
 
 In Manansala v. Marlow Navigation Phils., Inc., 24 we ruled that knowing
 concealment involves bad faith. The falsity or non-disclosure of the truth
@@ -364,7 +406,12 @@ respondent was not guilty of knowing concealment although "Isordil" was
 found in his belongings on board, which is a medication used for treating
 chest pains, because there was no proof that he was previously diagnosed
 with hypertension.
-I n Deocariza v. Fleet Management Services Phils., Inc., 29 the Courtheld that the employer failed to overcome the burden of proving
+I n Deocariza v. Fleet Management Services Phils., Inc., 29 the Court
+
+
+
+
+held that the employer failed to overcome the burden of proving
 concealment of a pre-existing illness on the part of the seafarer. In that case,
 the petitioner was declared by a foreign doctor to have "mechanical heart
 valves ," which he did not declare during the PEME. Yet, the companydesignated physician did not conﬁrm this diagnosis. A 2D echogram was
@@ -374,6 +421,7 @@ ruled that the employer failed to prove that the seafarer had "intent to
 deceive." The respondent did not substantiate a previous diagnosis on
 petitioner's supposed admission of hypertension and coronary artery
 disease.
+
 
 Here, it bears emphasis that this Court in G.R. No. 218170 aﬃrmed
 with ﬁnality the CA's ﬁndings that Darwin knowingly concealed his preexisting illness aﬀecting his spine and that he is disqualiﬁed from claiming
@@ -404,6 +452,7 @@ granting disability compensation and sickness allowance after determining
 that the seafarers were guilty of fraudulent concealment of pre-existing
 illnesses.
 
+
 I n Vetyard Terminals , the respondent ﬁled against the petitioners a
 complaint for disability beneﬁts, sickness allowance, and reimbursement of
 medical expenses, alleging that he was painting the vessel's ceiling when
@@ -413,7 +462,12 @@ countered that the respondent was not entitled to disability beneﬁts since
 his illness was not work-related and he deliberately concealed a prior
 cataract operation. The LA and the NLRC dismissed the complaint. On
 appeal, the CA awarded the respondent with permanent and total disability
-compensation and illness allowance corresponding to four-month salary.Upon review, this Court reinstated the labor tribunals' Decision dismissing
+compensation and illness allowance corresponding to four-month salary.
+
+
+
+
+Upon review, this Court reinstated the labor tribunals' Decision dismissing
 the complaint given that the respondent concealed his true medical
 condition, thus:
 Here, Suarez did not present substantial proof that his eye
@@ -465,7 +519,16 @@ any compensation or beneﬁts for his illness because he did not disclose
 during his PEME that he was suffering from diabetes, thus:
 Thus, for knowingly concealing his diabetes during the PEME,
 Margarito committed fraudulent misrepresentation which under the
-POEA-SEC unconditionally barred his right to receive any disabilitycompensation or illness benefit.\n\nThis ﬁnding renders any issue on work-relatedness irrelevant
+POEA-SEC unconditionally barred his right to receive any disability
+
+
+
+
+compensation or illness benefit.
+
+
+
+This ﬁnding renders any issue on work-relatedness irrelevant
 since the premise which bars disability compensation is the
 fraudulent misrepresentation of a pre-existing disease and not the
 fact that it was pre-existing. 37
@@ -499,6 +562,7 @@ applicable law, and existing jurisprudence. 41 The Court's commitment to the
 cause of labor is not a lopsided undertaking. It cannot and does not prevent
 us from sustaining the employer when it is in the right.
 
+
 FOR THESE REASONS, the petition in G.R. No. 218115 is GRANTED.
 The Court of Appeals' Decision dated September 11, 2014 in CA-G.R. SP No.
 134114 is REVERSED and SET ASIDE with respect to the awards of sickness
@@ -510,7 +574,12 @@ Perlas-Bernabe, Gesmundo, Lazaro-Javier and J.Y. Lopez, JJ., concur.
 Footnotes
 1. Rollo (G.R. No. 218115), pp. 34-46.
 2. Id. at 16-25; penned by Associate Justice Hakim S. Abdulwahid, with the
-concurrence of Associate Justices Romeo F. Barza and Ramon A. Cruz.3. Id. at 17.
+concurrence of Associate Justices Romeo F. Barza and Ramon A. Cruz.
+
+
+
+
+3. Id. at 17.
 4. Id. at 17-18.
 5. Id. at 18.
 6. Rollo (G.R. No. 218170), pp. 136-144; and 145-152.
@@ -542,7 +611,12 @@ concurrence of Associate Justices Romeo F. Barza and Ramon A. Cruz.3. Id. at 17.
 30. G.R. No. 225756, November 28, 2019.
 31. Ang v. Dr. Grageda, 523 Phil. 830, 847 (2006); Natalia Realty, Inc. v. Judge
 Rivera, 509 Phil. 178, 186 (2005); See Paramount Insurance Corp. v. Judge
-Japzon, 286 Phil. 1048, 1056 (1992).32. Rollo (G.R. No. 218115), p. 24.
+Japzon, 286 Phil. 1048, 1056 (1992).
+
+
+
+
+32. Rollo (G.R. No. 218115), p. 24.
 33. Bolos v. Bolos, 648 Phil. 630, 637 (2010).
 34. 728 Phil. 527 (2014).
 35. 740 Phil. 175 (2014).
@@ -561,3 +635,8 @@ of another, or when a person retains money or property of another against
 the fundamental principles of justice, equity and good conscience. Locsin II v.
 Mekeni Food Corp., 722 Phil. 886, 901 (2013).
 41. Panganiban v. Tara Trade Shipmanagement, Inc., 647 Phil. 675, 678 (2010).
+
+
+
+
+

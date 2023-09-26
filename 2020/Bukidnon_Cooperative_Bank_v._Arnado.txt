@@ -19,6 +19,7 @@ could conceivably result in a failure of justice. 1 Here, we determine the
 administrative liability of a lawyer who submitted documentary evidence for
 pre-marking which turned out to be altered.
 
+
 ANTECEDENTS
 On November 15, 2013, Bukidnon Cooperative Bank (Bukidnon
 Cooperative) engaged the services of Asiatique International Travel & Tours
@@ -46,7 +47,12 @@ Paciﬁc Airline issued on November 18, 2013 for a ﬂight on November 27,
 reference number. The tickets were then marked as Exhibits 8, 9, 10 and 11.
 5 Bukidnon Cooperative learned that Mr. Encabo's Pre-Trial Brief 6 did not
 mention any electronic tickets as documentary evidence. Thus, Bukidnon
-Cooperative moved for the issuance of a subpoena against VIA Philippines toverify the genuineness of the tickets. During trial, VIA Philippines'
+Cooperative moved for the issuance of a subpoena against VIA Philippines to
+
+
+
+
+verify the genuineness of the tickets. During trial, VIA Philippines'
 representative testiﬁed that the four electronic tickets marked as Exhibits 8,
 9, 10 and 11 were altered. The two tickets without booking reference were
 not genuine while the tickets with reference number correspond to diﬀerent
@@ -80,6 +86,7 @@ shall be interrupted or terminated by reason of the desistance, settlement,
 compromise, restitution, withdrawal of the charges, or failure of the
 complainant to prosecute the same." 14
 
+
 Notably, the lawyer's oath mandates members of the bar to "do no
 falsehood, nor consent to the doing of any court." Also, Canon 10 of the
 Code of Professional Responsibility provides that " [a] lawyer owes candor,
@@ -91,7 +98,12 @@ honesty towards the court.
 Foremost, it was clearly established that the electronic tickets premarked as exhibits were altered. The representative of VIA Philippines
 attested to this fact and Mr. Encabo failed to substantiate that any error
 occurred in the system. Atty. Arnado cannot hide on the simple excuse that
-he has no expertise to determine the authenticity of these documentsespecially that the introduction of such evidence can potentially mislead the
+he has no expertise to determine the authenticity of these documents
+
+
+
+
+especially that the introduction of such evidence can potentially mislead the
 trial court. Also, Atty. Arnado cannot rely solely on his client's narrations
 without inquiry when the circumstances call him to be more meticulous.
 Indeed, lawyers must diligently familiarize themselves as to the nature of the
@@ -138,9 +150,15 @@ Time and time again, lawyers have been admonished to remember
 that they are oﬃcers of the court, and that while they owe their clients the
 duty of complete ﬁdelity and the utmost diligence, they are likewise held to
 strict accountability insofar as candor and honesty towards the court is
-concerned.FOR THESE REASONS, Atty. Jose Vicente M. Arnado is
+concerned.
+
+
+
+
+FOR THESE REASONS, Atty. Jose Vicente M. Arnado is
 REPRIMANDED and STERNLY WARNED that a repetition of the same or
 similar acts will be dealt with more severely.
+
 
 SO ORDERED.
 
@@ -173,4 +191,11 @@ CBD Case No. 15-4733 against Atty. Arnado.
 21. 447 Phil. 434 (2003).
 22. 136 Phil. 75 (1969).
 23. Supra note 1.
+
+
+
+
+
+
+
 

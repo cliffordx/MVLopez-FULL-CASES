@@ -28,6 +28,7 @@ diesel fuel worth P235,000.00. On the same day, Byron Express' clerk Jaivi
 Mar Juson (Juson) received the fuel and executed a trust receipt with the
 duty to remit the proceeds on December 15, 2004, to wit:
 
+
 I, JAIVI MAR JUSON, as trustee, Filipino, of legal age, and a
 resident of A.B. FERNANDOS EAST DAGUPAN CITY hereby received in
 trust the above-described merchandise from ROBERTO MERCADO as
@@ -67,7 +68,12 @@ the
 
 C)
 25 percent as attorney's fees but not less than
-P500.00D)
+P500.00
+
+
+
+
+D)
 25 percent as liquidated damages but not less than
 P1,000.00 3
 xxx xxx xxx
@@ -115,7 +121,12 @@ It is therefore apparent that the transaction involved in
 this case is one of sale. Therefore, there is no estafa to talk
 about. The defense is correct that if any liability is attached
 to the vendees, it must only be civil in character.
-Moreover, the Trust Receipt Agreement named one JAIVI MARJUSON as the only trustee whose signature was likewise aﬃxed.
+Moreover, the Trust Receipt Agreement named one JAIVI MAR
+
+
+
+
+JUSON as the only trustee whose signature was likewise aﬃxed.
 There was no name and signature of Byron Cacdac.
 The evidence presented did not sufficiently establish the
 participation of Byron Cacdac in the questioned transaction.
@@ -123,6 +134,7 @@ Thus, even assuming without admitting that Jaivi Mar Juson
 committed Estafa, accused Byron Cacdac could not be held liable
 thereunder especially that the Information contains no allegation of
 conspiracy between the two (2) accused.
+
 
 xxx xxx xxx
 When the criminal action for estafa based on Trust Receipt
@@ -165,7 +177,12 @@ diesel fuel, 13 thus:
 Found by the Court as discussed in the questioned resolution is
 that accused Byron Cacdac is the owner of Byron Express Bus
 Company. That it was accused Byron Cacdac who ordered and
-purchased on credit diesel fuel from the private complainant RobertoR. Mercado for use of his buses. The other accused, Jaivi Mar Juson,
+purchased on credit diesel fuel from the private complainant Roberto
+
+
+
+
+R. Mercado for use of his buses. The other accused, Jaivi Mar Juson,
 merely acted in behalf of his employer — Byron Cacdac, signing the
 Trust Receipt Agreement as a receiving oﬃcer of the said bus
 company. Such being the case, accused Byron Cacdac, being the
@@ -217,6 +234,7 @@ Cacdac's bus company through his co-accused Jaivi Mar Juson.
 Signiﬁcantly, the delivery was made pursuant to a purchase
 order placed by Cacdac.
 
+
 xxx xxx xxx
 WHEREFORE, the appeal is DENIED. The appealed resolution
 and order of 28 July 2015 and 19 April 2017, respectively, are
@@ -225,7 +243,12 @@ is ordered to pay appellee Roberto Mercado the sum of P235,000.00
 which shall bear legal interest of 6% from 15 December 2004 (the
 date the obligation was due and demandable) until ﬁnality of the
 judgment. Then, the total amount due shall earn interest of 6% from
-finality until they be fully paid.IT IS SO ORDERED. (Emphases supplied)
+finality until they be fully paid.
+
+
+
+
+IT IS SO ORDERED. (Emphases supplied)
 
 Cacdac sought reconsideration 16 but was denied. 17 Hence, this
 recourse.
@@ -272,7 +295,12 @@ evidence within a non-extendible period of ten (10) days from notice.
 The prosecution may oppose the demurrer to evidence within a
 similar period from its receipt.
 The order denying the motion for leave of court to ﬁle demurrer
-to evidence or the demurrer itself shall not be reviewable by appealor by certiorari before judgment.
+to evidence or the demurrer itself shall not be reviewable by appeal
+
+
+
+
+or by certiorari before judgment.
 xxx xxx xxx (Emphases supplied)
 
 Particularly, a demurrer to evidence may be ﬁled with or without leave
@@ -309,6 +337,7 @@ the civil aspect of the case and for the private complainant to
 adduce evidence by way of rebuttal. Thereafter, the court shall
 render judgment on the civil aspect of the case. (Emphasis supplied)
 
+
 On the other hand, when a demurrer to evidence is ﬁled without leave
 of court, the accused waives the right to present evidence and submits the
 whole case based on the evidence for the prosecution. The trial court is
@@ -320,7 +349,12 @@ rendered judgment on his civil liability. Applying the case law and the rules,
 Cacdac is deemed to have waived the right to present evidence when he
 ﬁled a demurrer without leave of court. The trial court has no alternative but
 to decide the entire case upon the prosecution evidence alone. Moreover,
-the waiver is valid and voluntary, absent any proof that the defenseprecipitately ﬁled the demurrer without
+the waiver is valid and voluntary, absent any proof that the defense
+
+
+
+
+precipitately ﬁled the demurrer without
 comprehension of its legal consequences. 25
 
 the
@@ -376,7 +410,13 @@ FOR THESE REASONS, the petition is GRANTED. The Court of
 Appeals' Decision dated April 20, 2018 in CA-G.R. CV No. 109110 is
 REVERSED. The civil liability imposed against Byron Cacdac is DELETED.
 
-SO ORDERED.Perlas-Bernabe, Lazaro-Javier, Rosario and J.Y. Lopez, * JJ., concur.
+
+SO ORDERED.
+
+
+
+
+Perlas-Bernabe, Lazaro-Javier, Rosario and J.Y. Lopez, * JJ., concur.
 Footnotes
 * Designated as additional Member per Special Order No. 2822 dated April 7, 2021.
 1. Rollo, pp. 16-34.
@@ -408,7 +448,12 @@ note 21.
 24. Cabador v. People, 617 Phil. 974, 978 (2009).
 25. Rivera v. People, 499 Phil. 80, 91 (2005).
 26. Revised Penal Code, Article 100.
-27. Dayap v. Sendiong , supra note 22 at 141, citing Hun Hyung Park v. Eung WonChoi, supra note 21.
+27. Dayap v. Sendiong , supra note 22 at 141, citing Hun Hyung Park v. Eung Won
+
+
+
+
+Choi, supra note 21.
 28. Raymundo v. Lunaria, 590 Phil. 546, 552-553 (2009), citing Ong v. Yap , 492
 Phil. 188 (2005).
 29. Dantis v. Maghinang, Jr., 708 Phil. 575, 588 (2013), citing Jison v. CA, 350 Phil.
@@ -419,3 +464,8 @@ Seminaries School of Theology, Inc. v. Perez, 803 Phil. 596 (2017).
 32. Bautista v. Auto Plus Traders, Incorporated , 583 Phil. 218, 225 (2008), citing
 Construction & Development Corporation of the Philippines v. Cuenca, 504
 Phil. 259 (2005).
+
+
+
+
+

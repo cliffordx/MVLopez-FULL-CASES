@@ -13,6 +13,7 @@ The validity of the terms and conditions of government employment ﬁxed in the 
 is the core issue in this petition for review on certiorari assailing the Decision 1 of the Court of Appeals (CA) dated April 8,
 2013 in CA-G.R. SP No. 127560.
 
+
 ANTECEDENTS
 On March 20, 2012, the Clark Development Corporation (CDC), the operating arm of the Bases Conversion Development
 Authority (BCDA), tasked to manage the Clark Special Economic Zone, 2 executed a renegotiated CBA with its supervisory
@@ -69,6 +70,7 @@ Department of Labor and Employment, San Fernando, Pampanga, for failure to imple
 7, Series of 2010 suspended the grant of allowances, bonuses, incentives, and other perks to the members of the boards of
 directors/trustees of GOCCs only until December 31, 2010. 8 Moreover, the AVA held that the President's approval in the grant
 of additional benefits was presumed pursuant to the rule on liberal construction in favor of labor, 9 thus:
+
 
 WHEREFORE, premises considered, the [AVA] resolves to issue a decision favorable to the members of
 the ASSOCIATION OF CDC SUPERVISORY UNION in recognition of their Constitutional Right to Collective
@@ -132,11 +134,17 @@ Such approval should be presumed considering the Labor Code provision:
 ART. 4.
 Construction in favor of labor. — All doubts in the implementation and interpretation of the
 provisions of this Code, including its implementing rules and regulations, shall be resolved in favor of labor.
-So ordered. 10 (Emphases and italization in the original)Aggrieved, CDC elevated the case to the CA through a Petition for Review 11 docketed as CA-G.R. SP No. 127560. On
+So ordered. 10 (Emphases and italization in the original)
+
+
+
+
+Aggrieved, CDC elevated the case to the CA through a Petition for Review 11 docketed as CA-G.R. SP No. 127560. On
 April 8, 2013, the CA aﬃrmed the AVA's ﬁndings and explained that EO No. 7, Series of 2010 does not apply to CDC since it is
 a GOCC without original charter, as well as to ACSP because it is composed of supervisory employees. The CA echoed that the
 President's approval as to additional beneﬁts was presumed in line with the principle that all doubts should be resolved in
 favor of labor. 12
+
 
 Unsuccessful at a reconsideration, 13 CDC ﬁled this petition for review on certiorari ascribing reversible error on the part
 of the CA and the AVA in allowing the grant of additional beneﬁts. CDC maintained that the CBA's economic terms was invalid
@@ -158,6 +166,7 @@ and the outcome of the case as the central advisory, monitoring and oversight bo
 coordinate policies for GOCCs. Further, the intervention of GCG will not prejudice the rights of CDC and ACSP, or delay the
 resolution of the case. Indeed, GCG raised similar issues as the original parties, hence, its claims were incapable of being
 properly decided in a separate proceeding. 16
+
 
 Anent the merits of the case, it is settled that "the right of government employees to self-organization is not as
 extensive as in the [right] of private [employees.]" 17 Likewise, the right of government employees to collective bargaining
@@ -197,6 +206,7 @@ not give its favorable recommendation to CDC and ACSP before they renegotiated t
 intimated earlier, GCG even opined that the CBA violated Section 9 27 of EO No. 7, Series of 2010, while the BCDA suggested
 the deferment or renegotiation of the CBA.
 
+
 Furthermore, it was on March 22, 2016, that the President issued EO No. 203,28 Series of 2016, adopting the
 compensation and position classiﬁcation system as well as the index of occupational services for GOCCs. Section 2 of EO No.
 203, Series of 2016, is explicit that "[w]hile recognizing the constitutional right of workers to self-organization, collective
@@ -208,7 +218,12 @@ for the CA and the AVA to presume that the President approved the renegotiated e
 CDC and ACSP. To be sure, the construction in favor of labor only applies when there are doubts in the interpretation and
 implementation of the provisions of the Labor Code and its implementing rules and regulations. 29 As explained above,
 however, the language of Section 9 of EO No. 7, Series of 2010 on the moratorium on increases in rates of salaries and other
-beneﬁts is unambiguous. Consequently, the law must be interpreted following its plain and obvious meaning, and appliedaccording to its express terms. 30 Again, the law requires the President's consent as to additional beneﬁts eﬀectively lifting
+beneﬁts is unambiguous. Consequently, the law must be interpreted following its plain and obvious meaning, and applied
+
+
+
+
+according to its express terms. 30 Again, the law requires the President's consent as to additional beneﬁts eﬀectively lifting
 the moratorium, and any presumption of such approval is unwarranted.
 In the analogous case of Social Housing Employees Association, Inc. v. Social Housing Finance Corp., 31 the respondent
 revoked the economic provisions of the CBA because they violated EO No. 7, Series of 2010, and RA No. 10149, that
@@ -219,6 +234,7 @@ Corporation v. National Labor Relations Commission , 33 the Court held that the 
 rule when it desisted from granting mid-year bonus to its employees" 34 without ﬁrst securing authority from the President in
 view of the enactment of RA No. 10149. In that case, the petitioner failed to obtain the President's approval as to the grant of
 additional benefits.
+
 
 In sum, the CDC has valid reason not to implement the increases in salaries and benefits as provided in the renegotiated
 CBA. The Court reminds that the law ﬁxed the terms and conditions of government employment, 35 and any contract that
@@ -269,7 +285,12 @@ Management to Make Them More Responsive to the Needs of Public Interest and for 
 26. Section 10, RA No. 10149.
 27. Moratorium on Increases in Salaries, Allowances, Incentives and other Benefits.
 28. Adopting a Compensation and Position Classification System (CPCS) and a General Index of Occupational Services (IOS) for the
-GOCC Sector Covered by [RA] No. 10149 and for Other Purposes.29. Article 4, Chapter I, Labor Code. Construction in Favor of Labor. — All doubts in the implementation and interpretation of the
+GOCC Sector Covered by [RA] No. 10149 and for Other Purposes.
+
+
+
+
+29. Article 4, Chapter I, Labor Code. Construction in Favor of Labor. — All doubts in the implementation and interpretation of the
 provisions of this Code, including its implementing rules and regulations, shall be resolved in favor of labor.
 
 30. Cubillo v. Social Security System , G.R. No. 221067, January 14, 2019, <https://elibrary.judiciary.gov.ph/dtSearch/dtisapi6.dll?
@@ -280,3 +301,8 @@ cmd=getdoc&Docld=12402&Index=%2aaa1de0751c9cff7439815a4b27e3ab58&HitCount=3&hits
 34. Id.
 35. Arizala v. Court of Appeals, 267 Phil. 615, 620 (1990).
 36. Beumer v. Amores, 700 Phil. 90, 98 (2012).
+
+
+
+
+

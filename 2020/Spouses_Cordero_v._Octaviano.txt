@@ -41,9 +41,15 @@ other pertinent portions of the records necessary for
 a thorough evaluation of the case by this Court, in
 violation of Section 2 (d), Rule 42 of the Rules of Court.
 
+
 WHEREFORE, in view of the foregoing and pursuant to Section
 3, Rule 42 of the Rules of Court, the petition is DISMISSED.
-SO ORDERED. 10 (Emphasis in the original.)Spouses Cordero sought reconsideration invoking substantial
+SO ORDERED. 10 (Emphasis in the original.)
+
+
+
+
+Spouses Cordero sought reconsideration invoking substantial
 compliance with rules requiring statement of material dates. They claimed
 that the failure to state the date of receipt of the RTC Decision dated
 December 7, 2016 is inadvertent and does not warrant the outright dismissal
@@ -90,12 +96,18 @@ We cannot overemphasize that courts have always tried to maintain a
 healthy balance between the strict enforcement of procedural laws and the
 guarantee that every litigant be given the full opportunity for the just
 disposition of his cause. 18 Indeed, the Court has allowed several cases to
-proceed in the broader interest of justice despite procedural defects andlapses. 19 This is in keeping with the principle that rules of procedure are
+proceed in the broader interest of justice despite procedural defects and
+
+
+
+
+lapses. 19 This is in keeping with the principle that rules of procedure are
 mere tools designed to facilitate the attainment of justice. 20 Here, there
 exists a clear need to prevent the commission of a grave injustice to
 Spouses Cordero which is not commensurate with their failure to comply with
 the prescribed procedure. The circumstances obtaining in this case merit the
 liberal application of the rule in the interest of fair play.
+
 
 The rationale for requiring a complete statement of material dates is to
 determine whether the petition is timely ﬁled. 21 Accordingly, the petition
@@ -137,7 +149,12 @@ requirement of attaching copies of the judgments and orders of the trial
 courts. Moreover, these attachments are already suﬃcient to enable the CA
 to pass upon the assigned errors and to resolve the appeal even without the
 pleadings and other portions of the records. To be sure, the assailed
-decisions of the trial courts substantially summarized the contents of theomitted records. 31 Likewise, the CA can resolve the issues by relying on the
+decisions of the trial courts substantially summarized the contents of the
+
+
+
+
+omitted records. 31 Likewise, the CA can resolve the issues by relying on the
 principle that the factual ﬁndings of the lower courts are entitled to great
 weight. It can also direct Spouses Cordero to submit additional documents or
 the clerk of court of the RTC and MCTC to elevate the original records of the
@@ -161,6 +178,7 @@ Rules of Court, the date of mailing shall be considered as the date of ﬁling
 when a pleading is ﬁled by registered mail. It does not matter when the
 court actually receives the mailed pleading. 35
 
+
 In all, the CA's outright dismissal of the petition for review constitutes a
 gross error and contravenes Spouses Cordero's right to be heard on appeal.
 The ends of justice will be better served if the case is determined on the
@@ -181,7 +199,12 @@ the concurrence of Associate Justices Pamela Ann Abella Maxino and Louis P.
 Acosta.
 2. Id. at 112-113.
 3. Id. at 108-110.
-4. Id. at 73-80.5. Id. at 130-137.
+4. Id. at 73-80.
+
+
+
+
+5. Id. at 130-137.
 6. Id. at 81-85.
 7. Id. at 150-154.
 8. Id. at 71-72.
@@ -219,7 +242,12 @@ the motion for reconsideration was alleged.
 25. 706 Phil. 523 (2013). In this case, the petitioner's failure to state the date of
 receipt of the copy of the October 10, 2011 CSC decision is not fatal to her
 case since the dates are evident from the records.
-26. 735 Phil. 71 (2014). In this case, the Corporations alleged in their petitionbefore the CA that when they received the Resolution of the NLRC on 6 July
+26. 735 Phil. 71 (2014). In this case, the Corporations alleged in their petition
+
+
+
+
+before the CA that when they received the Resolution of the NLRC on 6 July
 2006, it can be determined whether the petition was filed within the 60-day
 reglementary period. And as a matter of fact, the appeal was filed on 8
 September 2006, and well within the 60-day period.
@@ -264,7 +292,12 @@ reversed the Court of Appeals' dismissal of the case since copies of the
 pleadings and material portions of the records were attached in the
 petitioner's motion for reconsideration. This Court considered the subsequent
 submission as substantial compliance which justifies relaxation of the rule.
-33. Jaro v. Court of Appeals, 427 Phil. 532 (2002).34. Section 3 of Rule 13 reads in full:
+33. Jaro v. Court of Appeals, 427 Phil. 532 (2002).
+
+
+
+
+34. Section 3 of Rule 13 reads in full:
 Sec. 3. Manner of filing. — The filing of pleadings, appearances, motions,
 notices, orders, judgments and all other papers shall be made by presenting
 the original copies thereof, plainly indicated as such, personally to the clerk
@@ -277,3 +310,8 @@ as the date of their filing, payment, or deposit in court. The envelope
 shall be attached to the record of the case. (Emphasis Supplied)
 35. Russel v. Ebasan, 633 Phil. 384 (2010).
 36. Heirs of Villagracia v. Equitable Banking Corp., 573 Phil. 212 (2008).
+
+
+
+
+

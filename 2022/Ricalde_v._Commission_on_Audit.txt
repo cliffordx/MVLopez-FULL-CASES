@@ -24,6 +24,7 @@ the Revised Rules of Court, seeks judicial review of the Commission on Audit
 aﬃrmed with modiﬁcation the COA National Government Sector (NGS)Cluster 8 Decision No. 2014-011 3 dated August 11, 2014, as amended by
 Decision No. 2014-11-A 4 dated February 2, 2016.
 
+
 FACTS
 The Bureau of Investments (BOI) entered into service agreements 5
 with lawyers, namely: Atty. Dennis R. Gascon (Atty. Gascon), Atty. Francesca
@@ -54,7 +55,12 @@ Governors which are deemed complicated and may need
 extensive study and research. 6
 
 Atty. Clarino was, on the other hand, assigned in the Oﬃce of BOI
-Executive Director Efren V. Leaño (Leaño) to render the following services:1.
+Executive Director Efren V. Leaño (Leaño) to render the following services:
+
+
+
+
+1.
 
 Attend and provide technical and logistical support to the
 Committee hearing on the amendments of EO No. 226 and other
@@ -116,7 +122,11 @@ as legal counsels, but as technical assistants. They also claimed that Atty.
 Clarino does not fall within the ambit of a private law practitioner as she had
 never rendered legal services for compensation before her engagement with
 the BOI. 21
-In its Decision No. 2014-011 22 dated August 11, 2014, the COA NGS\n\nCluster 8 Director ruled that the requirements under COA Circular No. 86255, as amended, applies to the hiring of private lawyers for a rendition of
+In its Decision No. 2014-011 22 dated August 11, 2014, the COA NGS
+
+
+
+Cluster 8 Director ruled that the requirements under COA Circular No. 86255, as amended, applies to the hiring of private lawyers for a rendition of
 any legal service. Since the questioned service agreements enumerated a
 scope of work which required performance of legal services, and the required
 OSG written conformity and acquiescence and COA written concurrence
@@ -162,7 +172,12 @@ SET ASIDE. 30 (Emphases supplied.)
 
 Hence, this petition raises the same arguments on the inapplicability of
 COA Circular No. 86-255, alleging that Atty. Gascon and Atty. Manzano were
-hired as technical assistants and not as lawyers to represent the BOI beforeany judicial or quasi-judicial body. 31 As regards Atty. Clarino, the petition
+hired as technical assistants and not as lawyers to represent the BOI before
+
+
+
+
+any judicial or quasi-judicial body. 31 As regards Atty. Clarino, the petition
 points out that she was not hired on a ﬁxed retainer fee, which the Circular
 prohibits; and that her salary was not unreasonable, it being at par with a
 BOI Attorney II's salary. In any case, the petition cites the BOI's "dire need"
@@ -208,7 +223,12 @@ unavoidably call for the services of private lawyers. Thus, over the years, the
 government has allowed deviation from the general prohibition subject to
 certain conditions. For one, pursuant to its constitutional mandate to be the
 guardian of public funds, 42 the COA issued Circular No. 86-255 dated April 2,
-1986 to regulate the government's hiring of private counsels, which wasamended/modiﬁed by Circular No. 95-011 43 dated December 4, 1995 as
+1986 to regulate the government's hiring of private counsels, which was
+
+
+
+
+amended/modiﬁed by Circular No. 95-011 43 dated December 4, 1995 as
 follows:
 x x x [W]here a government agency is provided by law with a
 legal oﬃcer or oﬃce who or which can handle its legal requirements
@@ -259,7 +279,12 @@ the BOI's "dire need" to hire technical assistance from outside the bureau to
 augment its deﬁcient staﬀ. This general allegation is, however, a factual
 matter that could have been veriﬁed by the OSG had the BOI complied with
 the requirements under the established rules before it hired private lawyers.
-At this point, the OSG had already expressed its disapproval of the BOIhirings in arguing for the propriety of the disallowance. Hence, absent any
+At this point, the OSG had already expressed its disapproval of the BOI
+
+
+
+
+hirings in arguing for the propriety of the disallowance. Hence, absent any
 semblance of grave abuse of discretion and also for lack of evidence on
 record for the Court to make a judicious factual determination, we are
 constrained to uphold the disallowance.
@@ -307,7 +332,12 @@ in that capacity but to handle legal matters [sic] involving
 right-of-way, it is maintained that the contracted service
 falls within the scope of the inhibition which clearly
 includes "the hiring or employing private lawyers or law
-practitioners to render legal services for them and/or tohandle their legal cases . . ." Moreover, it is important
+practitioners to render legal services for them and/or to
+
+
+
+
+handle their legal cases . . ." Moreover, it is important
 to mention that the intention of said Circular is to
 curb the observed and persistent violation of
 existing laws and regulations, including CSC MC #5
@@ -368,6 +398,7 @@ person receiving such payment 56 in accordance with Section 43, Chapter 5,
 Book VI of the Administrative Code, viz.:
 SEC.
 
+
 43.
 
 Liability
@@ -381,6 +412,7 @@ Expenditures.
 —
 
 Every
+
 
 expenditure or obligation authorized or incurred in violation of the
 provisions of this Code or of the general and special provisions
@@ -429,11 +461,16 @@ government contracts, viz.:
 If a Notice of Disallowance is upheld, the rules on return
 are as follows:
 xxx xxx xxx
-b.\n\nPursuant to Section 43 of the Administrative Code of
+b.
+
+
+
+Pursuant to Section 43 of the Administrative Code of
 1987, approving and certifying oﬃcers who are
 clearly shown to have acted in bad faith, malice, or
 gross negligence, are solidarily liable together
 with the recipients for the return of the disallowed
+
 
 amount.
 c.
@@ -483,7 +520,12 @@ approving and certifying officers need not refund the disallowed amount.
 SO ORDERED.
 
 Gesmundo, C.J., Perlas-Bernabe, Leonen, Caguioa, Hernando, LazaroJavier, Inting, Zalameda, Gaerlan, Rosario, J.Y. Lopez, Dimaampao and
-Marquez, JJ., concur.Footnotes
+Marquez, JJ., concur.
+
+
+
+
+Footnotes
 1. Rollo, pp. 3-21.
 2. Id. at 25-35.
 3. Id. at 78-86.
@@ -517,7 +559,12 @@ at 74-77.
 21. Id. at 63-65.
 22. Id. at 78-86.
 23. Id. at 85.
-24. Id. at 88-89.25. See Notice of Finality of Decision No. OCD-2016-001(2014)-A; id. at 91-92.
+24. Id. at 88-89.
+
+
+
+
+25. See Notice of Finality of Decision No. OCD-2016-001(2014)-A; id. at 91-92.
 26. Id.
 27. Id. at 93-112.
 28. Id. at 26.
@@ -552,7 +599,12 @@ Consultants, subject to specific conditions."
 47. COA Circular No. 2021-003, Item 1.0, Par. 3.
 48. COA Circular No. 2021-003, Item 1.0, Par. 6.
 49. See COA Circular No. 2021-003, Item 1.0, Par. 3.
-50. Supra note 42.51. 390 Phil. 1101, 1109-1111 (2000).
+50. Supra note 42.
+
+
+
+
+51. 390 Phil. 1101, 1109-1111 (2000).
 52. Id.
 53. SEC. 38. Liability of Superior Officers. — (1) A public officer shall not be civilly
 liable for acts done in the performance of his official duties, unless there is a
@@ -581,3 +633,8 @@ n Note from the Publisher: Copied verbatim from official document. Irregular
 numerical sequence.
 nNote from the Publisher: Copied verbatim from official document. Irregular
 numerical sequence.
+
+
+
+
+

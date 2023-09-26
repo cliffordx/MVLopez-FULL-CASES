@@ -36,7 +36,12 @@ On the issue of whether or not the January 18, 2002 Deed of
 Donation is falsiﬁed or forged, plaintiﬀs failed to present evidence of
 forgery, save for their claim of diﬀerent handwriting in the Deed of
 Donation and the Social Security Identification Documents.
-xxx xxx xxxOn the issue that the Deed or Donation is violative of Articles
+xxx xxx xxx
+
+
+
+
+On the issue that the Deed or Donation is violative of Articles
 750, 752, 906 and 907 of the Civil Code, for being onerous and
 inoﬃcious, as claimed by defendants. (sic) Again, plaintiﬀs failed to
 present evidence that at the time of the death of their father, he had
@@ -85,7 +90,12 @@ Tagum City, in Civil Case No. 4241, is AFFIRMED. 11
 The petitioners sought reconsideration; but was denied. 12 Hence, this
 recourse. The petitioners maintained that the donation impaired their
 legitimes and that the defective notarization renders the donation void. 13
-RULINGThe petition is unmeritorious.
+RULING
+
+
+
+
+The petition is unmeritorious.
 At the outset, we stress that the petitioners raised a question
 regarding the RTC and CA's appreciation of the evidence on whether the
 donation impaired their legitimes, which is one of fact and is beyond the
@@ -132,7 +142,12 @@ In Dept. of Education, Culture & Sports v. Del Rosario, 20 we stated that
 a deed of donation acknowledged before a notary public is a public
 document. The notary public shall certify that he knows the person
 acknowledging the instrument and that such person is the same person who
-executed the instrument, acknowledging that the instrument is his free actand deed. On the other hand, it is settled that a defective notarization will
+executed the instrument, acknowledging that the instrument is his free act
+
+
+
+
+and deed. On the other hand, it is settled that a defective notarization will
 strip the document of its public character and reduce it to a private
 instrument. 21 Thus, a defective notarization renders the donation of an
 immovable property invalid since the requirement that such contract must
@@ -190,7 +205,13 @@ principal; and
 
 witness to a signature by thumb or other mark, or to a
 signing by the notary public on behalf of a person
-physically unable to sign.As explained in Miranda, Jr. v. Alvarez, Sr. 25 and Gaddi v. Atty.
+physically unable to sign.
+
+
+
+
+
+As explained in Miranda, Jr. v. Alvarez, Sr. 25 and Gaddi v. Atty.
 Velasco, 26 the 2004 Rules on Notarial Practice provides that a notary public
 should not notarize a document unless the signatory to the document is in
 the notary's presence personally at the time of the notarization, and
@@ -237,7 +258,12 @@ procedural laws in the event that to do so would not be
 feasible or would work injustice. Nor may procedural laws be
 applied retroactively to pending actions if to do so would involve
 intricate problems of due process or impair the independence of the
-courts. 33 (Emphasis ours.)In sum, the deed of donation between Spouses Ramiro and Amada
+courts. 33 (Emphasis ours.)
+
+
+
+
+In sum, the deed of donation between Spouses Ramiro and Amada
 Patenia and the respondents is valid and compliant with the solemnities in
 Article 749 of the Civil Code.
 FOR THESE REASONS, the petition is DENIED.
@@ -276,7 +302,12 @@ and reply briefs, are not disputed by the respondent; (j) When the findings of
 fact are premised on the supposed absence of evidence and contradicted by
 the evidence on record; or (k) When the CA manifestly overlooked certain
 relevant facts not disputed by the parties, which, if properly considered,
-would justify a different conclusion. See Navaja v. Hon. De Castro, et al., 761Phil. 142, 155 (2015).
+would justify a different conclusion. See Navaja v. Hon. De Castro, et al., 761
+
+
+
+
+Phil. 142, 155 (2015).
 16. Dauden-Hernaez v. De los Angeles, etc., et al., 137 Phil. 900, 906-907 (1969).
 17. THE CIVIL CODE, Art. 1318.
 18. 481 Phil. 125 (2004).
@@ -301,3 +332,8 @@ xxx xxx xxx
 affinity or consanguinity of the principal within the fourth civil degree.
 32. 424 Phil. 556 (2002).
 33. Id. at 570.
+
+
+
+
+

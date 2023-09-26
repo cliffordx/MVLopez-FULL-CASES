@@ -42,7 +42,12 @@ inspection team caught Zonio sleeping in his post on April 20, 2014, and took
 photographs 6 of him as proof. Respondents directed Zonio to report to the
 head oﬃce to explain, but Zonio disregarded the directive. Thus, in a
 memorandum dated April 21, 2014, 7 respondents suspended him for 30
-days, eﬀective April 21, 2014, until May 20, 2014. As to Zonio's moneyclaims, he was oriented as to the salary and beneﬁts to which he is entitled,
+days, eﬀective April 21, 2014, until May 20, 2014. As to Zonio's money
+
+
+
+
+claims, he was oriented as to the salary and beneﬁts to which he is entitled,
 and he agreed to it. Moreover, Wage Order No. IVA-14, provides that the
 minimum wage rate does not apply to persons employed in the personal
 service of another, such as a private security guard like Zonio. Lastly,
@@ -88,7 +93,12 @@ prove that, indeed, [Zonio] rendered overtime work beyond the
 normal work hours from 02 June 2012 until 21 August 2012. Rather,
 the entries were made by [Zonio] and other security guards
 themselves. Although these entries were signed by incoming and
-outgoing security guards, the same were not countersigned by theirsupervisor or any authorized representative from the place where
+outgoing security guards, the same were not countersigned by their
+
+
+
+
+supervisor or any authorized representative from the place where
 they were designated. As such, it raises serious doubt as to whether
 [Zonio] actually rendered work on a given date and time.
 Moreover, the semi-monthly payroll report presented by [Zonio]
@@ -137,7 +147,9 @@ petitions for review on certiorari. 16 Sections 1 and 2 of this Rule pertinently
 provide:
 SEC. 1.
 
+
 Filing of petition with Supreme Court. — A party
+
 
 desiring to appeal by certiorari from a judgment or ﬁnal order or
 resolution of the Court of Appeals, the Sandiganbayan, the Regional
@@ -189,7 +201,12 @@ Judicial review of labor cases does not go beyond the evaluation of the
 suﬃciency of the evidence upon which its labor oﬃcials' ﬁndings rest. As
 such, the findings of facts and conclusion of the NLRC are generally accorded
 not only great weight and respect but even clothed with ﬁnality and deemed
-binding on this Court as long as they are supported by substantial evidence.However, if the factual ﬁndings of the Labor Arbiter and the NLRC are
+binding on this Court as long as they are supported by substantial evidence.
+
+
+
+
+However, if the factual ﬁndings of the Labor Arbiter and the NLRC are
 conﬂicting, the reviewing court may delve into the records and examine for
 itself the questioned ﬁndings. 20 In this case, the ﬁndings of the NLRC as to
 Zonio's money claims are in conﬂict with the Labor Arbiter and the CA. While
@@ -235,7 +252,12 @@ shift. Likewise, Zonio is entitled to night-shift diﬀerential for each hour of
 work performed between 10:00 p.m. to 6:00 a.m. Based on the logbook,
 Zonio rendered services on the following dates:
 June 2, 2012 (1900H-0700H) 25
-July 4, 2012 (1900H-0700H) — July 13, 2012 (1900H-0700H) 26July 18, 2012 (0700H-1900H) 27
+July 4, 2012 (1900H-0700H) — July 13, 2012 (1900H-0700H) 26
+
+
+
+
+July 18, 2012 (0700H-1900H) 27
 July 20, 2012 (0700H-1900H) — July 21, 2012 (0700H-1900H) 28
 July 23, 2012 (0700H-1900H) 29
 July 25, 2012 (0700H-1900H) — July 28, 2012 (0700H-1900H) 30
@@ -300,7 +322,13 @@ July 4-13, 2012
 
 4
 
-Inclusive Datesa.m.
+Inclusive Dates
+
+
+
+
+
+a.m.
 July 18, 2012
 
 7:00 a.m.-7:00
@@ -409,7 +437,12 @@ computed shall earn legal interest of six percent (6%) per annum from the
 finality of this Resolution until full payment.
 SO ORDERED.
 
-Perlas-Bernabe, Lazaro-Javier, Rosario and J.Y. Lopez, * JJ., concur.Footnotes
+Perlas-Bernabe, Lazaro-Javier, Rosario and J.Y. Lopez, * JJ., concur.
+
+
+
+
+Footnotes
 * Designated additional Member per Special Order No. 2822 dated April 7, 2021.
 1. Rollo , pp. 11-27.
 2. Id. at 32-43; penned by Associate Justice Elihu A. Ybañez, with the concurrence
@@ -442,7 +475,12 @@ SO ORDERED.
 (1997); Sps. Bergonia v. Court of Appeals , 680 Phil. 334 (2012).
 18. 479 Phil. 768 (2004).
 19. Id. at 782.
-20. Paredes v. Feed the Children Philippines, Inc., 769 Phil. 418 (2015).21. Minsola v. New City Builders, Inc., 824 Phil. 864, 879 (2018).
+20. Paredes v. Feed the Children Philippines, Inc., 769 Phil. 418 (2015).
+
+
+
+
+21. Minsola v. New City Builders, Inc., 824 Phil. 864, 879 (2018).
 22. Id.
 23. Id. at 880, emphasis supplied and citation omitted.
 24. LABOR CODE, Art. 87.
@@ -461,3 +499,8 @@ SO ORDERED.
 36. Id.
 37. Id.; Dansart Security Force & Allied Services Co. v. Bagoy, 636 Phil. 705, 710711 (2010).
 38. LABOR CODE, Art. 86.
+
+
+
+
+

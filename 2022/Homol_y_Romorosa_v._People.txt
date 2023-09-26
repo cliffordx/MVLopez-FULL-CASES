@@ -16,6 +16,7 @@ Petition for Review on Certiorari 1 assailing the Court of Appeals-Cebu City's
 Decision 2 dated June 26, 2008 and Resolution 3 dated December 16, 2009 in
 CA-G.R. CEB CR No. 00080.
 
+
 ANTECEDENTS
 Dr. Jelpha Robillos y Jimenez (Dr. Robillos) hired Arlene Homol y
 Romorosa (Arlene) as a clinic secretary. Also, Dr. Robillos tasked Arlene to
@@ -43,7 +44,16 @@ feloniously take, steal and carry away ONE THOUSAND PESOS
 customer which she ought to remit to the said owner/employer
 being a collector, to the damage and prejudice of said Dra. Jelpha
 Robillos, in the amount to be proved during the trial of the case.
-Acts committed contrary to the provisions of Article[s] 308 and310 of the Revised Penal Code. 5 (Emphases supplied)\n\nArlene pleaded not guilty. At the trial, Arlene did not deny receipt of
+Acts committed contrary to the provisions of Article[s] 308 and
+
+
+
+
+310 of the Revised Penal Code. 5 (Emphases supplied)
+
+
+
+Arlene pleaded not guilty. At the trial, Arlene did not deny receipt of
 P1,000.00 but insisted that she remitted it to Dr. Robillos. 6 On July 26, 2004,
 the RTC convicted Arlene of estafa involving unfaithfulness or abuse of
 conﬁdence under Article 315, paragraph 1 (b) of the Revised Penal Code
@@ -74,6 +84,7 @@ thing. In theft, it is presumed that the personal property is in the possession
 of another, unlike in estafa, where the possession of the thing is already in
 the hands of the offender. 10
 
+
 Arlene sought reconsideration but was denied. 11
 Hence, this recourse. Arlene did not dispute the facts but maintains
 that her right to be informed of the nature and cause of the accusation was
@@ -90,13 +101,19 @@ the Information 13 to avoid surprise on the part of the accused and to aﬀord
 [them] the opportunity to suitably prepare [their] defense. 14 No matter how
 conclusive and convincing the evidence of guilt may be, an accused cannot
 be convicted of any oﬀense unless it is charged in the Information on which
-[they are] tried or is necessarily included therein. 15 More importantly, "[theallegations of facts constituting the oﬀense charged are substantial matters
+[they are] tried or is necessarily included therein. 15 More importantly, "[the
+
+
+
+
+allegations of facts constituting the oﬀense charged are substantial matters
 and an accused's right to question [their] conviction based on facts not
 alleged in the Information cannot be waived." 16 Here, the charge against
 Arlene is designated in the Information as qualiﬁed theft. Yet, the CA and the
 RTC convicted Arlene of estafa involving unfaithfulness or abuse of
 conﬁdence. Thus, the Court deems it necessary to discuss ﬁrst the
 distinctions between these two crimes.
+
 
 Theft is distinguished from estafa by
 the manner in which the offender in
@@ -151,6 +168,7 @@ of, or to return the same;
 that there be misappropriation or conversion of such money or
 property by the offender or denial on his part of such receipt;
 
+
 (c)
 
 that such misappropriation or conversion or denial is to the
@@ -164,7 +182,12 @@ offender. 20 (Citation omitted)
 Theft should not be confused with estafa. In general, the two crimes
 are distinguished by the manner in which the oﬀender in each case acquires
 possession of the property. The thief takes the item without the owner's
-consent. The estafador receives the thing and converts it to their own use orbeneﬁt. "However, there may be theft even if the accused has possession of
+consent. The estafador receives the thing and converts it to their own use or
+
+
+
+
+beneﬁt. "However, there may be theft even if the accused has possession of
 the property." 21 The misappropriation constitutes theft if the accused was
 entrusted only with the material or physical (natural) or de facto possession
 of the thing. Whereas, the conversion constitutes embezzlement or estafa if
@@ -184,6 +207,7 @@ virtue of a ﬁduciary relationship between the parties, 24 or transactions
 where juridical possession of the item is transferred to the accused. 25 Mere
 receipt of the property does not satisfy this element, 26 wherein the accused
 is entrusted only with material possession of the thing. 27
+
 
 In this case, the CA and the RTC both held that the prosecution alleged
 and proved all the elements of estafa under Article 315, paragraph 1 (b) of
@@ -213,9 +237,15 @@ having mere material possession of the said property
 constitutes theft, whereas in the case of an agent to whom
 both material and juridical possession have been transferred,
 misappropriation of the same property constitutes Estafa. 33
-(Emphases supplied and citations omitted)Corollarily, Arlene cannot be convicted of a crime not embraced within
+(Emphases supplied and citations omitted)
+
+
+
+
+Corollarily, Arlene cannot be convicted of a crime not embraced within
 the Information. Nevertheless, the Court finds that the allegations sufficiently
 charged Arlene with qualified theft.
+
 
 The Information alleged all the
 constitutive elements of qualified
@@ -251,6 +281,7 @@ the money in the performance of her duty as a collector without force,
 violence or intimidation. Yet, the prosecution failed to establish the element
 of grave abuse of confidence.
 
+
 The Court has explained that grave abuse of trust is a "circumstance
 which aggravates and qualiﬁes the commission of the crime of theft; hence,
 the imposition of a higher penalty is necessary." 37 In qualiﬁed theft, the
@@ -261,7 +292,12 @@ abuse of conﬁdence by a thieving employee should be contextualized not
 only by the relationship between the employer and employee, but also by
 the purpose for which the employee was given the employer's trust. 39 In
 People v. Sabado , 40 the accused is guilty of qualiﬁed theft when he gravely
-exploited the trust of his employer. The Court considered the accused'sexclusive management of the shop and access to the vault, to wit:
+exploited the trust of his employer. The Court considered the accused's
+
+
+
+
+exclusive management of the shop and access to the vault, to wit:
 Theft here became qualiﬁed because it was committed
 with grave abuse of confidence. Grave abuse of conﬁdence, as an
 element of theft, must be the result of the relation by reason of
@@ -285,6 +321,7 @@ reposed on him by the shop owners, to wit: he
 manages the shop alone; he has the keys to the
 locks of the shop; and he has access to the vault
 and knows the combination of the same. x x x.
+
 
 The management of Diamond Pawnshop clearly had reposed its
 trust and conﬁdence in the accused-appellant, and it was this trust
@@ -315,7 +352,12 @@ she "relied on his discretion" and that the same trust reposed
 on him facilitated Viray's taking of the personal properties
 justifying his conviction of qualified theft.
 To warrant the conviction and, hence, imposition of the
-penalty for qualiﬁed theft, there must be an allegation in the[I]nformation and proof that there existed between the
+penalty for qualiﬁed theft, there must be an allegation in the
+
+
+
+
+[I]nformation and proof that there existed between the
 oﬀended party and the accused such high degree of
 conﬁdence or that the stolen goods have been entrusted to
 the custody or vigilance of the accused. In other words, where
@@ -324,6 +366,7 @@ possession of, the stolen goods, it may not be said that he or she
 exploited such access or material possession thereby committing
 such grave abuse of conﬁdence in taking the property[.] 43
 (Emphases supplied and citations omitted)
+
 
 Similarly, the Court in People v. Maglaya, 44 refused to impose the
 penalty prescribed for qualiﬁed theft when the accused was not given
@@ -359,13 +402,19 @@ conﬁdence must be grave. On this point, the Court is convinced that Arlene
 took advantage of her position in committing the crime but not on the level
 of grave abuse of confidence. Thus, Arlene is guilty only of simple theft.
 
+
 At most, the abuse of conﬁdence shall be considered as a generic
 aggravating circumstance since the gravity of exploitation of trust was not
 proven. 46 Indeed, abuse of conﬁdence is inherent in qualiﬁed theft but not
 in simple theft since the circumstance is not included in the deﬁnition of the
 crime. 47 Under Article 14 of the RPC, abuse of conﬁdence exists only when
 the oﬀended party has trusted the oﬀender who later abuses such trust by
-committing the crime. The abuse of conﬁdence must be a means offacilitating the commission of the crime, the culprit taking advantage of the
+committing the crime. The abuse of conﬁdence must be a means of
+
+
+
+
+facilitating the commission of the crime, the culprit taking advantage of the
 oﬀended party's belief that the former would not abuse said conﬁdence. The
 conﬁdence between the oﬀender and the oﬀended party must be immediate
 and personal. 48 As discussed above, Arlene took advantage of her position
@@ -393,6 +442,7 @@ Jimenez in the amount of P1,000.00 shall earn interest at the rate of 6% per
 annum from the date of the Regional Trial Court's Decision dated July 26,
 2004 until full payment.
 
+
 SO ORDERED.
 
 Leonen, Lazaro-Javier, J.Y. Lopez and Kho, Jr., JJ., concur.
@@ -408,7 +458,12 @@ Delos Santos (retired Associate Justice of the Court).
 5. Records, p. 122.
 6. Id. at 122-123.
 7. Id. at 129.
-8. Id. at 129.9. Rollo, pp. 20-21.
+8. Id. at 129.
+
+
+
+
+9. Rollo, pp. 20-21.
 10. Id. at 11-22.
 11. Id. at 28-29.
 12. Id. at 33-41.
@@ -444,7 +499,12 @@ Division], citing Chua-Burce v. Court of Appeals, 387 Phil. 15 (2000) [Per J.
 Quisumbing, Second Division].
 32. People v. Mirto , 675 Phil. 895, 913 (2011) [Per J. Velasco, Jr., Third Division].
 33. Benabaye v. People , 755 Phil. 144, 154-155 (2015) [Per J. Perlas-Bernabe, First
-Division].34. Avecilla v. People, 285 Phil. 11, 20 (1992) [Per J. Romero, Third Division].
+Division].
+
+
+
+
+34. Avecilla v. People, 285 Phil. 11, 20 (1992) [Per J. Romero, Third Division].
 35. People v. Puig, 585 Phil. 555, 562 (2008) [Per J. Chico-Nazario, Third Division].
 36. People v. Euraba , G.R. No. 220762 [Notice], April 18, 2018.
 37. People v. Mejares , 823 Phil. 459, 470 (2018) [Per J. Leonen, Third Division].
@@ -470,3 +530,8 @@ Amending for the Purpose Act No. 3815, Otherwise Known as "The Revised
 Penal Code," as Amended. Approved: August 29, 2017.
 50. Republic Act No. 10951, Section 81, paragraph 5.
 51. Nacar v. Gallery Frames, 716 Phil. 267 (2013) [Per J. Peralta, En Banc].
+
+
+
+
+

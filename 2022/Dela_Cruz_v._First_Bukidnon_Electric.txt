@@ -17,6 +17,7 @@ petitioner Jose S. Dela Cruz's (Dela Cruz) claim for retirement beneﬁts in
 view of his valid dismissal from employment at respondent First Bukidnon
 Electric Cooperative, Inc. (FIBECO).
 
+
 Facts
 Dela Cruz was ﬁrst hired as line personnel, and was eventually
 promoted as respondent FIBECO's general manager in 2001. 4 On March 26,
@@ -48,7 +49,12 @@ the compulsory retirement age on August 28, 2013 pending ﬁnality of the
 termination dispute. Believing that he is entitled to the retirement package
 pursuant to FIBECO Board Resolution No. 05-2014, in relation to NEA
 Memorandum No. 2005-015 10 or the Revised Retirement Plan for Electric
-Cooperative General Managers, Dela Cruz ﬁled an application for retirementbeneﬁts with FIBECO, but to no avail. Thus, he pursued his claim before the
+Cooperative General Managers, Dela Cruz ﬁled an application for retirement
+
+
+
+
+beneﬁts with FIBECO, but to no avail. Thus, he pursued his claim before the
 Labor Arbiter (LA), insisting that he is eligible to receive retirement beneﬁts
 as he had been employed by FIBECO since 1979; and that from 2001, he
 served as general manager until the date of his retirement. 11
@@ -56,6 +62,7 @@ FIBECO countered that Dela Cruz is not entitled to retirement beneﬁts
 since he was found guilty of the administrative charges against him and
 validly dismissed therefor. Besides, it is the NEA, not the LA, which has
 jurisdiction over Dela Cruz's retirement benefits claim. 12
+
 
 The LA sustained FIBECO's jurisdictional argument, and consequently,
 dismissed Dela Cruz's claim for lack of jurisdiction. 13 However, on appeal,
@@ -96,7 +103,12 @@ Further, respondent [FIBECO], through its authorized oﬃcers or
 representatives is ORDERED to PAY complainant ENGR. JOSE S. DELA
 CRUZ the amount of SIX MILLION FORTY[-]EIGHT THOUSAND SIX
 HUNDRED PESOS ([P]6,048,600.00) representing the latter's
-retirement benefits as ratiocinated above.SO ORDERED. 20
+retirement benefits as ratiocinated above.
+
+
+
+
+SO ORDERED. 20
 
 FIBECO ﬁled an Omnibus Motion for Reconsideration with Motion to
 Inhibit (Omnibus Motion), which remained unresolved. This prompted FIBECO
@@ -115,6 +127,7 @@ dismissal was affirmed valid in G.R. No. 229485, thus:
 FOR THESE REASONS, the assailed Resolution dated June 7,
 2017 is AFFIRMED WITH MODIFICATION that the award of retirement
 benefits in favor of [Dela Cruz] is DELETED.
+
 
 SO ORDERED. 23
 
@@ -148,7 +161,12 @@ NEA has jurisdiction over Dela Cruz's
 retirement benefits claim.
 The CA upheld the labor tribunal's jurisdiction over Dela Cruz's
 retirement beneﬁts claim solely on the ground that the NLRC's ruling on that
-matter had already attained ﬁnality since it was not questioned by any partyin any forum. This, however, is a palpable error that must be rectified.
+matter had already attained ﬁnality since it was not questioned by any party
+
+
+
+
+in any forum. This, however, is a palpable error that must be rectified.
 Nothing is more settled than that jurisdiction over the subject matter of
 a case is conferred by law. It cannot be acquired by waiver or acquiescence
 of any or all of the parties, by estoppel, or by the erroneous belief of the
@@ -156,6 +174,7 @@ court or any adjudicative body that it exists. 28 Thus, the failure of the
 parties to question the NLRC's ruling on the jurisdictional issue in its
 Resolution 29 dated April 29, 2016, did not vest the labor tribunal with
 jurisdiction to take cognizance of the claim.
+
 
 On the contrary, PD No. 269, as amended, clearly provides that the
 NEA has the authority to supervise the management and operations of all
@@ -203,7 +222,12 @@ xxx xxx xxx
 
 c)
 Cases or disputes involving any matter
-relating to the eﬀective implementation of theprovisions of the Act. (Emphases supplied)
+relating to the eﬀective implementation of the
+
+
+
+
+provisions of the Act. (Emphases supplied)
 
 Pursuant to the NEA's power of supervision and control over the
 management and operations of all electric cooperatives and their oﬃcers, 32
@@ -215,6 +239,7 @@ NEA issued Memorandum No. 2005-015 (Revised Retirement Plan for Electric
 Cooperative General Managers), which notably is the basis of Dela Cruz's
 claim. It laid down deﬁnitive guidelines for the retirement beneﬁts claims of
 an electric cooperative's general manager, requiring that:
+
 
 V.
 
@@ -245,6 +270,7 @@ policy as correctly held by the LA. 34 In other words, the CA patently erred
 when it sustained the labor tribunal's jurisdiction to rule upon Dela Cruz's
 retirement benefits claim.
 
+
 Dela Cruz is not entitled to his claimed
 retirement benefits.
 The validity of Dela Cruz's dismissal had long been settled, and
@@ -259,7 +285,12 @@ Resolution No. 79, entails the forfeiture of his retirement beneﬁts. Section 3
 (a), Rule VII of the Rules of Procedure of the [NEA] on all administrative
 cases of Electric Cooperatives' Board of Directors, oﬃcers and employees 37
 explicitly provides for the forfeiture of retirement beneﬁts in case an oﬃcer
-is found guilty of grave offenses and penalized with removal from service:SEC. 3.
+is found guilty of grave offenses and penalized with removal from service:
+
+
+
+
+SEC. 3.
 ADMINISTRATIVE DISABILITIES INHERENT IN
 CERTAIN PENALTIES.
 (a)
@@ -300,7 +331,12 @@ concurrence of Associate Justices Walter S. Ong and Loida S. PosadasKahulugan.
 dated September 14, 2015.
 14. Id., citing NLRC Resolution dated April 29, 2016.
 15. Id. at 60, as cited in the CA assailed Decision dated July 29, 2019.
-16. Entitled "CREATING THE '[NEA]' AS A CORPORATION, PRESCRIBING ITS POWERSAND ACTIVITIES, APPROPRIATING THE NECESSARY FUNDS THEREFOR AND
+16. Entitled "CREATING THE '[NEA]' AS A CORPORATION, PRESCRIBING ITS POWERS
+
+
+
+
+AND ACTIVITIES, APPROPRIATING THE NECESSARY FUNDS THEREFOR AND
 DECLARING A NATIONAL POLICY OBJECTIVE FOR THE TOTAL
 ELECTRIFICATION OF THE PHILIPPINES ON AN AREA COVERAGE SERVICE
 BASIS, THE ORGANIZATION, PROMOTION AND DEVELOPMENT OF ELECTRIC
@@ -337,10 +373,20 @@ May 7, 2013.
 Decision dated September 14, 2016.
 35. Id. at 113.
 36. Id. at 115.
-37. Approved on May 19, 2005.NEA Memorandum No. 2015-030 or The NEA Administrative Rules of
+37. Approved on May 19, 2005.
+
+
+
+
+NEA Memorandum No. 2015-030 or The NEA Administrative Rules of
 Procedures of 2013, Rule VII, Section 3 (a); as amended, similarly provides:
 (a) The penalty of removal shall carry with it that of cancellation of
 eligibility to run for the position of [Electric Cooperative] director, forfeiture
 of retirement benefits, and the perpetual disqualification for
 reemployment in any Electric Cooperative unless otherwise provided in the
 decision[.] (Emphases supplied)
+
+
+
+
+

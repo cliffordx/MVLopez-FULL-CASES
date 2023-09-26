@@ -26,6 +26,7 @@ Velarde (Romulo), married to Jean T. Velarde; Bella B. Velarde; Benedicto B.
 Velarde (Benedicto); Isabelle V. Diaz; and Carmelita B. Velarde (Carmelita)
 (collectively, petitioners) are the legal heirs of Isagani S. Velarde (Isagani). 6
 
+
 In a notarized Deed of Sale with Right of Repurchase dated April 20,
 1978, respondent Concepcion Candari (Conception) sold seven 7 parcels of
 land located in Aklan to Isagani with the right to repurchase within ﬁve
@@ -41,7 +42,12 @@ Certiﬁcate of Title (OCT) No. P-17480; 12 Romulo's is now identiﬁed as Lot
 No. 290 under OCT No. P-17483; 13 and Carmelita's is now identiﬁed as Lot
 No. 4280 under OCT No. P-17481. 14 Corresponding TDs 15 were also issued
 under Isagani's and petitioners' names.
-The other lot subject of this controversy was acquired by Isagani fromConcepcion's sister, Rizalina C. Villamon (Rizalina), through a notarized Deed
+The other lot subject of this controversy was acquired by Isagani from
+
+
+
+
+Concepcion's sister, Rizalina C. Villamon (Rizalina), through a notarized Deed
 of Absolute Sale 16 dated July 1, 1982.
 Petitioners averred that after Isagani's death on February 22, 1987,
 Concepcion began to represent herself as the owner of the parcels of land by
@@ -75,6 +81,7 @@ Pandan, Antique and subject of the present case, and ORDERING
 [Concepcion] to vacate and deliver the material possession thereof to
 [petitioners];
 
+
 (2)
 DISMISSING [petitioners'] claim and [Concepcion's]
 counterclaim for damages; and
@@ -93,7 +100,12 @@ there was no showing that Concepcion's claim over it was "apparently valid."
 24 In the assailed Decision 25 dated October 30, 2008, the CA disposed:
 WHEREFORE, the present appeal is GRANTED. The DECISION
 of the [RTC] in Civil Case No. C-031 is hereby REVERSED AND SET
-ASIDE. The Deed of Sale with Right of Repurchase and Deed ofQuitclaim and Waiver of Rights are both declared NULL AND VOID.
+ASIDE. The Deed of Sale with Right of Repurchase and Deed of
+
+
+
+
+Quitclaim and Waiver of Rights are both declared NULL AND VOID.
 [Petitioners] are HEREBY ORDERED TO RECONVEY to [Concepcion]
 the five parcels of land subject of the Deed of Absolute Sale with Right
 of Repurchase , within ﬁfteen (15) days from the ﬁnality of this
@@ -125,6 +137,7 @@ under their names, and argue that their legal title cannot be collaterally
 attacked in an action for quieting of title by unsupported allegations of
 fraud. 28
 
+
 Concepcion, on the other hand, prays for the dismissal of the Petition
 initially on procedural grounds. She posits that the Petition failed to comply
 with the requirements under Rule 7, Section 5 29 of the Rules since only
@@ -145,7 +158,13 @@ Shopping; and,
 II.
 
 Whether the action for quieting of title should prosper.
-RULINGBefore all else, we acknowledge that the complete resolution of the
+RULING
+
+
+
+
+
+Before all else, we acknowledge that the complete resolution of the
 issues presented before us requires a determination of facts, which the Court
 — not being a trier of facts — does not delve into in appeals on certiorari.
 There are instances, however, when the Court may proceed to review factual
@@ -171,6 +190,7 @@ corresponding TDs in their names. Thus, contrary to Concepcion's argument,
 the petition is not dismissible merely because only three out of the eight
 petitioners signed the Verification/Certification.
 
+
 Petitioners' complaint actually
 constitutes an accion reivindicatoria.
 Petitioners' complaint may have been captioned as quieting of title,
@@ -193,7 +213,12 @@ parties under an instrument. 37 Articles 476 and 477 of the NCC state:
 ART. 476.
 Whenever there is a cloud on title to real property
 or any interest therein, by reason of any instrument, record, claim,
-encumbrance or proceeding which is apparently valid or eﬀective butis in truth and in fact invalid, ineﬀective, voidable, or unenforceable,
+encumbrance or proceeding which is apparently valid or eﬀective but
+
+
+
+
+is in truth and in fact invalid, ineﬀective, voidable, or unenforceable,
 and may be prejudicial to said title, an action may be brought to
 remove such cloud or to quiet the title.
 ART. 477.
@@ -221,6 +246,7 @@ disturbed by Concepcion's physical intrusion. Thus, petitioners' claims and
 arguments clearly speak of an accion reivindicatoria — a suit to recover full
 possession of a parcel of land as an element of ownership. 40
 
+
 We have consistently held that the true nature of the action is not
 determined by the caption of the pleading, but by the allegations it contain.
 The court should grant the relief warranted by the allegations, substantiated
@@ -242,7 +268,12 @@ land, which were the objects of the pacto de retro sale, are now covered by
 the OCTs issued by the Register of Deeds of Antique under petitioners'
 names, to wit: OCT No. P-17480 (Adolfo); OCT No. P-17483 (Romulo); and
 OCT No. P-17481 (Carmelita). Petitioners assert ownership over these
-properties as Isagani's heirs, as assignees in the quitclaim and waiver ofrights, and as registered, owners.
+properties as Isagani's heirs, as assignees in the quitclaim and waiver of
+
+
+
+
+rights, and as registered, owners.
 To support their claim, petitioners presented the duly notarized deeds
 of conveyances. Concepcion, however, denies knowledge of these deeds,
 and imputes fraud against Isagani and petitioners in obtaining title to the
@@ -260,6 +291,7 @@ and in favor of petitioners who are not the vendees a retro; and (3)
 petitioners' OCT's were issued in 1982, i.e., before the expiration of the
 agreed redemption period in 1983 and even before Concepcion's quitclaim
 and waiver of rights in 1986. 46
+
 
 The CA was mistaken.
 Article 1607 of the NCC states:
@@ -290,7 +322,12 @@ determination under Article 1607 instead of requiring the parties to undergo
 the same judicial process which the proceedings below have already
 accomplished. Certainly, the rationale behind Article 1607 has been served
 in these proceedings — Concepcion, the vendor a retro, was given due
-opportunity to be heard; and the records of this case are suﬃcient for thisCourt to write finis the issue on the genuineness of the pacto de retro sale.
+opportunity to be heard; and the records of this case are suﬃcient for this
+
+
+
+
+Court to write finis the issue on the genuineness of the pacto de retro sale.
 Moreover, it is important to consider that this case has been pending for
 more than 28 years since the ﬁling of the complaint before the RTC. Any
 further delay would only cause undue prejudice to the parties. 48
@@ -302,6 +339,7 @@ Notably, Concepcion alleged nothing against the true intention of the parties
 as stipulated in the pacto de retro sale. Instead, she denies the very
 existence of the deeds on the ground of fraud. But her claim of fraud starkly
 lacks specificity and proof. The RTC's observation is illuminating, to wit:
+
 
 [Concepcion's] entire testimony [was] interlaced with the stereotyped
 answers in varying negative forms. [A]side from her testimony that
@@ -339,7 +377,12 @@ construction to sustain Concepcion's claim of fraud. We must emphasize,
 fraud is not presumed; 50 it cannot be demonstrated by mere construction,
 but must be proven by the party alleging it in all cases. 51 In contrast,
 notarial documents are entitled to full faith and credit upon its face. They
-enjoy the presumption of regularity, and are prima facie evidence of thefacts stated therein, which can be overturned only by evidence to the
+enjoy the presumption of regularity, and are prima facie evidence of the
+
+
+
+
+facts stated therein, which can be overturned only by evidence to the
 contrary that is clear and convincing — even preponderant evidence does
 not suﬃce. 52 Thus, absent clear and convincing evidence of fraud, the
 authenticity and due execution of the notarized deeds must be upheld.
@@ -357,6 +400,7 @@ rights, she failed to do so. 55 Without anything more required from both
 parties, thus, irrevocable title to the properties were automatically
 transferred to Isagani in 1983 since the resolutory condition was not fulﬁlled.
 56 For instance, our pronouncement in Spouses Cruz v. Leis, 57 is highlyinstructive:
+
 
 It bears stressing that notwithstanding Article 1607, the
 recording in the Registry of Property of the consolidation of
@@ -387,7 +431,12 @@ the registered properties. 60 What is more, Concepcion also recognized the
 TDs issued in petitioners' names. 61 Hereunder are the excerpts of
 Concepcion's categorical recognition of Isagani's and petitioners' rights in
 the Deed of Quitclaim and Waiver of Rights, made in the presence of two
-instrumental witnesses, 62 viz.:That [parcels of land covered by TD Nos. 2314, 2315, 2316,
+instrumental witnesses, 62 viz.:
+
+
+
+
+That [parcels of land covered by TD Nos. 2314, 2315, 2316,
 2317, 2318, 2319, and 10028] were sold by [Concepcion] to [Isagani]
 by virtue of a Deed of Sale with Right to Repurchase, on April 20,
 1978 x x x, which document was executed before Notary Public
@@ -407,6 +456,7 @@ acknowledge [sic] that
 [Isagani] is now the absolute true owner and possessor of
 said parcels of land as declared under [TD] Nos. 2318 and
 2319;
+
 
 That [Concepcion] further states that the parcels of land
 as covered by [TD] No. 2315 is now own [sic] and possess
@@ -445,7 +495,12 @@ longer owns the property sold at that point. Thus, subsequent conveyance of
 the unredeemed properties through quitclaim and waiver of rights was,
 improper, unnecessary, and a mere surplusage. 64 The irrevocable title of
 petitioners' predecessor-in-interest, Isagani, remained intact with or without
-such quitclaim and waiver.As well, at this point, it is irrelevant to consider that the OCTs were
+such quitclaim and waiver.
+
+
+
+
+As well, at this point, it is irrelevant to consider that the OCTs were
 issued before the expiration of the redemption period since petitioners have
 suﬃciently proved in these proceedings their equitable title over the
 properties. In any case, well-settled is the rule that registration does not
@@ -456,6 +511,7 @@ convenient means to divest ownership rights duly vested through legal
 modes of acquiring ownership 66 such as in this case by operation of law.
 Therefore, Isagani's irrevocable title remained undefeated by such
 premature registration.
+
 
 Finally, anent the property subject of the Deed of Absolute Sale
 between Isagani and Rizalina, we likewise ﬁnd no basis to invalidate the
@@ -480,6 +536,7 @@ Romulo B. Velarde and Jean T. Velarde, Bella B. Velarde, Benedicto B.
 Velarde, Isabelle V. Diaz, and Carmelita B. Velarde are declared as the true
 and rightful owners entitled to the possession of the disputed properties.
 
+
 SO ORDERED.
 
 Leonen, Lazaro-Javier, J.Y. Lopez and Kho, Jr., JJ., concur.
@@ -490,7 +547,12 @@ Footnotes
 732-735.
 3. Rollo , pp. 10-27.
 4. Id. at 28-51. Penned by Associate Justice Franchito N. Diamante, with the
-concurrence of Associate Justices Priscilla Baltazar-Padilla (retired Member ofthe Court) and Edgardo L. Delos Santos (retired Member of the Court).
+concurrence of Associate Justices Priscilla Baltazar-Padilla (retired Member of
+
+
+
+
+the Court) and Edgardo L. Delos Santos (retired Member of the Court).
 5. Id. at 52-53. Penned by Associate Justice Franchito N. Diamante, with the
 concurrence of Associate Justices Florito S. Macalino and Edgardo L. Delos
 Santos (retired Member of the Court).
@@ -525,7 +587,12 @@ concurrence of Associate Justices Florito S. Macalino and Edgardo L. Delos
 Santos (retired Member of the Court).
 28. Id. at 18-20.
 29. SEC. 5. Certification against forum shopping. — The plaintiff or principal party
-shall certify under oath in the complaint or other initiatory pleading assertinga claim for relief, or in a sworn certification annexed thereto and
+shall certify under oath in the complaint or other initiatory pleading asserting
+
+
+
+
+a claim for relief, or in a sworn certification annexed thereto and
 simultaneously filed therewith: (a) that he or she has not theretofore
 commenced any action or filed any claim involving the same issues in any
 court, tribunal or quasi-judicial agency and, to the best of his or her
@@ -566,7 +633,12 @@ Division].
 citing Leonardo v. Court of Appeals, 481 Phil. 520, 539 (2004) [Per J. Corona,
 Third Division].
 42. Heirs of Alfonso Yusingco v. Busilak, 824 Phil. 454, 461 (2018) [Per J. Peralta,
-Second Division].43. Rollo , p. 42.
+Second Division].
+
+
+
+
+43. Rollo , p. 42.
 44. Id. at 44.
 45. ART. 1607. In case of real property, the consolidation of ownership in the
 vendee by virtue of the failure of the vendor to comply with the provisions of
@@ -604,7 +676,12 @@ Alegre, Jr., supra note 40.
 60. Rollo , p. 94.
 61. Id.
 62. Id.
-63. Id.64. See Spouses Gregorio De Guzman, Jr. and Corazon Quinto v. Court of Appeals,
+63. Id.
+
+
+
+
+64. See Spouses Gregorio De Guzman, Jr. and Corazon Quinto v. Court of Appeals,
 supra note 53.
 65. Gatmaytan v. Misibis Land, Inc. , G.R. No. 222166, June 10, 2020 [Per J.
 Caguioa, First Division].
@@ -617,3 +694,8 @@ also be acquired by means of prescription.
 68. Rollo , p. 99.
 69. See Heirs of Herminio Marquez v. Heirs of Epifania M. Hernandez, supra note
 59; and Amoroso v. Alegre, Jr., supra note 40.
+
+
+
+
+

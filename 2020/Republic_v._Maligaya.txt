@@ -13,6 +13,7 @@ dated December 14, 2016 of the Regional Trial Court (RTC) in Special
 Proceedings No. NC-2016-2599 which granted the correction of entries in the
 birth certificate referring to the first name and date of birth.
 
+
 ANTECEDENTS
 In 2016, Merly Maligaya (Merly) ﬁled a petition for correction of entries
 in her birth certiﬁcate under Rule 108 of the Rules of Court before the RTC
@@ -41,7 +42,12 @@ The Oﬃce of the Solicitor General (OSG) moved for a reconsideration. 5
 Yet, the RTC denied the motion. 6 Hence, this petition. 7 The OSG argues that
 the RTC has no jurisdiction to rectify the error in Merly's ﬁrst name because
 the mistake is clerical that must be corrected through administrative
-proceedings under Republic Act (RA) No. 9048, as amended by RA No.10172. As to the date of birth, Merly properly ﬁled a petition under Rule 108
+proceedings under Republic Act (RA) No. 9048, as amended by RA No.
+
+
+
+
+10172. As to the date of birth, Merly properly ﬁled a petition under Rule 108
 of the Rules of Court but she failed to comply with the requirements of
 Section 3, Rule 108 to implead all persons who have a claim or any interest
 in the proceedings. On the other hand, Merly maintains that the correction of
@@ -86,7 +92,12 @@ that which establishes, or aﬀects the substantive right of the person on
 whose behalf the change or correction is being sought. Thus, changes which
 may aﬀect the civil status from legitimate to illegitimate, as well as sex, civil
 status, or citizenship of a person are substantial in character. On the other
-hand, RA No. 9048, as amended by RA No. 10172, deﬁnes a clerical ortypographical error as a mistake committed in the performance of clerical
+hand, RA No. 9048, as amended by RA No. 10172, deﬁnes a clerical or
+
+
+
+
+typographical error as a mistake committed in the performance of clerical
 work in writing, copying, transcribing or typing an entry in the civil register
 that is harmless and innocuous, such as misspelled name or misspelled
 place of birth, mistake in the entry of day and month in the date of birth or
@@ -95,6 +106,7 @@ the understanding, and can be corrected or changed only by reference to
 other existing record or records. However, the correction must not involve
 the change of nationality, age, or status of the petitioner. 15 Otherwise, the
 petition must be denied. 16
+
 
 Here, the correction of Merly's ﬁrst name from "MERLE" to "MERLY"
 refers to a clerical or typographical error. It merely rectiﬁed the erroneous
@@ -136,7 +148,12 @@ correction of age as substantial that necessitates a judicial order. Indeed,
 the age of a person is a matter of public concern and an essential
 component of one's status in law. A change in a person's date of birth, in
 which an alteration in his age is a necessary consequence, signiﬁcantly
-aﬀects his status with regard to matters, such as marriage and familyrelations, obligations and contracts, and the exercise of legal rights. 19
+aﬀects his status with regard to matters, such as marriage and family
+
+
+
+
+relations, obligations and contracts, and the exercise of legal rights. 19
 Corollarily, the substantial error in Merly's date of birth may be corrected
 only through the appropriate adversary proceedings. 20 Thus, Merly correctly
 ﬁled a petition for cancellation and/or correction of the entries before the
@@ -188,12 +205,18 @@ the petition are not suﬃcient notice to all interested parties. In Tan v. Oﬃ
 of the Local Civil Registrar of the City of Manila , 24 we ruled that impleading
 and notifying only the local civil registrar and the publication of the petition
 are not suﬃcient compliance with the procedural requirements. However,
-the subsequent publication of a notice of hearing may cure the failure toimplead and notify the aﬀected or interested parties, such as when: (a)
+the subsequent publication of a notice of hearing may cure the failure to
+
+
+
+
+implead and notify the aﬀected or interested parties, such as when: (a)
 earnest eﬀorts were made by petitioners in bringing to court all possible
 interested parties; (b) the parties themselves initiated the corrections
 proceedings; (c) there is no actual or presumptive awareness of the
 existence of the interested parties; or (d) when a party is inadvertently left
 out. 25
+
 
 None of these exceptions are present in this case. There was no
 earnest eﬀort on the part of Merly to bring to court her parents and siblings,
@@ -235,7 +258,12 @@ registrar. This will avoid multiplicity of suits and further litigation between
 the parties, which is offensive to the orderly administration of justice.
 FOR THESE REASONS, the petition is PARTLY GRANTED . The
 Regional Trial Court's Decision dated December 14, 2016 in Special
-Proceedings No. NC-2016-2599 is AFFIRMED with respect to the correctionof ﬁrst name from "MERLE" to "MERLY." On the other hand, the correction of
+Proceedings No. NC-2016-2599 is AFFIRMED with respect to the correction
+
+
+
+
+of ﬁrst name from "MERLE" to "MERLY." On the other hand, the correction of
 date of birth from "February 15, 1959" to "November 26, 1958" is SET
 ASIDE.
 SO ORDERED.
@@ -272,7 +300,12 @@ REGISTER WITHOUT NEED OF A JUDICIAL ORDER, AMENDING FOR THIS
 PURPOSE ARTICILES 376 AND 412 OF THE CIVIL CODE OF THE PHILIPPINES;
 approved on March 22, 2001.
 13. Section 1 of RA No. 9048, as amended, reads:
-SEC. 1. Authority to Correct Clerical or Typographical Error and Change ofFirst Name or Nickname. — No entry in a civil register shall be changed
+SEC. 1. Authority to Correct Clerical or Typographical Error and Change of
+
+
+
+
+First Name or Nickname. — No entry in a civil register shall be changed
 or corrected without a judicial order, except for clerical or
 typographical errors and change of first name or nickname, the day
 and month in the date of birth or sex of a person where it is patently
@@ -315,7 +348,12 @@ were not impleaded. In overruling the trial court, we held that the Office of
 the Solicitor General and all other indispensable parties should have been
 made respondents.
 23. Id. at 308.
-24. G.R. No. 211435, April 10, 2019.25. Id.
+24. G.R. No. 211435, April 10, 2019.
+
+
+
+
+25. Id.
 26. See Republic v. Coseteng-Magpayo, 656 Phil. 550 (2011).
 27. Almojuela v. Republic (Resolution), supra at 789-790.
 28. Republic v. Gallo, supra note 9, at 1111, citing Republic v. Sali, 808 Phil. 343
@@ -341,3 +379,8 @@ middle name of her mother as "Angangan"; middle name of her father as
 despite the filing of a petition under Rule 108, considering the failure of the
 Office of the Solicitor General to raise the doctrine of primary jurisdiction at
 the first instance.
+
+
+
+
+

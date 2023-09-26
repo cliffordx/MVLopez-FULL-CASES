@@ -41,7 +41,12 @@ when he notarized the Deed of Sale. The RTC ruled, thus:
 WHEREFORE, the Court hereby ﬁnds for the plaintiﬀs, Spouses
 Felix and Rosita Chingkoe, and declares the existence and due
 execution of the Deed of Absolute Sale, over real property as
-described in and covered by TCT No. 8283 registered under the nameof the defendants, Spouses Faustino and Gloria Chingkoe, as
+described in and covered by TCT No. 8283 registered under the name
+
+
+
+
+of the defendants, Spouses Faustino and Gloria Chingkoe, as
 acknowledged on October 10, 1994 before notary public Reynaldo Z.
 Calabio.
 As and by way of attorney's fees, the Spouses Faustino and
@@ -54,6 +59,7 @@ include an order to surrender the TCT. The RTC granted the motion and
 modiﬁed the dispositive portion directing the spouses Faustino and Gloria
 Chingkoe to surrender the owner's duplicate copy of TCT No. 8283 to Felix
 and Rosita. 7
+
 
 Meanwhile, Faustino ﬁled an appeal before the CA seeking the reversal
 of the RTC's Decision. In its assailed Decision dated April 30, 2018, the CA
@@ -92,7 +98,12 @@ review is generally conﬁned only to errors of law. However, this rule admits
 of exceptions, 13 one of which is when the CA's ﬁndings are contrary to those
 of the trial court's, such as in this case.
 We find that the records do not support the CA's findings.
-Settled is the rule that notarized documents enjoy the presumption ofregularity which can be overturned only by clear and convincing evidence. 14
+Settled is the rule that notarized documents enjoy the presumption of
+
+
+
+
+regularity which can be overturned only by clear and convincing evidence. 14
 Being duly notarized, the Deed of Sale carries with it the presumption of
 regularity, authenticity, and due execution. "It has been the consistent rule
 that without clear, convincing, and more than preponderant evidence to
@@ -142,6 +153,7 @@ Anyway, the witness has been asked several times and she kept
 on telling us that it was she who insisted, that was her last word
 with the son Faustino to make that document. 16
 
+
 A further review of her testimony reveals that she could not even read
 the document and did not know about the contract price. What she
 understood is that the document given to Felix was only temporary but will
@@ -150,7 +162,13 @@ Atty. Flores
 Q
 
 Did you tell Faustino what kind of document was going to be
-prepared?A
+prepared?
+
+
+
+
+
+A
 
 I just told him to make a certain document, I do not know what
 it was all about, only something that Felix can hold on to, sir.
@@ -237,7 +255,12 @@ unique opportunity to observe the witnesses ﬁrsthand and to note their
 demeanor, conduct, and attitude under grueling examination. 18 Too, it is a
 basic rule in evidence that a witness can testily only on the facts that she/he
 knows of her/his own personal knowledge, i.e., those which are derived from
-her/his own perception. A witness may not testify on what she/he merelylearned, read, or heard from others because such testimony is considered
+her/his own perception. A witness may not testify on what she/he merely
+
+
+
+
+learned, read, or heard from others because such testimony is considered
 hearsay and may not be received as proof of the truth of what she/he has
 learned, read, or heard. 19
 In contrast, there is ample evidence to prove the validity of the Deed of
@@ -318,8 +341,14 @@ and is not intended for any purpose contrary to law, morals, good
 customs, public order or public policy binds the parties to their real
 agreement.
 
+
 The main characteristic of an absolute simulation is that the apparent
-contract is not really desired or intended to produce a legal eﬀect or alterthe parties' juridical situation. 24 However, a reading of Faustino's testimony
+contract is not really desired or intended to produce a legal eﬀect or alter
+
+
+
+
+the parties' juridical situation. 24 However, a reading of Faustino's testimony
 clearly shows that he fully intended to be bound by the Deed of Sale, to wit:
 Q
 
@@ -394,7 +423,12 @@ Civil Code. 27
 In any case, the subject Deed of Sale 28 states:
 NOW, THEREFORE, for and in consideration of the sum of THREE
 MILLION ONE HUNDRED THIRTY THOUSAND ONLY (P3,130,000.00)
-Philippine currency, paid in full by the VENDEE, receipt is herebyacknowledged by the VENDORS, to the full satisfaction, the
+Philippine currency, paid in full by the VENDEE, receipt is hereby
+
+
+
+
+acknowledged by the VENDORS, to the full satisfaction, the
 VENDORS hereby these presents, SELL, CEDE, CONVEY, and
 otherwise dispose of the above described parcels of land, unto the
 said VENDEE, the heirs, administrators, executors, successors and
@@ -428,6 +462,7 @@ courts will extricate them from an unwise or undesirable contract
 which they entered into with all the required formalities and with full
 knowledge of its consequences. 31
 
+
 However, with respect to Felix's claim for actual damages based on
 unrealized proﬁts, the same has no merit. His claim for actual damages is
 based only on his testimony that he failed to undertake a business venture
@@ -442,7 +477,12 @@ damage but must depend upon competent proof that they have indeed been
 suﬀered by the injured party and based on the best evidence obtainable as
 to the actual amount thereof. It must point out speciﬁc facts that could
 gauge whatever compensatory or actual damages were borne. 33 Hence,
-Felix's testimony of unrealized proﬁts alone, without receipts, documents, orother similar evidence, cannot be a basis for the award of actual damages.
+Felix's testimony of unrealized proﬁts alone, without receipts, documents, or
+
+
+
+
+other similar evidence, cannot be a basis for the award of actual damages.
 FOR THESE REASONS, the petition is GRANTED. The Court of
 Appeals' Decision dated April 30, 2018, in CA-G.R. CV No. 106434 is
 REVERSED. The Decision of the Regional Trial Court Branch 101, Quezon
@@ -482,7 +522,12 @@ facts set forth in the petition, as well as in the petitioner's main and reply
 briefs, are not disputed by the respondent; (j) When the findings of fact are
 premised on the supposed absence of evidence and contradicted by the
 evidence on record; or (k) When the CA manifestly overlooked certain
-relevant facts not disputed by the parties, which, if properly considered,would justify a different conclusion. (Navaja v. Hon. de Castro, 761 Phil. 143,
+relevant facts not disputed by the parties, which, if properly considered,
+
+
+
+
+would justify a different conclusion. (Navaja v. Hon. de Castro, 761 Phil. 143,
 155 [2015]). (Citation omitted)
 14. Heirs of Spouses Arcilla v. Teodoro, 583 Phil. 540, 560 (2008).
 15. Heirs of Spouses Liwagon v. Heirs of Spouses Liwagon, 748 Phil. 675, 684
@@ -515,3 +560,8 @@ xxx xxx xxx
 33. Heirs of Domidador S. Asis, Jr. v. G.G. Sportwear Manufacturing Corporation,
 G.R. No. 225052, March 27, 2019,
 <https://elibrary.judiciary.gov.ph/thebookshelf/docmonth/Mar/2019/1>.
+
+
+
+
+

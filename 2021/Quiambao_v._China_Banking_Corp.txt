@@ -22,6 +22,7 @@ Petition for Review on Certiorari 2 under Rule 45 of the Rules of Court
 assailing the Court of Appeals' (CA) Decision 3 dated September 11, 2017
 and Resolution 4 dated March 21, 2018 in CA-G.R. CV No. 97888.
 
+
 ANTECEDENTS
 On April 3, 1990, Elena R. Quiambao (Elena) borrowed P1,400,000.00 5
 from China Banking Corporation to increase the working capital of her
@@ -70,7 +71,13 @@ March 19, 2004
 
 Renewal of the initial PN
 No. S-136992-6 dated
-July 24, 2001, forP1,000,000.00
+July 24, 2001, for
+
+
+
+
+
+P1,000,000.00
 3.
 
 PN No.
@@ -167,7 +174,12 @@ succeeding loans for P5,000,000.00. 20 In contrast, China Banking
 Corporation maintained that Elena's loan on April 3, 1990, was extended and
 renewed up to March 2004. Yet, Elena merely paid the interests but not the
 principal. 21
-At the trial, Elena testiﬁed that she was made to sign blank documentsand blank PNs when she transacted with China Banking Corporation. The last
+At the trial, Elena testiﬁed that she was made to sign blank documents
+
+
+
+
+and blank PNs when she transacted with China Banking Corporation. The last
 mortgage document that she signed was on April 29, 1997. On the other
 hand, China Banking Corporation's loan assistant testiﬁed that PN No.
 001071438693 executed on March 19, 2004 was not subject of the REM. 22
@@ -210,12 +222,18 @@ property, otherwise it will be forced to dispose them. Aggrieved, Elena
 moved to hold in abeyance the hauling oﬀ, and disposal of her personal
 properties.
 
+
 RULING
 The petition is meritorious.
 Elena raises a question regarding the appreciation of evidence which is
 one of fact, and is beyond the ambit of this Court's jurisdiction in a petition
 for review on certiorari. It is not this Court's task to go over the proofs
-presented below to ascertain if they were weighed correctly. 28 However,this rule of limited jurisdiction admits of exceptions and one of them is when
+presented below to ascertain if they were weighed correctly. 28 However,
+
+
+
+
+this rule of limited jurisdiction admits of exceptions and one of them is when
 the factual ﬁndings of the CA and the RTC are contradictory. 29 In this case,
 the RTC concluded that the eight promissory notes from March 19, 2004 to
 June 16, 2004 cannot be the bases for foreclosure proceedings while the CA
@@ -261,7 +279,12 @@ secured were only Sengkon's availments under the Credit Line and
 not all of Sengkon's availments under other sub-facilities which are
 also secured by other collaterals. Since the liability of PDCP's
 properties was not unqualiﬁed, the PNs, used as basis of the Petition
-for Extrajudicial Foreclosure of Mortgage should suﬃcientlyindicate that it is within the terms of PDCP's limited liability.
+for Extrajudicial Foreclosure of Mortgage should suﬃciently
+
+
+
+
+indicate that it is within the terms of PDCP's limited liability.
 In this case, the PNs failed to make any reference to PDCP's
 availments, if any, under its Credit Line. In fact, it did not even
 mention Sengkon's securities under the Credit Line. Notably, the
@@ -298,6 +321,7 @@ eﬀort to explain to them and ensure that they indeed understand the
 stipulations in the contract. Hence, there is reason for the court to step in
 and protect the interest of the weaker party, thus:
 
+
 The peculiar nature of such contracts behooves the Court to
 closely scrutinize the factual milieu to which the provisions
 are intended to apply. Thus, just as consistently and
@@ -311,7 +335,12 @@ light of the operative facts and surrounding circumstances. 40
 We reiterate that the validity or enforceability of the impugned
 contracts will have to be determined by the peculiar circumstances obtaining
 in each case and the situation of the parties concerned. 41 The stringent
-treatment towards a contract of adhesion is pursuant to the mandate that inall contractual, property, or other relations, when one of the parties is at a
+treatment towards a contract of adhesion is pursuant to the mandate that in
+
+
+
+
+all contractual, property, or other relations, when one of the parties is at a
 disadvantage on account of his moral dependence, ignorance, indigence,
 mental weakness, tender age or other handicap, the courts must be vigilant
 for his protection. 42
@@ -350,7 +379,12 @@ supplied.)
 WHEREAS, to secure the payment of certain obligations already
 incurred or which may hereafter be incurred by the MORTGAGOR(S)
 and/or to the MORTGAGEE, up to the principal sum of ONE MILLION SEVEN
-HUNDRED [THOUSAND] PESOS ONLY x x x (P1,770,00.00), n theMORTGAGOR(S) x x x mortgaged to the MORTGAGEE for the same amount
+HUNDRED [THOUSAND] PESOS ONLY x x x (P1,770,00.00), n the
+
+
+
+
+MORTGAGOR(S) x x x mortgaged to the MORTGAGEE for the same amount
 the parcel(s) of land situated in Quezon City, x x x. Id. at 291. (Emphasis
 supplied.)
 11. Id. at 294-296. The blanket mortgage clause provided:
@@ -387,7 +421,12 @@ sale is dismissed.
 SO ORDERED. Supra at 67.
 26. Supra note 2, at 61.
 27. Supra note 2, at 19.
-28. Gatan v. Vinarao, 820 Phil. 257, 266 (2017); Heirs of Teresita Villanueva v.Heirs of Petronila Syquia Mendoza, 810 Phil. 172, 178 (2017); and Bacsasar
+28. Gatan v. Vinarao, 820 Phil. 257, 266 (2017); Heirs of Teresita Villanueva v.
+
+
+
+
+Heirs of Petronila Syquia Mendoza, 810 Phil. 172, 178 (2017); and Bacsasar
 v. Civil Service Commission, 596 Phil. 858, 867 (2009).
 29. Office of the Ombudsman v. De Villa, 760 Phil. 937, 949-950 (2015); Miro v.
 Vda. de Erederos, 721 Phil. 772, 787 (2013); Office of the Ombudsman v.
@@ -413,3 +452,8 @@ No. L-4611, December 17, 1955].
 
 n Note from the Publisher: Copied verbatim from the official
 document. Discrepancy between amount in words and in figures.
+
+
+
+
+

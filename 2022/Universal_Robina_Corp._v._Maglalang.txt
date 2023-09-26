@@ -15,6 +15,7 @@ which reversed the National Labor Relations Commission's (NLRC) December
 29, 2017 Decision 4 and January 31, 2018 Resolution 5 in NLRC LAC No. 12003716-17/NLCR NCR Case No. 05-07755-17, ﬁnding respondent Roberto De
 Guzman Maglalang's (Roberto) dismissal valid.
 
+
 Facts of the Case
 In his complaint, Roberto alleged that he started working as URC's
 machine operator on November 17, 1997. On March 26, 2015, he went to
@@ -40,9 +41,15 @@ an administrative hearing held on April 27, 2015, Roberto admitted that he
 took the bottle but denied stealing it. URC was not convinced. Thus, on May
 14, 2015, URC issued a Notice of Termination. 10
 
+
 URC added that during the pendency of the criminal case, they
 received various apology letters with pleas for the withdrawal of the criminal
-case and reinstatement from Roberto. On July 15, 2016, the parties enteredinto a compromise agreement wherein they agreed to waive any and all
+case and reinstatement from Roberto. On July 15, 2016, the parties entered
+
+
+
+
+into a compromise agreement wherein they agreed to waive any and all
 claims or cause of actions that they may have against one another, given
 URC's withdrawal of the criminal case. However, URC denied Roberto's
 request for reinstatement and payment of money claims. On August 23,
@@ -89,9 +96,15 @@ illegally dismissed from his employment by [URC]. Furthermore, the
 withheld on 26 March 2015 up to the date of ﬁnality of this
 Decision;
 
-2.\n\n[Roberto's] separation pay from the date he was employed
+
+2.
+
+
+
+[Roberto's] separation pay from the date he was employed
 on 17 November 1997 up to the date of ﬁnality of this
 Decision.
+
 
 [URC] is also ordered to pay [Roberto] attorney's fees
 equivalent to 10% of the total monetary award. Furthermore, the
@@ -139,11 +152,17 @@ of the misconduct committed.
 Unquestionably, employers have the right to discipline and terminate
 their employees. 26
 
+
 Article 297 [282] of the Labor Code provides the just causes for
 dismissal of employees, thus:
 ART. 297. [282]
 Termination by Employer . — An employer
-may terminate an employment for any of the following causes:(a)
+may terminate an employment for any of the following causes:
+
+
+
+
+(a)
 Serious misconduct or willful disobedience by the
 employee of the lawful orders of his employer or
 representative in connection with his work;
@@ -194,6 +213,7 @@ that an employee violated company rules and regulations is subject to
 scrutiny by the Court to determine if the dismissal is justiﬁed and, if so,
 whether the penalty imposed is commensurate to the gravity of his oﬀense."
 
+
 In PAL, Inc. v. PALEA (PAL) , 31 the Court found that outright termination
 of an employee caught with a piece of lead is unjustiﬁed. Retaining the
 erring employee would not necessarily result in oppression or selfdestruction on the employer's part. 32 Later, in Firestone Tire and Rubber Co.
@@ -202,7 +222,12 @@ right to self-preservation when it sustained the validity of the dismissal of an
 employee because retaining him could, in the long run, endanger the
 viability of the company. The employee was entrusted with twenty wool
 ﬂannel swabs for cleaning disks, but he only used four and kept the rest in
-his bag. The employee's act of dishonesty in handling company property andbreach of trust are valid grounds for dismissal. 34 However, the Court
+his bag. The employee's act of dishonesty in handling company property and
+
+
+
+
+breach of trust are valid grounds for dismissal. 34 However, the Court
 explained in Gelmart Industries Phils., Inc. v. NLRC (Gelmart) 35 that its ruling
 i n Firestone is not "a limitation on the [State's right] to regulate or temper
 the [management's prerogative] to dismiss an erring employee. [Even if the
@@ -247,10 +272,16 @@ dismissal: (a) period of employment and existence of a derogatory record;
 eﬀect on the viability of employer's operation or company's interest; and (e)
 employee's position.
 
+
 Here, Roberto had been in URC's employ for 18 years, and this is the
 ﬁrst time that he had been involved in taking company property. The bottle
 of ethyl alcohol valued at P60.00 is very minimal. URC did not lose anything
-as the bottle was timely retrieved. Further, it was not shown that Roberto'sretention would work undue prejudice to the viability of URC's operations, or
+as the bottle was timely retrieved. Further, it was not shown that Roberto's
+
+
+
+
+retention would work undue prejudice to the viability of URC's operations, or
 is patently inimical to its interest. Neither does Roberto occupy a position of
 trust and conﬁdence, the loss of which would justify his dismissal. Hence, the
 Court ﬁnds that the penalty of dismissal is not proportional with Roberto's
@@ -285,6 +316,7 @@ compromise agreement pertains to those that may arise from the crime of
 theft. Whether Roberto's misconduct is serious to justify his termination
 under the Labor Code is a different matter.
 
+
 In ﬁne, Roberto's misconduct is not serious to constitute a just cause
 for dismissal under Article 297 [282] of the Labor Code. Neither does Roberto
 hold a position of trust and conﬁdence, which could justify his dismissal
@@ -298,7 +330,12 @@ is also allowed when there are strained relations between the employer and
 employee, which must be demonstrated and adequately supported by
 substantial evidence. It cannot be based on impression alone. 52
 In this case, the CA awarded separation pay in lieu of reinstatement,
-but there is no compelling evidence that reinstatement is impracticable. Wereiterate that the ﬁling of criminal and illegal dismissal cases between the
+but there is no compelling evidence that reinstatement is impracticable. We
+
+
+
+
+reiterate that the ﬁling of criminal and illegal dismissal cases between the
 parties does not automatically result in strained relations, rendering the
 reinstatement impossible. At any rate, the Court sustains the award of
 separation pay since reinstatement is no longer feasible. In his comment,
@@ -332,6 +369,7 @@ November 17, 1997, up to the date of his illegal dismissal, subject to legal
 interest at the rate of six (6%) per annum from the date of ﬁnality of this
 Decision until full payment.
 
+
 SO ORDERED.
 
 Leonen, Lazaro-Javier, J.Y. Lopez and Kho, Jr., JJ., concur.
@@ -342,7 +380,12 @@ concurrence of Associate Justices Manuel M. Barrios and Tita Marilyn B.
 Payoyo-Villordon.
 3. Id. at 63-64.
 4. Id. at 271-279.
-5. Id. at 293-295.6. Id. at 53-54.
+5. Id. at 293-295.
+
+
+
+
+6. Id. at 53-54.
 7. Theft under Section 1.01 of the Company's Offenses Subject to Disciplinary
 Action (OSDA) or Code of Discipline, id. at 54.
 8. Id. at 53-54.
@@ -376,7 +419,12 @@ No. 227070, March 9, 2020,
 30. Holcim Phils., Inc. v. Obra, 792 Phil. 594, 604 (2016).
 31. 156 Phil. 489 (1974).
 32. Id. at 493-494.
-33. 232 Phil. 201 (1987).34. Id. at 206-207.
+33. 232 Phil. 201 (1987).
+
+
+
+
+34. Id. at 206-207.
 35. 257 Phil. 301 (1989).
 36. Id. at 310.
 37. Cited in Philippine Airlines, Inc. v. Air Lines Employees Association , 57 SCRA
@@ -402,3 +450,8 @@ September 16, 2020.
 54. Philippine Airlines, Inc. v. NLRC, 648 Phil. 238, 366 (2010); Pepsi Cola Products
 Philippines, Inc. v. Santos, 574 Phil. 400, 408 (2008); and Pascua v. NLRC
 (Third Div.), 351 Phil. 48, 74-75 (1998).
+
+
+
+
+
