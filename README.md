@@ -1,7 +1,7 @@
 # MVLopez-FULL-CASES
 Associate Justice Mario V. Lopez PONENCIA
 
-# COMPILATION OF CASES from 2020 up to recent 2023.
+## COMPILATION OF CASES from 2020 up to recent 2023.
 
 These plain text files arranged by year was extracted from SC jurisprudence and were provided here for reading and digesting purposes.
 
