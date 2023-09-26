@@ -155,10 +155,6 @@ P182,287.50
 
 -
 
-
-
-
-
 12-008 (10)
 
 P202,602.78
@@ -553,10 +549,6 @@ II.
 Liability to Refund.
 We note that in Decision No. 2018-329, the COA Proper absolved the
 
-
-
-
-
 passive recipients from liability on the ground of good faith. Since TransCo
 no longer raised the matter as an issue in this petition, the COA Proper's
 decision is deemed ﬁnal and immutable insofar as this disposition is
@@ -845,8 +837,4 @@ xxx xxx xxx
 (g) To exercise such other powers and duties as may be vested in him by the
 Board from time to time.
 67. National Transmission Corporation v. Commission on Audit , supra note 41.
-
-
-
-
 

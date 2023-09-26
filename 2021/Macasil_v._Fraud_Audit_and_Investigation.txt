@@ -238,10 +238,6 @@ P490,363.00
 
 -do-
 
-
-
-
-
 Markers)
 10.
 Repair/Improvement of
@@ -422,10 +418,6 @@ Traffic Eng'g Signage
 P3,650,922.31
 
 -do-
-
-
-
-
 
 Pavement Markers:
 Description: Guardrails,
@@ -629,10 +621,6 @@ P3,507,826.60
 
 Improvement/Widening
 
-
-
-
-
 of Tigbao Sta. Fe-San
 Miguel Rd.
 32.
@@ -817,10 +805,6 @@ along Daan Maharlika (Km
 
 2.
 
-
-
-
-
 895+361.97-Km
 910+870.20) w/exception.
 Traffic Eng'g' Signage
@@ -923,11 +907,6 @@ Public/Official Documents x x x:
 for Falsiﬁcation
 
 of
-
-
-
-
-
 
 
 NAME OF PROJECT
@@ -1050,10 +1029,6 @@ Tacloban-Baybay Rd., (Km
 
 -do-
 
-
-
-
-
 exceptions. Caibaan Rd.,
 Traffic Eng'g Signage
 Pavement Markers
@@ -1162,10 +1137,6 @@ Tigbao Sta. Fe San Miguel Rd.,
 (Km 904+000-Km 908+000)
 
 -do-
-
-
-
-
 
 [26.]
 
@@ -1450,8 +1421,4 @@ xxx xxx xxx
 32. Mendoza-Arce v. Office of the Ombudsman (Visayas), 430 Phil. 101, 116 (2002).
 33. Ledesma v. CA, 344 Phil. 207, 226 (1997).
 34. De Jesus v. Sandiganbayan, supra note 1.
-
-
-
-
 

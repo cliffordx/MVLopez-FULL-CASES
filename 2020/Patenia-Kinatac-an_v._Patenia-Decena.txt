@@ -207,10 +207,6 @@ witness to a signature by thumb or other mark, or to a
 signing by the notary public on behalf of a person
 physically unable to sign.
 
-
-
-
-
 As explained in Miranda, Jr. v. Alvarez, Sr. 25 and Gaddi v. Atty.
 Velasco, 26 the 2004 Rules on Notarial Practice provides that a notary public
 should not notarize a document unless the signatory to the document is in
@@ -332,8 +328,4 @@ xxx xxx xxx
 affinity or consanguinity of the principal within the fourth civil degree.
 32. 424 Phil. 556 (2002).
 33. Id. at 570.
-
-
-
-
 
