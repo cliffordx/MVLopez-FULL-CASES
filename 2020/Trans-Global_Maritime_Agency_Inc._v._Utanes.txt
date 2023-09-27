@@ -77,7 +77,8 @@ RULING
 The petition is meritorious.
 The general rule is that only questions of law may be raised in and
 resolved by this Court on petitions brought under Rule 45 of the Rules of
-Civil Procedure, because the Court, not being a trier of facts, is not dutybound to reexamine and calibrate the evidence on record. 11 Findings of fact
+Civil Procedure, because the Court, not being a trier of facts, is not dutybound
+to reexamine and calibrate the evidence on record. 11 Findings of fact
 of quasi-judicial bodies, especially when aﬃrmed by the CA, are generally
 accorded ﬁnality and respect. 12 There are, however, recognized exceptions
 13 to this general rule, such as the instant case, where there is manifest
@@ -99,7 +100,8 @@ misrepresentation and shall be disqualiﬁed from any compensation and
 benefits. x x x"
 The rule seeks to penalize seafarers who conceal information to pass
 the pre-employment medical examination. It even makes such concealment
-a just cause for termination. Under the 2010 POEA-SEC, there is a "preexisting illness or condition" if prior to the processing of the POEA contract,
+a just cause for termination. Under the 2010 POEA-SEC, there is a "preexisting illness
+or condition" if prior to the processing of the POEA contract,
 any of the following is present: (a) the advice of a medical doctor on
 treatment was given for such continuing illness or condition; or (b) the
 seafarer has been diagnosed and has knowledge of such illness or condition
@@ -125,7 +127,8 @@ the course of his treatment with the company-appointed doctors. That
 medical attention was extended by the company-appointed physicians
 cannot cancel out his deception. In Manansala v. Marlow Navigation Phils.,
 Inc., et al., 17 the seafarer's concealment was revealed beyond the 120-day
-treatment period, after the issuance of a ﬁnal assessment by the companydesignated physicians, and even after a claim for beneﬁts was ﬁled.
+treatment period, after the issuance of a ﬁnal assessment by the companydesignated
+physicians, and even after a claim for beneﬁts was ﬁled.
 Nonetheless, the Court declared that the seafarer is not entitled to disability
 beneﬁts because of concealment. Also, in Status Maritime Corporation, et al.
 v. Sps. Delalamon 18 and Ayungo v. Beamko Shipmanagement Corp., et al.,
@@ -138,7 +141,8 @@ Time and again, it has been ruled that a PEME is generally not
 exploratory in nature, nor is it a totally in-depth and thorough examination of
 an applicant's medical condition. 21 It does not reveal the real state of health
 
-of an applicant, and does not allow the employer to discover any and all preexisting medical condition with which the seafarer is suﬀering and for which
+of an applicant, and does not allow the employer to discover any and all preexisting
+medical condition with which the seafarer is suﬀering and for which
 he may be taking medication. 22 The PEME is nothing more than a summary
 examination of the seafarer's physiological condition and is just enough for
 the employer to determine his ﬁtness for the nature of the work for which he
@@ -164,7 +168,8 @@ administrative sactions.
 Here, Utanes' willful concealment of vital information in his PEME
 disqualiﬁes him from claiming disability beneﬁts. The Court on many
 occasions disqualiﬁed seafarers from claiming disability beneﬁts on account
-of fraudulent misrepresentation arising from their concealment of a preexisting medical condition. 26 This case is not an exception. For knowingly
+of fraudulent misrepresentation arising from their concealment of a preexisting medical
+condition. 26 This case is not an exception. For knowingly
 concealing his history of coronary artery disease during the PEME, Utanes
 committed fraudulent misrepresentation which unconditionally bars his right
 to receive any disability compensation from petitioners. 27
@@ -245,7 +250,8 @@ In eﬀect, the table of illnesses and the corresponding nature of
 employment in Section 32-A only provide the list of occupational
 illnesses. It does not exempt a seafarer from providing proof of the
 conditions under the ﬁrst paragraph of Section 32-A in order for the
-occupational illness/es complained of to be considered as workrelated and, therefore, compensable.
+occupational illness/es complained of to be considered as workrelated and, therefore,
+compensable.
 Further, x x x to determine the amount of compensation, the
 seafarer must show the resulting disability following as guide the
 schedule listed in Section 32.
@@ -265,7 +271,8 @@ cardiovascular illness under item 11 of Section 32-A of the POEA-SEC. The
 mentioned provision enumerates the conditions which must be met to show
 that the seafarer's work involve the risk of contracting the disease. Again,
 none of these conditions are present in this case; no proof of the required
-conditions was submitted by Utanes to demonstrate that his illness is workrelated and, therefore, compensable. Thus, Utanes failed to discharge his
+conditions was submitted by Utanes to demonstrate that his illness is workrelated
+and, therefore, compensable. Thus, Utanes failed to discharge his
 burden to prove the risks involved in his work, that his illness was contracted
 as a result of his exposure to the risks within the period of exposure and
 under such other factors necessary to contract it, and that he was not
@@ -279,7 +286,8 @@ Court's commitment to the cause of labor is not a lopsided undertaking. It
 cannot and does not prevent us from sustaining the employer when it is in
 the right.
 FOR THE STATED REASONS, the petition is GRANTED. The April 21,
-2017 Decision and January 3, 2018 Resolution of the Court of Appeals in CAG.R. SP No. 148683 are REVERSED and SET ASIDE. The complaint ﬁled by
+2017 Decision and January 3, 2018 Resolution of the Court of Appeals in CAG.R. SP
+No. 148683 are REVERSED and SET ASIDE. The complaint ﬁled by
 Magno T. Utanes against Trans-Global Maritime Agency, Inc. is DISMISSED.
 SO ORDERED.
 
@@ -314,7 +322,8 @@ at the time of payment respectively.
 The claims for sickness allowance and damages are hereby DISMISSED for
 lack of merit.
 SO ORDERED. Id. at 126.
-5. Id. at 127-128. In the NLRC's Resolution dated September 30, 2016, TransGlobal's motion for reconsideration was disposed of as follows:
+5. Id. at 127-128. In the NLRC's Resolution dated September 30, 2016, TransGlobal's
+motion for reconsideration was disposed of as follows:
 After a careful consideration of the arguments and discussion raised by
 respondents in their Partial Motion for Reconsideration, We find no
 compelling justification or valid reason to modify, alter, much less reverse,
@@ -332,7 +341,8 @@ SO ORDERED. Id. at 128.
 11. Deocariza v. Fleet Management Services Philippines, Inc., G.R. No. 229955, July
 23, 2018, 873 SCRA 397, 406, citing Leoncio v. MST Marine Services (Phils.),
 Inc., 822 Phil. 494, 504 (2017).
-12. Id., citing Maersk Filipinas Crewing, Inc. v. Ramos, G.R. No. 184256, January 18,
+12. Id., citing Maersk Filipinas Crewing, Inc. v. Ramos, G.R. No. 184256, January
+18,
 2017, 814 SCRA 428, 442.
 13. Id., citing Manila Shipmanagement & Manning, Inc., et al. v. Aninang, 824 Phil.
 916, 925 (2018); enumerating the following as exceptions: 1) when the
@@ -359,11 +369,13 @@ parties, which, if properly considered, would justify a different conclusion.
 18. 740 Phil. 175 (2014).
 19. 728 Phil. 244 (2014).
 20. 715 Phil. 454 (2013).
-21. Vetyard Terminals & Shipping Services, Inc., et al. v. Suarez, 728 Phil. 527, 534
+21. Vetyard Terminals & Shipping Services, Inc., et al. v. Suarez, 728 Phil. 527,
+534
 (2014), citing Escarcha v. Leonis Navigation Co., Inc., and/or World Marine
 Panama, S.A., 637 Phil. 418, 433 (2010).
 22. Philman Marine Agency, Inc., et al. v. Cabanban, supra note 20 at 480.
-23. Id., citing Francisco v. Bahia Shipping Services, Inc. and/or Mendoza, et al. , 650
+23. Id., citing Francisco v. Bahia Shipping Services, Inc. and/or Mendoza, et al.
+, 650
 Phil. 200, 206 (2010).
 24. See Vetyard Terminals & Shipping Services, Inc., et al. v. Suarez, supra note
 21.

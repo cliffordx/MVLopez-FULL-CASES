@@ -18,7 +18,8 @@ Court assailing the Court of Appeal's (CA) Decision 1 dated February 22,
 2017 in CA-G.R. CV No. 104805.
 ANTECEDENTS
 Lydia Bernadette M. Stager (Lydia) owns a 6,100-square meter (sq m)
-real property identiﬁed as Lot No. 199 and situated in Barangay ManocManoc, Boracay Island. The land adjoins the sea on its eastern part and is
+real property identiﬁed as Lot No. 199 and situated in Barangay ManocManoc, Boracay
+Island. The land adjoins the sea on its eastern part and is
 generally ﬂat at the center but has an elevated rocky northern part. In 1991,
 Lydia oﬀered to sell the entire lot to Ulysses Rudi Banico (Ulysses) but he
 only agreed to buy an area suitable for building a beach resort. Accordingly,
@@ -146,7 +147,9 @@ in question for lack of proof that the purpose thereof was for the
 
 payment for the 400 square-meter lot. Thus, Exhibit "C-3" cannot be
 taken into consideration for it does not state the purpose of the
-payment or amount reﬂected therein. On the other hand, Exhibits "C9" and "C-19" states [sic] a diﬀerent purpose. Exhibits "C-7" and "C12" were signed by diﬀerent persons and stated no purpose therefor,
+payment or amount reﬂected therein. On the other hand, Exhibits "C9" and "C-19" states
+[sic] a diﬀerent purpose. Exhibits "C-7" and "C12" were signed by diﬀerent persons
+and stated no purpose therefor,
 while Exhibits "C-10" and "C-24" bears [sic ] no signature at all. The
 rest of the receipts are all signed by Stager and suﬃciently refers
 [sic] to the payment of the 400 square-meter lot. Thus, as per the
@@ -171,7 +174,8 @@ hereby
 
 The Heirs of Lydia Bernadette M. Stager x x x to
 amend/reform the Deed of Absolute Sale dated February 8,
-1992 so as to reﬂect the exact location of the 800 squaremeter lot that plaintiﬀ has purchased from Lydia
+1992 so as to reﬂect the exact location of the 800 squaremeter lot that plaintiﬀ
+has purchased from Lydia
 Bernadette M. Stager;
 
 2.
@@ -184,12 +188,14 @@ the purchase price of the subject 400 square-meter lot;
 
 The Heirs of Lydia Bernadette M. Stager x x x to execute in
 favor of plaintiﬀ another Deed of Absolute Sale covering
-the 400 square-meter lot, or to include the 400 squaremeter lot in the Deed of Absolute Sale meant for the 800
+the 400 square-meter lot, or to include the 400 squaremeter lot in the Deed of Absolute
+Sale meant for the 800
 square-meter lot.
 
 SO ORDERED. 11 (Emphases supplied; citations omitted.)
 
-Dissatisﬁed, both parties elevated the case to the CA docketed as CAG.R. CV No. 104805. The Heirs of Lydia argued that the RTC erred in
+Dissatisﬁed, both parties elevated the case to the CA docketed as CAG.R. CV No. 104805.
+The Heirs of Lydia argued that the RTC erred in
 granting the reformation of the Deed of Absolute Sale dated February 8,
 1992 and ordering them to execute another contract of sale in favor of
 Ulysses. 12 On the other hand, Ulysses insisted that he fully paid the
@@ -454,7 +460,8 @@ wit:
 Banico's receipts, marked as Exhibits "C" to "C-30[,"] show
 payments of a total of PhP167,840.00 — an amount more than the
 consideration of PhP160,000.00 for the sale of the second lot. The
-RTC, however, rejected Exhibits "C-3[,"] "C-7[,"] "C-9[,"] "C-10[,"] "C12[,"] "C-19" and "C-24" for various reasons.
+RTC, however, rejected Exhibits "C-3[,"] "C-7[,"] "C-9[,"] "C-10[,"] "C12[,"] "C-19"
+and "C-24" for various reasons.
 We agree with the RTC that Exhibits "C-10" for the amount of
 PhP3,500.00 and "C-24" for the amount of PhP1,200.00 were not
 signed by Stager and do not suﬃciently prove payment to her. We
@@ -498,7 +505,8 @@ Lastly, both the CA and RTC properly denied the parties' claims for
 damages. To reiterate, the mistake in the Deed of Absolute Sale dated
 February 8, 1992 involving the 800-sq m lot is not malicious and deliberate.
 The parties are not even aware of the error until the land was surveyed.
-Likewise, there is no substantial breach of the contract to sell over the 400sq m lot that warrants the award of damages.
+Likewise, there is no substantial breach of the contract to sell over the 400sq m
+lot that warrants the award of damages.
 FOR THESE REASONS, the petition is GRANTED. The Court of
 Appeals' Decision dated February 22, 2017 in CA-G.R. CV No. 104805 is
 REVERSED and SET ASIDE. The Regional Trial Court's Decision dated
@@ -549,7 +557,8 @@ Galapate-Laguilles.
 29. 432 Phil. 685 (2002).
 30. 468 Phil. 1000 (2004).
 31. 378 Phil. 386 (1999).
-32. National Irrigation Administration v. Gamit, supra note 26, citing the Report of
+32. National Irrigation Administration v. Gamit, supra note 26, citing the Report
+of
 the Code Commission, p. 36.
 33. CIVIL CODE, Art. 1144. See also Rosello-Bentir v. Leanda, 386 Phil. 802 (2000),
 citing Ramos v. Court of Appeals , 259 Phil. 1122 (1989); Spouses Jayme and

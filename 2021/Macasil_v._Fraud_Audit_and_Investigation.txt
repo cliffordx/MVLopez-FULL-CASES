@@ -25,7 +25,8 @@ ANTECEDENTS
 On February 7, 2005, the Commission on Audit Regional Oﬃce No. VIII
 investigated the infrastructure projects of the Tacloban City Sub-District
 Engineering Oﬃce for calendar years 2003 and 2004. Based on the audit
-investigation, the review of the projects cannot be completed due to delay and nonsubmission of contract documents. Accordingly, the Regional Legal and
+investigation, the review of the projects cannot be completed due to delay and nonsubmission
+of contract documents. Accordingly, the Regional Legal and
 Adjudication Oﬃce (RLAO) issued notices of suspension to the responsible oﬃcers,
 directing them to submit the required documents. Upon compliance, the RLAO
 reviewed the documents and discovered that several projects bore identical, if not
@@ -640,16 +641,19 @@ P52,178,645.18
 
 Macasil denied the charges and averred that, as a Materials Engineer, his
 work revolves around the quality control aspect of the infrastructure projects, such
-as quality control testing, sampling, and pre-testing of construction materials. On
+as quality control testing, sampling, and pre-testing of construction materials.
+On
 the other hand, the FAIO inspection reports focused on the quantity aspect.
 Speciﬁcally, Engr. Owen Kim S. Monter, a member of the investigating team, stated
 that "[t]he conduct of inspection was limited only to the existence of visible portion
 of the project as physically examined and validated by the undersigned" 7 and that
-the "inspection was focused on the veriﬁcation of [the] quantity. " 8 Moreover, it is
+the "inspection was focused on the veriﬁcation of [the] quantity. " 8 Moreover, it
+is
 the Project Engineer who certiﬁes the SWAs. Macasil also disavowed any
 participation in the alleged overpayment of the projects as he was not part of the
 team that recommended payment of the contract price to the contractors. He also
-did not sign any disbursement voucher. Lastly, he was not included in the factﬁnding phase of the investigation, and was not named in the notice of suspension.
+did not sign any disbursement voucher. Lastly, he was not included in the factﬁnding
+phase of the investigation, and was not named in the notice of suspension.
 He only came to know of the investigation and the adverse ﬁndings when he
 received a copy of the complaint. 9
 On May 8, 2015, the Oﬃce of the Ombudsman (Visayas) 10 found probable
@@ -1149,7 +1153,8 @@ SO ORDERED. 11 (Emphases in the original.)
 
 Macasil's Motion for Reconsideration 12 was denied. 13 Hence, this Petition for
 Certiorari 14 imputing grave abuse of discretion on the part of the Ombudsman
-(Visayas) in ﬁnding probable cause for violation of Section 3 (e) of RA No. 3019, as
+(Visayas) in ﬁnding probable cause for violation of Section 3 (e) of RA No. 3019,
+as
 amended, and paragraph 4, Article 171 of the RPC.
 RULING
 The petition is meritorious.
@@ -1158,7 +1163,8 @@ and prosecutory prerogatives in the exercise of its power to pass upon criminal
 complaints. This Court, generally, does not interfere with the Ombudsman's
 ﬁndings as to whether probable cause exists, 15 except: (a) to aﬀord protection to
 the constitutional rights of the accused; (b) when necessary for the orderly
-administration of justice or to avoid oppression or multiplicity of actions; (c) when
+administration of justice or to avoid oppression or multiplicity of actions; (c)
+when
 there is a prejudicial question which is sub judice; (d) when the acts of the oﬃcer
 are without or in excess of authority; (e) where the prosecution is under an invalid
 law, ordinance or regulation; (f) when double jeopardy is clearly apparent; (g)
@@ -1167,7 +1173,8 @@ persecution rather than prosecution; and (i) where the charges are manifestly fa
 and motivated by the lust for vengeance. 16
 Particularly, grave abuse of discretion is deﬁned as the capricious and
 whimsical exercise of judgment on the part of the public oﬃcer concerned, which is
-equivalent to an excess or lack of jurisdiction. The abuse of discretion must be so
+equivalent to an excess or lack of jurisdiction. The abuse of discretion must be
+so
 patent and gross as to amount to an evasion of a positive duty or a virtual refusal
 to perform a duty enjoined by law, or to act at all in contemplation of law as where
 the power is exercised in an arbitrary and despotic manner by reason of passion or
@@ -1183,7 +1190,8 @@ oﬀense are as follows: (a) the accused must be a public oﬃcer discharging
 administrative, judicial, or oﬃcial functions; (b) he must have acted with manifest
 partiality, evident bad faith, or inexcusable negligence; and (c) his action caused
 any undue injury to any party, including the government, or gave any private party
-unwarranted benefits, advantage or preference in the discharge of his functions. 20
+unwarranted benefits, advantage or preference in the discharge of his functions.
+20
 The ﬁrst element is undisputed, considering that Macasil is a Materials
 Engineer of the Department of Public Works and Highways (DPWH) of Tacloban City
 and is performing governmental functions for the beneﬁt of the public. 21 The
@@ -1194,9 +1202,11 @@ or predilection to favor one side or person rather than another. " Evident bad f
 connotes not only bad judgment, but also palpably and patently fraudulent and
 dishonest purpose to do moral obliquity or conscious wrongdoing for some perverse
 motive or ill will. It contemplates a state of mind aﬃrmatively operating with furtive
-design or with some motive or self-interest or ill will or for ulterior purposes. " Gross
+design or with some motive or self-interest or ill will or for ulterior purposes.
+" Gross
 inexcusable negligence" refers to negligence characterized by the want of even the
-slightest care, acting, or omitting to act in a situation where there is a duty to act,
+slightest care, acting, or omitting to act in a situation where there is a duty to
+act,
 not inadvertently, but willfully and intentionally, with conscious indiﬀerence to
 consequences insofar as other persons may be aﬀected. 23 None of these modes
 were established in this case.
@@ -1232,7 +1242,8 @@ accordance with the approved plans and speciﬁcations of the project. Incidenta
 DPWH Department Order No. 115, Series of 2018 25 provides that the duty to
 check/verify statement of work accomplished, among others, pertains to the Project
 Engineer. DPWH's Department Memorandum dated April 12, 1994 (Circular No. 49)
-26 also states that a project shall be the responsibility of the [P]roject Engineer. In
+26 also states that a project shall be the responsibility of the [P]roject Engineer.
+In
 addition, the Memorandum listed down the tasks of a Materials Engineer for the
 purpose of ﬁxing the responsibility where quality and quantity of construction
 materials are concerned, to wit:
@@ -1286,14 +1297,16 @@ concerned. 29
 Thus, the DPWH's Department Memorandum and Staﬃng Manual has
 delineated the scope of the functions of a Materials Engineer which mainly revolves
 around ensuring the quality of materials used in an infrastructure project. In this
-case, there is no controversy with regard to the quality of the materials used in the
+case, there is no controversy with regard to the quality of the materials used in
+the
 questioned infrastructure projects. To reiterate, the charges leveled against Macasil
 refer to the overstatement in the SWAs and the non-compliance of the projects with
 the approved plans and speciﬁcations. Hence, it would be unjust and unreasonable
 to indict Macasil simply because he was part of the supposed anomalous projects,
 even if the alleged illegal act is beyond the scope of his functions. The sheer
 volume of the projects is likewise insuﬃcient to deduce any illegal act, absent
-speciﬁc facts that demonstrate Macasil's manifest partiality, evident bad faith, or
+speciﬁc facts that demonstrate Macasil's manifest partiality, evident bad faith,
+or
 inexcusable negligence. At any rate, it is axiomatic that good faith is always
 presumed, unless convincing evidence to the contrary is adduced. The party
 alleging bad faith has the burden of proof. Absent clear evidence of bad faith, the
@@ -1304,10 +1317,12 @@ Similarly, there is no probable cause to charge Macasil with falsiﬁcation unde
 paragraph 4, 30 Article 171, of the RPC. The crime has the following elements,
 namely: (1) that the oﬀender makes in a document statements in a narration of
 
-facts; (2) that he has a legal obligation to disclose the truth of the facts narrated by
+facts; (2) that he has a legal obligation to disclose the truth of the facts narrated
+by
 him; (3) that the facts narrated by the oﬀender are absolutely false; and (4) that
 the perversion of truth in the narration of facts was made with the wrongful intent
-of injuring a third person. In addition, it must be proven that the public oﬃcer or
+of injuring a third person. In addition, it must be proven that the public oﬃcer
+or
 employee had taken advantage of his oﬃcial position in making the falsiﬁcation. In
 falsiﬁcation of public document, the oﬀender is considered to have taken
 advantage of his oﬃcial position when: (1) he has the duty to make or prepare or
@@ -1324,7 +1339,8 @@ projects, and their compliance with the requirements of the DPWH Standard
 Speciﬁcations for Highways, Bridges, Airports, and the schedule of Minimum
 Testing Requirements. More importantly, criminal intent must be present in felonies
 committed by means of dolo, such as falsiﬁcation. However, there was nothing
-willful or felonious in Macasil's actions that satisﬁes the requisite criminal intent or
+willful or felonious in Macasil's actions that satisﬁes the requisite criminal intent
+or
 mens rea. 32
 In sum, there is no prima facie case to support a ﬁnding of probable cause for
 violation of the Anti-Graft and Corrupt Practices Act and Falsiﬁcation. It bears
@@ -1333,11 +1349,13 @@ respondent from the inconvenience, ignominy, and stress of defending himself in
 the course of a formal trial. It also protects the states from the burden of the
 unnecessary expense and eﬀort in prosecuting alleged oﬀenses, and in holding
 trials arising from false, frivolous, or groundless charges. 33 Thus, when at the
-outset the existence of probable cause to form a suﬃcient belief as to the guilt of
+outset the existence of probable cause to form a suﬃcient belief as to the guilt
+of
 the accused cannot be ascertained, the prosecution must desist from inﬂicting on
 any person the trauma of going through a trial. 34
 FOR THESE REASONS, the petition is GRANTED. The Consolidated
-Resolution dated May 8, 2015 of the Oﬃce of the Ombudsman (Visayas) in OMB-VC-13-0355 and OMB-V-C-14-0012, ﬁnding probable cause against Joel Nemensio M.
+Resolution dated May 8, 2015 of the Oﬃce of the Ombudsman (Visayas) in OMB-VC-13-0355
+and OMB-V-C-14-0012, ﬁnding probable cause against Joel Nemensio M.
 Macasil for violation of Section 3 (e) of Republic Act No. 3019 and paragraph 4,
 Article 171 of the Revised Penal Code is ANNULLED and SET ASIDE.
 SO ORDERED.
@@ -1366,22 +1384,27 @@ Footnotes
 16. Vergara v. Hon. Ombudsman, 600 Phil. 26, 42 (2009).
 17. Gov. Garcia, Jr. v. Office of the Ombudsman, 747 Phil. 445, 458 (2014).
 18. Public Attorney's Office v. Office of the Ombudsman, 821 Phil. 286, 296 (2017).
-19. SEC. 3. Corrupt practices of public officers. — In addition to acts or omissions of public
+19. SEC. 3. Corrupt practices of public officers. — In addition to acts or omissions
+of public
 officers already penalized by existing law, the following shall constitute corrupt
 practices of any public officer and are hereby declared to be unlawful:
 xxx xxx xxx
 (e) Causing any undue injury to any party, including the Government, or giving any
-private party any unwarranted benefits, advantage or preference in the discharge of
+private party any unwarranted benefits, advantage or preference in the discharge
+of
 his official administrative or judicial functions through manifest partiality, evident
-bad faith or gross inexcusable negligence. This provision shall apply to officers and
+bad faith or gross inexcusable negligence. This provision shall apply to officers
+and
 employees of offices or government corporations charged with the grant of licenses
 or permits or other concessions.
 xxx xxx xxx
-20. Roy III v. The Honorable Ombudsman, G.R. No. 225718, March 4, 2020, citing Garcia v.
+20. Roy III v. The Honorable Ombudsman, G.R. No. 225718, March 4, 2020, citing Garcia
+v.
 Sandiganbayan, 730 Phil. 521, 534 (2014).
 21. See Khan v. Office of the Ombudsman, 528 Phil. 32, 40 (2006).
 22. Belongilot v. Cua, 650 Phil. 392, 408 (2010).
-23. Catindig v. People , 616 Phil. 718, 734 (2009), citing Soriano v. Marcelo , 610 Phil. 72,
+23. Catindig v. People , 616 Phil. 718, 734 (2009), citing Soriano v. Marcelo , 610
+Phil. 72,
 80 (2009); and Albert v. Sandiganbayan, 599 Phil. 439, 450-451 (2009).
 24. Rollo , p. 351.
 25. REVISED GUIDELINES ON THE ACCREDITATION AND ASSIGNMENT OF DPWH PROJECT
@@ -1391,7 +1414,8 @@ ENGINEERS AND INSPECTORS; dated August 3, 2018.
 28. Id. at 802.
 29. Id.
 
-30. ART. 171. Falsification by public officer, employee, or notary or ecclesiastical minister.
+30. ART. 171. Falsification by public officer, employee, or notary or ecclesiastical
+minister.
 — The penalty of prision mayor and a fine not to exceed P5,000 pesos shall be
 imposed upon any public officer, employee, or notary who, taking advantage of his
 official position, shall falsify a document by committing any of the following acts:

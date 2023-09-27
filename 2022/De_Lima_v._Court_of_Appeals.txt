@@ -32,7 +32,8 @@ FACTS
 Cagayan Economic Zone Authority (CEZA) granted Meridien Vista
 Gaming Corporation (Meridien) a license to conduct gaming operations such
 as jai alai within the Cagayan Special Economic Zone and Freeport (CSEZFP),
-as well as "to set up [jai alai] betting stations in any place [or off-frontons] as
+as well as "to set up [jai alai] betting stations in any place [or off-frontons]
+as
 may be allowed by law. " 7 Subsequently, however, the Oﬃce of the
 Government Corporate Counsel (OGCC) apprised CEZA that it has no power
 to authorize, license, operate, and regulate jai alai in the absence of an
@@ -136,8 +137,11 @@ upheld by the RTC of Aparri, Meridien was authorized to operate oﬀ-frontons
 criminalizes oﬀ-fronton operations, "Meridien can only set up its jai alai
 betting/gaming stations within the premises of the place enclosure, or
 fronton where the basque pelota game is held, i.e., x x x inside the CSEZFP."
-31 In this light, the DOJ and DILG issued Joint Memorandum Circular No. 0012011 32 (Joint Memorandum), which basically directs the concerned public
-oﬃcers to: (1) deny Meridien's applications for business permits for oﬀfronton operations and cancellation of those already issued; (2) close oﬀfrontons, seize devices used for their operations, and arrest their operators
+31 In this light, the DOJ and DILG issued Joint Memorandum Circular No. 0012011 32
+(Joint Memorandum), which basically directs the concerned public
+oﬃcers to: (1) deny Meridien's applications for business permits for oﬀfronton operations
+and cancellation of those already issued; (2) close oﬀfrontons, seize devices used
+for their operations, and arrest their operators
 
 and maintainers; and (3) prosecute violators of RA No. 954 with dispatch.
 Meridien ﬁled a Petition for Certiorari and Prohibition before the CA
@@ -179,7 +183,8 @@ In G.R. No. 199972:
 A.
 
 Whether the CA committed grave abuse of discretion in
-issuing the WPI, holding in abeyance the resolution of CAG.R. SP No. 120236 until this Court's resolution of G.R. No.
+issuing the WPI, holding in abeyance the resolution of CAG.R. SP No. 120236 until
+this Court's resolution of G.R. No.
 194962; and
 
 B.
@@ -360,7 +365,8 @@ legitimate restraint against Meridien's off-fronton operations.
 
 
 As well, at the time of the issuance of the WPI, there was an existing
-GAB-issued CDO against Meridien's oﬀ-frontons, which the CA upheld in CAG.R. No. SP No. 119842. 54 While such case is at present under our review in
+GAB-issued CDO against Meridien's oﬀ-frontons, which the CA upheld in CAG.R. No.
+SP No. 119842. 54 While such case is at present under our review in
 
 G.R. No. 206118, no question was raised regarding the eﬀectivity of the CDO
 insofar as oﬀ-frontons are concerned. Verily, Meridien has no clear or
@@ -421,7 +427,8 @@ Prohibition filed before the CA, GAB expressly stated that:
 done within Metro Manila and in certain parts of Rizal
 Province, and no such enforcement was eﬀected in
 respondent [Meridien's] operations in [the CSEZFP], as in
-fact, said [CDO] was never directed against the holding of JaiAlai games in [the CSEZFP].
+fact, said [CDO] was never directed against the holding of JaiAlai games in [the
+CSEZFP].
 
 
 To repeat, the [CDO] of petitioner GAB dated March 3,
@@ -457,7 +464,8 @@ clariﬁcation on the CDO's coverage is a review or an alteration of the ﬁnal
 and executory CDO. In clarifying the CDO's coverage, the CA reviewed its
 previous decision, not the CDO, and merely put the case in its proper
 context in conformity with the evidentiary facts. In accordance with the
-purpose of its issuance, the CDO remains to be intended only against oﬀfrontons, and its ﬁnality was not aﬀected by the innocuous correction of the
+purpose of its issuance, the CDO remains to be intended only against oﬀfrontons,
+and its ﬁnality was not aﬀected by the innocuous correction of the
 CA's initial ruling. Indeed:
 [T]he [CDO] invoked by GAB covers oﬀ-fronton betting stations
 of [Meridien] and evidently not the actual conduct and operation of
@@ -616,7 +624,8 @@ Court), concurring.
 31. Id. at 372-381.
 32. Id. at 396-400, dated June 27, 2011.
 33. Id. at 23.
-34. Id. at 436-437. Penned by Justice Juan Q. Enriquez, Jr., with Justices Ramon M.
+34. Id. at 436-437. Penned by Justice Juan Q. Enriquez, Jr., with Justices Ramon
+M.
 Bato, Jr. and Jane Aurora C. Lantion, concurring.
 35. Id. at 74-89.
 36. The main issue in the appeal on certiorari before this Court was whether CEZA's
@@ -634,7 +643,8 @@ note 11.
 pending as the CA finds the resolution of the present case necessary to its
 disposition. See Letter of the CA Division Clerk of Court dated January 28,
 2021.
-42. Go-Yu v. Yu , G.R. No. 230443, April 3, 2019; citing Republic of the Philippines v.
+42. Go-Yu v. Yu , G.R. No. 230443, April 3, 2019; citing Republic of the Philippines
+v.
 Sandiganbayan (First Division), 525 Phil. 804, 809-810 (2006); and Go v.
 Judge Abrogar, 446 Phil. 227, 238 (2003).
 43. Id.
@@ -665,7 +675,8 @@ implemented therein at the time [Meridien] filed its Complaint for
 Injunction. x x x
 xxx xxx xxx
 In the case at bar, the CDO issued by GAB which the Complaint for
-Injunction sought to enjoin was directed not only against the 13 offfronton betting stations in Metro Manila and the Rizal Province but
+Injunction sought to enjoin was directed not only against the 13 offfronton betting
+stations in Metro Manila and the Rizal Province but
 also against the operations of all betting stations deriving their
 authority from [Meridien]. Hence, it can be said that [Meridien]
 likewise sought injunctive reliefs against the implementation of the
@@ -707,7 +718,8 @@ certainty and praying that judgment be rendered annulling or modifying the
 proceedings of such tribunal, board or officer, and granting such incidental
 reliefs as law and justice may require.
 SEC. 2. Petition for prohibition. — When the proceedings of any tribunal,
-corporation, board, officer or person, whether exercising judicial, quasijudicial or ministerial functions, are without or in excess of its or his
+corporation, board, officer or person, whether exercising judicial, quasijudicial
+or ministerial functions, are without or in excess of its or his
 jurisdiction, or with grave abuse of discretion amounting to lack or excess
 of jurisdiction, and there is no appeal or any other plain, speedy, and
 adequate remedy in the ordinary course of law, a person aggrieved thereby

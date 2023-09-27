@@ -17,7 +17,8 @@ tax in the reduced amount of P612,406.94.
 ANTECEDENTS
 East Asia Utilities is a domestic corporation registered with the
 Philippine Economic Zone Authority (PEZA) as an ECOZONE Utilities
-Enterprise at the Mactan Economic Zone and West Cebu Industrial ParkSpecial Economic Zone. 6 Under PEZA Certiﬁcate of Board Resolution dated
+Enterprise at the Mactan Economic Zone and West Cebu Industrial ParkSpecial Economic
+Zone. 6 Under PEZA Certiﬁcate of Board Resolution dated
 January 28, 2000, East Asia Utilities is entitled to the incentives under
 Sections 24 and 42 of Republic Act (RA) No. 7916, as amended, such as
 payment of the special ﬁve percent (5%) tax on gross income in lieu of
@@ -139,7 +140,8 @@ After trial, the CTA Division rendered its Decision 10 ﬁnding East Asia
 Utilities liable for deﬁciency income tax in the reduced amount of
 P612,406.94. 11 The CTA Division held that the amendment of Revenue
 Regulations (RR) No. 2-2005 12 by RR No. 11-2005 13 rendered the
-enumeration of allowable deductions from gross income of a PEZAregistered enterprise, such as East Asia Utilities, no longer exclusive. The
+enumeration of allowable deductions from gross income of a PEZAregistered enterprise,
+such as East Asia Utilities, no longer exclusive. The
 criteria for determining the deductibility of an expense for computing the 5%
 Gross Income Tax (GIT) is the direct relation of the item in the rendition of
 PEZA-registered services. The CTA Division found that only P9,798,510.88 14
@@ -539,7 +541,8 @@ By using the phrase "shall consist only of the following cost or expense
 
 item," RR No. 2-2005 restricted the allowable deductions from gross income
 of a PEZA-registered enterprise to the enumerated cost and expenses.
-Later, the BIR issued RR No. 11-2005 56 revoking Section 7 of RR No. 22005 and removing the exclusivity of the enumeration of cost or expense
+Later, the BIR issued RR No. 11-2005 56 revoking Section 7 of RR No. 22005 and removing
+the exclusivity of the enumeration of cost or expense
 that is allowed as a deduction from gross income. Section 3 provides:
 SECTION 3.
 Gross Income Earned. — For purposes of
@@ -596,7 +599,8 @@ The word "include" means "to take in or comprise as a part of a whole";
 57 "to contain as a part of something. The participle including typically
 indicates a partial list." 58 In Sterling Selections Corp. v. Laguna Lake
 Development Authority (LLDA), 59 the Court held that using the word
-"including" necessarily conveys the enumeration's very idea of nonexclusivity. 60 Thus, the word "involving," when understood in the sense of
+"including" necessarily conveys the enumeration's very idea of nonexclusivity. 60
+Thus, the word "involving," when understood in the sense of
 "including," implies that there are activities other than those included. For
 example, if an agreement includes technical or ﬁnancial assistance, there is,
 apart from such assistance, something else already in, and covered or may
@@ -673,7 +677,8 @@ only of the following cost or expense item" and changed it to "the following
 direct costs are included in the allowable deductions" if it did not intend to
 remove the restriction on the expenses that may be deducted. The deletion
 of the restrictive word "only" is also consistent with Section 24 of the PEZA
-Law that costs and expenses directly related to the enterprise's PEZAregistered activity and are not administrative, marketing, selling and/or
+Law that costs and expenses directly related to the enterprise's PEZAregistered activity
+and are not administrative, marketing, selling and/or
 operating expenses or incidental losses shall be allowed as deduction from
 gross income. Accordingly, the CTA En Banc did not err in examining the
 nature and type of each of the expenses East Asia Utilities claimed as

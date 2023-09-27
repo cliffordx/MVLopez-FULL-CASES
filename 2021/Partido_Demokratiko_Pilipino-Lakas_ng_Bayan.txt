@@ -1,6 +1,7 @@
 EN BANC
 [G.R. No. 225152. October 5, 2021.]
-PARTIDO DEMOKRATIKO PILIPINO-LAKAS NG BAYAN (PDPLABAN) herein represented by its Secretary-General, CONG.
+PARTIDO DEMOKRATIKO PILIPINO-LAKAS NG BAYAN (PDPLABAN) herein represented by its
+Secretary-General, CONG.
 PANTALEON "BEBOT" ALVAREZ, petitioner,
 LEON ESTRELLA PERALTA, MELCHOR GRUELA MAGDAMO,
 and OTHELLO ESTROPIGAN DALANON, intervenors, vs.
@@ -112,7 +113,8 @@ not contemplated by the law. These are risks that the
 Commission is not willing to take. 8 (Emphases supplied and
 citation omitted.)
 
-On July 7, 2016, the Partido Demokratiko Pilipino-Lakas ng Bayan (PDPLaban) ﬁled a Petition for Certiorari 9 questioning COMELEC En Banc
+On July 7, 2016, the Partido Demokratiko Pilipino-Lakas ng Bayan (PDPLaban) ﬁled
+a Petition for Certiorari 9 questioning COMELEC En Banc
 Resolution No. 10147. The PDP-Laban argues that the COMELEC exceeded
 the limits of its delegated rule-making authority and violated Section 14 of
 RA No. 7166 that the SOCEs must be ﬁled within 30 days after the elections.
@@ -121,7 +123,8 @@ perceptions of partiality given that other candidates and political parties
 timely complied with the requirement. Lastly, PDP-Laban claims that it
 availed the proper remedy to assail the resolution considering that the
 issues involved are of transcendental importance. 10
-On the other hand, the COMELEC in its Comment 11 insists that the 30day period ﬁle SOCEs is extendible absent any prohibition from the language
+On the other hand, the COMELEC in its Comment 11 insists that the 30day period ﬁle
+SOCEs is extendible absent any prohibition from the language
 of the law. The COMELEC points out that the commas in the ﬁrst sentence of
 Section 14 of RA No. 7166 after the phrase " Every candidate and treasurer
 of the political party shall" and before the phrase "ﬁle in duplicate with the
@@ -429,7 +432,8 @@ misrepresentation. It would seem, therefore, that there could indeed
 be a gap between the time of the discovery of the misrepresentation,
 (when the discovery is made after the 25-day period under Sec. 78 of
 the Code has lapsed) and the time when the proclamation of the
-results of the election is made. During this so-called "gap" the wouldbe petitioner (who would seek the disqualiﬁcation of the candidate) is
+results of the election is made. During this so-called "gap" the wouldbe petitioner
+(who would seek the disqualiﬁcation of the candidate) is
 left with nothing to do except to wait for the proclamation of the
 results, so that he could avail of a remedy against the
 misrepresenting candidate, that is, by ﬁling a petition for quo
@@ -466,7 +470,8 @@ shown to be unconstitutional. 33 In this case, the arbitrary extension of the
 deadline to ﬁle SOCEs will render nugatory the Court's decision in Maturan
 and exempt non-compliant candidates and political parties from any liability
 and other legal consequences.
-The Court reiterates that the ﬁling of complete SOCEs within the 30day period is mandatory. Yet, it bears emphasis that Section 14 of RA No.
+The Court reiterates that the ﬁling of complete SOCEs within the 30day period is
+mandatory. Yet, it bears emphasis that Section 14 of RA No.
 7166 does not prohibit the COMELEC from receiving belatedly ﬁled or tardy
 SOCEs. Speciﬁcally, the winning candidates can still enter the duties of their
 office once they submitted the required SOCEs. This is the clear import of the
@@ -901,7 +906,8 @@ that Resolution No. 10147 is allegedly void for being issued in excess of
 respondent's delegated rule-making power. 11 On the other hand,
 respondent Commission on Elections asserts that the 30-day period under
 Section 14 of Republic Act No. 7166 is extendible and therefore its
-Resolution No. 10147 is valid. Otherwise ( i.e., if the 30-day period is nonextendible and if Resolution No. 10147 was not issued), respondent would
+Resolution No. 10147 is valid. Otherwise ( i.e., if the 30-day period is nonextendible
+and if Resolution No. 10147 was not issued), respondent would
 have disallowed non-compliant oﬃcials from assuming oﬃce for violation of
 this ﬁling requirement — which, in turn, would amount to prescribing an
 additional qualiﬁcation for public oﬃce. 12 Verily, the constitutionality of
@@ -984,7 +990,8 @@ local officials.
 It requires no serious debate that COMELEC is devoid of such
 power. 14
 
-To determine whether respondent went beyond its delegated rulemaking power in issuing Resolution No. 10147, which should therefore be
+To determine whether respondent went beyond its delegated rulemaking power in issuing
+Resolution No. 10147, which should therefore be
 nulliﬁed, I submit that this Court must ﬁrst ascertain and interpret the
 pertinent portions of the Constitution (i.e., provisions on the powers granted
 to respondent as a constitutional commission vis-à-vis those providing the
@@ -1118,7 +1125,8 @@ registration as a necessary requisite to the right to vote, the State
 undoubtedly, in the exercise of its inherent police power, may then
 enact laws to safeguard and regulate the act of voter's registration
 for the ultimate purpose of conducting honest, orderly and peaceful
-election, to the incidental yet generally important end, that even preelection activities could be performed by the duly constituted
+election, to the incidental yet generally important end, that even preelection activities
+could be performed by the duly constituted
 authorities in a realistic and orderly manner — one which is not
 indiﬀerent and so far removed from the pressing order of the day and
 the prevalent circumstances of the times.
@@ -1494,7 +1502,8 @@ liable to pay an administrative ﬁne ranging from One thousand pesos
 discretion of the Commission.
 xxx xxx xxx (Emphasis and underscoring supplied)
 
-However, I submit that it likewise applies to SOCEs ﬁled beyond the 30day deadline ﬁxed in the law. A careful reading of the law shows that it
+However, I submit that it likewise applies to SOCEs ﬁled beyond the 30day deadline
+ﬁxed in the law. A careful reading of the law shows that it
 covers all failures to ﬁle SOCEs "as required herein." In other words, a SOCE
 which, although ﬁled, failed to comply with the requirements of Section 14,
 still falls under paragraph 4. Such requirements include the 30-day period
@@ -1645,7 +1654,8 @@ groups or coalition thereof shall be held earlier than the following
 periods:
 (a)
 
-For President, Vice-President and Senators, one hundred sixtyfive (165) days before the day of the election; and
+For President, Vice-President and Senators, one hundred sixtyfive (165) days before
+the day of the election; and
 
 (b)
 
@@ -1830,7 +1840,8 @@ Thus, when the COMELEC extended the ﬁling of SOCEs from June 8,
 2016 to June 30, 2016, all those who ﬁled their SOCEs in between these
 dates, though non-compliant with Section 14 of RA 7166, are nonetheless
 pardoned for their transgression.
-But the law does not provide for any exempting circumstance for nonﬁling of SOCEs within the 30-day period. In fact, even those who withdrew
+But the law does not provide for any exempting circumstance for nonﬁling of SOCEs
+within the 30-day period. In fact, even those who withdrew
 their candidacies are still required to comply with Section 14 of RA 7166. 9 In
 other words, COMELEC Resolution No. 10147 crafted an exemption from
 Section 14, RA 7166; indubitably, this is nothing short of usurpation of
@@ -2116,7 +2127,8 @@ Ang Prolife (June 29, 2016).
 17. Cruz, Philippine Political Law, 2002 Ed., p. 259. See also Angara v. The Electoral
 Commission , 63 Phil. 139 (1936); Board of Optometry v. Hon. Colet, 328 Phil.
 1187, 1201-1203 (1996); Police General Macasiano (Ret.) v. NHA , 296 Phil.
-56, 63-65 (1993); Santos III v. Northwest Orient Airlines, 285 Phil. 734, 742743 (1992); and Nat'l. Economic Protectionism Association v. Hon. Ongpin,
+56, 63-65 (1993); Santos III v. Northwest Orient Airlines, 285 Phil. 734, 742743
+(1992); and Nat'l. Economic Protectionism Association v. Hon. Ongpin,
 253 Phil. 643, 649 (1989).
 18. Hon. Aguinaldo v. Pres. Benigno Simeon C. Aquino III, 801 Phil. 492, 522
 (2016).
@@ -2143,7 +2155,8 @@ No. 217158, March 12, 2019.
 31. Id. at 571-572.
 32. 808 Phil. 86 (2017).
 33. Id. at 93-94.
-34. Province of North Cotabato v. Gov't. of the Republic of the Phils. Peace Panel on
+34. Province of North Cotabato v. Gov't. of the Republic of the Phils. Peace Panel
+on
 Ancestral Domain (GRP), 589 Phil. 387, 480-481 (2008).
 35. Supra note 20.
 36. Belgica v. Hon. Exec. Sec. Ochoa, Jr., 721 Phil. 416, 661 (2013), Concurring
@@ -2210,7 +2223,8 @@ Leonen, En Banc].
 17. Id.
 18. Id. at 3-4.
 19. CONST., Art. II, Sec. 1.
-20. CONST., Art. II, Sec. 26; Art. IX-C, Sec. 4; Art. XIII, Sec. 1. See also The Diocese
+20. CONST., Art. II, Sec. 26; Art. IX-C, Sec. 4; Art. XIII, Sec. 1. See also The
+Diocese
 of Bacolod v. Commission on Elections, 751 Phil. 301, 391 (2015) [Per J.
 Leonen, En Banc]; Osmeña v. COMELEC, 351 Phil. 692, 720 (1998) [Per J.
 Mendoza, En Banc]; National Press Club v. COMELEC , 283 Phil. 795, 810
@@ -2228,7 +2242,8 @@ Commission on Elections, which regulated the process of voter's registration.
 28. Id. at 546.
 29. CONST., Art. VI, Sec. 3 and Art. VII, Sec. 3. See also Republic Act No. 7160
 (1991), Title II, Chapter I, Sec. 39.
-30. CONST., Art. VI, Secs. 2, 4, 8. See also CONST., Art. VII, Sec. 4; Art. IX-A, Sec. 6;
+30. CONST., Art. VI, Secs. 2, 4, 8. See also CONST., Art. VII, Sec. 4; Art. IX-A,
+Sec. 6;
 Art. IX-C, Secs. 2 (1), 2 (5), 3, 4, and 9.
 31. 775 Phil. 523, 545 (2015) [Per J. Perlas-Bernabe, En Banc].
 32. Primicias v. Ocampo , 93 Phil. 446, 452 (1953) [Per J. Bautista Angelo, En Banc].
@@ -2236,7 +2251,8 @@ Art. IX-C, Secs. 2 (1), 2 (5), 3, 4, and 9.
 Party-List System Act which provides that the Commission on Elections may
 refuse or cancel, after due notice and hearing, the registration of any
 national, regional or sectoral party, organization or coalition on the ground
-that it violates or fails to comply with the laws, rules or regulations relating to
+that it violates or fails to comply with the laws, rules or regulations relating
+to
 elections.
 34. Rollo , p. 34. Resolution No. 10147 dated June 23, 2016 entitled "In Re: Several
 Requests for Extension to File Statement of Contributions and Expenditures
@@ -2370,7 +2386,8 @@ THEREFOR, AND FOR OTHER PURPOSES," approved on November 26, 1991.
 10. National Tobacco Administration v. Commission on Audit , G.R. No. 119385,
 August 5, 1999, 311 SCRA 755, 769.
 11. Ponencia , pp. 8-9. Emphasis and underscoring supplied.
-12. As fixed in the CONSTITUTION, Sec. 4, Article VII; Secs. 4 and 7, Article VI and
+12. As fixed in the CONSTITUTION, Sec. 4, Article VII; Secs. 4 and 7, Article VI
+and
 relevant laws (e.g., R.A. 7166 and LOCAL GOVERNMENT CODE, Sec. 43).
 13. Fernandez v. House of Representatives Electoral Tribunal, G.R. No. 187478,
 December 21, 2009, 608 SCRA 733, 753.

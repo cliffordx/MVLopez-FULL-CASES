@@ -52,7 +52,8 @@ Villaroman prior to the mortgage transaction with Banco Filipino. The cases
 were both raffled to the RTC Branch 255 of Las Piñas City. 5
 Subsequently, the RTC Branch 255 dismissed the case against BF
 Citiland after it sold the properties back to Banco Filipino. Meantime, Banco
-Filipino registered the lots in its name and was issued TCT Nos. T-62700, T78887 and T-78888 over Lot Nos. 33, 35 and 37, respectively. 6 On February
+Filipino registered the lots in its name and was issued TCT Nos. T-62700, T78887
+and T-78888 over Lot Nos. 33, 35 and 37, respectively. 6 On February
 24, 2009, the RTC Branch 255 rendered a joint Decision denying the
 complaint in Civil Case No. LP-98-173 and dismissing the petition in LRC
 Case No. LP-98-0304 for lack of merit, 7 to wit:
@@ -79,7 +80,8 @@ lots. It declared the mortgage between Spouses Villaroman and Banco
 Filipino void because it was not approved by the Housing and Land Use
 Regulatory Board. It likewise held that Banco Filipino is not a mortgagee in
 good faith. On the other hand, the CA aﬃrmed the dismissal of Banco
-Filipino's petition for the issuance of a writ of possession in LRC Case No. LP98-0304, 9 viz.:
+Filipino's petition for the issuance of a writ of possession in LRC Case No. LP98-0304,
+9 viz.:
 WHEREFORE, in view of the foregoing, the assailed joint
 decision dated February 24, 2009 in Civil Case No. LP-98-173 of the
 Regional Trial Court, Branch 255, Las Piñas City is hereby REVERSED
@@ -246,7 +248,8 @@ ab initio of the simulated Deed of Sale with Assumption of Mortgage
 and instructed the petitioners and all persons claiming under them to
 vacate the subject premises and to turn over possession thereof to
 the respondent-spouses. Paragraph B of the same dispositive portion,
-conﬁrming the real estate mortgage executed by the respondentspouses also necessarily assumes that Title No. 133153 in the name
+conﬁrming the real estate mortgage executed by the respondentspouses also necessarily
+assumes that Title No. 133153 in the name
 of petitioner Republic Mines is null and void and therefore to be
 cancelled, since it is indispensable that the mortgagors have title to
 the real property given under mortgage to the creditor (Article 2085
@@ -362,7 +365,8 @@ dispossession. The fact that it was not mentioned in the dispositive portion is
 of no moment. A judgment is not conﬁned to what appears on its face but
 extends as well to those necessary to carry out the Decision into eﬀect. 49
 Moreover, the reliefs that Banco Filipino surrender and reconvey the titles
-were included in Spouses Poblete's memorandum 50 in LRC Case No. LP-980304 and in their appellants' brief 51 in CA-G.R. CV No. 94420. Lastly, Banco
+were included in Spouses Poblete's memorandum 50 in LRC Case No. LP-980304 and in
+their appellants' brief 51 in CA-G.R. CV No. 94420. Lastly, Banco
 Filipino has no right over the properties. It should not be permitted to retain
 the titles over the lots on the basis of a void transaction. Otherwise, it would
 unjustly deprive Spouses Poblete of their right as owners to register the lots
@@ -434,7 +438,8 @@ the concurrence of Associate Justices Michael P. Elbinias and Elihu A. Ybañez.
 Enterprises Corporation v. Court of Appeals, 369 Phil. 269, 296 (1999).
 27. Ang v. Dr. Grageda, 523 Phil. 830, 847 (2006).
 28. Natalia Realty, Inc. v. Judge Rivera , 509 Phil. 178, 186 (2005).
-29. Times Transit Credit Coop., Inc. v. NLRC, 363 Phil. 386, 392 (1999), citing Yu v.
+29. Times Transit Credit Coop., Inc. v. NLRC, 363 Phil. 386, 392 (1999), citing Yu
+v.
 NLRC, 315 Phil. 107, 120 (1995).
 30. Alba Patio de Makati v. NLRC, 278 Phil. 370, 376 (1991).
 31. Paramount Insurance Corp. v. Judge Japzon, 286 Phil. 1048, 1056 (1992).
@@ -503,7 +508,8 @@ their respective derivative titles are declared NULL AND VOID.
 The Register of Deeds of Pasig City is ordered to CANCEL all present
 certificates of title covering the above-mentioned properties, whether
 contained in individual titles or in a mother title, in the name of GSIS
-and Elizabeth Manlongat, or in the name of their privies, successors-ininterest or transferees pendente lite, and to ISSUE new certificates of
+and Elizabeth Manlongat, or in the name of their privies, successors-ininterest or
+transferees pendente lite, and to ISSUE new certificates of
 title over the same in the name of petitioners as co-owners thereof.
 GSIS and the Bureau of Lands are ordered to supply the necessary
 documents and information for the proper enforcement of the above
@@ -515,7 +521,8 @@ P50,000.00, and to pay the costs.
 SO ORDERED." (Emphases supplied.)
 46. Supra note 43, at 108.
 47. G.R. No. 231100, January 15, 2020.
-48. Section 6. Means to carry jurisdiction into effect. — When by law jurisdiction is
+48. Section 6. Means to carry jurisdiction into effect. — When by law jurisdiction
+is
 conferred on a court or judicial officer, all auxiliary writs, processes and other
 means necessary to carry it into effect may be employed by such court or
 officer; and if the procedure to be followed in the exercise of such jurisdiction

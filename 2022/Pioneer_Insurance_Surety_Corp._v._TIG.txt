@@ -98,7 +98,8 @@ requested the breakdown and bases of the amounts claimed; however,
 Clearwater failed to provide a detailed breakdown of its claim. Clearwater
 merely furnished Pioneer with supporting documents in 2012. 16
 In opposing Clearwater's Petition, Pioneer invoked Rule 13.4 of the
-Special Rules of Court on Alternative Dispute Resolution, A.M. No. 07-11-08SC dated September 1, 2009 (Special ADR Rules), and Article V of the 1958
+Special Rules of Court on Alternative Dispute Resolution, A.M. No. 07-11-08SC dated
+September 1, 2009 (Special ADR Rules), and Article V of the 1958
 New York Convention, and argued that the arbitral award is contrary to
 public policy or the Philippine Constitution because Clearwater's claim was
 not supported by suﬃcient evidence. The arbitral award failed to meet the
@@ -300,7 +301,8 @@ In IP E-Game Ventures, Inc. v. Beijing Perfect World Software Co., Ltd.,
 the Court ruled that the CA erred in applying the Rules of Court and
 relevant jurisprudence in a petition for review under the Special ADR Rules.
 The prevailing doctrine that "the date of actual receipt by the court is
-deemed the date of ﬁling of [a] pleading" 39 sent through a private letterforwarding agency is not applicable in ADR cases because the Special ADR
+deemed the date of ﬁling of [a] pleading" 39 sent through a private letterforwarding
+agency is not applicable in ADR cases because the Special ADR
 Rules should apply.
 38
 
@@ -386,7 +388,8 @@ alleged violation of our policy against stale claims was not established with
 certainty. Thus, conﬁrming and enforcing the ﬁnal award is not contrary to
 public policy.
 ACCORDINGLY, the Petition is DENIED. The Court of Appeals'
-Decision dated June 19, 2020 and Resolution dated February 24, 2021 in CAG.R. SP No. 149206 upholding the Decision dated September 21, 2016 and
+Decision dated June 19, 2020 and Resolution dated February 24, 2021 in CAG.R. SP
+No. 149206 upholding the Decision dated September 21, 2016 and
 the Order dated December 16, 2016 of Branch 141, Regional Trial Court of
 Makati City are AFFIRMED. The United States Board of Arbitrator's Final
 Award dated April 25, 2013 is CONFIRMED, RECOGNIZED, and
@@ -439,7 +442,8 @@ petition shall raise only questions of law, which must be distinctly set forth.
 The Supreme Court may on its own initiative deny the petition on the ground
 that the appeal is without merit, or is prosecuted manifestly for delay, or that
 the questions raised therein are too insubstantial to require consideration.
-35. Rule 7, 2019, Amendment to the 1997 Rules of Civil Procedure (A.M. No. 19-1020-SC), approved on October 15, 2019.
+35. Rule 7, 2019, Amendment to the 1997 Rules of Civil Procedure (A.M. No. 19-1020-SC),
+approved on October 15, 2019.
 xxx xxx xxx
 Section 4. Verification. — x x x.
 A pleading is verified by an affidavit of an affiant duly authorized to sign said
@@ -467,7 +471,8 @@ administrative and criminal actions. If the acts of the party or his [or her]
 counsel clearly constitute willful and deliberate forum shopping, the same
 shall be ground for summary dismissal with prejudice and shall constitute
 direct contempt, as well as a cause for administrative sanctions.
-36. Rule 22.1. Applicability of Rules of Court. — The provisions of the Rules of Court
+36. Rule 22.1. Applicability of Rules of Court. — The provisions of the Rules of
+Court
 that are applicable to the proceedings enumerated in Rule 1.1 of these
 Special ADR Rules have either been included and incorporated in these
 Special ADR Rules or specifically referred to herein.

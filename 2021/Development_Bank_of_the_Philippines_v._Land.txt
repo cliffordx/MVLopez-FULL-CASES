@@ -42,7 +42,8 @@ Republic Act (RA) No. 6657, 6 as amended. 7 On May 13, 1998, the Land
 Bank of the Philippines (LBP) received from the Department of Agrarian
 Reform (DAR) Provincial Agrarian Reform Oﬃce (PARO) of Bulacan a request
 to determine the value of the property for the payment of just compensation.
-8 As can be gleaned from the Claims Valuation and Processing Form No. 03CA-98-0066, 9 LBP recommended the payment of P11,922.32 to DBP as just
+8 As can be gleaned from the Claims Valuation and Processing Form No. 03CA-98-0066,
+9 LBP recommended the payment of P11,922.32 to DBP as just
 compensation. DBP rejected the oﬀered amount. The matter was then
 forwarded to the Provincial Agrarian Reform Adjudicator (PARAD). In the
 
@@ -127,7 +128,8 @@ Valuation Summary; (8) a copy of the DARAB Decision dated December 10,
 RTC Ruling
 In a Decision 29 dated December 10, 2013, the RTC exhaustively
 discussed its jurisdiction as a Special Agrarian Court (SAC) in the
-determination of just compensation due to landowners under the CARP vis-àvis the jurisdiction of the DAR to determine and adjudicate agrarian reform
+determination of just compensation due to landowners under the CARP vis-àvis the
+jurisdiction of the DAR to determine and adjudicate agrarian reform
 matters. The RTC highlighted that the proceedings before the RTC, sitting as
 a SAC, are not a continuation of the administrative determination of the just
 compensation conducted before the DAR. Nevertheless, the RTC sustained
@@ -423,7 +425,8 @@ effective forbearance on the part of the State. 65
 FOR THESE REASONS, the Petition in G.R. No. 229274 is PARTLY
 GRANTED, while the Petition in G.R. No. 229289 is DENIED. The Decision
 dated August 11, 2016 and Resolution dated January 11, 2017 of the Court
-of Appeals in CA-G.R. SP No. 136570 are REVERSED. Civil Case No. 368-M2008 is ORDERED REMANDED to the Regional Trial Court of Malolos City,
+of Appeals in CA-G.R. SP No. 136570 are REVERSED. Civil Case No. 368-M2008 is ORDERED
+REMANDED to the Regional Trial Court of Malolos City,
 Bulacan, Branch 81 for the proper determination of just compensation in
 accordance with this Decision.
 SO ORDERED.
@@ -472,7 +475,8 @@ CNI = Capitalized Net Income
 CS = Comparable Sales
 MV = Market Value Per Tax Declaration
 
-22. DAR AO No. 5-98 (1998), Section II, A.2. When the CNI factor is not present, and
+22. DAR AO No. 5-98 (1998), Section II, A.2. When the CNI factor is not present,
+and
 CS and MV are applicable, the formula shall be: LV = (CS x 0.9) + (MV x 0.1).
 23. Rollo (G.R. No. 229274), pp. 89-90.
 24. Id. at 90.
@@ -502,7 +506,8 @@ Associate Justices Franchito N. Diamante and Carmelita SalandananManahan.
 2019; Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc.,
 814 Phil. 157, 166 (2017); Land Bank of the Philippines v. Omengan, 813
 Phil. 901, 911 (2017).
-44. See Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc., id. at
+44. See Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc., id.
+at
 166, citing Alfonso v. LBP , 801 Phil. 217 (2016).
 45. See Land Bank of the Philippines v. Briones-Blanco, supra note 43.
 46. Land Bank of the Philippines v. Rural Bank of Hermosa (Bataan), Inc., supra

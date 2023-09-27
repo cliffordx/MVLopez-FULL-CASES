@@ -25,7 +25,8 @@ Banc in CTA EB No. 1334, which aﬃrmed the CTA Division's Decision 5 dated
 March 31, 2015 and Resolution 6 dated June 24, 2015 in CTA Case Nos. 8553
 and 8562, ordering the Commissioner of Internal Revenue (CIR) to refund in
 favor of Philex Mining Corporation (Philex Mining) the amount of
-P51,734,898.99, representing its unutilized input VAT attributable to its zerorated sales for the second and third quarters of the taxable year (TY) 2010.
+P51,734,898.99, representing its unutilized input VAT attributable to its zerorated
+sales for the second and third quarters of the taxable year (TY) 2010.
 ANTECEDENTS
 Philex Mining is a domestic corporation engaged in the mining
 business, such as the exploration and operation of mining properties and the
@@ -218,7 +219,8 @@ If the sale is subject to zero percent (0%)
 VAT, the term "zero-rated sale" shall be written or printed
 prominently on the invoice or receipt[.] x x x. (Emphases
 supplied.)
-From the foregoing, it is apparent that importation of noncapital goods must be evidenced by import entry declarations or any
+From the foregoing, it is apparent that importation of noncapital goods must be evidenced
+by import entry declarations or any
 equivalent document; and the domestic purchase of services, by VAT
 oﬃcial receipts showing: (1) that the seller is a VAT-registered
 person; (2) the Tax Identiﬁcation Number (TIN) of the seller; (3) the
@@ -228,7 +230,8 @@ of service, as well as the name, business style, if any, and address of
 the purchaser; and (5) the TIN of the purchaser. 39 Case law states
 that failure to comply with the invoicing requirements is suﬃcient
 ground to deny the claim for refund or tax credit. 40 Too, Revenue
-Memorandum Circular No. 42-2003 41 only provides for noncompliance with the invoicing requirements as a ground for denial of
+Memorandum Circular No. 42-2003 41 only provides for noncompliance with the invoicing
+requirements as a ground for denial of
 the claim for refund or credit, viz.:
 Q-13:
 
@@ -247,7 +250,8 @@ sales by the taxpayer but it fails to comply with the invoicing
 requirements in the issuance of sales invoices (e.g., failure to
 indicate the TIN), its claim for tax credit/refund of VAT on its
 purchases shall be denied considering that the invoice it is
-issuing to its customers does not depict its being a VATregistered taxpayer whose sales are classiﬁed as zero-rated
+issuing to its customers does not depict its being a VATregistered taxpayer whose
+sales are classiﬁed as zero-rated
 sales. x x x. (Emphases supplied.)
 
 The reason for strict compliance with invoicing requirements is only a
@@ -341,7 +345,8 @@ requirements provided by law and, hence, the CTA En Banc's partial
 grant of its refund on that ground should be upheld. 53 (Emphasis
 supplied; citation omitted.)
 
-Meanwhile, the invoices and oﬃcial receipts issued by the taxpayerclaimant in Sitel were not imprinted with its TIN followed by the word "VAT."
+Meanwhile, the invoices and oﬃcial receipts issued by the taxpayerclaimant in Sitel
+were not imprinted with its TIN followed by the word "VAT."
 We ruled that the invoices and oﬃcial receipts cannot be considered as VAT
 invoices or official receipts that would give rise to any creditable input VAT in
 favor of Sitel.
@@ -501,7 +506,8 @@ that require prior ﬁling of monthly VAT declarations as a condition precedent
 to the entitlement for refund. While admittedly, Section 114 (A) 60 of the Tax
 Code, as implemented by Section 4.114-1 61 of RR No. 16-2005, requires the
 taxpayer to pay VAT on a monthly basis, the Tax Code and relevant revenue
-regulations do not provide denial of the claim as a consequence of noncompliance. The failure to pay VAT every month may give rise to the
+regulations do not provide denial of the claim as a consequence of noncompliance.
+The failure to pay VAT every month may give rise to the
 payment of penalties but it does not aﬀect the taxpayer's entitlement to its
 claim for refund as long as it has suﬃciently shown that the VAT has in fact
 been paid. Here, the CTA examined the voluminous documents submitted by
@@ -629,7 +635,8 @@ xxx xxx xxx
 (A) In General. — Every person liable to pay the value-added tax imposed
 under this Title shall file a quarterly return of the amount of his gross sales or
 receipts within twenty-five (25) days following the close of each taxable
-quarter prescribed for each taxpayer: Provided, however, That VATregistered persons shall pay the value-added tax on a monthly basis.
+quarter prescribed for each taxpayer: Provided, however, That VATregistered persons
+shall pay the value-added tax on a monthly basis.
 xxx xxx xxx
 30. SEC. 4.114-1. Filing of Return and Payment of VAT. —
 (A) Filing of Return. — x x x
@@ -674,7 +681,8 @@ Provided, That:
 (a) The amount of the tax shall be shown as a separate item in the invoice or
 receipt;
 xxx xxx xxx
-(c) If the sale is subject to zero percent (0%) value-added tax, the term 'zerorated sale' shall be written or printed prominently on the invoice or receipt;
+(c) If the sale is subject to zero percent (0%) value-added tax, the term 'zerorated
+sale' shall be written or printed prominently on the invoice or receipt;
 xxx xxx xxx
 (3) The date of transaction, quantity, unit cost and description of the goods or
 properties or nature of the service; x x x.
@@ -694,7 +702,8 @@ xxx xxx xxx
 39. See Section 237 of the Tax Code.
 40. Eastern Telecommunications Phils., Inc. v. Commissioner of Internal Revenue,
 693 Phil. 464, 472 (2012).
-41. Clarifying Certain Issues Raised Relative to the Processing of Claims for ValueAdded Tax (VAT) Credit/Refund, Including Those Filed with the Tax and
+41. Clarifying Certain Issues Raised Relative to the Processing of Claims for ValueAdded
+Tax (VAT) Credit/Refund, Including Those Filed with the Tax and
 Revenue Group, One-Stop Shop Inter-Agency Tax Credit and Duty Drawback
 Center, Department of Finance (OSS) by Direct Exporters; dated July 15,
 2003.
@@ -716,7 +725,8 @@ dated March 17, 1947.
 52. Supra note 48, at 340-341.
 53. Supra note 50.
 54. Supra note 51, at 485-487.
-55. Villanueva, Jr. v. CA, 429 Phil. 194, 202 (2002); Delta Motors Corp. v. CA , G.R.
+55. Villanueva, Jr. v. CA, 429 Phil. 194, 202 (2002); Delta Motors Corp. v. CA ,
+G.R.
 No. 121075, July 24, 1997, 342 Phil. 173, 186 (1997).
 56. 748 Phil. 774 (2014).
 57. Id. at 787-789.
@@ -727,7 +737,8 @@ No. 121075, July 24, 1997, 342 Phil. 173, 186 (1997).
 (A) In General. — Every person liable to pay the value-added tax imposed
 under this Title shall file a quarterly return of the amount of his gross sales or
 receipts within twenty-five (25) days following the close of each taxable
-quarter prescribed for each taxpayer: Provided, however, That VATregistered persons shall pay the value-added tax on a monthly basis. x x x.
+quarter prescribed for each taxpayer: Provided, however, That VATregistered persons
+shall pay the value-added tax on a monthly basis. x x x.
 61. SEC. 4.114-1. Filing of Return and Payment of VAT. —
 (A) Filing of Return. — x x x
 xxx xxx xxx

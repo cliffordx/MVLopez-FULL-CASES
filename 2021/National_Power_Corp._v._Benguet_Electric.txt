@@ -199,7 +199,8 @@ elements must be present: (1) that the defendant has been enriched,
 the defendant is without just or legal ground, and (4) that the
 plaintiﬀ has no other action based on contract, quasicontract, crime or quasi-delict.
 An accion in rem verso is considered merely an auxiliary action,
-available only when there is no other remedy on contract, quasicontract, crime, and quasi-delict. If there is an obtainable action
+available only when there is no other remedy on contract, quasicontract, crime, and
+quasi-delict. If there is an obtainable action
 under any other institution of positive law, that action must
 be resorted to, and the principle of accion in rem verso will
 not lie. 47 (Italics in the original, emphases supplied, and citations

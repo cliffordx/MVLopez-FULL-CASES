@@ -12,7 +12,8 @@ This Petition for Review on Certiorari 1 under Rule 45 of the Revised
 Rules of Court questions the Decision 2 dated January 26, 2015 and
 Resolution 3 dated June 10, 2015 of the Court of Appeals (CA) in CA-G.R. CV
 No. 04327, which set aside the Decision 4 dated October 25, 2011 of the
-Regional Trial Court (RTC) of Cebu City, Branch 7, in Civil Case No. CEB33782. The petition solely dwells on the requisite written notice for the
+Regional Trial Court (RTC) of Cebu City, Branch 7, in Civil Case No. CEB33782. The
+petition solely dwells on the requisite written notice for the
 exercise of the right of redemption under Article 1623 of the New Civil Code:
 
 
@@ -374,7 +375,8 @@ Since the law provides no remedy in cases attended by the following
 factors: (1) peculiar circumstances that gave the co-owners suﬃcient
 knowledge of the sale and its particulars; and (2) laches on the part of the
 redemptioners, the Court yielded towards equity.
-The peculiar circumstances contemplated are those that gave the coowners suﬃcient knowledge of the sale and its particulars so that they can
+The peculiar circumstances contemplated are those that gave the coowners suﬃcient
+knowledge of the sale and its particulars so that they can
 properly exercise their redemption right. On this score, we emphasize the
 rationale behind the mandatory written notice, i.e., "to remove all
 uncertainties as to the sale, its terms, and its validity, and to quiet any
@@ -427,7 +429,8 @@ To be sure, in subsequent cases which adhered to the Alonzo doctrine,
 the Court was heedful in not disregarding the purpose of the mandatory
 written requirement, and mindful of the existence of laches. To cite a few, in
 Distrito v. Court of Appeals, 49 the Court deemed the co-owner, who acted as
-middleman and witnessed the execution of the deed of sale of the coowner's share, to have been suﬃciently notiﬁed of such sale despite lack of
+middleman and witnessed the execution of the deed of sale of the coowner's share,
+to have been suﬃciently notiﬁed of such sale despite lack of
 written notice because his participation in the sale removed all doubt as to
 its perfection and gave him all the necessary information to enable him to
 exercise his right of redemption. Despite such knowledge of the sale, the
@@ -515,7 +518,8 @@ notice from the vendor under Article 1623. Nonetheless, it may not go amiss
 to state that in such obiter, the Court was still cognizant of the purpose of
 the required written notice, i.e., to well-equip the redemptioners to exercise
 their right. In short, consistent with the prevailing jurisprudence, mere actual
-knowledge of the sale is not suﬃcient to commence the running of the 30day period absent all the necessary information pertinent for the proper
+knowledge of the sale is not suﬃcient to commence the running of the 30day period
+absent all the necessary information pertinent for the proper
 exercise of the right.
 In all, the 30-day redemption period under Article 1623 should be
 reckoned from Hermelina's receipt of the Deed of Absolute Sale on

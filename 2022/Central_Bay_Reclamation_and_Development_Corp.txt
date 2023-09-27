@@ -200,7 +200,8 @@ Similarly, the COA refused to award interest and bank charges on loans
 because the government is not privy to Central Bay's transaction with any
 ﬁnancial institution. The COA likewise excluded the alleged foreign exchange
 losses since they are part of Central Bay's investment risk as project
-ﬁnancer. The COA also held that the government is not liable for the preoperating and operating expenses because they are not directly related to
+ﬁnancer. The COA also held that the government is not liable for the preoperating
+and operating expenses because they are not directly related to
 the project. Lastly, the COA declined to impose legal interest on the allowed
 money claims because it is contrary to the principle of quantum meruit
 which permits recovery of reasonable value regardless of any agreement, 15
@@ -208,7 +209,8 @@ thus:
 WHEREFORE, premises considered, the Petition for Money Claim
 of Central Bay Reclamation and Development Corporation against the
 Philippine Reclamation Authority, for reimbursement of expenses in
-the implementation of the Reclamation Project along the ManilaCavite Coastal Road, is PARTIALLY GRANTED in the amount of
+the implementation of the Reclamation Project along the ManilaCavite Coastal Road,
+is PARTIALLY GRANTED in the amount of
 [P]714,937,790.29, subject to availability of funds and the usual
 accounting and auditing rules and regulations. 16
 
@@ -609,7 +611,8 @@ Code of 1987; and Section 87, Chapter 4, Title II of Presidential Decree No.
 
 SO ORDERED.
 
-Gesmundo, C.J., Perlas-Bernabe, Leonen, Caguioa, Hernando, LazaroJavier, Inting, Zalameda, Gaerlan, Rosario, J.Y. Lopez, Dimaampao, Marquez
+Gesmundo, C.J., Perlas-Bernabe, Leonen, Caguioa, Hernando, LazaroJavier, Inting,
+Zalameda, Gaerlan, Rosario, J.Y. Lopez, Dimaampao, Marquez
 and Kho, Jr., JJ., concur.
 Footnotes
 1. Strategic Alliance Development Corporation v. Radstock Securities Limited , 622
@@ -636,13 +639,15 @@ Chairperson Michael G. Aguinaldo, no participation.
 18. Id. at 3-39.
 19. Id. at 15-37.
 20. Id. at 420-426.
-21. See Section 2 (1) and (2) D, Article IX of the 1987 Constitution. See also Yap v.
+21. See Section 2 (1) and (2) D, Article IX of the 1987 Constitution. See also Yap
+v.
 COA, 633 Phil. 174, 189 (2010).
 22. See Paraiso-Aban v. COA , 777 Phil. 730, 736 (2016); Delos Santos v. COA, 716
 
 Phil. 322, 332 (2013); and Sanchez v. COA, 575 Phil. 428, 444-445 (2008).
 23. Miralles v. COA , 818 Phil. 380, 389 (2017).
-24. Technical Education and Skills Development Authority v. COA , 729 Phil. 60, 7273 (2014). See also Yap v. COA , supra note 21, at 195-196.
+24. Technical Education and Skills Development Authority v. COA , 729 Phil. 60, 7273
+(2014). See also Yap v. COA , supra note 21, at 195-196.
 25. Metropolitan Waterworks and Sewerage System v. COA, 821 Phil. 117, 138
 (2017).
 26. PVC Investment & Management Corporation v. Borcena, 507 Phil. 668, 681

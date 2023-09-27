@@ -199,7 +199,8 @@ digital signature requirement was not categorical but a mere obiter dictum.
 23
 
 On May 2, 2019, United Filipino Consumers & Commuters, Froilan M.
-Dollente, and Teoﬁlo Parilla intervened in the case. They supported AESWATCH, et al., and urged the COMELEC to submit a complete list of the
+Dollente, and Teoﬁlo Parilla intervened in the case. They supported AESWATCH, et
+al., and urged the COMELEC to submit a complete list of the
 Media Access Control (MAC) and Internet Protocol (IP) addresses in the 2019
 National Elections. On May 10, 2019, Bagumbayan-VNP Movement, Inc.
 likewise intervened. It adopted the AES-WATCH, et al.'s arguments and
@@ -259,7 +260,8 @@ assure that concrete adverseness which sharpens the presentation of issues
 upon which the court [so largely] depends for illumination of diﬃcult
 constitutional questions." 34
 This Court has previously ruled that for suits ﬁled by taxpayers,
-legislators, or concerned citizens, they must still claim some kind of injuryin-fact and allege that the continuing act has denied them some right or
+legislators, or concerned citizens, they must still claim some kind of injuryin-fact
+and allege that the continuing act has denied them some right or
 privilege to which they are entitled. 35 These parties have no legal standing
 unless they sustained or are in imminent danger of sustaining an injury as a
 result of the complained act. 36
@@ -964,7 +966,8 @@ promulgated on December 6, 2018.
 religious groups, election reform advocacy group, and anti-crime/corruption
 groups. The individual petitioners are composed of church leaders and
 advocates of election reforms and anti-crime and corruption; rollo, pp. 3-46.
-21. Petitioners combined the words "camera" and "karambola" (to shuffle); id. at 7.
+21. Petitioners combined the words "camera" and "karambola" (to shuffle); id. at
+7.
 22. Id.
 23. Rollo , p. 24.
 24. Id. at 98-129.
@@ -1006,13 +1009,15 @@ Barnes & Co. Ltd., 88 Phil. 125, 131 [1951]).
 34. J.G. Summit Holdings, Inc. v. CA, 490 Phil. 579 (2005).
 35. Falcis III v. Civil Registrar General, G.R. No. 217910, September 3, 2019, citing
 Francisco, Jr. v. House of Representatives, 460 Phil. 830 (2003).
-36. Private Hospitals Association of the Philippines, Inc. (PHAPi) v. Medialdea, G.R.
+36. Private Hospitals Association of the Philippines, Inc. (PHAPi) v. Medialdea,
+G.R.
 No. 234448, November 6, 2018, 884 SCRA 350, 416.
 37. See Guingona, Jr. v. COMELEC, 634 Phil. 516 (2010); Roque, Jr. v. COMELEC,
 615 Phil. 149 (2009); See also Integrated Bar of the Phils. v. Hon. Zamora,
 392 Phil. 618 (2000).
 38. Rollo , p. 78.
-39. See Francisco, Jr. v. The House of Representatives, 460 Phil. 830, 899 (2003). In
+39. See Francisco, Jr. v. The House of Representatives, 460 Phil. 830, 899 (2003).
+In
 that case, the Court observed that it has "adopted a liberal attitude on the
 locus standi of a petitioner where the petitioner is able to craft an issue of
 transcendental significance to the people, as when the issues raised are of
@@ -1062,8 +1067,10 @@ as a system for absentee voting by qualified Filipinos abroad;" See RA No.
 56. See Aratuc v. COMELEC , 177 Phil. 205, 224 (1979).
 57. 73 Phil. 288 (1941).
 58. Id. at 294-296.
-59. So v. Hon. Tacla, Jr., 648 Phil. 149, 163 (2010), citing David v. MacapagalArroyo, 522 Phil. 705, 753 (2006).
-60. MAC or Media Access Control address refers to a unique identifier assigned to a
+59. So v. Hon. Tacla, Jr., 648 Phil. 149, 163 (2010), citing David v. MacapagalArroyo,
+522 Phil. 705, 753 (2006).
+60. MAC or Media Access Control address refers to a unique identifier assigned to
+a
 network device. It is made up of six two-digit hexadecimal numbers
 separated by colons. It is permanently embedded on the device and assigned
 by the vendor or manufacturer of the device. MAC Address, the Tech Terms

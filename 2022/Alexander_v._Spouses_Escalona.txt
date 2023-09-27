@@ -392,7 +392,8 @@ the Court in Cueno adopted the second view as the correct rule and
 abandoned all contrary cases. Thus, a sale that fails to comply with Article
 166 is not "void" but merely "voidable" in accordance with Article 173 of the
 Civil Code. The ruling in Cueno cited the following cases which espoused the
-second view, namely, Villocino v. Doyon, 32 Roxas v. CA , 33 Heirs of AguilarReyes v. Spouses Mijares , 34 Villaranda v. Spouses Villaranda 35 (Villaranda),
+second view, namely, Villocino v. Doyon, 32 Roxas v. CA , 33 Heirs of AguilarReyes
+v. Spouses Mijares , 34 Villaranda v. Spouses Villaranda 35 (Villaranda),
 Spouses Vera Cruz v. Calderon, 36 Vda. De Ramones v. Agbayani 37 (Vda. De
 Ramones), Bravo-Guerrero v. Bravo, 38 Heirs of Hernandez, Sr. v. Mingoa,
 Sr., 39 Ros v. Philippine National Bank-Laoag Branch, 40 and Mendoza v.
@@ -1022,7 +1023,8 @@ comply with Article 166 produce effects. The time-bound nature of the
 remedy provided under Article 173, in contrast to the imprescriptible
 nature of void contracts, demonstrates the voidable character of such
 contracts since the failure to bring the action within the period
-provided renders the contract between the husband and the thirdperson perfectly valid and binding. Vda. De Ramones v. Agbayani
+provided renders the contract between the husband and the thirdperson perfectly valid
+and binding. Vda. De Ramones v. Agbayani
 already held that "the wife's failure to ﬁle with the courts an action
 for annulment of the contract during the marriage and within ten (10)
 years from the transaction shall render the sale valid." Indeed, even
@@ -1313,7 +1315,8 @@ supplied)
 
 In contrast, void dispositions under Article 124 of the Family Code,
 while also dubbed "void," are expressly deemed as a continuing oﬀer which
-may be perfected and accepted either by consent of the previously nonconsenting spouse or by confirmation of the court, viz.:
+may be perfected and accepted either by consent of the previously nonconsenting spouse
+or by confirmation of the court, viz.:
 
 ART. 124.
 The administration and enjoyment of the conjugal
@@ -1823,7 +1826,8 @@ the Family Code.
 82. Heirs of Lopez v. Development Bank of the Philippines, 747 Phil. 427, 444
 (2014).
 83. Spouses Fuentes v. Roca, supra note 62, at 20.
-84. Article 22 of the Civil Code provides that "[e]very person who, through an act of
+84. Article 22 of the Civil Code provides that "[e]very person who, through an act
+of
 performance by another, or any other means, acquires or comes into
 possession of something at the expense of the latter without just or legal
 ground, shall return the same to him."
@@ -1877,7 +1881,8 @@ the contract cannot be ascertained;
 These contracts cannot be ratified. Neither can the right to set up the
 
 defense of illegality be waived.
-6. ARTICLE 1410. The action or defense for the declaration of the inexistence of a
+6. ARTICLE 1410. The action or defense for the declaration of the inexistence of
+a
 contract does not prescribe.
 7. Spouses Cueno v. Spouses Bautista , supra note 3.
 8. Id.
@@ -1885,7 +1890,8 @@ contract does not prescribe.
 10. Id.
 11. Ponencia , p. 12.
 12. Director of Lands v. Court of Appeals, 260 Phil. 477, 486 (1990).
-13. Susi v. Razon, 48 Phil. 424 (1925); see also 12 C.J., Sec. 485, p. 955 cited in
+13. Susi v. Razon, 48 Phil. 424 (1925); see also 12 C.J., Sec. 485, p. 955 cited
+in
 Balboa v. Farrales , 51 Phil. 498, 502 (1928).
 14. Tan, Jr. v. Court of Appeals, 424 Phil. 556, 569 (2002).
 15. 424 Phil. 933 (2002).
@@ -1956,7 +1962,8 @@ construed as a continuing offer on the part of the consenting spouse and the
 third person, and may be perfected as a binding contract upon the
 acceptance by the other spouse or authorization by the court before the offer
 is withdrawn by either or both offerors.
-10. Family Code, Article 256. This Code shall have retroactive effect insofar as it
+10. Family Code, Article 256. This Code shall have retroactive effect insofar as
+it
 does not prejudice or impair vested or acquired rights in accordance with the
 
 Civil Code or other laws.

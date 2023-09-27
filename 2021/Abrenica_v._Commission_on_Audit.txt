@@ -76,7 +76,8 @@ was also rejected as A.M. No. 03-9-02-SC was already promulgated when the
 questioned grant was given. 18 Thus, in its Decision No. 2010-00319 dated
 April 16, 2010, the COA NGS sustained the ND:
 WHEREFORE, in view of the foregoing, the instant Appeal is
-hereby DENIED for lack of merit. Accordingly, ND No. 09-006101(MDS)-(09) dated November 23, 2009 is AFFIRMED and the
+hereby DENIED for lack of merit. Accordingly, ND No. 09-006101(MDS)-(09) dated November
+23, 2009 is AFFIRMED and the
 concerned SLH personnel are hereby ordered to refund for (sic) the
 overpayment of hazard pay they received for the period January-June,
 2009, as shown in the attached computation (Annex A). 20 (Emphases
@@ -122,10 +123,12 @@ appeal an ND under the provisions 31 of the 2009 RRPC. In any case, the
 OSG maintains that no grave abuse of discretion can be imputed against the
 COA Proper in citing A.M. No. 03-9-02-SC when it aﬃrmed the ND. The OSG
 argues that there is no constitutionality issue in this case. Rather, the issue
-is merely on the validity of the exercise of an administrative agency's rulemaking power. 
+is merely on the validity of the exercise of an administrative agency's rulemaking
+power. 
 In that regard, the Court had determined in A.M. No. 03-9-02SC that the DOH 
 exceeded its authority in prescribing a ﬁxed rate of hazard
-pay in DOH AO No. 2006-0011 as RA No. 7305 explicitly prescribed a salarybased rate. 
+pay in DOH AO No. 2006-0011 as RA No. 7305 explicitly prescribed a salarybased rate.
+
 Hence, the Court concluded that the DOH issuance is void insofar
 as it prescribed that ﬁxed rate. Such determination was done in the
 discharge of the Court's constitutional mandate to interpret the law, which
@@ -392,10 +395,12 @@ request. The FMBO favored conformity with the ﬁxed rate in DOH AO No.
 unfair allocation of hazard pay under Section 21 of RA No. 7305. The OCAT,
 however, posited otherwise due to the doubtful validity of the mechanics of
 payment under the DOH issuance, as well as its non-publication. Speciﬁcally,
-the OCAT pointed out that the DOH AO does not conform to the salaryproportioned rates under Section 21 of RA No. 7305. 53 These conﬂicting
+the OCAT pointed out that the DOH AO does not conform to the salaryproportioned rates
+under Section 21 of RA No. 7305. 53 These conﬂicting
 propositions eﬀectively put into inquiry the validity of the invoked provision
 in DOH AO No. 2006-0011. The administrative matter thus took on an
-adversary character, necessitating the Court to exercise its constitutionallymandated power and duty to interpret and apply the governing law in an
+adversary character, necessitating the Court to exercise its constitutionallymandated
+power and duty to interpret and apply the governing law in an
 actual controversy. Verily, unless the Court's determination on the invalidity
 of the ﬁxed rate of hazard pay under DOH AO No. 2006-0011 was a mere
 obiter dictum in A.M. No. 03-9-02-SC, such application and interpretation of
@@ -452,7 +457,8 @@ separation of powers ordains that each of the three great branches of
 government has exclusive cognizance of and is supreme in matters falling
 within its own constitutionally-allocated sphere. 65 Our Constitution has
 given the country a well-laid out and balanced division of powers, distributed
-among the legislative, executive and judicial branches with speciallyestablished oﬃces geared to accomplish speciﬁc objectives to strengthen
+among the legislative, executive and judicial branches with speciallyestablished
+oﬃces geared to accomplish speciﬁc objectives to strengthen
 the whole constitutional structure. 66 Thus, the legislative branch is vested
 with the power to make and enact laws; the executive branch is tasked with
 the enforcement of the laws; while the judicial branch is mandated to
@@ -505,7 +511,8 @@ Administrative or executive acts, orders and regulations shall
 be valid only when they are not contrary to the laws or the
 Constitution.
 
-We stress, an administrative rule or regulation, like DOH AO No. 20060011, may be considered valid only if it conforms, and not contradicts, the
+We stress, an administrative rule or regulation, like DOH AO No. 20060011, may be
+considered valid only if it conforms, and not contradicts, the
 provisions of the enabling law. 74 Necessarily, if a discrepancy occurs
 between the basic law and an implementing rule or regulation, it is the
 former that prevails, because the law cannot be limited nor broadened by
@@ -647,7 +654,8 @@ Abellanosa 91 that such exceptions shall be "limited to disbursements
 adequately supported by factual and legal bas[e]s, but were nonetheless
 validly disallowed x x x on account of procedural inﬁrmities." 92 Similarly,
 factors such as "ostensible statutory/legal cover" for the grant and its "clear,
-direct, and reasonable connection to the actual performance of the Payeerecipients' oﬃcial work and functions" must be considered in excusing the
+direct, and reasonable connection to the actual performance of the Payeerecipients'
+oﬃcial work and functions" must be considered in excusing the
 recipients' liability on equitable grounds. 93
 
 The disallowed amounts in this case represent the excess in the hazard
@@ -745,7 +753,8 @@ Commissioner Heidi L. Mendoza and Jose A. Fabia.
 health units, main health centers, health infirmaries, barangay health
 stations, clinics and other health-related establishments located in difficult
 areas, strife-torn or embattled areas, distressed or isolated stations, prisons
-camps, mental hospitals, radiation-exposed clinics, laboratories or diseaseinfested areas or in areas declared under state of calamity or emergency for
+camps, mental hospitals, radiation-exposed clinics, laboratories or diseaseinfested
+areas or in areas declared under state of calamity or emergency for
 the duration thereof which expose them to great danger, contagion,
 
 radiation, volcanic activity/eruption, occupational risks or perils to life as
@@ -840,7 +849,8 @@ REVISED RULES OF PROCEDURE OF THE [COA]," approved on August 17,
 38. See Fortune Life Insurance Company, Inc. v. COA Proper , 752 Phil. 97, 106
 (2015), citing Pates v. COMELEC , 609 Phil. 260, 263-269 (2009).
 39. Rollo, p. 3.
-40. SEC. 51. Finality of decisions of the Commission or any auditor. — A decision of
+40. SEC. 51. Finality of decisions of the Commission or any auditor. — A decision
+of
 the Commission or of any auditor upon any matter within its or his
 jurisdiction, if not appealed as herein provided, shall be final and executory.
 41. Entitled "ORDAINING AND INSTITUTING A GOVERNMENT AUDITING CODE OF
@@ -874,7 +884,8 @@ shall form a part of the legal system of the Philippines.
 55. People v. Jabinal, 154 Phil. 565, 571 (1974).
 
 56. See id.
-57. By analogy, it is settled that the inapplicability of the doctrine of res judicata to
+57. By analogy, it is settled that the inapplicability of the doctrine of res judicata
+to
 administrative proceedings is limited only to those which are purely
 administrative in nature. When the administrative proceedings became
 adversarial in nature, the doctrine of res judicata certainly applies. (See Heirs

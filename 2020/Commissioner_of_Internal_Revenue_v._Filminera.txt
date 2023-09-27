@@ -9,7 +9,8 @@ DECISION
 
 M. V. LOPEZ, J :
 
-Proof of actual exportation of goods sold by a Value-Added Tax (VAT)registered taxpayer to a Board of Investments (BOI)-registered enterprise is
+Proof of actual exportation of goods sold by a Value-Added Tax (VAT)registered taxpayer
+to a Board of Investments (BOI)-registered enterprise is
 vital for the transaction to be considered as zero-rated export sales.
 This is a Petition for Review on Certiorari 1 ﬁled under Rule 45 of the
 Rules of Court assailing the Decision 2 dated March 29, 2017 and Resolution
@@ -185,7 +186,8 @@ refund — the third and fourth quarters of FY 2010 or from January 1 to June
 30, 2010. The BOI Certiﬁcation, therefore, does not satisfy one of the
 conditions imposed under the 1997 NIRC that the BOI-registered buyer
 exported 100% of its products. Also, the extension of the validity period of
-the certiﬁcation until December 31, 2010 is intended to give the sellertaxpayer an extended period to avail of the beneﬁts of zero-rating and does
+the certiﬁcation until December 31, 2010 is intended to give the sellertaxpayer an
+extended period to avail of the beneﬁts of zero-rating and does
 not apply to subsequent sales not identified in the certification.
 Essentially, the issue is whether the sales made to PGPRC for the third
 and fourth quarters of the FY ending June 30, 2010 are zero-rated export
@@ -280,7 +282,8 @@ territorial border of the Philippines. This principle is achieved
 through the application of VAT zero-rating products exported
 from the Philippines to foreign countries. Furthermore, Article
 25 of the Omnibus Investments Code provides, among others, that
-products sold "to bonded manufacturing warehouses of exportoriented manufacturers shall be considered "constructively exported"
+products sold "to bonded manufacturing warehouses of exportoriented manufacturers
+shall be considered "constructively exported"
 while Section 106(A)(2)(a)(5) NIRC of 1997, provides for the
 application of zero rating to "those considered export sales
 under Executive Order No. 226, otherwise known as the
@@ -382,7 +385,8 @@ Accordingly, sales made to a BOI-registered buyer are export sales
 subject to the zero percent rate if the following conditions are met: (1) the
 buyer is a BOI-registered manufacturer/producer; (2) the buyer's products
 are 100% exported; and (3) the BOI certiﬁed that the buyer exported 100%
-of its products. For this purpose, the BOI Certiﬁcation is vital for the sellertaxpayer to avail of the beneﬁts of zero-rating. The certiﬁcation is evidence
+of its products. For this purpose, the BOI Certiﬁcation is vital for the sellertaxpayer
+to avail of the beneﬁts of zero-rating. The certiﬁcation is evidence
 that the buyer exported its entire products and shall serve as authority for
 the seller to claim for refund or tax credit.
 In the present case, the Certiﬁcation issued by the BOI to PGPRC on
@@ -447,7 +451,8 @@ shall be a ground for cancellation of BOI registration without prejudice
 to the institution of criminal and civil actions that may be warranted
 under the premises.
 This Certiﬁcation is issued pursuant to the Guidelines on the
-issuance of BOI Certiﬁcation per Revenue Memorandum Order No. 92000 entitled "Tax Treatment of Sales of Goods, Properties and
+issuance of BOI Certiﬁcation per Revenue Memorandum Order No. 92000 entitled "Tax
+Treatment of Sales of Goods, Properties and
 Services made by VAT-registered Suppliers to BOI-registered
 Manufacturers-Exporters with 100% Export Sales" dated February 2,
 2000.
@@ -515,7 +520,8 @@ The certiﬁcation having been issued by the BOI, there is a presumption that
 it was issued in the regular performance of oﬃcial duties. Thus, the supplier
 can rely on the certiﬁcation and accord zero-rating status to sales made to
 the BOI-registered buyer while the BOI certiﬁcation is valid. Consequently,
-the seller would be able to comply with the invoicing requirements. The BOIregistered buyer must, however, actually export its products. To be sure, the
+the seller would be able to comply with the invoicing requirements. The BOIregistered
+buyer must, however, actually export its products. To be sure, the
 certiﬁcation contains a proviso that the attestation of 100% exportation by
 the BOI-registered buyer will be revoked in case of non-compliance with any
 of the specified grounds, particularly, the failure to export its entire products:
@@ -529,7 +535,8 @@ Submission of fraudulent documents; and (d) Failure to submit
 Audited Financial Statements, Annual Income Tax Return and Annual
 Report on Actual Operations. 56 (Emphasis supplied.)
 
-Indeed, while the BOI certiﬁcation allows the seller to accord VAT zerorating status to sales made to the BOI-registered buyer during the extended
+Indeed, while the BOI certiﬁcation allows the seller to accord VAT zerorating status
+to sales made to the BOI-registered buyer during the extended
 period of the certiﬁcation, this must be pre-empted by the condition that the
 BOI-registered buyer actually and eventually exported such products. This is
 consistent with the Cross Border Doctrine and Destination Principle of the
@@ -538,7 +545,8 @@ principle that goods are taxed only in the country where these are consumed
 and that no VAT shall form part of the cost of products which are destined
 for consumption outside of the territorial border of the Philippines.
 
-Third. The validity period of the certiﬁcation is intended to accord zerorating status to sales made during the extended period, but not as proof that
+Third. The validity period of the certiﬁcation is intended to accord zerorating status
+to sales made during the extended period, but not as proof that
 
 PGPRC exported its entire products during the same period. This is logical
 since the BOI can attest to the actual exportation only after the end of the
@@ -660,7 +668,8 @@ For purposes of zero-rating, the export sales of registered export traders shall
 include commission income. The exportation of goods on consignment shall
 not be deemed export sales until the export products consigned are in fact
 sold by the consignee; and Provided, finally, that sales of goods,
-properties or services made by a VAT-registered supplier to a BOIregistered manufacturer/producer whose products are 100%
+properties or services made by a VAT-registered supplier to a BOIregistered manufacturer/producer
+whose products are 100%
 exported are considered export sales. A certification to this effect
 must be issued by the Board of Investment (BOI) which shall be
 good for one year unless subsequently re-issued by the BOI.
@@ -705,7 +714,8 @@ paragraph of section 2, Rule 42.
 34. Id. at 82-85.
 35. 390 Phil. 1245 (2000), cited in Atillo v. Bombay, 404 Phil. 179, 188 (2001).
 36. Id. at 1251.
-37. 381 Phil. 619 (2000). Relevant portion of the decision reads: ''Section 6 of Rule
+37. 381 Phil. 619 (2000). Relevant portion of the decision reads: ''Section 6 of
+Rule
 1 states that the Rules "shall be liberally construed in order to promote their
 objective of securing a just, speedy and inexpensive disposition of every
 action and proceeding." In line with this guideline, we do not construe the
@@ -761,7 +771,8 @@ potential to be developed into agro-industrial, industrial tourist/recreational,
 commercial, banking, investment and financial centers. See Sec. 4 (a), RA
 No. 7916.
 
-47. Tax Treatment of Sales of Goods, Properties and Services Made by VATregistered Suppliers to BOI-registered Manufacturers-Exporters with 100%
+47. Tax Treatment of Sales of Goods, Properties and Services Made by VATregistered
+Suppliers to BOI-registered Manufacturers-Exporters with 100%
 Export Sales, February 2, 2000.
 48. Id.
 49. Rollo , pp. 83-84.
@@ -781,7 +792,8 @@ Taxpayer's Identification Number (TIN);
 seller with the indication that such amount includes the value-added tax:
 Provided, that:
 xxx xxx xxx
-(c) If the sale is subject to zero percent (0%) value-added tax, the term "zerorated sale" shall be written or printed prominently on the invoice or receipt;
+(c) If the sale is subject to zero percent (0%) value-added tax, the term "zerorated
+sale" shall be written or printed prominently on the invoice or receipt;
 xxx xxx xxx
 51. SEC. 237. Issuance of Receipts or Sales or Commercial Invoices. — All persons
 subject to an internal revenue tax shall, for each sale and transfer of
@@ -804,14 +816,16 @@ TIN;
 (2) The total amount which the purchaser pays or is obligated to pay to the
 seller with the indication that such amount includes the VAT; Provided, That:
 xxx xxx xxx
-(c) If the sale is subject to zero percent (0%) VAT, the term "zerorated sale" shall be written or printed prominently on the invoice or
+(c) If the sale is subject to zero percent (0%) VAT, the term "zerorated sale" shall
+be written or printed prominently on the invoice or
 receipt;
 xxx xxx xxx. (Emphasis supplied.)
 53. See Western Mindanao Power Corp. v. Commissioner of Internal Revenue, 687
 Phil. 328 (2012); and Microsoft Phils., Inc. v. Commissioner of Internal
 Revenue, 662 Phil. 762 (2011). See also J.R.A. Philippines, Inc. v.
 Commissioner of Internal Revenue, 716 Phil. 566 (2013).
-54. Clarifying Certain Issues Raised Relative to the Processing of Claims for ValueAdded Tax (VAT) Credit/Refund, Including Those Filed with the Tax and
+54. Clarifying Certain Issues Raised Relative to the Processing of Claims for ValueAdded
+Tax (VAT) Credit/Refund, Including Those Filed with the Tax and
 Revenue Group, One-Stop Shop Inter-Agency Tax Credit and Duty Drawback
 Center, Department of Finance (OSS) by Direct Exporters, July 15, 2003.
 55. Revenue Memorandum Circular No. 42-2003; Q-13: Should penalty be imposed

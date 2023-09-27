@@ -177,7 +177,8 @@ On the other hand, Rule 43 of the Rules of Court provides that an appeal
 from the judgment or ﬁnal orders of voluntary arbitrators must be made
 within 15 days from notice. 21 With these, the Court has alternatively used
 the 10-day or 15-day reglementary periods. 22 In Guagua National Colleges
-v. CA , 23 the Court En Banc settled the confusion and clariﬁed that the 10day period in Article 276 should be understood as the time within which the
+v. CA , 23 the Court En Banc settled the confusion and clariﬁed that the 10day period
+in Article 276 should be understood as the time within which the
 adverse party may move for a reconsideration from the decision or award of
 the voluntary arbitrators. 24 Thereafter, the aggrieved party may appeal to
 the CA within 15 days from notice pursuant to Rule 43 of the Rules of Court,
@@ -280,7 +281,8 @@ Employment and the NCMB to revise or amend the rules of procedure in the
 conduct of voluntary arbitration to reﬂect the Guagua National Colleges
 decision. 27
 FOR THESE REASONS, the petition is GRANTED. The Court of
-Appeals' Resolutions dated March 8, 2018 and May 21, 2018 in CA-G.R. CEBSP No. 11429 are REVERSED and SET ASIDE. The case is REMANDED to
+Appeals' Resolutions dated March 8, 2018 and May 21, 2018 in CA-G.R. CEBSP No. 11429
+are REVERSED and SET ASIDE. The case is REMANDED to
 the Court of Appeals for a proper resolution on the merits with dispatch.
 
 
@@ -312,7 +314,8 @@ at 42.
 17. Id. at 10-11.
 18. Id. at 21-25; and 77-79.
 19. Id. at 69-71.
-20. Fourth paragraph of Article 276 of the Labor Code provides that "[t]he award or
+20. Fourth paragraph of Article 276 of the Labor Code provides that "[t]he award
+or
 decision of the Voluntary Arbitrator or panel of Voluntary Arbitrators shall
 contain the facts and the law on which it is based. It shall be final and
 executory after ten (10) calendar days from receipt of the copy of the award
@@ -335,7 +338,8 @@ Code.
 23. G.R. No. 188492, August 28, 2018, 878 SCRA 362.
 24. Id. at 384.
 25. Id. at 382-384.
-26. Columbia Pictures, Inc. v. CA , 329 Phil. 875, 908 (1996); See Co v. CA, 298 Phil.
+26. Columbia Pictures, Inc. v. CA , 329 Phil. 875, 908 (1996); See Co v. CA, 298
+Phil.
 221, 232 (1993); See also People v. Jabinal, 154 Phil. 565, 571 (1974); and
 Senarillos v. Hermosisima , 100 Phil. 501 (1956).
 27. Suelo, Jr. v. MST Marine Services (Phils.), Inc., G.R. No. 252914, November 9,
