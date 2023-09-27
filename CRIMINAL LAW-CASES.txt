@@ -1,0 +1,41 @@
+CRIMINAL LAW; Rape, acts of lasciviousness
+MVLopez-FULL-CASES/2020/People_v._XXX.txt
+MVLopez-FULL-CASES/2021/People_v._Diega_y_Zapico.txt
+MVLopez-FULL-CASES/2022/Austria_v._AAA.txt
+MVLopez-FULL-CASES/2022/Knutson_v._Sarmiento-Flores.txt
+MVLopez-FULL-CASES/2022/People_v._Arraz_y_Rodriguez.txt
+MVLopez-FULL-CASES/2023/People_v._Leocadio_y_Labrador.txt
+
+CRIMINAL LAW; Murder, Homicide, Conspiracy
+MVLopez-FULL-CASES/2020/JCLV_Realty_Development_Corp._v._Mangali.txt
+MVLopez-FULL-CASES/2020/People_v._Laguda_y_Rodibiso.txt
+MVLopez-FULL-CASES/2021/People_v._Campos.txt
+MVLopez-FULL-CASES/2021/People_v._Juada_y_Navarro.txt
+MVLopez-FULL-CASES/2022/People_v._Sualog.txt
+MVLopez-FULL-CASES/2022/Abuyo_y_Sagrit_v._People.txt
+MVLopez-FULL-CASES/2022/People_v._Sualog.txt
+MVLopez-FULL-CASES/2023/People_v._Leocadio_y_Labrador.txt
+
+CRIMINAL LAW; estafa, others
+MVLopez-FULL-CASES/2020/Collado_v._Dela_Vega.txt
+MVLopez-FULL-CASES/2020/JCLV_Realty_Development_Corp._v._Mangali.txt
+MVLopez-FULL-CASES/2020/Pilar_v._Ballicud.txt
+MVLopez-FULL-CASES/2020/Rivera_v._Dalangin.txt
+MVLopez-FULL-CASES/2020/Sullano_y_Santia_v._People.txt
+MVLopez-FULL-CASES/2021/Brasales_v._Borja.txt
+MVLopez-FULL-CASES/2021/Cacdac_v._Mercado.txt
+MVLopez-FULL-CASES/2021/Macasil_v._Fraud_Audit_and_Investigation.txt
+MVLopez-FULL-CASES/2021/Ngalob_v._Commission_on_Audit.txt
+MVLopez-FULL-CASES/2021/People_v._Diega_y_Zapico.txt
+MVLopez-FULL-CASES/2021/People_v._Juada_y_Navarro.txt
+MVLopez-FULL-CASES/2021/People_v._Napoles.txt
+MVLopez-FULL-CASES/2021/Tan_y_Sia_v._People.txt
+MVLopez-FULL-CASES/2022/Austria_v._AAA.txt
+MVLopez-FULL-CASES/2022/Homol_y_Romorosa_v._People.txt
+MVLopez-FULL-CASES/2022/Knutson_v._Sarmiento-Flores.txt
+MVLopez-FULL-CASES/2022/Matobato_Sr._v._People.txt
+MVLopez-FULL-CASES/2022/People_v._Arraz_y_Rodriguez.txt
+MVLopez-FULL-CASES/2022/People_v._Begino_y_Rogero.txt
+MVLopez-FULL-CASES/2022/People_v._Sualog.txt
+MVLopez-FULL-CASES/2022/Turalba_y_Villegas_v._People.txt
+
