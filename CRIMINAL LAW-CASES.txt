@@ -39,3 +39,6 @@ MVLopez-FULL-CASES/2022/People_v._Begino_y_Rogero.txt
 MVLopez-FULL-CASES/2022/People_v._Sualog.txt
 MVLopez-FULL-CASES/2022/Turalba_y_Villegas_v._People.txt
 
+CRIMINAL LAW; Section 3 (e) of [RA] No. 3019
+MVLopez-FULL-CASES/2023/Ismael_v._People.txt
+
