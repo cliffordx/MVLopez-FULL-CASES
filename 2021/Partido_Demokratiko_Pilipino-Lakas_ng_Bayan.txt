@@ -26,8 +26,8 @@ The deadline is "ﬁnal and non-extendible" and any submission ﬁled beyond
 such date will not be accepted. 3 This is pursuant to Section 14 of Republic
 Act (RA) No. 7166 4 which provides that the SOCEs must be ﬁled within 30
 days after the day of the elections, to wit:
-SEC. 14.
-Statement of Contributions and Expenditures:
+
+SEC. 14. Statement of Contributions and Expenditures:
 Effect of Failure to File Statement. — Every candidate and treasurer of
 the political party shall, within thirty (30) days after the day of
 the election, ﬁle in duplicate with the oﬃces of the Commission the
@@ -43,19 +43,21 @@ Except candidates for elective barangay office, failure to file the
 statements or reports in connection with electoral contributions and
 expenditures as required herein shall constitute an administrative
 oﬀense for which the oﬀenders shall be liable to pay an
-
 administrative fine ranging from One thousand pesos ([P]1,000.00)
 to Thirty thousand pesos ([P]30,000.00), in the discretion of the
 Commission.
+
 The ﬁne shall be paid within thirty (30) days from receipt of
 notice of such failure; otherwise, it shall be enforceable by a writ of
 execution issued by the Commission against the properties of the
 offender.
+
 It shall be the duty of every city or municipal election registrar
 to advise in writing, by personal delivery or registered mail, within
 ﬁve (5) days from the date of election all candidates residing in his
 jurisdiction to comply with their obligation to ﬁle their statements of
 contributions and expenditures.
+
 For the commission of a second or subsequent oﬀense under
 this section, the administrative ﬁne shall be from Two thousand pesos
 ([P]2,000.00) to Sixty thousand pesos ([P]60,000.00), in the
@@ -73,6 +75,7 @@ the statement of contributions and expenditures herein required" implies
 that the SOCEs may be submitted beyond the 30-day period. Moreover, the
 COMELEC previously allowed extension of time in ﬁling the SOCEs due to
 legal necessity and to prevent vacuum in the public service, 7 thus:
+
 WHEREAS, the Commission En Banc received several letter
 requests for extension of the deadline to ﬁle the required SOCE for
 the May 9, 2016 National and Local Elections (NLE);
@@ -88,6 +91,7 @@ the statement of contributions and expenditures herein
 required," implies that the SOCE may be ﬁled beyond the
 deadline of thirty (30) days from the date of the elections as
 fixed herein.
+
 NOW, THEREFORE, the Commission En Banc, RESOLVED x x x,
 to EXTEND the deadline of ﬁling the Statement of Contributions and
 Expenditures to 30 June 2016 x x x in order to: (a) enable candidates
@@ -101,7 +105,9 @@ during the 2016 NLE and to enable the Commission to initiate the
 ﬁling of administrative cases for the violation of Section 14 of
 Republic Act No. 7166 and election oﬀenses related to campaign
 finance.
+
 xxx xxx xxx
+
 We ﬁnd it abhorrent to adopt the erroneous
 interpretation that our duly elected public oﬃcials cannot
 assume oﬃce simply because of the failure of the party
@@ -113,8 +119,8 @@ not contemplated by the law. These are risks that the
 Commission is not willing to take. 8 (Emphases supplied and
 citation omitted.)
 
-On July 7, 2016, the Partido Demokratiko Pilipino-Lakas ng Bayan (PDPLaban) ﬁled
-a Petition for Certiorari 9 questioning COMELEC En Banc
+On July 7, 2016, the Partido Demokratiko Pilipino-Lakas ng Bayan 
+(PDPLaban) ﬁled a Petition for Certiorari 9 questioning COMELEC En Banc
 Resolution No. 10147. The PDP-Laban argues that the COMELEC exceeded
 the limits of its delegated rule-making authority and violated Section 14 of
 RA No. 7166 that the SOCEs must be ﬁled within 30 days after the elections.
@@ -143,7 +149,6 @@ candidate or political party. 13 More importantly, the submission of SOCEs
 strictly within the 30-day period will serve as an additional qualiﬁcation to
 political candidates outside those enumerated under the Constitution and
 the Local Government Code. Finally, the COMELEC counters that PDP-Laban
-
 is not entitled to the remedy of certiorari because it did not suﬀer any injury.
 14
 
@@ -158,6 +163,7 @@ enforcement of election laws. Lastly, the OSG argues that the COMELEC's
 attack against the validity of Section 14 of RA No. 7166 on the ground that it
 creates additional qualiﬁcations to political candidates is not the lis mota of
 the case and need not be discussed.
+
 Meantime, Leon Estrella Peralta, Melchor Gruela Magdamo, and Othello
 Estropigan Dalanon (Peralta, et al.), in their capacities as taxpayers, moved
 to intervene in the proceedings. Peralta, et al., reiterate the mandatory
@@ -176,6 +182,7 @@ legal standing to question
 COMELEC Resolution No. 10147
 because the legal issue involved is of
 transcendental importance.
+
 On procedural matters, it bears emphasis that judicial review may be
 exercised only when the party challenging the act has the requisite legal
 standing which refers to a personal and substantial interest in the case such
@@ -187,6 +194,7 @@ right of some third and unrelated party. 18 However, the Court has taken an
 increasingly liberal approach to the rule of locus standi, evolving from the
 stringent requirements of "personal injury" to the broader "transcendental
 importance" doctrine. 19
+
 Here, the PDP-Laban and Peralta, et al., are able to craft an issue of
 transcendental importance. The matters raised in the petition and motion for
 intervention involved possible violation of the Constitution, speciﬁcally, the
@@ -208,6 +216,7 @@ exempted candidates and political
 parties from administrative liabilities
 in violation of the clear language of
 the law and legislative intent.
+
 Anent the substantive issues, the Court rules that the COMELEC cannot
 validly extend the deadline for submission of the SOCEs and exempt the
 candidates and political parties from administrative liabilities. The Court
@@ -220,6 +229,7 @@ Diﬀerently stated, a statute that is clear is not susceptible to interpretatio
 and should be applied regardless of who may be aﬀected, even if the law is
 harsh and onerous. 22 The remedy is with Congress to modify or even
 abandon the law. 23
+
 Contrary to the COMELEC's interpretation, the commas separating the
 phrase "within thirty (30) days after the day of the election" from the rest of
 the ﬁrst sentence of Section 14 of RA No. 7166 do not make the period to
@@ -231,7 +241,8 @@ election " is preceded by the phrase "Every candidate and treasurer of the
 political party shall" and followed by the phrase "ﬁle in duplicate with the
 oﬃces of the Commission the full, true and itemized statement of all
 contributions and expenditures in connection with the election."
-I n Pilar v. COMELEC, 25 the Court explained that the word "shall"
+
+In Pilar v. COMELEC, 25 the Court explained that the word "shall"
 implies that the statute imposes a duty that may be enforced, particularly if
 public policy favors this meaning or where the public interest is involved. 26
 In said case, the Court held that the word "shall" in the ﬁrst sentence of
@@ -250,6 +261,7 @@ elections" becomes useless and meaningless. Indeed, the prompt submission
 of the SOCEs favors public policy and interest in promoting a culture of
 compliance with the campaign finance provisions towards a clean and honest
 election.
+
 Similarly, the COMELEC's interpretation that the 30-day period is
 extendible because of the phrase "until he has ﬁled the statement of
 contributions and expenditures herein required" in the second sentence of
@@ -262,9 +274,11 @@ intervening period from the expiration of 30 days to ﬁle SOCEs until
 assumption of oﬃce allows interested parties to inquire whether winning
 candidates submitted the required SOCEs and to prevent them from entering
 their official duties, if necessary.
+
 Also, the Congress opted to retain the provision despite proposal to
 delete the proscription from assuming oﬃcial duties against winning
 candidates who did not file the SOCEs, viz.:
+
 MR. ALBANO.
 Well, Mr. Speaker, again a provision on Section 15 states, "That
 no person elected to any public office shall enter upon the
@@ -278,6 +292,7 @@ many who did not comply with this provision. And yet, it is said
 here that he cannot assume his duties as such elected oﬃcial if
 he has failed to ﬁle the statement of contributions and
 expenditures. So, Mr. Speaker, how do we verify this?
+
 MR. PALACOL.
 Your Honor, there are oﬃces where the statement of
 contributions and expenses are supposed to be ﬁled. Now, 30
@@ -290,8 +305,8 @@ whether or not this particular winning candidate had ﬁled
 his statement of contribution and expenditures. Now, it
 says here that not until and unless this winning candidate has
 ﬁled his statement of contribution and expenses he cannot
-
 assume office.
+
 MR. ALBANO.
 It is very clear here, the provision that the elected one cannot
 enter upon the duties of his oﬃce. My question is, how can we
@@ -304,6 +319,7 @@ charges.
 
 
 xxx xxx xxx
+
 MR. PALACOL.
 . . . Your Honor, as I was stating, these 30 days period is
 allotted to any person who runs for a public office.
@@ -317,12 +333,14 @@ He is going to assume his oﬃce afternoon of June 30,
 go to the particular oﬃce and check there whether this
 particular winning candidate had ﬁled his statement. This
 is the scenario that will happen.
+
 MR. ALBANO.
 x x x. Why are we providing this, when this is only honored in
 breach than in compliance, Mr. Speaker? Is the Gentleman aware
 that there are even Members of Congress now facing criminal
 charges for failure to ﬁle statement of contributions and
 expenditures?
+
 MR. PALACOL.
 I am aware of that situation, your Honor, but as I was telling, your
 Honor, there is suﬃcient time within which to verify whether or
@@ -333,7 +351,9 @@ he ﬁle his statement of expenditure and contribution.
 Anyway, as I have stated a while ago, there are suﬃcient time.
 Our election is on May 11, 1992, and they are going to assume
 office only more than 30 days . . . 28
+
 xxx xxx xxx
+
 MR. ALBANO.
 Mr. Speaker, my last query was about the veriﬁcation of how to
 comply with item (b) of Section 15 and I would like to get the
@@ -341,11 +361,11 @@ reaction of our distinguished sponsor. How can this item (b) be
 fully implemented without being disregarded in the sense that an
 elected public oﬃce may enter into the duties of his oﬃce
 without complying with the ﬁling of the statement of
-
 expenditures and contributions? Because even in this very halls
 of Congress according to the Commission on Elections, there
 were many or there are members of Congress who are now
 facing criminal charges for violation of the Election Code.
+
 MR. PALACOL.
 Your Honor, we agree with you on the present situation that
 there are some winning candidates . . . there are some winning
@@ -364,39 +384,48 @@ required." In other words, it is the duty of the winning
 candidate to ﬁle his certiﬁcate of expenditures and
 contributions before he enters into assumption of his
 duties.
+
 Now, anybody can question this winning candidate. And of
 course, we know that there are oﬃces where a particular
 candidate has to ﬁle his certiﬁcate of statement of expenditures
 and contributions.
+
 MR. ALBANO.
 For the sake of argument, Mr. Speaker, . . .
+
 MR. PALACOL.
 Although, of course, there is always that possibility that a
 candidate who had won may enter his duties without even ﬁling
 his certiﬁcate of expenditures and contributions. But that is an
 exception to the general rule.
+
 MR. ALBANO.
 Now, Mr. Speaker, for the sake of argument, suppose an elected
 person did not ﬁle his statement of contributions and
 expenditures as herein required, and then enters into an oﬃce,
 how is he going to be booted out of that office?
+
 MR. PALACOL.
 I think, Your Honor, there is a proper remedy for that in our
 courts of law.
+
 MR. ALBANO.
 So there is a need . . .
+
 MR. PALACOL.
 He could be enjoined from assuming the position to which
 he was elected.
-MR. ALBANO.
 
+MR. ALBANO.
 But he has taken his oath of oﬃce and actually performed —
 does it mean therefore that one has to ﬁle a case in court before
 he can be . . .
+
 MR. PALACOL.
 He has to ﬁle before he takes his oath — before he
 assumes the position he has to ﬁle his certiﬁcate of
 expenditures and contributions.
+
 MR. ALBANO.
 Mr. Speaker, the elected oﬃcial has already entered into his
 duties, and as a matter of fact, exercised his duties but has failed
@@ -404,8 +433,10 @@ to ﬁle at the required day or the required period of time, how is
 he going to be stopped from assuming when he has already
 assumed oﬃce? Is there going to be a protest? And it seems
 there is no penal provision in this section?
+
 MR. PALACOL.
 What is your suggestion, Your Honor?
+
 MR. ALBANO.
 Well, my recommendation is we might as well be silent and allow
 the Revised Election Code provisions to prevail. After all those
@@ -414,6 +445,7 @@ expenditures are now facing criminal charges. And so it is best
 that we delete this particular provision so that we do not
 carry a provision here that is honored more in breach
 than in compliance.
+
 MR. PALACOL.
 Your Honor, you may formulate your proposed amendment and
 we are going to consider that in the Period of Individual
@@ -439,9 +471,9 @@ left with nothing to do except to wait for the proclamation of the
 results, so that he could avail of a remedy against the
 misrepresenting candidate, that is, by ﬁling a petition for quo
 warranto against him. Respondent Commission sees this "gap" in
-
 what it, calls a procedural gap which, according to it, is unnecessary
 and should be remedied.
+
 At the same time, it cannot be denied that it is the
 purpose and intent of the legislative branch of the
 government to ﬁx a deﬁnite time within which petitions for
@@ -462,6 +494,7 @@ invoke the exigency of public service to justify its actions. The COMELEC's
 task is to administer and not to interpret the election laws. At most, the
 COMELEC can only provide details to implement the statute but not to
 supplant the expressed provisions of the law.
+
 In Maturan v. COMELEC, 32 the Court recognized the Congress' absolute
 discretion to penalize with perpetual disqualiﬁcation to hold public oﬃce
 those persons who repeatedly failed to submit their SOCEs. The Court
@@ -471,16 +504,18 @@ shown to be unconstitutional. 33 In this case, the arbitrary extension of the
 deadline to ﬁle SOCEs will render nugatory the Court's decision in Maturan
 and exempt non-compliant candidates and political parties from any liability
 and other legal consequences.
+
 The Court reiterates that the ﬁling of complete SOCEs within the 30day period is
-mandatory. Yet, it bears emphasis that Section 14 of RA No.
-7166 does not prohibit the COMELEC from receiving belatedly ﬁled or tardy
-SOCEs. Speciﬁcally, the winning candidates can still enter the duties of their
+mandatory. Yet, it bears emphasis that Section 14 of RA No. 7166 does not 
+prohibit the COMELEC from receiving belatedly ﬁled or tardy SOCEs. 
+Speciﬁcally, the winning candidates can still enter the duties of their
 office once they submitted the required SOCEs. This is the clear import of the
 second sentence of Section 14 of RA No. 7166 which provides that no person
 elected to any public oﬃce shall enter upon the duties of his oﬃce "until he
 has ﬁled the statement of contributions and expenditures herein required."
 The word "until" signiﬁes that the prohibition to assume oﬃce is conditional
 and subject to the filing of the SOCEs.
+
 A similar interpretation must be given to the third sentence of Section
 14, RA No. 7166 which states that " [t]he same prohibition shall apply if the
 political party which nominated the winning candidate fails to ﬁle the
@@ -500,21 +535,24 @@ the assailed resolution. The arbitrary extension of the deadline for the
 submission of the SOCEs eﬀectively condoned erring candidates and political
 parties from administrative liabilities even if the law does not provide any
 exempting circumstances.
+
 However, the Court is not at liberty to discuss the COMELEC's
 argument that Section 14 of RA No. 7166 is unconstitutional allegedly
 because it prescribed additional qualiﬁcations to national and local elective
 positions. The power of judicial review is limited to an actual case or
 controversy involving a conﬂict of legal rights as distinguished from an
 abstract dispute. 34
+
 More importantly, the "rules of avoidance" calls for judicial restraint in
 passing upon constitutional questions if other grounds exist as bases for the
 decision, viz.:
+
 The so-called "seven pillars of limitations of judicial review" or the
 "rules of avoidance" enunciated by US Supreme Court Justice
 Brandeis in his concurring opinion in Ashwander v. Tennessee Valley
 Authority teaches that:
-1.
-The Court will not pass upon the
+
+1. The Court will not pass upon the
 constitutionality of legislation in a friendly, non-adversary
 proceeding, declining because to decide such questions
 "is legitimate only in the last resort, and as a necessity in
@@ -523,18 +561,18 @@ between individuals. It never was the thought that, by
 means of a friendly suit, a party beaten in the legislature
 could transfer to the courts an inquiry as to the
 constitutionality of the legislative act."
-2.
-The Court will not "anticipate a question of
+
+2. The Court will not "anticipate a question of
 constitutional law in advance of the necessity of deciding
 it." "It is not the habit of the Court to decide questions of
 a constitutional nature unless absolutely necessary to a
 decision of the case."
-3.
-The Court will not "formulate a rule of
+
+3. The Court will not "formulate a rule of
 constitutional law broader than is required by the precise
 facts to which it is to be applied."
-4.
-The Court will not pass upon a constitutional
+
+4. The Court will not pass upon a constitutional
 question, although properly presented by the record, if
 there is also present some other ground upon which the
 case may be disposed of. This rule has found most varied
@@ -542,15 +580,12 @@ application. Thus, if a case can be decided on either of
 two grounds, one involving a constitutional question, the
 other a question of statutory construction or general law,
 the Court will decide only the latter. Appeals from the
-
 highest court of a state challenging its decision of a
 question under the Federal Constitution are frequently
 dismissed because the judgment can be sustained on an
 independent state ground.
 
-
-5.
-The Court will not pass upon the validity of a
+5. The Court will not pass upon the validity of a
 statute upon complaint of one who fails to show that he is
 injured by its operation. Among the many applications of
 this rule, none is more striking than the denial of the right
@@ -559,77 +594,69 @@ right. Thus, the challenge by a public oﬃcial interested
 only in the performance of his oﬃcial duty will not be
 entertained. In Fairchild v. Hughes , the Court aﬃrmed the
 dismissal of a suit brought by a citizen who sought to
-have
-the
-Nineteenth
-Amendment
-declared
-unconstitutional.
-In Massachusetts v. Mellon , the
-challenge of the federal Maternity Act was not entertained
-although made by the Commonwealth on behalf of all its
-citizens.
-6.
-The Court will not pass upon the
-constitutionality of a statute at the instance of one who
-has availed himself of its benefits.
-7.
-"When the validity of an act of the Congress
+have the Nineteenth Amendment declared unconstitutional.
+
+In Massachusetts v. Mellon , the challenge of the federal 
+Maternity Act was not entertained although made by the 
+Commonwealth on behalf of all its citizens.
+
+6. The Court will not pass upon the constitutionality of 
+a statute at the instance of one who has availed himself 
+of its benefits.
+
+7. "When the validity of an act of the Congress
 is drawn in question, and even if a serious doubt of
 constitutionality is raised, it is a cardinal principle that
 this Court will ﬁrst ascertain whether a construction of the
 statute is fairly possible by which the question may be
 avoided."
-Meanwhile,
-in Francisco, Jr. v. Nagmamalasakit na mga
+
+Meanwhile, in Francisco, Jr. v. Nagmamalasakit na mga
 Manananggol ng mga Manggagawang Pilipino, Inc., the Court
 summarized the foregoing "pillars" into six categories and adopted
-"parallel guidelines" in the exercise of its power of judicial review, to
-wit:
+"parallel guidelines" in the exercise of its power of judicial review, 
+to wit:
+
 The foregoing "pillars" of limitation of judicial
 review, summarized in Ashwander v. Tennessee Valley
 Authority from diﬀerent decisions of the United States
 Supreme Court, can be encapsulated into the following
 categories:
-1.
 
-that there be absolute necessity of deciding a
+1.that there be absolute necessity of deciding a case
 
-case
-2.
-that rules of constitutional law shall be
+2. that rules of constitutional law shall be
 formulated only as required by the facts of the case
-3.
-that judgment may not be sustained on some
+
+3. that judgment may not be sustained on some
 other ground
-4.
-that there be actual injury sustained by the
+
+4. that there be actual injury sustained by the
 party by reason of the operation of the statute
-5.
 
-that the parties are not in estoppel
+5. that the parties are not in estoppel
 
-6.
-that the Court upholds the presumption of
+6. that the Court upholds the presumption of
 constitutionality
 
 As stated previously, parallel guidelines have been
 adopted by this Court in the exercise of judicial review:
-1.
-actual case or controversy calling for the
+
+1. actual case or controversy calling for the
 exercise of judicial power;
-2.
-the person challenging the act must have
+
+2. the person challenging the act must have
 "standing" to challenge; he must have a personal and
 substantial interest in the case such that he has
 sustained, or will sustain, direct injury as a result of its
 enforcement;
-3.
-the question of constitutionality must be
+
+3. the question of constitutionality must be
 raised at the earliest possible opportunity;
-4.
-the issue of constitutionality must be the very
+
+4. the issue of constitutionality must be the very
 lis mota of the case.
+
 Thus, the exercise of our power of judicial review is subject to these
 four requisites and the further requirement that we can only resolve
 pure questions of law. These limitations, when properly and strictly
@@ -644,6 +671,7 @@ not show that any winning candidate was prevented from assuming oﬃce.
 The dispute only pertains on whether the COMELEC can lawfully extend the
 deadline for submission of the SOCEs and exempt the erring candidates and
 political parties from administrative liabilities.
+
 As the OSG aptly observed, the validity of the statutory provision itself
 is not the lis mota of the case. In this circumstance, the Court reserves the
 issue on constitutionality of a statute until the proper petition is ﬁled
@@ -667,7 +695,6 @@ exhausted any and all acts that would remedy any perceived
 violation of right. The rationale that deﬁnes the extent of our
 doctrines laying down exceptions to our rules on justiciability are
 clear: Not only should the pleadings show a convincing violation of a
-
 right, but the impact should be shown to be so grave, imminent, and
 irreparable that any delayed exercise of judicial review or deference
 would undermine fundamental principles that should be enjoyed by
@@ -682,6 +709,7 @@ public trust is a ground for impeachment to remove from oﬃce members of
 the constitutional commissions. 37 However, an impeachment complaint is
 not filed before this Court and must be instituted and examined in the proper
 forum. 38
+
 Taken together, the COMELEC issued Resolution No. 10147 with grave
 abuse of discretion which is arbitrary, capricious, whimsical, or despotic
 exercise of judgment as when the assailed resolution is bereft of any factual
@@ -693,6 +721,7 @@ fact, the SOCEs submitted within the
 extended deadline set under COMELEC
 Resolution No. 10147 are deemed
 timely filed.
+
 It is undisputed that COMELEC Resolution No. 10147 is an
 administrative act and has the force of law. However, the COMELEC gravely
 abused its discretion in issuing the resolution and is invalid in so far as it
@@ -701,13 +730,14 @@ June 30, 2016. Consequently, the administrative act cannot be a source of
 legal rights. Article 7 of the New Civil Code is explicit that "administrative or
 executive acts, orders and regulations shall be valid only when they are not
 contrary to the laws or the Constitution." 40
+
 Nevertheless, equity and fair play call for the application of the
 doctrine of operative fact which recognizes the eﬀects of the law or
 executive issuance prior to its invalidation when relied upon by the public in
 good faith. 41 In Agbayani, de v. Phil. National Bank, 42 the application of the
 doctrine of operative fact was extensively discussed as follows:
-1.
-The decision now on appeal reﬂects the orthodox view
+
+1. The decision now on appeal reﬂects the orthodox view
 that an unconstitutional act, for that matter an executive order or a
 municipal ordinance likewise suﬀering from that inﬁrmity, cannot be
 the source of any legal rights or duties. Nor can it justify any oﬃcial
@@ -719,7 +749,6 @@ be void and the latter shall govern. Administrative or executive acts,
 orders and regulations shall be valid only when they are not contrary
 to the laws or the Constitution." It is understandable why it should be
 so, the Constitution being supreme and paramount. Any legislative or
-
 executive act contrary to its terms cannot survive.
 Such a view has support in logic and possesses the merit of
 simplicity. It may not however be suﬃciently realistic. It does
@@ -741,6 +770,7 @@ power of judicial review that may lead to a declaration of nullity. It
 would be to deprive the law of its quality of fairness and
 justice then, if there be no recognition of what had transpired
 prior to such adjudication.
+
 In the language of an American Supreme Court decision: "The
 actual existence of a statute, prior to such a determination
 [of unconstitutionality], is an operative fact and may have
@@ -761,18 +791,20 @@ Accordingly, the eﬀects of accomplished acts prior to the invalidation of
 COMELEC Resolution No. 10147 should be allowed to stand. The SOCEs
 submitted within the extended period or until June 30, 2016 are deemed
 timely filed.
+
 In sum, the Court acknowledges the COMELEC's indispensable role as
 an independent constitutional body in ensuring free, orderly, honest,
 peaceful, and credible elections. Yet, the COMELEC's zeal in administering
 election laws is still circumscribed by the law — the spring cannot rise higher
 than its source. 45
+
 FOR THESE REASONS, the Commission on Elections Resolution No.
 10147 is declared void for being repugnant to the law. Applying the doctrine
 of operative fact, however, the Statements of Contributions and
 Expenditures for the May 9, 2016 national and local elections that were
-
 submitted on or before June 30, 2016 are deemed timely filed.
 SO ORDERED.
+
 
 Gesmundo, C.J., Perlas-Bernabe, Hernando, Carandang, Inting,
 Zalameda, Gaerlan, Rosario, J.Y. Lopez and Dimaampao, JJ., concur.
@@ -781,6 +813,7 @@ opinion.
 Caguioa and Lazaro-Javier, JJ., pls. see separate concurring opinion.
 
 Separate Opinions
+
 LEONEN, J., concurring:
 I fervently believe that this case presents an opportune time for this
 Court En Banc to rule on the constitutionality of Commission on Elections
@@ -788,19 +821,12 @@ Resolution No. 10147. I humbly submit that this Court must rule on this
 issue. Nonetheless, I concur in the result and add my reasons in supporting
 the declaration of illegality of Resolution No. 10147.
 
-
 The validity of this issuance is being assailed insofar as it eﬀectively
 creates additional qualifications to national and local elective candidates. 1
-C i t i n g (Gios-Samar)
-v.
-Department
-of
-Transportation
-and
-2
-Communications, the ponencia states that this Court must exercise judicial
-restraint in passing upon constitutional questions if other grounds exist as
-bases for the Decision. 3
+C i t i n g (Gios-Samar) v. Department of Transportation and 2 Communications, 
+the ponencia states that this Court must exercise judicial restraint in passing 
+upon constitutional questions if other grounds exist as bases for the Decision. 3
+
 I n Gios-Samar, petitioner Gios-Samar, Inc. ﬁled a petition for
 prohibition against respondents Department of Transportation and
 Communications and Civil Aviation Authority of the Philippines, assailing the
@@ -815,6 +841,7 @@ assailed bundling were speculative and conjectural; thus, there was no
 justiciable controversy to speak of. The Civil Aviation Authority of the
 Philippines, meanwhile, pointed out that petitioner did not allege any special
 and compelling reason to justify its direct resort to this Court. 4
+
 Contrary to petitioner Gios-Samar's insistence that the issues
 presented were legal ones, this Court found that the issues involved were
 factual. It is in this context that this Court held that where a legal issue
@@ -828,10 +855,12 @@ avoidance" and the need to exercise judicial restraint.
 This case before us presents a purely legal issue. Therefore, the
 discussion on the rules of avoidance and exercise of judicial restraint is
 unsuitable.
+
 While conceding that this case presents an issue of transcendental
 importance, 7 the ponencia nonetheless stated that this constitutional issue
 need not be discussed because no actual controversy exists and the
 constitutional issue is not the lis mota of the case.
+
 With due respect, I believe that the constitutional issues presented in
 this case are justiciable. This Court should not avoid its constitutional duty to
 decide these issues in view of their transcendental importance. Where a
@@ -839,6 +868,7 @@ controversy concerns fundamental constitutional issues, the threshold must
 be adjusted to allow judicial scrutiny, so that issues may be resolved at the
 earliest stage before anything irreversible is undertaken under cover of an
 unconstitutional act. 8
+
 In a recent case, 9 this Court En Banc explained:
 An actual case exists "when the act being challenged has had a direct
 adverse eﬀect on the individual challenging it." Thus, actual case
@@ -858,12 +888,15 @@ something had then been accomplished or performed by either
 branch before a court may come into the picture, and the petitioner
 must allege the existence of an immediate or threatened injury to
 itself as a result of the challenged action."
+
 xxx xxx xxx
+
 Legal standing means "personal and substantial interest in a case
 such that the party has sustained or will sustain direct injury as a
 result of the governmental act that is being challenged." That the
 party must present a personal stake in the case ensures the presence
 of concrete adverseness:
+
 In public or constitutional litigations, the Court is often
 burdened with the determination of the locus standi of the
 petitioners due to the ever-present need to regulate the
@@ -873,16 +906,12 @@ eﬃcient functioning of public oﬃcials and oﬃces involved
 in public service. It is required, therefore, that the
 petitioner must have a personal stake in the outcome of
 the controversy, for, as indicated in Agan, Jr. v. Philippine
-
 International Air Terminals Co., Inc.:
+
 The question on legal standing is whether such
 parties have "alleged such a personal stake in the
 outcome of the controversy as to assure that
-concrete
-adverseness
-which
-sharpens
-the
+concrete adverseness which sharpens the
 presentation of issues upon which the court so
 largely depends for illumination of diﬃcult
 constitutional questions." Accordingly, it has been
@@ -913,8 +942,8 @@ have disallowed non-compliant oﬃcials from assuming oﬃce for violation of
 this ﬁling requirement — which, in turn, would amount to prescribing an
 additional qualiﬁcation for public oﬃce. 12 Verily, the constitutionality of
 Resolution No. 10147 is the lis mota of this case.
-In its Petition, petitioner alleged the following:
-21.
+In its Petition, petitioner alleged the following: 21.
+
 Having addressed the procedural concerns in this case,
 petitioner PDP-Laban will now proceed to comprehensively discuss
 the substantive issue raised in this petition.
@@ -923,15 +952,17 @@ EXTENDED THE DEADLINE FOR THE FILING OF SOCE
 FROM JUNE 8 TO JUNE 30, 2016, IS CONTRARY TO
 SECTION 14 OF RA 7166 WHICH MANDATES THAT THE
 THIRTY (30)-DAY PERIOD FOR FILING OF SOCE IS NONEXTENDIBLE.
+
 xxx xxx xxx
+
 24.
 . . . all candidates and parties who participated in the May 9,
 2016 National and Local Elections, regardless of whether or not they
 won or lost, must ﬁle their SOCEs and the relevant Schedules and
 supporting documents not later than thirty (30) days after the day of
-
 the election, or by June 8, 2016, Wednesday. This period for ﬁling of
 SOCE is clearly and unarguably MANDATORY and NON-EXTENDIBLE.
+
 25.
 That being the case, Public Respondent COMELEC En Banc
 cannot deny that it palpably violated that statutory mandate of
@@ -939,11 +970,13 @@ Section 14 of RA 7166 and purposely disregarded its own procedural
 rules, i.e., Section 2, Rule 10 of Resolution No. 9991, when it
 promulgated the questioned Resolution No. 10147.
 xxx xxx xxx
+
 27.
 As discussed in CFU's Memorandum dated June 15, 2016, a
 reading of Section 14 of RA 7166 would easily reveal that there is NO
 DELEGATED AUTHORITY from Congress for the Public Respondent
 COMELEC En Banc to fix the period to file SOCEs. . . .
+
 xxx xxx xxx
 PUBLIC RESPONDENT COMELEC EN BANC ACTED WITHOUT OR IN
 EXCESS OF ITS JURISDICTION, OR WITH GRAVE ABUSE OF
@@ -952,10 +985,12 @@ IN PROMULGATING THE ASSAILED RESOLUTION NO. 10147
 BECAUSE THE ISSUANCE THEREOF EXCEEDED THE DELEGATED
 RULE-MAKING POWER OF THE PUBLIC RESPONDENT.
 xxx xxx xxx
+
 36.
 However, Section 6 of Article IS(A) n of the 1987 Philippine
 Constitution reminded the constitutional commissions like Public
 Respondent COMELEC En Banc that:
+
 Section 6.
 Each Commission en banc may promulgate
 its own rules concerning pleadings and practice before it
@@ -963,6 +998,7 @@ or before any of its oﬃces. Such rules however shall not
 diminish, increase, or modify substantive rights.
 (Emphasis supplied)
 xxx xxx xxx
+
 37.
 Like all grants of powers, however, the grant to the Public
 Respondent COMELEC En Banc of its express-enforcement and
@@ -974,35 +1010,39 @@ Constitution and the laws from where it draws the power. 13
 
 On the other hand, in its Comment, the Commission on Elections
 contended that:
+
 67.
 Nothing in Resolution No. 10147 oﬀends the constitutional
 limitation that the COMELEC's rule-making power "shall not diminish,
 increase, or modify substantive rights."
 xxx xxx xxx
+
 81.
 For COMELEC not to allow, in the name of SOCE, so many
 oﬃcials from assuming the oﬃces to which they were validly elected
 will not only negate the sovereign people's mandate but will add a
 qualiﬁcation for public oﬃce not heretofore prescribed under the
 Constitution for high oﬃcials or by the Local Government Code for
-
 local officials.
+
 82.
 It requires no serious debate that COMELEC is devoid of such
 power. 14
 
-To determine whether respondent went beyond its delegated rulemaking power in issuing
-Resolution No. 10147, which should therefore be
-nulliﬁed, I submit that this Court must ﬁrst ascertain and interpret the
+To determine whether respondent went beyond its delegated rulemaking 
+power in issuing Resolution No. 10147, which should therefore 
+be nulliﬁed, I submit that this Court must ﬁrst ascertain and interpret the
 pertinent portions of the Constitution (i.e., provisions on the powers granted
 to respondent as a constitutional commission vis-à-vis those providing the
 substantive qualifications of a political candidate).
+
 The legal issue posed is ripe for adjudication, as the challenged
 resolution was allegedly issued and implemented to accommodate the pleas
 of a single political party who lamented about the ﬁling requirement and
 requested for an extension of the 30-day period, to the prejudice of the
 petitioner who faithfully complied with the provisions of Section 14 of
 Republic Act No. 7166. 15
+
 The resolution on the constitutional issue in this case undoubtedly has
 far-reaching consequences. The ponencia itself states that the legal issue
 involved is of transcendental importance, as the resolution of this case will
@@ -1012,14 +1052,17 @@ It also noted that this case "is capable of repetition" as respondent "had
 previously issued similar guidelines extending the period to ﬁle the
 [Statement of Contributions and Expenditures]." 17 As noted by Associate
 Justice Mario V. Lopez:
+
 [T]he [Commission on Elections] previously allowed extension of time
 in ﬁling the SOCEs due to legal necessity and to prevent vacuum in
 the public service, thus:
+
 WHEREAS, the Commission [on Elections] En Banc
 received several letter requests for extension of the
 deadline to ﬁle the required [Statement of Contributions
 and Expenditures] for the May 9, 2016 National and Local
 Elections (NLE);
+
 WHEREAS, as records show, the deadlines for the ﬁling of
 [Statements of Contributions and Expenses] has been
 invariably and consistently extended by the Commission
@@ -1027,7 +1070,9 @@ out of legal necessity and particularly in the 2010 and
 2013 NLE wherein the Commission allowed the extension
 of the deadline for ﬁling of [Statements of Contributions
 and Expenses];
+
 xxx xxx xxx
+
 WHEREAS, it is clear from the express language of the
 above-quoted provision that the phrase, "until he has
 ﬁled the statement of contributions and expenditures
@@ -1052,7 +1097,9 @@ NLE and to enable the Commission [on Elections] to
 initiate the ﬁling of administrative cases for the violation
 of Section 14 of Republic Act No. 7166 and election
 offenses related to campaign finance.
+
 xxx xxx xxx
+
 We ﬁnd it abhorrent to adopt the erroneous interpretation
 that our duly elected public oﬃcials cannot assume oﬃce
 simply because of the failure of the party treasurer to
@@ -1068,6 +1115,7 @@ In this light, I this Court could have taken this opportunity to tackle the
 constitutionality of Commission on Elections Resolution No. 10147,
 especially where said issue is ripe for adjudication; is the lis mota of the
 case; and is capable of repetition.
+
 In our jurisdiction, elections are envisioned to be fair and inclusive. 19
 This can be surmised from various constitutional provisions which place
 importance on the equality of opportunity to proﬀer oneself for public oﬃce.
@@ -1087,7 +1135,7 @@ public oﬃce — and as in the enjoyment of all other rights, subject this righ
 to procedural requirements in accordance with the Constitution and related
 laws. 24
 
-I n Akbayan v. Commission on Elections, 25 this Court upheld the
+In Akbayan v. Commission on Elections, 25 this Court upheld the
 constitutionality of a resolution issued by the Commission on Elections which
 regulated the conduct of voter's registration. In the process, this Court
 likewise aﬃrmed the law which the Commission on Elections sought to
@@ -1102,6 +1150,7 @@ all intents and purposes, are crafted to eﬀectively insulate such so
 cherished right from ravishment and preserve the democratic
 institutions our people have, for so long, guarded against the spoils of
 opportunism, debauchery and abuse.
+
 To be sure, the right of suﬀrage ardently invoked by herein
 petitioners, is not at all absolute. Needless to say, the exercise of the
 right of suﬀrage, as in the enjoyment of all other rights, is subject to
@@ -1116,6 +1165,7 @@ addition to the minimum requirements set by the fundamental
 charter, is obliged by law to register, at present, under the provisions
 of Republic Act No. 8189, otherwise known as the "Voter's
 Registration Act of 1996."
+
 Stated diﬀerently, the act of registration is an indispensable
 precondition to the right of suﬀrage. For registration is part and
 parcel of the right to vote and an indispensable element in the
@@ -1126,23 +1176,27 @@ registration as a necessary requisite to the right to vote, the State
 undoubtedly, in the exercise of its inherent police power, may then
 enact laws to safeguard and regulate the act of voter's registration
 for the ultimate purpose of conducting honest, orderly and peaceful
-election, to the incidental yet generally important end, that even preelection activities
-could be performed by the duly constituted
+election, to the incidental yet generally important end, that even 
+preelection activities could be performed by the duly constituted
 authorities in a realistic and orderly manner — one which is not
 indiﬀerent and so far removed from the pressing order of the day and
 the prevalent circumstances of the times.
+
 Viewed broadly, existing legal proscription and pragmatic operational
 considerations bear great weight in the adjudication of the issues
 raised in the instant petitions.
+
 xxx xxx xxx
+
 It is an accepted doctrine in administrative law that the determination
 of administrative agency as to the operation, implementation and
 application of a law would be accorded great weight considering that
-
 these specialized government bodies are, by their nature and
 functions, in the best position to know what they can possibly do or
 not do, under prevailing circumstances.
+
 xxx xxx xxx
+
 Under these circumstances, we rule that the [Commission on
 Elections], in denying the request of petitioners to hold a special
 registration, acted within the bounds and conﬁnes of the applicable
@@ -1176,6 +1230,7 @@ legally necessary to make one eligible [to run] for a position or oﬃce, or to
 perform a public duty or function." 31 On the other hand, procedural
 requirements or rules of procedure refer to "provisions prescribing the
 method by which substantive rights may be enforced." 32
+
 Like the exercise of the right of suﬀrage, the exercise of the right to
 run for public oﬃce may be subject to existing substantive and procedural
 requirements embodied in our Constitution, as well as related laws, rules
@@ -1184,16 +1239,17 @@ was issued pursuant to the constitutional duty of the Commission on
 Elections to ensure free, clean, and honest elections, and to ensure that
 there are no over expenditures. It did not provide additional qualiﬁcations of
 candidates.
+
 I agree that the Commission on Elections committed grave abuse of
 discretion in issuing the assailed Resolution No. 10147 for being contrary to
 law. Contrary to the legal provision it seeks to implement ( i.e., Section 14 of
 Republic Act No. 7166), Resolution No. 10147 not only extended the deadline
-
 within which candidates for the May 9, 2016 national and local elections may
 ﬁle their respective Statements of Contributions and Expenses, but also
 indiscriminately removed the administrative liability that arose for failure of
 a candidate to ﬁle a Statement of Contributions and Expenditures within the
 original 30-day period. 34
+
 Section 14 of Republic Act No. 7166 provides, among others, (a) a
 mandatory 30-day period when a Statement of Contributions and
 Expenditures must be ﬁled by every candidate; (b) the eﬀect of a failure to
@@ -1202,6 +1258,7 @@ Expenditures must be ﬁled by every candidate; (b) the eﬀect of a failure to
 liable for an administrative oﬀense); and (c) the eﬀect of non-ﬁling of a
 Statement of Contributions and Expenditures for a second or subsequent
 time. 35
+
 Notably, the requirement of ﬁling a Statement of Contributions and
 Expenditures under Section 14 of Republic Act No. 7166 was previously
 found in Sections 107 36 and 111 37 of the Omnibus Election Code. While
@@ -1216,6 +1273,7 @@ within seven to ten days prior to the day of the election; and second, within
 30 days after the elections. 39 At present, Republic Act No. 7166 requires
 only one ﬁling of a Statement of Contributions and Expenditures, that is,
 within 30 days after the elections.
+
 As noted by Associate Justice Amy Lazaro-Javier, while Republic Act No.
 7166 expressly authorized the Commission on Elections to set the period for
 certain matters and to excuse noncompliance of other election oﬀenses,
@@ -1226,6 +1284,7 @@ of the ﬁling of a Statement of Contributions and Expenditures and
 reclassiﬁed the noncompliance thereof from an election oﬀense to an
 administrative oﬀense, it nonetheless retained the word "shall" and the
 effect of failure to comply with this requirement.
+
 It bears emphasizing that the use of the word "shall" signiﬁes that the
 ﬁling of the Statement of Contributions and Expenditures within 30 days
 from the day of the elections is mandatory. 41 In view of the peremptory
@@ -1235,7 +1294,6 @@ Commission on Elections itself previously declared.
 Every statute should be construed in connection with those of the
 same subject matter and should be able to stand together, if they can be
 done by any fair and reasonable interpretation. 43 Assuming that there was
-
 an ambiguity in Republic Act No. 7166 owing to a lack of express prohibition
 against extending the 30-day reglementary period, the Commission on
 Elections' position still cannot be countenanced; otherwise, it would render
@@ -1246,6 +1304,7 @@ mandate of ensuring free, orderly, honest, peaceful, and credible elections.
 candidates may belatedly ﬁle their respective Statements of Contributions
 and Expenses and can still enter the duties of their oﬃce upon submission of
 the required Statements. 46
+
 An administrative agency cannot amend an act of Congress.47
 Administrative acts shall be valid only when they are not contrary to the
 laws; 48 they must not override nor modify, but instead must remain
@@ -1259,6 +1318,7 @@ Lazaro-Javier in saying that the repeated issuance of prior similar resolutions
 by the Commission on Elections (which extended the period within which
 Statements of Contributions and Expenses may be ﬁled) cannot serve as
 precedent to justify the issuance of Resolution No. 10147.
+
 Nonetheless, the eﬀects of an administrative issuance from the
 promulgation until its invalidation by this Court may have to be recognized
 as valid when relied upon by the public in good faith. 50 Thus, I agree with
@@ -1266,8 +1326,8 @@ t h e ponencia that the nulliﬁcation of Resolution No. 10147 ought not to
 result in the reimposition of administrative liability upon the candidates of
 the May 2016 elections, who relied thereon in good faith.
 
-
 ACCORDINGLY, I vote to GRANT the Petition.
+
 CAGUIOA, J., concurring:
 The ponencia declares as void the Commission on Elections (COMELEC)
 Resolution No. 10147 1 which extended the deadline for ﬁling of the
@@ -1276,7 +1336,9 @@ National and Local Elections, for being repugnant to Republic Act No. (R.A.)
 7166. 2 Nevertheless, it applies the doctrine of operative fact, and deems as
 timely ﬁled, the 2016 SOCEs which were submitted during the extension set
 by Resolution No. 10147. 3
+
 I concur.
+
 I write this Separate Concurring Opinion to stress: 1) that the
 mandatory character of the period for ﬁling of SOCEs set under Section 14,
 R.A. 7166 does not preclude tardy winning candidates from assuming their
@@ -1284,18 +1346,18 @@ oﬃces after such ﬁling, and 2) the import and coverage of the penal
 provisions under Section 14.
 
 While the period fixed in Section 14,
-
 R.A. 7166 is mandatory, the filing of
 SOCEs beyond the same does not bar
 the assumption to office of candidates
 who won in the elections.
+
 I agree with the ponencia's conclusion that the COMELEC committed
 grave abuse of discretion in issuing Resolution No. 10147 which extended
 the ﬁling of the SOCEs for the May 9, 2016 elections, beyond the 30-day
 period provided in Section 14 of R.A. 7166. That such period is mandatory is
 clear from the letter of the law, thus:
-SEC. 14.
-Statement of Contributions and Expenditures:
+
+SEC. 14. Statement of Contributions and Expenditures:
 Effect of Failure to File Statement. — Every candidate and treasurer of
 the political party shall, within thirty (30) days after the day of
 the election, ﬁle in duplicate with the oﬃces of the Commission the
@@ -1305,6 +1367,7 @@ xxx xxx xxx (Emphasis supplied)
 
 In Pilar v. Commission on Elections 4 (Pilar), the Court had interpreted
 this provision as mandatory, thus:
+
 Furthermore, Section 14 of the law uses the word "shall." As a
 general rule, the use of the word "shall" in a statute implies that the
 statute is mandatory, and imposes a duty which may be enforced,
@@ -1329,6 +1392,7 @@ Sec. 95; Resolution No. 2348; Sec. 4), or unlawful (B.P. Blg. 881, Sec.
 96), and what expenditures are authorized (B.P. Blg. 881, Sec. 102;
 R.A. No. 7166, Sec. 13; Resolution No. 2348, Sec. 7) or lawful
 (Resolution No. 2348, Sec. 8).
+
 Such statutes are not peculiar to the Philippines. In "corrupt and
 illegal practices acts" of several states in the United States, as well as
 in federal statutes, expenditures of candidates are regulated by
@@ -1337,7 +1401,6 @@ amount of money that may be spent by a candidate x x x. 6
 
 Hence, the mandatory nature of Section 14 is evident from its letter as
 well as its purpose. The COMELEC, as a mere administrative body tasked to
-
 enforce the law, cannot alter its provisions. Having done so by issuing
 Resolution No. 10147 which extended the deadline ﬁxed in the law, the
 COMELEC exceeded its jurisdiction and committed grave abuse of discretion.
@@ -1361,18 +1424,20 @@ the second paragraph of Section 14 that prohibits such winning candidates
 from assuming office should they fail to file their SOCEs.
 This is erroneous, and demonstrates the need to ﬁnally clarify and
 emphasize the real import of the law.
+
 It is a basic statutory construction rule that particular words, clauses
 and phrases should not be studied as detached and isolated expressions, but
 the whole and every part of the statute must be considered in ﬁxing the
 meaning of any of its parts, and in order to produce a harmonious whole. 10
 Here, Section 14 reads:
-SEC. 14.
-Statement of Contributions and Expenditures:
+
+SEC. 14. Statement of Contributions and Expenditures:
 Effect of Failure to File Statement. — Every candidate and treasurer of
 the political party shall, within thirty (30) days after the day of
 the election, ﬁle in duplicate with the oﬃces of the Commission the
 full, true and itemized statement of all contributions and expenditures
 in connection with the election.
+
 No person elected to any public oﬃce shall enter upon
 the duties of his oﬃce until he has ﬁled the statement of
 contributions and expenditures herein required.
@@ -1391,11 +1456,13 @@ The ﬁne shall be paid within thirty (30) days from receipt of
 notice of such failure; otherwise, it shall be enforceable by a writ of
 execution issued by the Commission against the properties of the
 offender.
+
 It shall be the duty of every city or municipal election registrar
 to advise in writing, by personal delivery or registered mail, within
 ﬁve (5) days from the date of election all candidates residing in his
 jurisdiction to comply with their obligation to ﬁle their statements of
 contributions and expenditures.
+
 For the commission of a second or subsequent oﬀense
 under this section, the administrative ﬁne shall be from Two
 thousand pesos ([P]2,000.00) to Sixty thousand pesos
@@ -1412,6 +1479,7 @@ regardless of whether the ﬁling is made within or beyond the 30-day period
 ﬁxed in paragraph 1. That said, what the belated ﬁling triggers is paragraph
 4, that is, such belated ﬁling gives rise to an administrative oﬀense for which
 the tardy candidate shall be liable to pay fines.
+
 Hence, the Court's ﬁnding in the present case that Section 14's 30-day
 period is mandatory does not bar a winning candidate who ﬁled beyond said
 period from assuming oﬃce. To stress, the 30-day period is mandatory only
@@ -1419,6 +1487,7 @@ in the sense that a violation thereof — that is, the belated ﬁling of a SOCE
 constitutes an administrative oﬀense penalized with the paying of ﬁnes. The
 tardy winning candidate shall still enter upon the duties of his or her oﬃce
 but only after he or she has duly filed his or her SOCE.
+
 This reading is consistent with the deliberations of the lawmakers
 which, while showing the intention to make mandatory the twin
 requirements of Section 14 — the act of filing the SOCE and the period within
@@ -1426,7 +1495,9 @@ which the same should be ﬁled — does not show that the belated ﬁling
 amounts to a forfeiture of the seat a winning candidate had won in the
 elections. The evident intention is that the candidate shall be deprived of
 such seat only until he files his SOCE, thus:
+
 xxx xxx xxx
+
 MR. PALACOL.
 Your Honor, there are oﬃces where the statement of
 contributions and expenses are supposed to be ﬁled. Now, 30
@@ -1436,12 +1507,13 @@ provision of law, any candidate or interested party can go
 to the particular office where the supposed statement has
 to be ﬁled. And from that they can verify whether or not this
 particular winning candidate had ﬁled his statement of
-
 contribution and expenditures. Now, it says here that not
 until and unless this winning candidate has ﬁled his
 statement of contributions and expenses he cannot
 assume office.
+
 xxx xxx xxx
+
 Now if a winning candidate is really desirous of assuming
 his position, as a matter of fact, you will observe that our
 election is on May 11, 1992 and the assumption is on June
@@ -1461,7 +1533,6 @@ winning candidate himself or herself, who may verify from the COMELEC his
 or her compliance with Section 14, and who may still remedy any lapse
 therein before the scheduled assumption of his elected oﬃce, if he or she "is
 really desirous of assuming" the same.
-
 
 Moreover, this construction of the law will prevent the frustration of the
 people's votes brought about by a mere tardiness on the part of their
@@ -1485,13 +1556,12 @@ The penalties under Section 14 of R.A.
 Certificate of Candidacy (CoC) but
 failed to file a SOCE in accordance
 with the requirements of Section 14.
+
 It bears noting that paragraph 4 speaks only of "failure[s] to ﬁle"
 SOCEs, lending the impression that it may not cover belated filings, thus:
 SEC. 14.
 
-
 xxx
-
 
 xxx xxx xxx
 Except candidates for elective barangay oﬃce, failure to ﬁle
@@ -1501,6 +1571,7 @@ constitute an administrative oﬀense for which the oﬀenders shall be
 liable to pay an administrative ﬁne ranging from One thousand pesos
 ([P]1,000.00) to Thirty thousand pesos ([P]30,000.00), in the
 discretion of the Commission.
+
 xxx xxx xxx (Emphasis and underscoring supplied)
 
 However, I submit that it likewise applies to SOCEs ﬁled beyond the 30day deadline
@@ -1511,17 +1582,20 @@ still falls under paragraph 4. Such requirements include the 30-day period
 ﬁxed in Section 14's, paragraph 1. Hence, a person who ﬁles a SOCE in
 violation of the required 30-day period is liable for the administrative oﬀense
 and fine set in paragraph 4.
+
 Moreover, while a ﬁrst oﬀense of such failure to duly ﬁle a SOCE shall
 not deprive a winning candidate of his or her oﬃce, as it merely results in a
 liability to pay ﬁnes, a second or subsequent oﬀense triggers the last
 paragraph of Section 14. Hence, the erring candidate shall suﬀer, not only to
 pay a larger amount of ﬁne, but likewise a perpetual disqualiﬁcation from
 holding public office.
+
 At this juncture, it bears noting that the term "candidate," as used in
 Section 14, had been taken by the Court to include those who have ﬁled and
 later withdrew their CoCs prior to the elections. Hence, in a case where the
 candidate withdrew his CoC three days after its ﬁling, the Court aﬃrmed the
 P10,000.00 fine that the COMELEC imposed upon him, and held:
+
 Section 14 of R.A. No. 7166 states that "every candidate" has
 the obligation to file his statement of contributions and expenditures.
 Well-recognized is the rule that where the law does not
@@ -1531,6 +1605,7 @@ Intermediate Appellate Court, 150 SCRA 520 [1987]; cf. Olfato v.
 Commission on Elections, 103 SCRA 741 [1981]). No distinction is to
 be made in the application of a law where none is indicated (Lo Cham
 v. Ocampo, 77 Phil. 636 [1946]).
+
 In the case at bench, as the law makes no distinction or
 qualiﬁcation as to whether the candidate pursued his candidacy or
 withdrew the same, the term "every candidate" must be deemed to
@@ -1542,21 +1617,26 @@ he withdrew his CoC prior to the last elections, is liable to suﬀer the exacti
 penalties of bigger ﬁne and perpetual disqualiﬁcation under the last
 paragraph of Section 14. In Maturan v. COMELEC , 17 the Court rejected said
 candidate's defense of good faith, and that, under the circumstances, the
-
 penalty was excessive, harsh and cruel, so as to be proscribed by the
 Constitution, thus:
+
 Still, in a ﬁnal attempt to evade liability, the petitioner
 describes the penalty of perpetual disqualification as excessive, harsh
 and cruel, and, consequently, unconstitutional pursuant to Section
 19(1), Article III of the 1987 Constitution x x x.
+
 xxx xxx xxx
+
 He contends that the failure to ﬁle the SOCE is an oﬀense far
 less grave than the serious crimes under the Revised Penal Code and
 the grave oﬀenses under the civil service laws. Accordingly, equating
 the non-ﬁling of the SOCE with the latter oﬀenses is irrational and
 unwarranted.
+
 The petitioner's contention does not impress.
+
 xxx xxx xxx
+
 We have already settled that the constitutional proscription
 under the Bill of Rights extends only to situations of extreme
 corporeal or psychological punishment that strips the individual of his
@@ -1569,6 +1649,7 @@ have/did not. In Pilar, the Court noted that COMELEC Resolution No. 2348
 does not excuse from ﬁling a SOCE those candidates who had not received
 contributions nor made expenditures, and, in fact, requires such candidate
 to reflect in the SOCE those facts.
+
 At this juncture, it may also be well to clarify that Section 14's
 penalties are not applicable to election spending in excess of the limits ﬁxed
 under Section 13 19 of R.A. 7166, which, the Court has ruled, amended
@@ -1587,10 +1668,10 @@ contributions and expended — incurs the penalties provided under Section
 or last paragraph of Section 14, as the case may be, with the multiple
 oﬀenders to suﬀer the additional penalty of perpetual disqualiﬁcation to hold
 public office under the last paragraph.
+
 Nevertheless, I agree with the ponencia's application of the Operative
 Fact Doctrine, in light of the evident good faith of the concerned candidates
 who honestly relied on Resolution No. 10147, which was issued pursuant to
-
 the COMELEC's rule-making authority. Hence, I agree that the SOCEs ﬁled
 during the extension under Resolution No. 10147, even though beyond the
 mandatory 30-day period under R.A. 7166, should be deemed timely filed.
@@ -1598,6 +1679,7 @@ However, to clarify, I submit that the ruling of the Court in the present
 case is without prejudice to the imposition of penalties for violation of R.A.
 7166 or other applicable laws, on any ground other than the tardiness in the
 filing of the subject SOCEs.
+
 LAZARO-JAVIER, J., concurring:
 I concur with the erudite ponencia of Justice Mario V. Lopez that the
 Commission on Elections (COMELEC) committed grave abuse of discretion
@@ -1611,6 +1693,7 @@ the political party shall, within thirty (30) days after the day of
 the election, ﬁle in duplicate with the oﬃces of the Commission the
 full, true and itemized statement of all contributions and expenditures
 in connection with the election.
+
 No person elected to any public oﬃce shall enter upon
 the duties of his oﬃce until he has ﬁled the statement of
 contributions and expenditures herein required.
@@ -1625,8 +1708,10 @@ had until June 8, 2016 within which to ﬁle their respective SOCEs relative to
 the May 9, 2016 elections. As it was, however. the COMELEC En Banc
 promulgated Resolution No. 10147 2 dated June 23, 2016, extending the
 filing of SOCEs to June 30, 2016.
+
 As stated, I agree with Justice Lopez that the COMELEC acted in grave
 abuse of discretion when it issued Resolution No. 10147.
+
 First. Resolution No. 10147 obviously departed from the unequivocal
 language of the law. Section 14 of RA 7166 is clear — "[e]very candidate and
 treasurer of the political party shall, within thirty (30) days after the
@@ -1636,6 +1721,8 @@ contributions and expenditures in connection with the election." As
 duly noted by Justice Lopez, the use of the word "shall" means that the
 period is mandatory. In fact, unless otherwise provided, all periods under RA
 7166 are mandatory, viz.:
+
+
 SECTION 4. Postponement, Failure of Election and Special Elections .
 —xxx
 
@@ -1646,21 +1733,20 @@ term, the Commission shall call and hold a special election to
 than ninety (90) days after the occurrence of the vacancy.
 However, in case of such vacancy in the Senate, the special election
 shall be held simultaneously with the succeeding regular election.
+
 xxx xxx xxx
+
 SECTION 6.
 Nomination and Selection of Oﬃcial Candidates. —
 No political convention or meeting for the nomination or selection of
 the oﬃcial candidates of any political party or organization or political
 groups or coalition thereof shall be held earlier than the following
 periods:
-(a)
 
-For President, Vice-President and Senators, one hundred sixtyfive (165) days before
+(a) For President, Vice-President and Senators, one hundred sixtyfive (165) days before
 the day of the election; and
 
-(b)
-
-For Members of the House of Representatives and elective
+(b) For Members of the House of Representatives and elective
 provincial, city or municipal oﬃcials, seventy-ﬁve (75) days
 before the day of the election.
 
@@ -1672,12 +1758,8 @@ due notice and hearing, by the Commission motu proprio or after the
 ﬁling of a veriﬁed complaint: Provided, That, no order, ruling or
 decision annulling a book of voters shall be executed within
 sixty (60) days before an election.
-SECTION
-18.
-Summary
-Disposition
-of
-Pre-proclamation
+
+SECTION 18. Summary Disposition of Pre-proclamation
 Controversies . — All pre-proclamation controversies on election
 returns or certiﬁcates of canvass shall, on the basis of the
 records and evidence elevated to it by the board of
@@ -1685,6 +1767,7 @@ canvassers, be disposed of summarily by the Commission
 within seven (7) days from receipt thereof. Its decisions shall be
 executory after the lapse of seven (7) days from receipt by the losing
 party of the decision of the Commission.
+
 SECTION 19. Contested Composition or Proceedings of the Board:
 Period to Appeal: Decision by the Commission . — Parties adversely
 aﬀected by a ruling of the board of canvassers on questions aﬀecting
@@ -1692,6 +1775,7 @@ the composition or proceedings of the board may appeal the matter
 to the Commission within three (3) days from a ruling thereon. The
 Commission shall summarily decide the case within ﬁve (5)
 days from the filing thereof.
+
 SECTION 22. Election Contests for Municipal Oﬃces. — All election
 contests involving municipal oﬃces ﬁled with the Regional Trial Court
 shall be decided expeditiously. The decision may be appealed to the
@@ -1706,12 +1790,15 @@ clause authorizing the COMELEC to extend the mandatory periods contained
 therein. These provisions should be contrasted with those in the same law
 expressly allowing the COMELEC to ﬁx a diﬀerent date or otherwise excuse
 belated compliance, to wit:
+
 Section 5. Election and Campaign Period. — Unless otherwise
 ﬁxed by the Commission, the election period for the May 11,
 1992 regular elections shall commence ninety (90) days
 before the day of the election and shall end thirty (30) days
 thereafter.
+
 xxx xxx xxx
+
 Section 31. Per Diems of Election Inspectors and Other Oﬃcials. —
 The members of the board of election inspectors shall be paid a per
 diem of Two hundred pesos (P200.00) each for services on
@@ -1721,6 +1808,7 @@ treasurers, administrators and supervisors of the Department of
 Education, Culture and Sports assigned by the Commission to
 perform election duty shall receive a per diem of Four hundred pesos
 (P400.00) each on election day.
+
 Said per diem shall be paid by the cashier or other ﬁnance
 oﬃcer of the Department of Education, Culture and Sports or
 of the Commission within ﬁfteen (15) days after registration,
@@ -1738,9 +1826,9 @@ deemed it proper to use the commanding word "shall" without carving any
 exception to the rule. This solidiﬁes petitioner's position that the COMELEC
 had no authority to issue Resolution No. 10147 for being contrary to Section
 14 of RA 7166.
+
 Second. The extension cannot ﬁnd justiﬁcation under the rule-making
 power of the COMELEC either.
-
 
 Despite its role as the implementing arm of the government in the
 enforcement and administration of all laws and regulations relative to the
@@ -1767,10 +1855,13 @@ law, and should be for the sole purpose of carrying the law's general
 provisions into eﬀect. The law itself cannot be expanded by such
 IRRs, because an administrative agency cannot amend an act of
 Congress.
+
 The COMELEC explains that Section 13 of Resolution No. 7804 has
 added nothing to Section 8 of R.A. No. 7941, because it has merely
 reworded and rephrased the statutory provision's phraseology.
+
 The explanation does not persuade.
+
 To reword means to alter the wording of or to restate in other words;
 t o rephrase is to phrase anew or in a new form. Both terms signify
 that the meaning of the original word or phrase is not altered.
@@ -1792,16 +1883,17 @@ In other words, the COMELEC's exercise of its rule making power is not
 an excuse for it to do actual legislation. As a spring cannot rise higher than
 its source, 6 so must the COMELEC issuance not transcend the law it seeks to
 implement.
+
 Third. In extending the period for compliance beyond 30 days, the
 COMELEC eﬀectively condoned, if not exempted oﬀenders from
 administrative liability for violating Section 14 of RA 7166 between June 9 to
 June 30, 2016.
+
 To recall, the general rule is that an elected oﬃcial's term of oﬃce
 begins every noon of June 30 immediately following his or her election. 7
 Meanwhile, Section 14 of RA 7166 requires winning candidates to ﬁrst ﬁle
 their respective SOCEs before they could assume office, thus:
 No person elected to any public oﬃces shall enter upon the duties of
-
 his oﬃce until he has ﬁled the statement of contributions and
 expenditures herein required. (Emphasis added)
 
@@ -1816,6 +1908,7 @@ her assumption of oﬃce, without prejudice to his or her
 administrative or criminal liability. Speciﬁcally, Section 14 of RA 7166
 imposes a ﬁne ranging from Php1,000.00 to Php60,000.00 and even
 perpetual disqualification from office:
+
 Except candidates for elective barangay oﬃce, failure to ﬁle the
 statements or reports in connection with electoral contributions and
 expenditures are required herein shall constitute an administrative
@@ -1823,6 +1916,7 @@ oﬀense for which the oﬀenders shall be liable to pay an
 administrative ﬁne ranging from One thousand pesos (P1,000.00) to
 Thirty thousand pesos (P30,000.00), in the discretion of the
 Commission.
+
 The ﬁne shall be paid within thirty (30) days from receipt of notice of
 such failure; otherwise, it shall be enforceable by a writ of execution
 issued by the Commission against the properties of the offender.
@@ -1831,6 +1925,7 @@ advise in writing, by personal delivery or registered mail, within ﬁve
 (5) days from the date of election all candidates residing in his
 jurisdiction to comply with their obligation to ﬁle their statements of
 contributions and expenditures.
+
 For the commission of a second or subsequent oﬀense under this
 section, the administrative ﬁne shall be from Two thousand pesos
 (P2,000.00) to Sixty thousand pesos (P60,000.00), in the discretion of
@@ -1841,19 +1936,21 @@ Thus, when the COMELEC extended the ﬁling of SOCEs from June 8,
 2016 to June 30, 2016, all those who ﬁled their SOCEs in between these
 dates, though non-compliant with Section 14 of RA 7166, are nonetheless
 pardoned for their transgression.
+
 But the law does not provide for any exempting circumstance for nonﬁling of SOCEs
 within the 30-day period. In fact, even those who withdrew
 their candidacies are still required to comply with Section 14 of RA 7166. 9 In
 other words, COMELEC Resolution No. 10147 crafted an exemption from
 Section 14, RA 7166; indubitably, this is nothing short of usurpation of
 legislative powers.
+
 Fourth. In unilaterally extending the deadline for ﬁling of SOCEs, the
 COMELEC supplanted the wisdom of the legislative branch with its own. As
 Justice Lopez aptly observed, the legislature intended to create window
 wherein concerned citizens may verify whether their local oﬃcials complied
-
 with Section 14 of RA 7166 and, consequently, ﬁle the necessary complaint
 or petition to prevent said officials from assuming office, thus:
+
 MR. ALBANO.
 Well, Mr. Speaker, again a provision on Section 15 states, "That
 no person elected to any public oﬃce until he has ﬁled the
@@ -1867,6 +1964,7 @@ not comply with this provision. And yet, it is said here
 that he cannot assume his duties as such elected oﬃcial
 if he has failed to ﬁle the statement of contributions and
 expenditures. So, Mr. Speaker, how do we verify this?
+
 MR. PALACOL.
 Your Honor, there are oﬃces where the statement of
 contributions and expenses are supposed to be ﬁled.
@@ -1880,6 +1978,7 @@ his statement of contribution and expenditures. Now, it
 says here that not until and unless this winning candidate
 has ﬁled his statement of contribution and expenses he
 cannot assume office.
+
 MR. ALBANO.
 It is very clear here, the provision that the elected one cannot
 enter upon the duties of his oﬃce. My question is, how can we
@@ -1889,6 +1988,7 @@ reports that there are many — even who are Members of this
 Congress have not ﬁled their statement of contributions and
 expenditures and the reason why they are now facing criminal
 charges.
+
 MR. PALACOL.
 Your Honor, as I was stating, these 30 days period is allotted to
 any person who runs for a public office.
@@ -1901,8 +2001,8 @@ He is going to assume his oﬃce afternoon of June 30,
 1992, more than 30 days period. So, he could just simply
 go to the particular oﬃce and check there whether this
 particular winning candidate had ﬁled his statement. This
-
 is the scenario that will happen.
+
 MR. ALBANO.
 Mr. Speaker, as I said, basing from COMELEC records there are
 even Members of Congress now sitting here who have not ﬁled
@@ -1912,6 +2012,7 @@ this is honored in breach than in compliance, Mr. Speaker? Is the
 gentleman aware that there are even Members of Congress now
 facing criminal charges for failure to ﬁle statement of
 contributions and expenditures?
+
 MR. PALACOL.
 I am aware of that situation, your Honor, but as I was telling, your
 Honor, there is suﬃcient time within which to verify
@@ -1922,7 +2023,9 @@ his statement of expenditure and contribution. Anyway, as I
 have stated a while ago, there are suﬃcient time. Our
 election is on May 11, 1992, and they are going to assume
 office only more than 30 days . . .
+
 xxx xxx xxx
+
 MR. ALBANO.
 Mr. Speaker, my last query was about the veriﬁcation of how to
 comply with item (b) of Section 15 and I would like to get the
@@ -1934,7 +2037,6 @@ expenditures and contributions? Because even in this very halls
 of Congress according to the Commission on Elections, there
 were many or there are members of Congress who are now
 facing criminal charges for violation of the Election Code.
-
 
 MR. PALACOL.
 Your Honor, we agree with you on the present situation that
@@ -1953,42 +2055,48 @@ candidate to ﬁle his certiﬁcate of expenditures and contributions
 before he enters into assumption of his duties.
 Now anybody can question this winning candidate. And of
 course, we know that there are oﬃces where a particular
-
 candidate has to ﬁle his certiﬁcate of statement of expenditures
 and contributions.
+
 MR. ALBANO.
 For the sake of argument, Mr. Speaker, . . .
+
 MR. PALACOL.
 Although, of course, there is always that possibility that a
 candidate who had won may enter his duties without even ﬁling
 his certiﬁcate of expenditures and contributions. But that is an
 exception to the general rule.
 
-
 MR. ALBANO.
 Now, Mr. Speaker, for the sake of argument, suppose an elected
 person did not ﬁle his statement of contributions and
 expenditures as herein required, and then enters into an oﬃce,
 how is he going to be booted out of that office?
+
 MR. PALACOL.
 I think, Your Honor, there is a proper remedy for that in our
 courts of law.
+
 MR. ALBANO.
 So there is a need . . .
+
 MR. PALACOL.
 He could be enjoined from assuming the position to which he was
 elected. (emphasis added)
 
 The subsequent portion which may have been inadvertently omitted in
 the draft ponencia is just as significant:
+
 MR. ALBANO.
 But he has taken his oath of oﬃce and actually performed —
 does it mean therefore that one has to ﬁle a case in court before
 he can be . . .
+
 MR. PALACOL.
 He has to ﬁle before he takes his oath — before he
 assumes the position he has to ﬁle his certiﬁcate of
 expenditures and contributions.
+
 MR. ALBANO.
 Mr. Speaker, the elected oﬃcial has already entered into his
 duties, and as a matter of fact exercised his duties but failed to
@@ -1996,11 +2104,12 @@ duties, and as a matter of fact exercised his duties but failed to
 going to be stopped from assuming when he has already
 assumed oﬃce? Is there going to be a protest? And it seems
 there is no penal provision in this section?
+
 MR. PALACOL.
 What is your suggestion, Your Honor?
+
 MR. ALBANO.
 Well, my recommendation is we might as well be silent and allow
-
 the Revised Election Code provisions to prevail. After all, those
 who have failed to ﬁle their statement of contributions and
 expenditures are now facing criminal charges. And so it is best
@@ -2016,6 +2125,7 @@ be ﬁled before said winning candidate has assumed oﬃce. It, too, must be
 case would be premature. To illustrate, insofar as the 2016 elections is
 concerned, the injunctive suit should be ﬁled from June 9, 2016 until before
 noon of June 30, 2016.
+
 But when COMELEC extended here the filing of SOCEs to June 30, 2016,
 the deadline of ﬁling the same coincided with the date of assumption of
 oﬃce. Thus, there was no more window for ﬁling injunctive suits. The
@@ -2040,6 +2150,7 @@ a criminal oﬀense pursuant to Section 100 in relation to Sections 262 and
 well as Section 13 of RA 7166. 13 Thus, if we allow Resolution No. 10147 to
 pass judicial scrutiny, we may have very well provided violators with the
 avenue to "correct" their mistakes.
+
 Finally. The grant of extensions to ﬁle SOCEs relative to the 2010 and
 2013 elections does not justify the issuance of Resolution No. 10147. Sans
 any legal basis, tradition will never justify any action devoid of authority.
@@ -2047,14 +2158,15 @@ Indeed, no practice or tradition established by mere tolerance can ripen into
 a doctrine without judicial acquiescence. 14 In the absence of judicial
 conﬁrmation of the validity of the challenged practice, the repeated but
 erroneous application thereof will not crystallize into law.
-I therefore vote to GRANT the petition and NULLIFY COMELEC
 
+I therefore vote to GRANT the petition and NULLIFY COMELEC
 Resolution No. 10147 for having been issued in grave abuse of discretion.
 Considering, however, that a number of candidates relied in good faith on
 the extension granted under said resolution, it is only proper for the Court to
 apply our ruling prospectively in accordance with the doctrine of operative
 fact. Thus, SOCEs submitted within the extended period or until June 30,
 2016 are deemed timely filed.
+
 Footnotes
 * On Official Leave.
 1. Rollo , pp. 3-28.
@@ -2091,7 +2203,6 @@ Opinion (Id. at 36-37); and Dissenting Opinions, respectively. (Id. at 39-40;
 and 45-46.)
 8. Id. at 29-34.
 9. Id. at 3-28.
-
 10. Id. at 11-24.
 11. Id. at 77-103.
 12. Id. at 85. The COMELEC claimed that Resolution No. 10147 was issued to
@@ -2138,7 +2249,6 @@ Commission , 63 Phil. 139 (1936); Board of Optometry v. Hon. Colet, 328 Phil.
 632-634 (2000); Kilosbayan, Inc. v. Morato , 320 Phil. 171-184-186 (1995);
 and Public Interest Center, Inc. v. Judge Roxas, 542 Phil. 443, 455-456
 (2007).
-
 20. Gios-Samar, Inc. v. Department of Transportation and Communications, G.R.
 No. 217158, March 12, 2019.
 21. Bolos v. Bolos, 648 Phil. 630, 637 (2010).
@@ -2179,7 +2289,6 @@ within ten session days, and referred to the proper Committee within three
 session days thereafter. The Committee, after hearing, and by a majority
 vote of all its Members, shall submit its report to the House within sixty
 session days from such referral, together with the corresponding resolution.
-
 The resolution shall be calendared for consideration by the House within ten
 session days from receipt thereof.
 39. The Senate Blue Ribbon Committee v. Hon. Majaducon, 455 Phil. 61, 71 (2003).
@@ -2253,8 +2362,7 @@ Party-List System Act which provides that the Commission on Elections may
 refuse or cancel, after due notice and hearing, the registration of any
 national, regional or sectoral party, organization or coalition on the ground
 that it violates or fails to comply with the laws, rules or regulations relating
-to
-elections.
+to elections.
 34. Rollo , p. 34. Resolution No. 10147 dated June 23, 2016 entitled "In Re: Several
 Requests for Extension to File Statement of Contributions and Expenditures
 by Candidates, Political Parties, and Partylists Organizations in relation to the
@@ -2262,7 +2370,6 @@ by Candidates, Political Parties, and Partylists Organizations in relation to th
 provides that "RESOLVED, FURTHER, as the COMMISSION hereby FURTHER
 RESOLVES, to impose administrative fines upon candidates and parties who
 fail to file their SOCEs on or before June 30, 2016 based on the Scale of
-
 Administrative Fines provided under Resolution No. 9939."
 35. Section 14 of Republic Act No. 7166 reads:
 SECTION 14. Statement of Contributions and Expenditures: Effect of Failure
@@ -2270,7 +2377,6 @@ to File Statement. — Every candidate and treasurer of the political party
 shall, within thirty (30) days after the day of the election, file in duplicate
 with the offices of the Commission the full, true and itemized statement of all
 contributions and expenditures in connection with the election.
-
 No person elected to any public office shall enter upon the duties of his office
 until he has filed the statement of contributions and expenditures herein
 required.
@@ -2308,7 +2414,6 @@ period prescribed by this Code.
 38. See Section 39 of Republic Act No. 7166, which provides:
 SECTION 39. Amending and Repealing Clause. — Sections 107 , 108 and 245
 of the Omnibus Election Code are hereby repealed. Likewise, the inclusion in
-
 Section 262 of the Omnibus Election Code of the violations of Sections 105,
 106, 107 , 108, 109, 110, 111 and 112 as among election offenses is also
 hereby repealed. This repeal shall have retroactive effect.
@@ -2354,7 +2459,6 @@ officials when it issued Resolution No. 10147.
 45. CONST., Art. IX-C, Sec. 2. See also Section 6 of Republic Act No. 7941 which
 empowers the Commission on Elections to cancel the registration of a
 national, regional or sectoral party, organization or coalition for violation or
-
 failure to comply with laws, rules or regulations relating to elections. In turn,
 Section 14 of Republic Act No. 7166 provides that "[n]o person elected to any
 public office shall enter upon the duties of his office until he has filed the
@@ -2480,7 +2584,6 @@ empowered to assess the amount commensurate with the expenses for the
 use thereof, based on the prevailing rates in the locality and shall be
 included in the total expenses incurred by the candidate.
 Section 262. Other election offenses. — Violation of the provisions, or
-
 pertinent portions, of the following sections of this Code shall constitute
 election offenses: Sections x x x 100 x x x
 xxx xxx xxx
@@ -2511,7 +2614,6 @@ or in kind to any candidate or political party or coalition of parties for
 campaign purposes, duly reported to the Commission shall not be subject to
 the payment of any gift tax.
 14. See Guingona v. Gonzales, 292 Phil. 327, 335 (1993).
-
 Note: Copied verbatim from official document. "Article IS(A)"
 should be "Article IX(A)".
 
