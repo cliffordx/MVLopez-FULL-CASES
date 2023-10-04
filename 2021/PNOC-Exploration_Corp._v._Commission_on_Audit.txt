@@ -12,7 +12,7 @@ DECISION
 
 M.V. LOPEZ, J :
 
-The propriety of Commission on Audit's (COA) denial of PNOCExploration Corporation's
+The propriety of Commission on Audit's (COA) denial of PNOC-Exploration Corporation's
 (PNOC-EC) post facto request for written
 concurrence in the engagement of a private counsel is the focal issue in this
 Petition for Certiorari with Application for Temporary Restraining Order and
@@ -134,11 +134,13 @@ For its part, the COA Proper, through the Oﬃce of the Solicitor General
 extraordinary nature of the matter, but maintains that compliance with the
 requirement of ﬁrst securing the COA's written concurrence cannot be
 disregarded, nor was it difficult to observe. 23
+
 ISSUE
 Whether the COA Proper gravely abused its discretion in aﬃrming LRR
 No. 2012-091, which denied PNOC-EC's belatedly ﬁled request for the COA's
 written concurrence in the engagement of Baker Botts, and aﬃrmed the
 suspension of the legal fees paid.
+
 RULING
 Since the early 1960s, a general prohibition against the hiring of
 private counsels by government-owned or controlled corporations (GOCC)
@@ -148,7 +150,6 @@ primarily aimed to curtail unnecessary expenditures of public funds on legal
 services of private practitioners, which may readily be provided by
 statutorily-mandated agencies like the OGCC. 25 The rule, however, is not
 ironclad. The government has recognized exceptional situations, which
-
 unavoidably demand consultations from and representations by private
 counsels. Thus, over the years, the government has allowed GOCCs to hire
 private lawyers subject to certain conditions. For one, pursuant to its
