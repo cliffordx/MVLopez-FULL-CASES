@@ -1056,36 +1056,9 @@ MVLopez-FULL-CASES/2021/People_v._Napoles.txt:
   38: ISSUES
   39  I
 
+COA; govt functions
 MVLopez-FULL-CASES/2021/PNOC-Exploration_Corp._v._Commission_on_Audit.txt:
-  136  disregarded, nor was it difficult to observe. 23
-  137: ISSUE
-  138  Whether the COA Proper gravely abused its discretion in aﬃrming LRR
-
-  187  Apropos, as well, is Oﬃce of the President Memorandum Circular No. 9
-  188: 28 dated August 27, 1998, issued by the Chief Executive pursuant to its
-  189  supervision and control over GOCCs:
-
-  218  disregarded even by this Court, especially when their validity is not put in
-  219: issue on review. 32 Similarly, the case at bar does not question the validity or
-  220  constitutionality of the regulatory measure requiring the written concurrence
-
-  387  reconsideration of Legal Retainer Review or petitions for review of
-  388: Notice of Disallowances issued on the ground of lack of COA's written
-  389  concurrence shall be granted after a ﬁnding by this Commission
-
-  428  of the Commission and to applicable rules and regulations
-  429: issued by the CSC and other government agencies. 44
-  430  (Emphasis supplied.)
-
-  475  This case involves a Petition for Certiorari under Rule 64 which raised
-  476: the issue of whether or not the Commission on Audit committed grave abuse
-  477  of discretion by denying petitioner Philippine National Oil CompanyExploration Corporation's
-
-  764  for a written concurrence, it should be noted that the Commission's denial of
-  765: the request was issued more than a year after it was ﬁled. Though it cannot
-  766  be said with certainty how long it would have taken for the Commission to
-  767: issue its concurrence had the request been ﬁled prior to engaging the
-  768  services of Baker Botts LLP, the number of months it took for the
+ 
 
 MVLopez-FULL-CASES/2021/Power_Sector_Assets_and_Liabilities.txt:
    37  Miscellaneous Expenses (EME) to its oﬃcers and employees with
