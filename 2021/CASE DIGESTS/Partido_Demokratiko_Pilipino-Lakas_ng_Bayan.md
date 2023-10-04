@@ -60,4 +60,4 @@ The concurrence analyzes previous cases establishing the difference between qual
 **Deference to administrative agencies**
  - The concurrence cites past cases deferring to the expertise of agencies like COMELEC in implementing laws related to their mandates, like on electoral procedures.
 
-**NOTE:** This case digest was digested personally by Clifford Enoc. You may freely SHARE or DISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners, or those `DAWLIMS,` — dawat limpyo ba. #BarniJlo2024 #[The Paksiteer Notes]
+> **NOTE:** This case digest was digested personally by Clifford Enoc. You may freely SHARE or DISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners, or those `DAWLIMS,` — dawat limpyo ba. #BarniJlo2024 #[The Paksiteer Notes]
