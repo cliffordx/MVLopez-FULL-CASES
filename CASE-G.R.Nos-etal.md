@@ -1,4 +1,4 @@
-CASE TITLES; CASE NUMBER
+CASE TITLES; CASE NUMBERS
 
 ### YEAR 2020
 - AES_Watch_v._Commission_on_Elections.txt [G.R. No. 246332. December 9, 2020.]
