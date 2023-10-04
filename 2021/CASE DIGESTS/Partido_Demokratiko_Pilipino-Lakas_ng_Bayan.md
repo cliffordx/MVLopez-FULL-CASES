@@ -1,5 +1,7 @@
 # TITLE: PDP v. COMELEC, G.R. No. 225152. October 5, 2021
 
+> **NOTE:** This case digest was digested personally by Clifford Enoc. You may freely SHARE or DISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners, or those `DAWLIMS,` — dawat limpyo ba. #BarniJlo2024 #[[The Paksiteer Notes]]
+
 ## PRINCIPLE:
 
 Courts may exercise judicial review even when there is no direct injury to the parties involved if the legal issue at hand has transcendental importance. This means that the issue has far-reaching consequences and affects a broader public interest, including possible violations of the Constitution.
@@ -60,4 +62,4 @@ The concurrence analyzes previous cases establishing the difference between qual
 **Deference to administrative agencies**
  - The concurrence cites past cases deferring to the expertise of agencies like COMELEC in implementing laws related to their mandates, like on electoral procedures.
 
-> **NOTE:** This case digest was digested personally by Clifford Enoc. You may freely SHARE or DISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners, or those `DAWLIMS,` — dawat limpyo ba. #BarniJlo2024 #[The Paksiteer Notes]
+> **NOTE:** This case digest was digested personally by Clifford Enoc. You may freely SHARE or DISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners, or those `DAWLIMS,` — dawat limpyo ba. #BarniJlo2024 #[[The Paksiteer Notes]]
