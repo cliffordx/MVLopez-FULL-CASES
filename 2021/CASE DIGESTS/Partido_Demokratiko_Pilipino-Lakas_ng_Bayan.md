@@ -46,18 +46,18 @@ The concurrence analyzes previous cases establishing the difference between qual
 ## DOCTRINES:
 
 **Doctrine of operative fact/doctrine of accomplished fact**
- This recognizes the effects of an administrative act or law prior to its invalidation, when the public relied on it in good faith. This doctrine is applied by the court to recognize the SOCEs filed by June 30 under the invalidated COMELEC resolution.
+ - This recognizes the effects of an administrative act or law prior to its invalidation, when the public relied on it in good faith. This doctrine is applied by the court to recognize the SOCEs filed by June 30 under the invalidated COMELEC resolution.
 
 **Doctrine of judicial restraint**
- The concurrence notes the court generally exercises judicial restraint in not deciding constitutional issues if other grounds exist. However, the concurrence says this doctrine does not apply here as the issue is purely legal.
+ - The concurrence notes the court generally exercises judicial restraint in not deciding constitutional issues if other grounds exist. However, the concurrence says this doctrine does not apply here as the issue is purely legal.
 
 *Separation of powers*
-The doctrine holds that administrative agencies cannot amend or modify acts of Congress, as that would violate the separation of powers. COMELEC is found to have exceeded its rule-making authority by effectively modifying the substantive law.
+- The doctrine holds that administrative agencies cannot amend or modify acts of Congress, as that would violate the separation of powers. COMELEC is found to have exceeded its rule-making authority by effectively modifying the substantive law.
 
 **Qualifications vs procedural requirements**
-The distinction between these two concepts is discussed, with the latter allowing reasonable regulation of rights like suffrage, while the former cannot be added to without amendment.
+- The distinction between these two concepts is discussed, with the latter allowing reasonable regulation of rights like suffrage, while the former cannot be added to without amendment.
 
 **Deference to administrative agencies**
- The concurrence cites past cases deferring to the expertise of agencies like COMELEC in implementing laws related to their mandates, like on electoral procedures.
+ - The concurrence cites past cases deferring to the expertise of agencies like COMELEC in implementing laws related to their mandates, like on electoral procedures.
 
-NOTE: This is case digest by Clifford Enoc. You may freely SHARE or ISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners or those `DAWLIMS,` — dawat limpyo ba. #BarniJlo2024 #[The Paksiteer Notes]
+**NOTE:** This is case digest by Clifford Enoc. You may freely SHARE or ISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners or those `DAWLIMS,` — dawat limpyo ba. #BarniJlo2024 #[The Paksiteer Notes]
