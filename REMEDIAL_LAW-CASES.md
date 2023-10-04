@@ -53,6 +53,9 @@
 - Thomas_v._Trono.txt
 - Zonio_v._1st_Quantum_Leap_Security_Agency.txt
 
+##### Bail, Capital offenses
+- People_v._Napoles.txt:
+
 #### 2022
 - Abuyo_y_Sagrit_v._People.txt
 - Alexander_v._Spouses_Escalona.txt
