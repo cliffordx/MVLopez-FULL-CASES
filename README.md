@@ -13,3 +13,10 @@ This compilation might be helpful to those who want to analyze the full text of 
 Date: 26th September 2023.
 
 - Clifford Enoc
+
+**CLIFFORDX SOSYAL-MEDYAS**
+- My law journal: https://cliffordx.github.io/legalbai/
+- Spotify podcast: https://podcasters.spotify.com/pod/show/cliffordx/
+- Youtube: https://youtube.com/cliffordenoc
+- Facebook: https://facebook.com/cliffordx
+- Twitter: https://x.com/cliffordx
