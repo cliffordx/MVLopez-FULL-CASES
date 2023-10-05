@@ -73,7 +73,7 @@ As to incurability, Antonio's inability to acknowledge the seriousness of his in
 
 Therefore, considering the evidence presented and the legal principles governing psychological incapacity, Maribel's petition for the declaration of nullity of her marriage with Antonio should be granted based on Antonio's psychological incapacity, meeting the criteria of gravity, antecedence, and incurability.
 
-** Cases cited in this case:**
+**Key case citations**
 
 - Tan-Andal v. Andal, G.R. No. 196359, May 11, 2021.
 - Republic v. Molina, 335 Phil. 664, 691 (1997).
