@@ -2,7 +2,7 @@
 Associate Justice Mario V. Lopez PONENCIA
 
 > NOTE: To date, there are ~~164~~ ~~162~~ **159** full cases in plain text format. Please note that there are currently two Associate Justices with the surname Lopez, one of whom is J.Y. Lopez.
-> From 2020 onwards, the ponente was written as 'LOPEZ, J.,' which means that it does not refer to J.Y. Lopez, but rather to M.V. Lopez. Only starting in 2021 did J.Y. Lopez start appearing in several cases. With that being said, I adapted the notation from 2020 to read 'M.V. LOPEZ, J.`
+> One particular year is 2020, the ponente was written as 'LOPEZ, J.,' which means that it does not refer to J.Y. Lopez, but rather to M.V. Lopez. For 2021 onwards, it is now stated as `M.V. Lopez.` Starting in 2021, J.Y. Lopez started appearing in several jurisprudence as the ponente. With that being said, I adapted the notation from 2020 to read 'M.V. LOPEZ, J.` as the ponente discarding the other Lopez.
 
 ## COMPILATION OF CASES from 2020 up to recent 2023.
 
