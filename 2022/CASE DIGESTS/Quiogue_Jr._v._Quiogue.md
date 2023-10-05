@@ -92,7 +92,7 @@ Therefore, considering the evidence presented and the legal principles governing
 - Republic v. Molina, 335 Phil. 664, 691 (1997).
 - Santos v. CA, 310 Phil. 21, 40 (1995).
 
-**SOSYAL-MEDYAS**
+**CLIFFORDX SOSYAL-MEDYAS**
 - My legal bai blog: https://cliffordx.github.io/legalbai/
 - Youtube: https://youtube.com/cliffordenoc
 - Facebook: https://facebook.com/cliffordx

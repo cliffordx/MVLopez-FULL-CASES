@@ -99,7 +99,6 @@ she clariﬁed that she submitted herself to be interviewed only because their
 daughter Anabel was being treated by Dr. Garcia for depression with suicidal
 ruminations. She alleged that her disclosures to Dr. Garcia about their family
 life were taken out of context when her statements were used in relation to
-
 this case. Next, she denied being a suspicious wife as she seldom visits
 Antonio's oﬃce. She thought that their marriage was stable until she found
 out about Antonio's aﬀairs with other women through anonymous calls and
@@ -152,8 +151,8 @@ This Decision shall become ﬁnal upon the expiration of the
 ﬁfteen-day period from notice to the parties and from the time that
 the corresponding Entry of Judgment has been made if no motion for
 reconsideration or new trial, or appeal, is ﬁled by any of the parties,
-
 the Public Prosecutor or the Solicitor General.
+
 Let a copy of this Decision be furnished the parties, their
 counsels, the Public Prosecutor, the Oﬃce of the Solicitor General,
 Local Civil Registry of Quezon City, Local Civil Registry of Pasig and
@@ -169,6 +168,7 @@ Anent the psychiatric evaluation, the CA held that the report issued by Dr.
 Garcia merely conﬁrmed Antonio's and Maribel's marital problems, but it
 cannot be considered as conclusive proof of the spouses' alleged
 psychological incapacity. The fallo of the Decision reads:
+
 WHEREFORE, the instant appeal is GRANTED. The Decision
 dated May 8, 2008 of the Regional Trial Court of Quezon City, Branch
 88, in Civil Case No. Q-02-46137 is REVERSED AND SET ASIDE, and
@@ -179,12 +179,14 @@ SO ORDERED. 21 (Emphases in the original)
 
 Petitioner asked for reconsideration, but his motion was denied in the
 assailed CA Resolution 22 dated October 3, 2012. Hence, this recourse.
+
 In seeking the reversal of the assailed judgment, petitioner faults the
 CA for discrediting the expert opinion of Dr. Garcia relative to his
 psychological incapacity. He insists that the totality of the evidence, i.e.,
 their family backgrounds and the events that transpired during their ill-fated
 marriage, unmistakably establish psychological incapacity, especially on his
 part, to comply with the essential marital obligations. 23
+
 The Solicitor General opposes the Petition on the ground that petitioner
 failed to establish the gravity, juridical antecedence, and incurability of his
 alleged psychological incapacity. 24 It argues that petitioner's acts of
@@ -235,7 +237,7 @@ observed that what was ﬁrst described in 1995 in Santos v. CA 32 as a
 "mental incapacity" that renders a person incognizant of the basic marital
 covenants, has since fortuitously evolved into the rigid criteria laid down in
 Republic v. Molina . 33 The Molina doctrine required the parties to prove not
-o n l y gravity and antecedence stated under Article 36, but also
+only gravity and antecedence stated under Article 36, but also
 incurability. The parties were then expected to present expert testimony to
 suﬃciently prove that the root cause of the psychological incapacity has
 been medically or clinically identified. 34
@@ -252,7 +254,6 @@ situation wherein the person's personality structure manifests through clear
 acts of dysfunctionality which undermine the marital union and there must
 be clear and convincing proof that the incapacity is enduring or persistent
 with respect to a specific partner. 37
-
 
 Relative to this, the Court rejects the Solicitor General's argument that
 Dr. Garcia's psychiatric evaluation is methodologically ﬂawed because
@@ -342,6 +343,7 @@ yet she never did. Instead, she pasted pictures of the woman inside his
 room, in the bar, and even in the dining room. Whenever pestered by his
 wife's constant nagging about his aﬀairs, Antonio leaves the house and stays
 for a month or so in a rented condominium or apartment. 45
+
 In June 1998, Antonio was driven out of their house because Maribel
 was suspicious that he was still engaging in an aﬀair. Antonio slept in a
 vacant chapel in the funeral home, thinking it was just another one of their
@@ -583,3 +585,4 @@ Phil. 919, 932 (1999).
 59. Estella v. Perez, G.R. No. 249250, September 29, 2021.
 60. Tan-Andal v. Andal, supra note 31.
 
+This file was last updated on 2023-10-05 16:27:04 PST
