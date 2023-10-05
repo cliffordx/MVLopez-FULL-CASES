@@ -91,3 +91,9 @@
 - National_Power_Corp._v._Province_of_Pampanga.txt
 - Alexander_v._Spouses_Escalona.txt
 - Pioneer_Insurance_Surety_Corp._v._TIG.txt
+
+**CLIFFORDX SOSYAL-MEDYAS**
+- My legal bai blog: https://cliffordx.github.io/legalbai/
+- Youtube: https://youtube.com/cliffordenoc
+- Facebook: https://facebook.com/cliffordx
+- Twitter: https://x.com/cliffordx

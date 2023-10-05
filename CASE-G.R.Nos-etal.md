@@ -167,3 +167,8 @@ CASE TITLES; CASE NUMBERS
 - People_v._Leocadio_y_Labrador.txt [G.R. No. 227396. February 22, 2023.]
 - Sugar_Regulatory_Administration_v._Central.txt [G.R. No. 253821. March 6, 2023.]
  
+**CLIFFORDX SOSYAL-MEDYAS**
+- My legal bai blog: https://cliffordx.github.io/legalbai/
+- Youtube: https://youtube.com/cliffordenoc
+- Facebook: https://facebook.com/cliffordx
+- Twitter: https://x.com/cliffordx
