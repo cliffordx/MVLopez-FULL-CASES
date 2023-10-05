@@ -88,8 +88,8 @@ Therefore, considering the evidence presented and the legal principles governing
 **Key case citations**
 
 - Tan-Andal v. Andal, G.R. No. 196359, May 11, 2021.
+- Marcos v. Marcos, 397 Phil. 840, 845-846 (2000).
 - Republic v. Molina, 335 Phil. 664, 691 (1997).
 - Santos v. CA, 310 Phil. 21, 40 (1995).
-- Marcos v. Marcos, 397 Phil. 840, 845-846 (2000).
 
 > **NOTE:** This case digest was digested personally by Clifford Enoc. You may freely SHARE or DISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners, or those `DAWLIMS,` — dawat limpyo ba. #BarniJLo2024 #[[The Paksiteer Notes]]
