@@ -70,7 +70,7 @@ In this case, Maribel's statements during interviews regarding their daughter's 
 
 Maribel filed a petition for the declaration of nullity of her marriage with Antonio, alleging his psychological incapacity to fulfill essential marital obligations. She claimed that Antonio's chronic infidelity and his inability to maintain a monogamous relationship were clear manifestations of his psychological incapacity. During the trial, Maribel presented evidence of Antonio's philandering behavior both before and during their marriage. Antonio, on the other hand, argued that Maribel's retaliatory actions, such as sending vulgar messages and evicting him from their home, also amounted to psychological incapacity.
 
-*Should Maribel's petition for the declaration of nullity of their marriage on the grounds of Antonio's psychological incapacity be granted?* *Explain.** 
+*Should Maribel's petition for the declaration of nullity of their marriage on the grounds of Antonio's psychological incapacity be granted?* **Explain.** 
 
 **SUGGESTED ANSWER:**
 
