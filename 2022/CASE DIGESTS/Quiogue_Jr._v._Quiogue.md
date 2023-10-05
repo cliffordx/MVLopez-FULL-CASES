@@ -35,14 +35,13 @@ The decision hinges on the interpretation of Article 36 of the Family Code, whic
 The court emphasizes three key criteria for psychological incapacity: gravity, antecedence, and incurability.
 
 **Gravity**
-
-The court emphasizes that Antonio's chronic infidelity, deeply rooted in his psychopathology, constitutes a form of psychological incapacity. This is not merely occasional marital indiscretion but a longstanding pattern that negatively affected the marriage.
+- The court emphasizes that Antonio's chronic infidelity, deeply rooted in his psychopathology, constitutes a form of psychological incapacity. This is not merely occasional marital indiscretion but a longstanding pattern that negatively affected the marriage.
 
 **Antecedence**
-Antonio's infidelity and psychological issues existed even before the marriage, as evidenced by his history of short-lived relationships and a dysfunctional family background. This demonstrates that his psychological incapacity predated the marriage.
+- Antonio's infidelity and psychological issues existed even before the marriage, as evidenced by his history of short-lived relationships and a dysfunctional family background. This demonstrates that his psychological incapacity predated the marriage.
 
 ***Incurability**
-The court points out that Antonio's inability to acknowledge the gravity of his infidelity and his lack of desire to change his behavior to save the marriage make his incapacity incurable. His distorted view of the essential obligations of marriage, including fidelity, further supports this argument.
+- The court points out that Antonio's inability to acknowledge the gravity of his infidelity and his lack of desire to change his behavior to save the marriage make his incapacity incurable. His distorted view of the essential obligations of marriage, including fidelity, further supports this argument.
 
 In this case, Maribel's statements during interviews regarding their daughter's treatment, together with other evidence, supports Antonio's psychological incapacity claim. Antonio's chronic infidelity satisfies the requirements of Article 36 - it has juridical antecedence based on his dysfunctional childhood and relationships pre-marriage. His infidelity is grave in nature as he fails to recognize fidelity as a core obligation and blames Maribel instead of taking responsibility. His incapacity is incurable as it persisted throughout the marriage and was specifically directed at Maribel. Maribel's angry reactions were due to Antonio's contemptuous treatment but do not amount to her own psychological incapacity as they only existed during the marriage. 
 
