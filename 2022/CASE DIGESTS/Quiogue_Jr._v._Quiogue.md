@@ -1,5 +1,7 @@
 # TITLE: Quiogue v. Quiogue, G.R. No. 203992. August 22, 2022
 
+> **NOTE:** This case digest was digested personally by Clifford Enoc. You may freely SHARE or DISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners, or those `DAWLIMS,` — dawat limpyo ba. #BarniJLo2024 #[[The Paksiteer Notes]]
+
 ## PRINCIPLE:
 A marriage contracted by any party, who at the time of the celebration, was psychologically incapacitated to comply with the essential marital obligations of marriage, shall likewise be void even if such incapacity becomes manifest only after its solemnization. (ART. 36, FC)
 
@@ -48,6 +50,10 @@ In this case, Maribel's statements during interviews regarding their daughter's 
 
 ## DOCTRINES:
 
+- Article 36 of the Family Code of the Philippines allows for the declaration of nullity of a marriage on the ground of psychological incapacity. This incapacity pertains to a party's inability to fulfill essential marital obligations at the time of marriage celebration. If a marriage is patently ill-equipped to cope with the complexities of marriage and if there is clear evidence of psychological incapacity, it may be declared void to preserve the essence of marriage as an institution.
+
+- An actual medical examination of the person concerned need not be resorted to if the totality of the evidence presented is sufficient to sustain a finding of psychological incapacity. The focus is on the evidence demonstrating the incapacity rather than strict medical proof.
+
 ## BAR Q & A:
 
 Maribel filed a petition for the declaration of nullity of her marriage with Antonio, alleging his psychological incapacity to fulfill essential marital obligations. She claimed that Antonio's chronic infidelity and his inability to maintain a monogamous relationship were clear manifestations of his psychological incapacity. During the trial, Maribel presented evidence of Antonio's philandering behavior both before and during their marriage. Antonio, on the other hand, argued that Maribel's retaliatory actions, such as sending vulgar messages and evicting him from their home, also amounted to psychological incapacity.
@@ -66,3 +72,12 @@ As to incurability, Antonio's inability to acknowledge the seriousness of his in
 
 
 Therefore, considering the evidence presented and the legal principles governing psychological incapacity, Maribel's petition for the declaration of nullity of her marriage with Antonio should be granted based on Antonio's psychological incapacity, meeting the criteria of gravity, antecedence, and incurability.
+
+** Cases cited in this case:**
+
+- Tan-Andal v. Andal, G.R. No. 196359, May 11, 2021.
+- Republic v. Molina, 335 Phil. 664, 691 (1997).
+- Santos v. CA, 310 Phil. 21, 40 (1995).
+- Marcos v. Marcos, 397 Phil. 840, 845-846 (2000).
+
+> **NOTE:** This case digest was digested personally by Clifford Enoc. You may freely SHARE or DISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners, or those `DAWLIMS,` — dawat limpyo ba. #BarniJLo2024 #[[The Paksiteer Notes]]
