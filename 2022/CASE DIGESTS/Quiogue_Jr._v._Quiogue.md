@@ -8,7 +8,7 @@ A marriage contracted by any party, who at the time of the celebration, was psyc
 **SYNOPSIS:** Antonio filed for annulment claiming psychological incapacity, which was granted by RTC but reversed by CA. He is now appealing to the Supreme Court.
 
 ## FACTS:
-Petitioner Antonio S. Quiogue, Jr. filed a Petition for Declaration of Nullity of Marriage (Civil Case No. Q02-46137) in the Regional Trial Court, Branch 88, Quezon City, against his wife, respondent Maribel Bel B. Quiogue (Maribel). Antonio alleged that they were married on October 16, 1980, and they had four children. They had been separated since 1998, and he claimed that both he and Maribel were psychologically incapacitated to fulfill their marital obligations, lacking mutual love, respect, and support.
+Petitioner Antonio S. Quiogue, Jr. filed a Petition for Declaration of Nullity of Marriage (Civil Case No. Q02-46137) in the Regional Trial Court, Branch 88, Quezon City, against his wife, respondent Maria Bel B. Quiogue (Maribel). Antonio alleged that they were married on October 16, 1980, and they had four children. They had been separated since 1998, and he claimed that both he and Maribel were psychologically incapacitated to fulfill their marital obligations, lacking mutual love, respect, and support.
 
 Maribel denied the allegations, saying Antonio voluntarily left due to womanizing and gambling. She accused him of verbally abusing her. She argued that Antonio voluntarily left their home. 
 
@@ -30,7 +30,7 @@ WON psychological incapacity was sufficiently proven given the parties' circumst
 ## RULING:
 Yes. The marriage between Antonio S. Quiogue, Jr., and Maribel Bel B. Quiogue is declared VOID on ground of Antonio's psychological incapacity.
 
-Psychological incapacity is a valid ground to declare a marriage void under Article 36 of the Family Code.Incurability is now viewed legally rather than medically, contemplating an enduring personality dysfunction undermining the marriage. 
+Psychological incapacity is a valid ground to declare a marriage void under Article 36 of the Family Code. Incurability is now viewed legally rather than medically, contemplating an enduring personality dysfunction undermining the marriage. 
 
 The decision hinges on the interpretation of Article 36 of the Family Code, which allows for the declaration of marriage as void if one party was psychologically incapacitated to fulfill essential marital obligations at the time of the marriage, even if this incapacity becomes apparent only later. 
 
@@ -53,6 +53,18 @@ In this case, Maribel's statements during interviews regarding their daughter's 
 - Article 36 of the Family Code of the Philippines allows for the declaration of nullity of a marriage on the ground of psychological incapacity. This incapacity pertains to a party's inability to fulfill essential marital obligations at the time of marriage celebration. If a marriage is patently ill-equipped to cope with the complexities of marriage and if there is clear evidence of psychological incapacity, it may be declared void to preserve the essence of marriage as an institution.
 
 - An actual medical examination of the person concerned need not be resorted to if the totality of the evidence presented is sufficient to sustain a finding of psychological incapacity. The focus is on the evidence demonstrating the incapacity rather than strict medical proof.
+
+### PERSONALITY STRUCTURE:
+
+**ANTONIO**
+- Antonio's admission that he would always be cheating on his wife, indicating a lack of remorse or commitment to monogamy. 
+- He is blaming Maribel's nagging and tactlessness for his infidelity, rather than taking responsibility for his actions.
+- Failure to show sincere remorse for his blatant infidelity and a lack of desire to change his behavior to save their marriage.
+
+**MARIBEL**
+- The discovery of Antonio's infidelity led to anger and a shift in her behavior from nurturing to rage.
+- Maribel's vengeful acts, such as sending vulgar fax messages and hateful letters, and evicting Antonio from the conjugal home. Her behavior, while aggressive, was largely a reaction to Antonio's philandering and was not present before their marriage.
+
 
 ## BAR Q & A:
 
