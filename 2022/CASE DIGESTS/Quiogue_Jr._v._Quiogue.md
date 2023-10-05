@@ -1,6 +1,7 @@
-# TITLE:
+# TITLE: Quiogue v. Quiogue, G.R. No. 203992. August 22, 2022
 
 ## PRINCIPLE:
+A marriage contracted by any party, who at the time of the celebration, was psychologically incapacitated to comply with the essential marital obligations of marriage, shall likewise be void even if such incapacity becomes manifest only after its solemnization. (ART. 36, FC)
 
 **SYNOPSIS:** Antonio filed for annulment claiming psychological incapacity, which was granted by RTC but reversed by CA. He is now appealing to the Supreme Court.
 
