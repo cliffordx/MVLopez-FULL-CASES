@@ -93,7 +93,8 @@ Therefore, considering the evidence presented and the legal principles governing
 - Santos v. CA, 310 Phil. 21, 40 (1995).
 
 **CLIFFORDX SOSYAL-MEDYAS**
-- My legal bai blog: https://cliffordx.github.io/legalbai/
+- My law journal: https://cliffordx.github.io/legalbai/
+- Spotify podcast: https://podcasters.spotify.com/pod/show/cliffordx/
 - Youtube: https://youtube.com/cliffordenoc
 - Facebook: https://facebook.com/cliffordx
 - Twitter: https://x.com/cliffordx

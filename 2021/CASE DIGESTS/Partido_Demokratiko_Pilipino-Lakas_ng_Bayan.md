@@ -65,7 +65,8 @@ The concurrence analyzes previous cases establishing the difference between qual
 > **NOTE:** This case digest was digested personally by Clifford Enoc. You may freely SHARE or DISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners, or those `DAWLIMS,` — dawat limpyo ba. #BarniJLo2024 #[[The Paksiteer Notes]]
 
 **CLIFFORDX SOSYAL-MEDYAS**
-- My legal bai blog: https://cliffordx.github.io/legalbai/
+- My law journal: https://cliffordx.github.io/legalbai/
+- Spotify podcast: https://podcasters.spotify.com/pod/show/cliffordx/
 - Youtube: https://youtube.com/cliffordenoc
 - Facebook: https://facebook.com/cliffordx
 - Twitter: https://x.com/cliffordx

@@ -2,7 +2,8 @@ Family Code; Psychological incapacity
 Quiogue_Jr._v._Quiogue.txt
 
 **CLIFFORDX SOSYAL-MEDYAS**
-- My legal bai blog: https://cliffordx.github.io/legalbai/
+- My law journal: https://cliffordx.github.io/legalbai/
+- Spotify podcast: https://podcasters.spotify.com/pod/show/cliffordx/
 - Youtube: https://youtube.com/cliffordenoc
 - Facebook: https://facebook.com/cliffordx
 - Twitter: https://x.com/cliffordx

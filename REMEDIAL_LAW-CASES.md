@@ -93,7 +93,8 @@
 - Pioneer_Insurance_Surety_Corp._v._TIG.txt
 
 **CLIFFORDX SOSYAL-MEDYAS**
-- My legal bai blog: https://cliffordx.github.io/legalbai/
+- My law journal: https://cliffordx.github.io/legalbai/
+- Spotify podcast: https://podcasters.spotify.com/pod/show/cliffordx/
 - Youtube: https://youtube.com/cliffordenoc
 - Facebook: https://facebook.com/cliffordx
 - Twitter: https://x.com/cliffordx
