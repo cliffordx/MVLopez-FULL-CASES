@@ -93,9 +93,9 @@ Therefore, considering the evidence presented and the legal principles governing
 - Santos v. CA, 310 Phil. 21, 40 (1995).
 
 **SOSYAL-MEDYAS**
-My legal bai blog: https://cliffordx.github.io/legalbai/
-Youtube: https://youtube.com/cliffordenoc
-Facebook: https://facebook.com/cliffordx
-Twitter: https://x.com/cliffordx
+- My legal bai blog: https://cliffordx.github.io/legalbai/
+- Youtube: https://youtube.com/cliffordenoc
+- Facebook: https://facebook.com/cliffordx
+- Twitter: https://x.com/cliffordx
 
 > **NOTE:** This case digest was digested personally by Clifford Enoc. You may freely SHARE or DISTRIBUTE without my permission as long as there is no monetary value or sold to `low-hanging fruit` learners, or those `DAWLIMS,` — dawat limpyo ba. #BarniJLo2024 #[[The Paksiteer Notes]]
