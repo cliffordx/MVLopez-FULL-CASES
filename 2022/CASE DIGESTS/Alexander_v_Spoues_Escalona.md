@@ -20,11 +20,11 @@ Sps Escalona filed a case to annul the documents in 2005. The RTC dismissed the 
 
 ## ISSUE:
 
-Wwhether the transactions involving Reygan are valid without Hilaria's consent, as the lots are alleged to be conjugal properties.
+Whether the transactions involving Reygan are valid without Hilaria's consent, as the lots are alleged to be conjugal properties.
 
 ## RULING:
 
-The transaction is void. The Supreme Court ruled that the transactions involving Lot Nos. 1 and 2 between Reygan and Belinda, including the Deed of Absolute Sale, are invalid. These transactions were considered void due to the lack of consent from both spouses, rendering them without legal effect.
+The transactions are void. The Supreme Court ruled that the transactions involving Lot Nos. 1 and 2 between Reygan and Belinda, including the Deed of Absolute Sale, are invalid. These transactions were considered void due to the lack of consent from both spouses, rendering them without legal effect.
 
 Article 124 of the Family Code provides the joint administration and enjoyment of conjugal partnership properties by both spouses. In cases of disagreement, the husband's decision prevails, but the wife can challenge it in court within five years. If one spouse cannot participate in property administration, the other may assume sole control. However, such powers do not extend to disposing of or encumbering conjugal assets without court approval or the written consent of the other spouse. Without such consent, any transaction is void, but it's considered a continuing offer and may become a binding contract if accepted by the other spouse or authorized by the court before either party withdraws the offer.
 
