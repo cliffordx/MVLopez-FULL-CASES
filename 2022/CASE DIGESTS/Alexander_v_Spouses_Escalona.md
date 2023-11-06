@@ -41,6 +41,14 @@ Thus, it is an opportune time for the Supreme Court to clarify any confusion bes
 
 ## BAR Q & A:
 
+Spouses Juan and Maria were married in 1985 and acquired a parcel of land in 1990 as their conjugal property. In 2000, Juan sold the land to his friend Pedro without Maria’s consent. Pedro then sold the land to his cousin Luis in 2005. Maria learned of the sale in 2010 and filed a case to annul the contracts and recover the land. She claimed that the land was conjugal and that Juan had no authority to sell it without her consent. Juan, Pedro, and Luis argued that the sale was valid and that Maria’s action was already barred by prescription. Is the transaction valid?
+
+SUGGESTED ANSWER:
+
+No. The transaction is void.
+
+Article 124 of the Family Code provides that any alienation or encumbrance of conjugal property without the authority of the court or the written consent of the other spouse is void. The sale of the land by Juan to Pedro in 2000 was void for lack of Maria’s consent. The subsequent sale of the land by Pedro to Luis in 2005 was also void because Pedro had no valid title to transfer. Since the contracts were void, they had no legal effect and did not prescribe. Likewise Maria’s action is not barred by prescription.  Maria can file an action for declaration of nullity of the contracts and recovery of the land at any time before the offer of Juan, Pedro, or Luis became ineffective. Therefore, the transaction is void and Maria’s action in 2010 was timely and proper.
+
 
 **CLIFFORDX SOSYAL-MEDYAS**
 - My law journal: https://cliffordx.github.io/legalbai/
