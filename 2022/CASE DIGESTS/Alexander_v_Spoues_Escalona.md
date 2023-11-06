@@ -5,6 +5,10 @@ Alexander v. Sps. Escalona, G.R. No. 256141. July 19, 2022.
 
 ## PRINCIPLE:
 
+1. The alienation or encumbrance of the conjugal property, without the wife's consent, made before the effectivity of the Family Code, is not void but merely voidable. The applicable laws are Articles 166 and 173 of the New Civil Code. The wife may file an action for annulment of contract within ten (10) years from the transaction; and
+
+2. The alienation or encumbrance of the conjugal property, without the authority of the court or the written consent of the other spouse, made after the effectivity of the Family Code is void. The applicable law is Article 124 of the Family Code without prejudice to vested rights in the property acquired before August 3, 1988. Unless the transaction is accepted by the non-consenting spouse or is authorized by the court, an action for declaration of nullity of the contract may be filed before the continuing offer on the part of the consenting spouse and the third person becomes ineffective.
+
 ## FACTS:
 
 Sps Escalona acquired unregistered Lots 1 and 2 in Olongapo City. Lot 1 has an area of 92,075 sqm while Lot 2 has an area of 8,300 sqm. 
