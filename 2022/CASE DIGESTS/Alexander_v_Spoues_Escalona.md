@@ -11,19 +11,11 @@ Alexander v. Sps. Escalona, G.R. No. 256141. July 19, 2022.
 
 ## FACTS:
 
-Spouses Jorge Escalona (Jorge) and Hilaria Escalona (Hilaria; collectively, Spouses Escalona) acquired unregistered Lots 1 and 2 in Olongapo City. Lot 1 has an area of 92,075 sqm while Lot 2 has an area of 8,300 sqm. 
+Spouses Jorge Escalona (Jorge) and Hilaria Escalona (Hilaria; collectively, Spouses Escalona) acquired unregistered Lots 1 and 2 in Olongapo City. Lot 1 has an area of 92,075 sqm while Lot 2 has an area of 8,300 sqm. In 1998, Jorge waived his rights over Lot 1 in favor of his illegitimate son Reygan. However, his wife Hilaria did not consent to this waiver.
 
-In 1998, Jorge waived his rights over Lot 1 in favor of his illegitimate son Reygan. However, his wife Hilaria did not consent to this waiver.
+In 2005, Reygan transferred Lot 1 to Belinda through deeds of waiver and quitclaim. He also transferred Lot 2 to Belinda. They later entered into a deed of absolute sale for both lots.Sps Escalona confronted Belinda, saying Reygan had no authority to sell the lots. However, Belinda claimed the transactions were valid. 
 
-In 2005, Reygan transferred Lot 1 to Belinda through deeds of waiver and quitclaim. He also transferred Lot 2 to Belinda. They later entered into a deed of absolute sale for both lots.
-
-Sps Escalona confronted Belinda, saying Reygan had no authority to sell the lots. However, Belinda claimed the transactions were valid. 
-
-Sps Escalona filed a case to annul the documents in 2005. The RTC dismissed the case, ruling it was time-barred. 
-
-The CA reversed, finding the lots were conjugal properties requiring Hilaria's consent. Without this, the waiver by Jorge and subsequent transactions of Reygan were void. 
-
-Belinda argues she was a buyer in good faith. But the CA ruled she should have investigated further given deficiencies in the documents.
+Sps Escalona filed a case to annul the documents in 2005. The RTC dismissed the case, ruling it was time-barred. The CA reversed, finding the lots were conjugal properties requiring Hilaria's consent. Without this, the waiver by Jorge and subsequent transactions of Reygan were void. Belinda argues she was a buyer in good faith. But the CA ruled she should have investigated further given deficiencies in the documents.
 
 
 ## ISSUE:
