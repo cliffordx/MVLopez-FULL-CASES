@@ -11,7 +11,7 @@ Alexander v. Sps. Escalona, G.R. No. 256141. July 19, 2022.
 
 ## FACTS:
 
-Sps Escalona acquired unregistered Lots 1 and 2 in Olongapo City. Lot 1 has an area of 92,075 sqm while Lot 2 has an area of 8,300 sqm. 
+Spouses Jorge Escalona (Jorge) and Hilaria Escalona (Hilaria; collectively, Spouses Escalona) acquired unregistered Lots 1 and 2 in Olongapo City. Lot 1 has an area of 92,075 sqm while Lot 2 has an area of 8,300 sqm. 
 
 In 1998, Jorge waived his rights over Lot 1 in favor of his illegitimate son Reygan. However, his wife Hilaria did not consent to this waiver.
 
