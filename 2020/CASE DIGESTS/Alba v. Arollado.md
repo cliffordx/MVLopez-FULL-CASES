@@ -51,7 +51,7 @@ On January 1, 2018, Peter lent to Maya ₱100,000.00, payable on demand. On Janu
 
 ### Suggested Answer:
 
-Yes, Peter's right to demand payment from Maya has prescribed. The Civil Code provides that actions based upon an oral contract must be commenced within 6 years. In this case, Peter's action is based on a loan agreement, which is not considered a special provision under the Civil Code hence, the general prescriptive period of six years applies. Peter's written demand on January 1, 2019 interrupted the prescriptive period. However, prescription resumes after the interruption ceases. Since Peter did not file a lawsuit until Ferburary 1, 2024, more than six years have passed since the interruption ceased, the prescriptive period has already lapsed.
+Yes, Peter's right to demand payment from Maya has prescribed. The Civil Code provides that actions based upon an oral contract must be commenced within 6 years. In this case, Peter's action is based on a loan agreement, which is not considered a special provision under the Civil Code hence, the general prescriptive period of six years applies. Peter's written demand on January 1, 2019 interrupted the prescriptive period. However, prescription resumes after the interruption ceases. Since Peter did not file a lawsuit until February 1, 2024, more than six years have passed since the interruption ceased, the prescriptive period has already lapsed.
 
 
 **CLIFFORDX SOSYAL-MEDYAS**
