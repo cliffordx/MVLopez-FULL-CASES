@@ -24,10 +24,10 @@ The Regional Trial Court (RTC) ruled in favor of Regina and ordered Nida to pay 
 
 ## ISSUE:
 
-Whether the parties entered into a written or oral contract.
-Whether the prescriptive period began for Regina's action to collect the debt.
-Whether Nida's partial payments interrupted the prescriptive period.
-Whether Regina's demand letter interrupted the prescriptive period.
+- Whether the parties entered into a written or oral contract.
+- Whether the prescriptive period began for Regina's action to collect the debt.
+- Whether Nida's partial payments interrupted the prescriptive period.
+- Whether Regina's demand letter interrupted the prescriptive period.
 
 
 ## RULING:
